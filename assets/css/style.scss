@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+table.matrice { font-size: 11px; border-collapse: collapse; width: 100%; }
+table.matrice th, table.matrice td { border: 1px solid #ccc; padding: 2px 3px; text-align: center; }
+table.matrice td.nome { text-align: left; white-space: nowrap; font-size: 11px; }
+table.matrice thead th { background: #dce6f1; }
+.main-content table.matrice td { word-break: normal; }
+.galleria { display: flex; flex-wrap: wrap; gap: 18px; margin: 18px 0; }
+.galleria figure { margin: 0; width: 190px; }
+.galleria img { width: 100%; height: auto; border: 1px solid #ccc; }
+.galleria figcaption { font-size: 12px; line-height: 1.35; margin-top: 4px; }
+.galleria .dim { color: #666; }

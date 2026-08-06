@@ -7,6 +7,7 @@ Gialle pubblicato da SEAT dal 1981 al 2014: **1990 fascicoli accertati** su 34 a
 ## Da dove cominciare
 
 - **[Introduzione e convenzioni di lettura](pagine/index.md)** — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento
+- **[Le copertine, annata per annata](pagine/copertine.md)** — la galleria delle copertine con formati e conteggi
 - **[Questioni aperte](pagine/questioni-aperte.md)** — ciò che ancora non sappiamo, e come segnalarlo
 - **[Rapporto di integrità](CONTROLLI.md)** — controlli, scostamenti e criteri di attribuzione
 
