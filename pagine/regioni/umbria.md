@@ -16,4 +16,8 @@ Nella tabella: l'anno riportato in copertina se noto, `X` se il fascicolo è acc
 </tbody>
 </table>
 
-Il colore della cella indica il tipo di copertina; l'elenco completo è in [`copertine_per_annata.csv`](../../dati/copertine_per_annata.csv).
+Il colore della cella indica il tipo di copertina; l'elenco completo è in [copertine per annata.csv](../../dati/copertine_per_annata.csv).  
+Per ciascuna casella rappresentante un fascicolo è riportato l'anno di copertina quando questo è noto.  
+X indica che sebbene sia accertata l'esistenza del fascicolo, l'anno di copertina non è noto con precisione.  
+? indica che la pubblicazione è probabile ma non è confermata.  
+Le celle vuote indicano che il fascicolo non è pubblicato.

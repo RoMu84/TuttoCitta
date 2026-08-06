@@ -16,7 +16,8 @@ th, td { border:1px solid var(--bordo); padding:4px 8px; text-align:left; }
 thead th { background:var(--testa); }
 table.matrice { table-layout:fixed; width:100%; font-size:10.5px; }
 table.matrice th, table.matrice td { padding:2px 1px; text-align:center; overflow:hidden; }
-table.matrice td.nome { text-align:left; width:170px; white-space:nowrap; text-overflow:ellipsis; }
+table.matrice th:first-child, table.matrice col.nome { width:250px; }
+table.matrice td.nome { text-align:left; white-space:normal; word-break:normal; line-height:1.25; }
 .scorri { overflow-x:auto; }
 table.cop { font-size:13px; }
 .pastiglia { display:inline-block; width:13px; height:13px; border:1px solid #999; vertical-align:-2px; }
