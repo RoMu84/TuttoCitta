@@ -1,5 +1,3 @@
-[← Indice](../index.md) · [Copertine](../copertine.md) · [Tavole](../tavole.md) · [Questioni aperte](../questioni-aperte.md)
-
 # TuttoCittà — Molise
 
 Fascicoli censiti: 1. Annate: 1981/82 - 2014/15.
@@ -19,3 +17,9 @@ Le celle vuote indicano che il fascicolo non è pubblicato.
 </table>
 
 **Numero totale dei fascicoli accertati: 17**
+
+<div class="altre-regioni" markdown="1">
+<b>Le altre regioni</b>
+
+[Abruzzo](abruzzo.md) · [Basilicata](basilicata.md) · [Calabria](calabria.md) · [Campania](campania.md) · [Emilia - Romagna](emilia-romagna.md) · [Friuli - Venezia Giulia](friuli-venezia-giulia.md) · [Lazio](lazio.md) · [Liguria](liguria.md) · [Lombardia](lombardia.md) · [Marche](marche.md) · [Piemonte](piemonte.md) · [Puglia](puglia.md) · [Sardegna](sardegna.md) · [Sicilia](sicilia.md) · [Toscana](toscana.md) · [Trentino - Alto Adige](trentino-alto-adige.md) · [Umbria](umbria.md) · [Valle d'Aosta](valle-daosta.md) · [Veneto](veneto.md)
+</div>

@@ -1,5 +1,3 @@
-[← Indice](index.md) · [Copertine](copertine.md) · [Questioni aperte](questioni-aperte.md)
-
 # L'evoluzione delle tavole cartografiche
 
 La cartografia di TuttoCittà cambiò colore di stampa quattro volte in trent'anni. Il modo più diretto per
@@ -11,10 +9,10 @@ pubblicitarie degli esercizi locali, che non hanno rilievo per il confronto e ch
 nomi, indirizzi e recapiti di attività d'epoca senza alcuna necessità documentaria.
 
 <div class="galleria tavole">
-  <figure><img src="../immagini/Jesi82.jpg" alt="Tavola di Jesi, annata 1982/83, tavole arancione" loading="lazy"><figcaption><b>Arancione</b><br><span class="dim">Ancona - Pesaro - Urbino, fascicolo datato 82<br>annata 1982/83</span></figcaption></figure>
-  <figure><img src="../immagini/Jesi90.jpg" alt="Tavola di Jesi, annata 1990/91, tavole grigio" loading="lazy"><figcaption><b>Grigio</b><br><span class="dim">Ancona, fascicolo datato 90/91<br>annata 1990/91</span></figcaption></figure>
-  <figure><img src="../immagini/Jesi04.jpg" alt="Tavola di Jesi, annata 2004/05, tavole grigio cromatico" loading="lazy"><figcaption><b>Grigio cromatico</b><br><span class="dim">Ancona, fascicolo datato 2004<br>annata 2004/05</span></figcaption></figure>
-  <figure><img src="../immagini/Jesi10.jpg" alt="Tavola di Jesi, annata 2009/10, tavole rosa" loading="lazy"><figcaption><b>Rosa</b><br><span class="dim">Ancona, fascicolo datato 2009/2010<br>annata 2009/10</span></figcaption></figure>
+  <figure><img src="../immagini/Jesi82.jpg" alt="Tavola topografica di Jesi, 1982/83, tavole arancione" loading="lazy"><figcaption><b>Arancione</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona - Pesaro - Urbino 82<br>annata 1982/83</span></figcaption></figure>
+  <figure><img src="../immagini/Jesi90.jpg" alt="Tavola topografica di Jesi, 1990/91, tavole grigio" loading="lazy"><figcaption><b>Grigio</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona 90/91<br>annata 1990/91</span></figcaption></figure>
+  <figure><img src="../immagini/Jesi04.jpg" alt="Tavola topografica di Jesi, 2004/05, tavole grigio cromatico" loading="lazy"><figcaption><b>Grigio cromatico</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona 2004<br>annata 2004/05</span></figcaption></figure>
+  <figure><img src="../immagini/Jesi10.jpg" alt="Tavola topografica di Jesi, 2009/10, tavole rosa" loading="lazy"><figcaption><b>Rosa</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona 2009/2010<br>annata 2009/10</span></figcaption></figure>
 </div>
 
 | fase | colore delle tavole | dalle annate |

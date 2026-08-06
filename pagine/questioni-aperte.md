@@ -12,8 +12,10 @@ Nell'annata 1997/1998 i fascicoli erano 87 e coprivano tutte le province italian
 S.p.A., che dichiara il mantenimento di TuttoCittà come fascicolo autonomo per 42 edizioni,
 integrando la cartografia delle restanti nelle Pagine Gialle.
 
-Per l'annata intermedia 1998/1999 il numero è compreso **fra 42 e 87** e non è determinabile con i
-dati disponibili. Se i due fascicoli dell'annata 1999/2000 non ancora identificati appartengono a
+Per l'annata intermedia 1998/1999 il numero non è determinabile con esattezza, ma è **compreso fra 42 e
+70**. Il limite superiore scende da 87 a 70 perché di diciassette edizioni si sa con certezza che non
+furono pubblicate: le loro tavole topografiche risultano incluse nelle Pagine Gialle di quella stessa
+annata. Se i due fascicoli dell'annata 1999/2000 non ancora identificati appartengono a
 edizioni già esistenti nel 1997, come sembra probabile, allora l'annata 1998/1999 non può contarne
 meno di 44; l'unica alternativa è che siano nati per scissione, come avvenne per Milano.
 

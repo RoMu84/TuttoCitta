@@ -1,5 +1,3 @@
-[← Indice](index.md) · [Tavole](tavole.md) · [Questioni aperte](questioni-aperte.md)
-
 # Le copertine, annata per annata
 
 Trentaquattro annate di copertine, dalla serie verde-rosso-azzurra degli anni ottanta ai blu dei primi
