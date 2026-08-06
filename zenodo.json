@@ -1,0 +1,28 @@
+{
+  "title": "TuttoCittà: ricostruzione della storia editoriale (1981-2014)",
+  "description": "Censimento delle edizioni locali del fascicolo cartografico TuttoCittà, supplemento delle Pagine Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014. Il dataset copre 34 annate e 20 regioni, con 1988 fascicoli accertati su 115 raggruppamenti provinciali, indicizzati per anno di copertina. Per ogni fascicolo e annata sono registrati lo stato di pubblicazione, l'anno riportato in copertina e il tipo di copertina. La ricostruzione deriva da una collezione privata di oltre 1.200 esemplari, da dati incrociati con altri raccoglitori e dalle regolarita editoriali osservate; include un rapporto di integrita e una pagina delle questioni ancora aperte. Fonte documentaria primaria per il perimetro dell'annata 1999/2000: bilancio d'esercizio 1998 della SEAT Pagine Gialle S.p.A.",
+  "upload_type": "dataset",
+  "language": "ita",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Mura, Roberto"
+    }
+  ],
+  "keywords": [
+    "TuttoCittà",
+    "SEAT Pagine Gialle",
+    "cartografia urbana",
+    "stradari",
+    "elenchi telefonici",
+    "editoria italiana",
+    "storia editoriale",
+    "Italia",
+    "bibliografia",
+    "collezionismo"
+  ],
+  "notes": "Le riproduzioni di copertina non sono incluse in questo deposito: i diritti sul disegno di copertina appartengono all'editore.",
+  "doi": "10.5281/zenodo.21820763",
+  "version": "1.0"
+}

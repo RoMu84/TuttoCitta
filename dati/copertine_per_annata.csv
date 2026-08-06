@@ -1,0 +1,102 @@
+annata,copertina,etichetta_anno,numero_stimato,colore_tavole
+81/82,Copertina 81 verde,81,39,Arancione
+81/82,Copertina 82 verde,82,25,Arancione
+82/83,Copertina 82 rossa,82,39,Arancione
+82/83,Copertina 83 rossa,83,25,Arancione
+83/84,Copertina 83 azzurra,83,39,Arancione
+83/84,Copertina 84 azzurra,84,25,Arancione
+84/85,Copertina 84 verde,84,47,Arancione
+84/85,Copertina 85 verde,85,29,Arancione
+85/86,Copertina 85 rossa,85,41,Arancione
+85/86,Copertina 86 rossa,86,29,Arancione
+85/86,Copertina 86 edifici,86,7,Arancione
+86/87,Copertina 86 azzurra,86,38,Arancione
+86/87,Copertina 87 azzurra,87,29,Arancione
+86/87,Copertina 86 edifici,86,3,Arancione
+86/87,Copertina 87 edifici,87,7,Arancione
+87/88,Copertina 87 verde,87,38,Arancione
+87/88,Copertina 88 verde,88,30,Arancione
+87/88,Copertina 87 edifici,87,3,Arancione
+87/88,Copertina 88 edifici,88,7,Arancione
+88/89,Copertina 88 rossa,88,42,Arancione
+88/89,Copertina 89 rossa,89,31,Arancione
+88/89,Copertina 88 edifici,88,3,Arancione
+88/89,Copertina 89 edifici,89,7,Arancione
+89/90,Copertina 89 azzurra,89,44,Arancione
+89/90,Copertina 90 azzurra,90,20,Arancione
+89/90,Copertina 89 edifici,89,3,Arancione
+89/90,Copertina 90 edifici,90,5,Arancione
+89/90,Copertina 1990 blu,1990,15,Grigio
+90/91,Copertina 1990 blu,1990,2,Grigio
+90/91,Copertina 90/91 blu,90/91,45,Grigio
+90/91,Copertina 1991 blu,1991,25,Grigio
+90/91,Copertina 91 blu,91,15,Grigio
+91/92,Copertina 91 blu,91,47,Grigio
+91/92,Copertina 92 blu,92,38,Grigio
+91/92,Copertina 92 beige,92,2,Grigio
+92/93,Copertina 92 beige,92,47,Grigio
+92/93,Copertina 93 beige,93,40,Grigio
+93/94,Copertina 93 beige,93,28,Grigio
+93/94,Copertina 93 beige,93,19,Grigio
+93/94,Copertina 94 beige,94,40,Grigio
+94/95,Copertina 94 beige,94,47,Grigio
+94/95,Copertina 95 beige,95,40,Grigio
+95/96,Copertina 95 beige,95,47,Grigio
+95/96,Copertina 96 beige,96,40,Grigio
+96/97,Copertina 96 beige,96,47,Grigio
+96/97,Copertina 97 beige,97,40,Grigio
+97/98,Copertina 97 beige,97,47,Grigio
+97/98,Copertina 98 beige,98,5,Grigio
+97/98,Copertina grigia,,33,Grigio
+97/98,Copertina grigia,,2,Grigio
+98/99,Copertina grigia,,?,Grigio
+98/99,Copertina 1999 gialla,1999,?,Grigio
+99/00,Copertina 1999/2000 gialla,1999/2000,?,Grigio
+99/00,Copertina 2000 gialla,2000,?,Grigio
+00/01,Copertina 2000 gialla,2000,1,Grigio
+00/01,Copertina 2000/2001 gialla,2000/2001,?,Grigio
+00/01,Copertina 2000/2001 gialla,2000/2001,?,Grigio cromatico
+00/01,Copertina 2001 gialla,2001,?,Grigio cromatico
+01/02,Copertina 2001 gialla,2001,1,Grigio cromatico
+01/02,Copertina 2001/2002 gialla,2001/2002,?,Grigio cromatico
+01/02,Copertina 2002 gialla,2002,?,Grigio cromatico
+02/03,Copertina 2002 gialla,2002,?,Grigio cromatico
+02/03,Copertina 2002/2003 gialla,2002/2003,?,Grigio cromatico
+02/03,Copertina 2003 gialla,2003,?,Grigio cromatico
+03/04,Copertina 2003 gialla,2003,?,Grigio cromatico
+03/04,Copertina 2003/2004 gialla,2003/2004,?,Grigio cromatico
+03/04,Copertina 2004 gialla,2004,?,Grigio cromatico
+04/05,Copertina 2004 gialla,2004,?,Grigio cromatico
+04/05,Copertina 2004/2005 gialla,2004/2005,?,Grigio cromatico
+04/05,Copertina 2004 arancione,2004,15,Grigio cromatico
+04/05,Copertina 2005 arancione,2005,7,Grigio cromatico
+05/06,Copertina 2005 arancione,2005,28,Grigio cromatico
+05/06,Copertina 2006 arancione,2006,4,Grigio cromatico
+05/06,Copertina 2005 arancione/bianca,2005,3,Grigio cromatico
+06/07,Copertina 2006 arancione/bianca,2006,?,Grigio cromatico
+06/07,Copertina 2007 arancione/bianca,2007,?,Grigio cromatico
+07/08,Copertina 2007 arancione/bianca,2007,?,Grigio cromatico
+07/08,Copertina 2008 arancione/bianca,2008,?,Grigio cromatico
+07/08,Copertina 2008/2009 arancione/bianca,2008/2009,?,Grigio cromatico
+08/09,Copertina 2008/2009 arancione/bianca,2008/2009,?,Grigio cromatico
+08/09,Copertina 2009 arancione/bianca,2009,?,Grigio cromatico
+08/09,Copertina 2009/2010 arancione/bianca,2009/2010,?,Grigio cromatico
+09/10,Copertina 2009/2010 arancione/bianca,2009/2010,?,Grigio cromatico
+09/10,Copertina 2009/2010 arancione/bianca formato ridotto,2009/2010,?,Rosa
+09/10,Copertina 2010 arancione/bianca formato ridotto,2010,?,Rosa
+09/10,Copertina 2010/2011 arancione/bianca formato ridotto,2010/2011,?,Rosa
+09/10,Copertina 2010 bianca,2010,1,Rosa
+10/11,Copertina 2010/2011 arancione/bianca formato ridotto,2010/2011,?,Rosa
+10/11,Copertina 2011 arancione/bianca formato ridotto,2011,?,Rosa
+10/11,Copertina 2011/2012 arancione/bianca formato ridotto,2011/2012,?,Rosa
+11/12,Copertina 2011/2012 arancione/bianca formato ridotto,2011/2012,?,Rosa
+11/12,Copertina 2012 arancione/bianca formato ridotto,2012,?,Rosa
+11/12,Copertina 2012/2013 arancione/bianca formato ridotto,2012/2013,?,Rosa
+12/13,Copertina 2012/2013 arancione/bianca formato ridotto,2012/2013,?,Rosa
+12/13,Copertina 2013 arancione/bianca formato ridotto,2013,?,Rosa
+12/13,Copertina 2013/2014 arancione/bianca formato ridotto,2013/2014,?,Rosa
+13/14,Copertina 2013/2014 arancione/bianca formato ridotto,2013/2014,?,Rosa
+13/14,Copertina 2014 arancione/bianca formato ridotto,2014,?,Rosa
+13/14,Copertina 2014/2015 arancione/bianca formato ridotto,2014/2015,?,Rosa
+14/15,Copertina 2014/2015 arancione/bianca formato ridotto,2014/2015,?,Rosa
+14/15,Copertina 2015 arancione/bianca formato ridotto,2015,?,Rosa

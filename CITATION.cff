@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se usi questi dati, cita il deposito Zenodo."
+title: "TuttoCittà: ricostruzione della storia editoriale (1981-2014)"
+abstract: "Censimento delle edizioni locali del fascicolo cartografico TuttoCittà, supplemento delle Pagine Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014. Copre 34 annate e 20 regioni, con 1990 fascicoli accertati."
+type: dataset
+authors:
+  - family-names: Mura
+    given-names: Roberto
+version: "1.0"
+date-released: "2026-08-06"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.21820763
+keywords:
+  - TuttoCittà
+  - SEAT Pagine Gialle
+  - cartografia urbana
+  - storia editoriale
+  - Italia
