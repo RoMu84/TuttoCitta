@@ -4,18 +4,18 @@
 
 Fascicoli censiti: 1. Annate: 1981/82 - 2014/15.
 
-Nella tabella: l'anno riportato in copertina se noto, `X` se il fascicolo è accertato ma l'anno non è noto, `?` se la pubblicazione è probabile ma non confermata, cella vuota se non pubblicato.
+Il colore della cella indica il tipo di copertina; l'elenco completo è in [copertine per annata.csv](../../dati/copertine_per_annata.csv).  
+Per ciascuna casella rappresentante un fascicolo è riportato l'anno di copertina quando questo è noto.  
+x indica che sebbene sia accertata l'esistenza del fascicolo, l'anno di copertina non è noto con precisione.  
+? indica che la pubblicazione è probabile ma non è confermata.  
+Le celle vuote indicano che il fascicolo non è pubblicato.
 
 <table class="matrice">
 <thead><tr><th>fascicolo</th><th>81/82</th><th>82/83</th><th>83/84</th><th>84/85</th><th>85/86</th><th>86/87</th><th>87/88</th><th>88/89</th><th>89/90</th><th>90/91</th><th>91/92</th><th>92/93</th><th>93/94</th><th>94/95</th><th>95/96</th><th>96/97</th><th>97/98</th><th>98/99</th><th>99/00</th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th></tr></thead>
 <tbody>
 <tr><td class="nome">Aosta</td><td style="background:#92D050">81</td><td style="background:#FF0000;color:#fff">82</td><td style="background:#00B0F0">83</td><td style="background:#92D050">84</td><td style="background:#FF0000;color:#fff">85</td><td style="background:#00B0F0">86</td><td style="background:#92D050">87</td><td style="background:#FF0000;color:#fff">88</td><td style="background:#00B0F0">89</td><td style="background:#002060;color:#fff">90/91</td><td style="background:#002671;color:#fff">91</td><td style="background:#DDD9C3">92</td><td style="background:#C4BC96">93</td><td style="background:#C4BC96">94</td><td style="background:#C4BC96">95</td><td style="background:#C4BC96">96</td><td style="background:#C4BC96">97</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td class="nome"><b>totale accertati</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td></tr>
+<tr><td class="nome"><b>Totale accertati</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td></tr>
 </tbody>
 </table>
 
-Il colore della cella indica il tipo di copertina; l'elenco completo è in [copertine per annata.csv](../../dati/copertine_per_annata.csv).  
-Per ciascuna casella rappresentante un fascicolo è riportato l'anno di copertina quando questo è noto.  
-X indica che sebbene sia accertata l'esistenza del fascicolo, l'anno di copertina non è noto con precisione.  
-? indica che la pubblicazione è probabile ma non è confermata.  
-Le celle vuote indicano che il fascicolo non è pubblicato.
+**Numero totale dei fascicoli accertati: 17**
