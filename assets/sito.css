@@ -1,0 +1,31 @@
+:root { --bordo:#d0d7de; --testa:#dce6f1; --testo:#1f2328; --tenue:#57606a; }
+* { box-sizing: border-box; }
+body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+       color:var(--testo); line-height:1.55; background:#fff; }
+.testata { background:#1a3555; padding:14px 24px; }
+.testata a { color:#fff; text-decoration:none; font-weight:600; font-size:15px; }
+main { max-width:1460px; margin:0 auto; padding:24px 24px 8px; }
+main > p, main > ul, main > ol, main > h1, main > h2, main > h3, main > blockquote { max-width:64rem; }
+h1 { font-size:28px; margin:.4em 0 .5em; color:#1a3555; }
+h2 { font-size:20px; margin:1.5em 0 .5em; color:#1a3555; border-bottom:1px solid var(--bordo); padding-bottom:4px; }
+h3 { font-size:16px; }
+a { color:#0969da; }
+code { background:#f6f8fa; padding:1px 4px; border-radius:4px; font-size:88%; }
+table { border-collapse:collapse; margin:12px 0; }
+th, td { border:1px solid var(--bordo); padding:4px 8px; text-align:left; }
+thead th { background:var(--testa); }
+table.matrice { table-layout:fixed; width:100%; font-size:10.5px; }
+table.matrice th, table.matrice td { padding:2px 1px; text-align:center; overflow:hidden; }
+table.matrice td.nome { text-align:left; width:170px; white-space:nowrap; text-overflow:ellipsis; }
+.scorri { overflow-x:auto; }
+table.cop { font-size:13px; }
+.pastiglia { display:inline-block; width:13px; height:13px; border:1px solid #999; vertical-align:-2px; }
+.galleria { display:flex; flex-wrap:wrap; gap:18px; margin:18px 0; }
+.galleria figure { margin:0; width:190px; }
+.galleria.tavole figure { width:300px; }
+.galleria img { width:100%; height:auto; border:1px solid var(--bordo); }
+.galleria figcaption { font-size:12px; line-height:1.35; margin-top:5px; }
+.galleria .dim { color:var(--tenue); }
+.pie { max-width:1460px; margin:0 auto; padding:18px 24px 40px; color:var(--tenue);
+       font-size:13px; border-top:1px solid var(--bordo); }
+@media (max-width:900px){ table.matrice { table-layout:auto; font-size:11px; } }

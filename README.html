@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TuttoCittà — ricostruzione della storia editoriale (1981-2014) — TuttoCittà</title>
+<meta name="description" content="Censimento delle edizioni locali del fascicolo cartografico TuttoCittà, supplemento delle Pagine Gialle, 1981-2014.">
+<link rel="stylesheet" href="assets/sito.css">
+</head>
+<body>
+<header class="testata"><a href="index.html">TuttoCittà — ricostruzione della storia editoriale</a></header>
+<main>
+<h1>TuttoCittà — ricostruzione della storia editoriale (1981-2014)</h1>
+<p>Censimento delle edizioni locali del fascicolo cartografico <strong>TuttoCittà</strong>, supplemento delle Pagine
+Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014, poi confluito nel volume unico
+<em>Pagine Bianche Pagine Gialle Tuttocittà</em>.</p>
+<p><strong>1.990 fascicoli accertati</strong> — 1.989 edizioni ordinarie più 1 straordinaria — su 34 annate,
+20 regioni e 115 raggruppamenti provinciali.</p>
+<p>Registrazione della testata: Tribunale di Torino n. 3026 del 1981. Stampatore: ILTE, Moncalieri.</p>
+<hr />
+<h2>Perché questa risorsa esiste</h2>
+<p>TuttoCittà non è mai stato in vendita: era distribuito gratuitamente a complemento delle Pagine
+Gialle. Per questo non ha un catalogo commerciale, e nei cataloghi bibliotecari è descritto sotto una
+notizia unica che comprende tutte le edizioni locali senza dichiararne la consistenza — la scheda SBN
+IT\ICCU\TO0\0655071 ne è l'esempio. Il risultato è che il numero e la distribuzione geografica dei
+fascicoli non risultano da nessuna fonte pubblica. Questo dataset colma quella lacuna partendo dagli
+esemplari fisici.</p>
+<h2>Struttura</h2>
+<p><code>dati/
+  fascicoli_lungo.csv          una riga per fascicolo e annata — la forma adatta al riuso
+  fascicoli_matrice.csv        la matrice come nel foglio originale
+  copertine_per_annata.csv     tipi di copertina, conteggi, colore delle tavole
+  totali_per_annata.csv        totali per annata e note editoriali
+pagine/
+  index.md                     introduzione e convenzioni di lettura
+  questioni-aperte.md          ciò che non sappiamo, con l'invito a segnalare
+  regioni/&lt;regione&gt;.md         una tabella per regione
+CONTROLLI.md                   rapporto di integrità generato dai dati</code></p>
+<h3>Campi di <code>fascicoli_lungo.csv</code></h3>
+<table>
+<thead>
+<tr>
+<th>campo</th>
+<th>contenuto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>regione</code></td>
+<td>regione amministrativa</td>
+</tr>
+<tr>
+<td><code>fascicolo</code></td>
+<td>denominazione del fascicolo, che può coprire più province</td>
+</tr>
+<tr>
+<td><code>annata</code></td>
+<td>annata editoriale per anno di copertina, da <code>81/82</code> a <code>14/15</code></td>
+</tr>
+<tr>
+<td><code>stato</code></td>
+<td><code>pubblicato</code>, <code>probabile_non_confermato</code>, <code>non_pubblicato</code></td>
+</tr>
+<tr>
+<td><code>anno_copertina</code></td>
+<td>anno riportato in copertina; vuoto se il fascicolo è accertato ma il dato è ignoto</td>
+</tr>
+<tr>
+<td><code>tipo_copertina</code></td>
+<td>tipo di copertina, ricavato dall'incrocio fra annata e anno di copertina</td>
+</tr>
+<tr>
+<td><code>tipo_edizione</code></td>
+<td><code>ordinaria</code> oppure <code>straordinaria</code> per le edizioni commemorative fuori perimetro</td>
+</tr>
+<tr>
+<td><code>colore_esadecimale</code></td>
+<td>colore con cui la cella è codificata nel foglio originale</td>
+</tr>
+</tbody>
+</table>
+<h2>Convenzioni di lettura</h2>
+<p><strong>L'indicizzazione è per anno di copertina, non per anno civile.</strong> Il ciclo editoriale si apriva a
+febbraio e si chiudeva a gennaio dell'anno successivo. L'annata <code>81/82</code> comprende quindi fascicoli
+che riportano in copertina sia <code>81</code> sia <code>82</code>. Le <strong>serie iniziali</strong> sono quelle il cui fascicolo
+dell'annata 1981/82 s'intitola <em>TuttoCittà 81</em>, le <strong>serie tardive</strong> quelle che s'intitolano
+<em>TuttoCittà 82</em>. Il Piemonte chiudeva di norma l'annata: i suoi fascicoli dell'annata 1999/2000
+portano in copertina il 2000.</p>
+<p><strong>Un'anomalia nelle annate 1997/98 e 1998/99.</strong> I fascicoli con copertina grigia non riportano un anno
+sul frontespizio ma solo la finestra d'uso, sempre di dodici mesi, prima con inizio e scadenza («nov
+1997 - ott 1998») e poi con la sola scadenza («da utilizzare fino a…»). Sono 77 casi, e per essi il
+campo <code>anno_copertina</code> non trascrive un dato stampato né deriva dalla finestra: è un'attribuzione
+convenzionale secondo la posizione nel ciclo, come per gli altri fascicoli.</p>
+<p>Un fascicolo non corrisponde a una provincia: molte edizioni coprivano gruppi di province, e i
+raggruppamenti cambiarono nel tempo. Nell'annata 1997/98 gli 87 fascicoli coprivano tutte le 103
+province allora esistenti.</p>
+<h2>Metodo e limiti</h2>
+<p>I dati derivano da una collezione privata di oltre 1.200 esemplari, da dati incrociati con altri
+raccoglitori e dalle regolarità editoriali riscontrate nelle pubblicazioni dal 1981 al 1997, che in
+quel periodo sono sufficientemente stabili da permettere la ricostruzione delle annate mancanti.</p>
+<p>Tre limiti vanno dichiarati.</p>
+<p><strong>Lo stato <code>non_pubblicato</code> non è sempre un'attestazione documentaria.</strong> In molti casi riflette la
+ricostruzione basata sulle regolarità editoriali. È una posizione falsificabile: il ritrovamento di un
+esemplare comporta l'aggiornamento del dato, non una difesa della ricostruzione.</p>
+<p><strong>L'annata 1998/1999 resta la più incerta di tutto il ciclo.</strong> Fra i 87 fascicoli del 1997/98 e i 42
+del 1999/2000 — questi ultimi documentati dal bilancio d'esercizio 1998 della SEAT — il numero
+intermedio non è determinabile: sta fra 42 e 87 e le fonti d'epoca non lo dichiarano. Vedi
+<code>pagine/questioni-aperte.md</code>.</p>
+<p><strong>Resta un solo scostamento su trentaquattro annate, e non è un errore.</strong> Nel 1999/2000 la matrice
+identifica 40 fascicoli contro i 42 documentati dal bilancio d'esercizio 1998 della SEAT: i due di
+differenza sono edizioni la cui esistenza è certa e la cui identità non è nota. Lo scostamento misura
+dunque ciò che ancora manca, e va letto come un'informazione.</p>
+<p><strong>L'incertezza residua è quasi tutta concentrata in due annate.</strong> Delle 21 celle marcate come
+pubblicazione probabile non confermata, 11 stanno nell'annata 1998/1999 e 10 nella 1999/2000.</p>
+<p>Il rapporto certifica inoltre che <strong>nessuna correzione è applicata fuori dai dati</strong>: l'intero pacchetto
+si rigenera dal solo foglio di origine.</p>
+<p><strong>Le edizioni straordinarie stanno fuori dalla matrice.</strong> Una matrice a una riga per raggruppamento non
+può ospitare due edizioni della stessa città nella stessa annata: le commemorative sono quindi
+registrate come righe distinte con <code>tipo_edizione = straordinaria</code>. Al momento è documentata una sola
+occorrenza, l'edizione speciale di Torino del 2010 per l'ostensione della Sindone. Non è noto se le
+edizioni di questo tipo partecipassero al concorso fotografico che assegnava le copertine o avessero
+copertina predefinita dall'editore.</p>
+<h2>Riproducibilità</h2>
+<p>I file in <code>dati/</code> sono generati automaticamente dal foglio di lavoro originale, senza trascrizione
+manuale e senza correzioni esterne: il colore di riempimento di ogni cella viene convertito nel tipo di
+copertina corrispondente, le edizioni straordinarie sono riconosciute dal nome del fascicolo, e i
+controlli di integrità sono ricalcolati a ogni rigenerazione. Le trentaquattro intestazioni di annata
+vengono verificate una per una contro la sequenza attesa: una divergenza interrompe l'elaborazione
+invece di propagarsi nei dati.</p>
+<h2>Citazione</h2>
+<p>Mura, Roberto (2026). <em>TuttoCittà: ricostruzione della storia editoriale (1981-2014)</em>, versione 1.0.
+Zenodo. DOI: <a href="https://doi.org/10.5281/zenodo.21820763">10.5281/zenodo.21820763</a></p>
+<h2>Licenza</h2>
+<p>Dati, tabelle e testi: <strong>CC BY 4.0</strong>. Attribuzione: Roberto Mura.</p>
+<p><strong>Le riproduzioni delle copertine non sono coperte da questa licenza</strong> e non sono incluse nel
+deposito con DOI: i diritti sul disegno di copertina appartengono all'editore. Dove presenti, sono
+riprodotte a bassa risoluzione a fini di identificazione documentaria, con contatto per la rimozione.</p>
+<h2>Come pubblicare e conservare</h2>
+<ol>
+<li><strong>Zenodo</strong> (zenodo.org) — deposito con DOI, gratuito, gestito dal CERN. Caricare <code>dati/</code>, le pagine e <code>CONTROLLI.md</code>, <strong>non le immagini</strong>. I metadati sono già pronti in <code>zenodo.json</code>. Da questo momento la ricerca è citabile e non dipende più dalla sopravvivenza di alcun sito.</li>
+<li><strong>GitHub Pages</strong> — versione consultabile e indicizzata. Il repository contiene già le pagine markdown; attivare Pages dalle impostazioni. La cronologia documenta ogni aggiornamento.</li>
+<li><strong>Internet Archive</strong> — caricare lo stesso pacchetto come terza copia indipendente.</li>
+<li><strong>Wikipedia</strong> — citare il DOI Zenodo come fonte nella voce <em>TuttoCittà</em>, invece di inserire i dati direttamente.</li>
+</ol>
+<h2>Come contribuire</h2>
+<p>Le segnalazioni più utili riguardano gli esemplari elencati in <code>pagine/questioni-aperte.md</code>. Per ogni
+fascicolo servono: città o raggruppamento, anno riportato in copertina, mese e anno del colophon se
+presenti, e se possibile una fotografia della copertina e del colophon.</p>
+</main>
+<footer class="pie">
+Dati e testi con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a> ·
+Roberto Mura · DOI <a href="https://doi.org/10.5281/zenodo.21820763">10.5281/zenodo.21820763</a><br>
+Le riproduzioni di copertina e di cartografia sono escluse dalla licenza: i diritti appartengono all'editore.
+</footer>
+</body>
+</html>

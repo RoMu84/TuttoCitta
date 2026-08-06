@@ -4,10 +4,9 @@ Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, sup
 Gialle pubblicato da SEAT dal 1981 al 2014: **1990 fascicoli accertati** su 34 annate, 20 regioni e
 115 raggruppamenti provinciali.
 
-## Da dove cominciare
-
 - **[Introduzione e convenzioni di lettura](pagine/index.md)** — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento
 - **[Le copertine, annata per annata](pagine/copertine.md)** — la galleria delle copertine con formati e conteggi
+- **[L'evoluzione delle tavole cartografiche](pagine/tavole.md)** — la stessa città attraverso le quattro fasi cromatiche
 - **[Questioni aperte](pagine/questioni-aperte.md)** — ciò che ancora non sappiamo, e come segnalarlo
 - **[Rapporto di integrità](CONTROLLI.md)** — controlli, scostamenti e criteri di attribuzione
 
@@ -50,3 +49,9 @@ Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
 
 Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.0.
 Zenodo. DOI: [10.5281/zenodo.21820763](https://doi.org/10.5281/zenodo.21820763)
+
+**Le riproduzioni di copertina e di cartografia fanno eccezione.** Sono fotografie di esemplari della
+raccolta, pubblicate a bassa risoluzione a fini di identificazione e studio documentario, ma i diritti
+sulle opere riprodotte appartengono all'editore: chi cura questa risorsa **non ne detiene alcun diritto
+e non li concede in licenza**. Non sono incluse nel deposito Zenodo. Per richieste di rimozione, aprire
+una segnalazione nel repository.
