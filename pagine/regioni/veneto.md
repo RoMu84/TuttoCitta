@@ -1,3 +1,5 @@
+[← Indice](../index.md) · [Questioni aperte](../questioni-aperte.md) · [Dati](../../dati/)
+
 # TuttoCittà — Veneto
 
 Fascicoli censiti: 9. Annate: 1981/82 - 2014/15.

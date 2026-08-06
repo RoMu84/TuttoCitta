@@ -1,3 +1,5 @@
+[← Indice](index.md)
+
 # Questioni aperte
 
 Questa pagina elenca ciò che **non** sappiamo. Se possiedi o hai visto uno degli esemplari qui
