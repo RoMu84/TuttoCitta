@@ -14,8 +14,11 @@ Nelle tabelle, la pastiglia accanto al nome della copertina riporta il colore co
 codificata nel censimento; quella accanto al colore delle tavole è una tinta **indicativa** del colore di
 stampa della cartografia, non un campione fedele.
 
-**Il formato cambia una volta sola, e senza ambiguità:** dalla comparsa dell'anno 97 in copertina, cioè
-dalla serie tardiva dell'annata 1996/97, si passa da 246 × 280 mm a 226 × 274 mm.
+**Il formato cambia due volte:** la prima dalla comparsa dell'anno 97 in copertina, cioè dalla serie
+tardiva dell'annata 1996/97, quando si passa da 246 × 280 mm a 226 × 274 mm; la seconda nel corso
+dell'annata 2009/2010, quando si passa a 140 × 212 mm. Questo secondo passaggio non riguarda solo le
+dimensioni: il rimpicciolimento del fascicolo avviene insieme al cambio del colore di sfondo della
+cartografia, che dal grigio cromatico passa al rosa.
 
 ## Annata 1981/1982
 
@@ -77,7 +80,7 @@ dalla serie tardiva dell'annata 1996/97, si passa da 246 × 280 mm a 226 × 274 
 </tbody>
 </table>
 
-*(tutta l'annata tranne il fascicolo "Milano e comuni limitrofi 84", che li include nel fascicolo 85 a copertina rossa)*
+*Sono incluse due pagine a fondo azzurro coi primi 54 articoli della Costituzione della Repubblica Italiana (tutta l'annata tranne il fascicolo "Milano e comuni limitrofi 84", che le include nel fascicolo 85 a copertina rossa, appartenente all'annata 1985/86)*
 
 ## Annata 1985/1986
 
@@ -96,7 +99,7 @@ dalla serie tardiva dell'annata 1996/97, si passa da 246 × 280 mm a 226 × 274 
 </tbody>
 </table>
 
-*Fascicoli che saltano da 84 a 86 in copertina:*
+*Fascicoli che saltano da 84 a 86 in copertina: Matera - Potenza, Avellino - Salerno, Benevento - Caserta, Napoli e comuni limitrofi, Provincia di Napoli, Bologna*
 
 *Riforma cartografica città maggiori - serie edifici*
 
