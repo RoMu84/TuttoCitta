@@ -11,3 +11,7 @@ table.matrice thead th { background: #dce6f1; }
 .galleria img { width: 100%; height: auto; border: 1px solid #ccc; }
 .galleria figcaption { font-size: 12px; line-height: 1.35; margin-top: 4px; }
 .galleria .dim { color: #666; }
+.pastiglia { display: inline-block; width: 13px; height: 13px; border: 1px solid #999; vertical-align: -2px; }
+table.cop { border-collapse: collapse; font-size: 13px; margin-bottom: 10px; }
+table.cop th, table.cop td { border: 1px solid #ccc; padding: 3px 8px; text-align: left; }
+table.cop thead th { background: #dce6f1; }
