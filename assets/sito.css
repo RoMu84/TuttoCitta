@@ -42,8 +42,11 @@ table.cop { font-size:14px; }
 .galleria figcaption { max-width:240px; }
 .galleria.tavole { flex-wrap:nowrap; overflow-x:auto; align-items:flex-start; }
 .galleria.tavole figure { width:auto; flex:0 0 auto; }
+/* Altezze calcolate perché le due righe abbiano la stessa larghezza complessiva:
+   somma delle proporzioni 2,9461 nella prima riga e 3,3205 nella seconda. */
 .galleria.tavole { margin:16px 0; }
-.galleria.tavole img { height:300px; width:auto; }
+.galleria.tavole.r1 img { height:340px; width:auto; }
+.galleria.tavole.r2 img { height:302px; width:auto; }
 .galleria.tavole figcaption { max-width:300px; }
 .galleria.quadri figure { width:auto; }
 .galleria.quadri img { height:420px; width:auto; }
@@ -69,6 +72,7 @@ table.cop { font-size:14px; }
 .altre-regioni b { display:block; margin-bottom:7px; color:var(--scuro); }
 .pie { border-top:1px solid var(--bordo); margin-top:44px; padding:22px 0 46px;
   color:var(--tenue); font-size:13.5px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
+@media (max-width:1120px){ .galleria.tavole.r1 img { height:250px } .galleria.tavole.r2 img { height:222px } }
 @media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px}
   table.matrice{table-layout:auto} table.matrice th, table.matrice td{font-size:11px}
   table.matrice th:first-child{width:auto} .marchio{font-size:22px} }
