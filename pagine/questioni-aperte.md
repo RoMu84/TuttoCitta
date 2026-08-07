@@ -45,7 +45,7 @@ meno di 44; l'unica alternativa è che siano nati per scissione, come avvenne pe
 
 ## Fascicoli accertati di cui non è noto l'anno di copertina
 
-Sono 106 casi, elencati con `X` nelle tabelle regionali.
+Sono 106 casi, elencati con `x` nelle tabelle regionali.
 
 ## Il trentanovesimo fascicolo dell'annata 2011/2012
 
@@ -93,4 +93,6 @@ in Venezia.
 ## Come segnalare
 
 Apri una segnalazione nel repository indicando città o raggruppamento, anno riportato in copertina,
-mese e anno del colophon se presenti, e se possibile una fotografia della copertina e del colophon.
+mese e anno del colophon se presenti, e se possibile una fotografia della copertina e del colophon. Il
+colophon, ossia le note tipografiche, tipicamente è rinvenibile a sinistra in verticale sulla copertina,
+oppure nella prima pagina.

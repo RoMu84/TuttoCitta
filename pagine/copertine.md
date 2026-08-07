@@ -1,16 +1,15 @@
 # Le copertine, annata per annata
 
-Trentaquattro annate di copertine, dalla serie verde-rosso-azzurra degli anni ottanta ai blu dei primi
+Trentaquattro annate di copertine, dalla serie classica verde-rosso-azzurra e la serie edifici degli anni ottanta ai blu dei primi
 anni novanta, ai beige, ai grigi e agli arancioni dell'ultimo periodo. La sequenza cromatica è, da sola,
 il racconto della vita editoriale del prodotto.
 
-**Come leggere le didascalie.** Fino all'annata 1995/96 ogni immagine corrisponde a una copertina
+**Come leggere le didascalie.** Fino all'annata 1998/99 ogni immagine corrisponde a una copertina
 dell'elenco, nell'ordine. Nell'annata 1996/97 le prime due immagini sono due sotto-varianti della
-copertina 96, comparse in modo irregolare in un numero non determinato di fascicoli. Dalle annate
-successive una stessa immagine può valere per più voci dell'elenco, perché la grafica smise di cambiare
-fra serie iniziale e serie tardiva: in quei casi la didascalia indica l'annata e non la singola voce.
+copertina 96, comparse in modo irregolare in un numero non determinato di fascicoli. A partire dall'annata 1999/2000
+una stessa immagine può valere per più voci dell'elenco.
 
-Nelle tabelle, la pastiglia accanto al nome della copertina riporta il colore con cui la serie è
+Nelle tabelle, il quadratino colorato accanto al nome della copertina riporta il colore con cui la serie è
 codificata nel censimento; quella accanto al colore delle tavole è una tinta **indicativa** del colore di
 stampa della cartografia, non un campione fedele.
 
@@ -101,7 +100,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 
 *Fascicoli che saltano da 84 a 86 in copertina: Matera - Potenza, Avellino - Salerno, Benevento - Caserta, Napoli e comuni limitrofi, Provincia di Napoli, Bologna*
 
-*Riforma cartografica città maggiori - serie edifici*
+*Riforma cartografica delle 10 città maggiori - serie edifici*
 
 ## Annata 1986/1987
 
@@ -180,6 +179,8 @@ cartografia, che dal grigio cromatico passa al rosa.
   <tr><td><span class="pastiglia" style="background:#002060"></span> Copertina 1990 blu</td><td>15</td><td><span class="pastiglia" style="background:#BDBDBD"></span> Grigio</td></tr>
 </tbody>
 </table>
+
+*Prima grande riforma editoriale a fine annata, con la nascita di una rubrica di articoli sulla provincia e il cambio del colore di fondo della cartografia*
 
 ## Annata 1990/1991
 
@@ -509,7 +510,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 </tbody>
 </table>
 
-*Riforma cartografica dalla serie in formato ridotto*
+*Ultima grande riforma editoriale, con la riduzione del fascicolo a un formato tascabile e il rinnovamento totale della cartografia*
 
 *Torino ha due edizioni: una regolare 2010/2011 e una speciale 2010 per l'ostensione della Sindone*
 

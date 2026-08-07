@@ -4,8 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Le copertine, annata per annata — TuttoCittà</title>
-<meta name="description" content="Censimento delle edizioni locali del fascicolo cartografico TuttoCittà, supplemento delle Pagine Gialle, 1981-2014.">
+<meta name="description" content="Trentaquattro annate di copertine, dalla serie classica verde-rosso-azzurra e la serie edifici degli anni ottanta ai blu dei primi anni novanta, ai beige,…">
+<link rel="canonical" href="https://romu84.github.io/TuttoCitta/pagine/copertine.html">
 <link rel="stylesheet" href="../assets/sito.css">
+
 </head>
 <body>
 <header class="testata">
@@ -403,7 +405,7 @@ cartografia, che dal grigio cromatico passa al rosa.</p>
 <h2>Annata 2004/2005</h2>
 <div class="galleria">
   <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_54.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -475,7 +477,7 @@ cartografia, che dal grigio cromatico passa al rosa.</p>
 <h2>Annata 2009/2010</h2>
 <div class="galleria">
   <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_62.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
   <figure><img src="../immagini/cellImage_1124998344_56.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
@@ -483,6 +485,7 @@ cartografia, che dal grigio cromatico passa al rosa.</p>
 <thead><tr><th>copertina</th><th>fascicoli</th><th>colore tavole</th></tr></thead>
 <tbody>
   <tr><td><span class="pastiglia" style="background:#F6B26B"></span> Copertina 2009/2010 arancione/bianca</td><td>?</td><td><span class="pastiglia" style="background:#A9B4BC"></span> Grigio cromatico</td></tr>
+  <tr><td>Copertina 2010 arancione/bianca</td><td>?</td><td><span class="pastiglia" style="background:#A9B4BC"></span> Grigio cromatico</td></tr>
   <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> Copertina 2009/2010 arancione/bianca formato ridotto</td><td>?</td><td><span class="pastiglia" style="background:#F0C6C6"></span> Rosa</td></tr>
   <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> Copertina 2010 arancione/bianca formato ridotto</td><td>?</td><td><span class="pastiglia" style="background:#F0C6C6"></span> Rosa</td></tr>
   <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> Copertina 2010/2011 arancione/bianca formato ridotto</td><td>?</td><td><span class="pastiglia" style="background:#F0C6C6"></span> Rosa</td></tr>
@@ -569,10 +572,22 @@ di rimozione, aprire una segnalazione nel repository.</p>
 </main>
 <footer class="pie">
 <div class="fascia">
+Contatto: <span class="contatto" data-u="rigilkent84" data-d="hotmail.com"></span> ·
+Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a><br>
 Dati e testi con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a> ·
 Roberto Mura · DOI <a href="https://doi.org/10.5281/zenodo.21820763">10.5281/zenodo.21820763</a><br>
 Le riproduzioni di copertina e di cartografia sono escluse dalla licenza: i diritti appartengono all'editore.
 </div>
 </footer>
+<script>
+/* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
+   automatici, che leggono l'HTML statico senza eseguire codice, non lo trovano. */
+document.querySelectorAll('.contatto').forEach(function(e){
+  var a=document.createElement('a');
+  a.href='mail'+'to:'+e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  a.textContent=e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  e.appendChild(a);
+});
+</script>
 </body>
 </html>

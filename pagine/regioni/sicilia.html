@@ -4,8 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TuttoCittà — Sicilia</title>
-<meta name="description" content="Censimento delle edizioni locali del fascicolo cartografico TuttoCittà, supplemento delle Pagine Gialle, 1981-2014.">
+<meta name="description" content="Le edizioni locali di TuttoCittà in Sicilia: 142 fascicoli accertati fra il 1981 e il 2014, annata per annata, con il tipo di copertina.">
+<link rel="canonical" href="https://romu84.github.io/TuttoCitta/pagine/regioni/sicilia.html">
 <link rel="stylesheet" href="../../assets/sito.css">
+
 </head>
 <body>
 <header class="testata">
@@ -53,10 +55,22 @@ Le celle vuote indicano che il fascicolo non è pubblicato.</p>
 </main>
 <footer class="pie">
 <div class="fascia">
+Contatto: <span class="contatto" data-u="rigilkent84" data-d="hotmail.com"></span> ·
+Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a><br>
 Dati e testi con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a> ·
 Roberto Mura · DOI <a href="https://doi.org/10.5281/zenodo.21820763">10.5281/zenodo.21820763</a><br>
 Le riproduzioni di copertina e di cartografia sono escluse dalla licenza: i diritti appartengono all'editore.
 </div>
 </footer>
+<script>
+/* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
+   automatici, che leggono l'HTML statico senza eseguire codice, non lo trovano. */
+document.querySelectorAll('.contatto').forEach(function(e){
+  var a=document.createElement('a');
+  a.href='mail'+'to:'+e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  a.textContent=e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  e.appendChild(a);
+});
+</script>
 </body>
 </html>

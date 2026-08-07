@@ -1,6 +1,6 @@
 # TuttoCittà — Sardegna
 
-Fascicoli censiti: 4. Annate: 1981/82 - 2014/15.
+Raggruppamenti di province censiti: 4. Annate: 1981/82 - 2014/15.
 
 Il colore della cella indica il tipo di copertina; l'elenco completo è in [copertine per annata.csv](../../dati/copertine_per_annata.csv).  
 Per ciascuna casella rappresentante un fascicolo è riportato l'anno di copertina quando questo è noto.  
