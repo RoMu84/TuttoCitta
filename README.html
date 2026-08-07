@@ -17,13 +17,14 @@
       <a href="pagine/index.html">Introduzione</a>
       <a href="pagine/copertine.html">Copertine</a>
       <a href="pagine/tavole.html">Tavole</a>
+      <a href="pagine/note-editore.html">Note dell'editore</a>
       <a href="pagine/questioni-aperte.html">Questioni aperte</a>
       <a href="CONTROLLI.html">Integrità</a>
     </nav>
   </div>
 </header>
 <main>
-<h1>TuttoCittà — ricostruzione della storia editoriale (1981-2014)</h1>
+<h1 id="tuttocitta-ricostruzione-della-storia-editoriale-1981-2014">TuttoCittà — ricostruzione della storia editoriale (1981-2014)</h1>
 <p>Censimento delle edizioni locali del fascicolo cartografico <strong>TuttoCittà</strong>, supplemento delle Pagine
 Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014, poi confluito nel volume unico
 <em>Pagine Bianche Pagine Gialle Tuttocittà</em>.</p>
@@ -31,14 +32,14 @@ Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014, poi confluito n
 20 regioni e 115 raggruppamenti provinciali.</p>
 <p>Registrazione della testata: Tribunale di Torino n. 3026 del 1981. Stampatore: ILTE, Moncalieri.</p>
 <hr />
-<h2>Perché questa risorsa esiste</h2>
+<h2 id="perche-questa-risorsa-esiste">Perché questa risorsa esiste</h2>
 <p>TuttoCittà non è mai stato in vendita: era distribuito gratuitamente a complemento delle Pagine
 Gialle. Per questo non ha un catalogo commerciale, e nei cataloghi bibliotecari è descritto sotto una
 notizia unica che comprende tutte le edizioni locali senza dichiararne la consistenza — la scheda SBN
 IT\ICCU\TO0\0655071 ne è l'esempio. Il risultato è che il numero e la distribuzione geografica dei
 fascicoli non risultano da nessuna fonte pubblica. Questo dataset colma quella lacuna partendo dagli
 esemplari fisici.</p>
-<h2>Struttura</h2>
+<h2 id="struttura">Struttura</h2>
 <p><code>dati/
   fascicoli_lungo.csv          una riga per fascicolo e annata — la forma adatta al riuso
   fascicoli_matrice.csv        la matrice come nel foglio originale
@@ -49,7 +50,7 @@ pagine/
   questioni-aperte.md          ciò che non sappiamo, con l'invito a segnalare
   regioni/&lt;regione&gt;.md         una tabella per regione
 CONTROLLI.md                   rapporto di integrità generato dai dati</code></p>
-<h3>Campi di <code>fascicoli_lungo.csv</code></h3>
+<h3 id="campi-di-fascicoli_lungocsv">Campi di <code>fascicoli_lungo.csv</code></h3>
 <table>
 <thead>
 <tr>
@@ -92,7 +93,7 @@ CONTROLLI.md                   rapporto di integrità generato dai dati</code></
 </tr>
 </tbody>
 </table>
-<h2>Convenzioni di lettura</h2>
+<h2 id="convenzioni-di-lettura">Convenzioni di lettura</h2>
 <p><strong>L'indicizzazione è per anno di copertina, non per anno civile.</strong> Il ciclo editoriale si apriva a
 febbraio e si chiudeva a gennaio dell'anno successivo. L'annata <code>81/82</code> comprende quindi fascicoli
 che riportano in copertina sia <code>81</code> sia <code>82</code>. Le <strong>serie iniziali</strong> sono quelle il cui fascicolo
@@ -107,7 +108,7 @@ convenzionale secondo la posizione nel ciclo, come per gli altri fascicoli.</p>
 <p>Un fascicolo non corrisponde a una provincia: molte edizioni coprivano gruppi di province, e i
 raggruppamenti cambiarono nel tempo. Nell'annata 1997/98 gli 87 fascicoli coprivano tutte le 103
 province allora esistenti.</p>
-<h2>Metodo e limiti</h2>
+<h2 id="metodo-e-limiti">Metodo e limiti</h2>
 <p>I dati derivano da una collezione privata di oltre 1.200 esemplari, da dati incrociati con altri
 raccoglitori e dalle regolarità editoriali riscontrate nelle pubblicazioni dal 1981 al 1997, che in
 quel periodo sono sufficientemente stabili da permettere la ricostruzione delle annate mancanti.</p>
@@ -133,29 +134,29 @@ registrate come righe distinte con <code>tipo_edizione = straordinaria</code>. A
 occorrenza, l'edizione speciale di Torino del 2010 per l'ostensione della Sindone. Non è noto se le
 edizioni di questo tipo partecipassero al concorso fotografico che assegnava le copertine o avessero
 copertina predefinita dall'editore.</p>
-<h2>Riproducibilità</h2>
+<h2 id="riproducibilita">Riproducibilità</h2>
 <p>I file in <code>dati/</code> sono generati automaticamente dal foglio di lavoro originale, senza trascrizione
 manuale e senza correzioni esterne: il colore di riempimento di ogni cella viene convertito nel tipo di
 copertina corrispondente, le edizioni straordinarie sono riconosciute dal nome del fascicolo, e i
 controlli di integrità sono ricalcolati a ogni rigenerazione. Le trentaquattro intestazioni di annata
 vengono verificate una per una contro la sequenza attesa: una divergenza interrompe l'elaborazione
 invece di propagarsi nei dati.</p>
-<h2>Citazione</h2>
+<h2 id="citazione">Citazione</h2>
 <p>Mura, Roberto (2026). <em>TuttoCittà: ricostruzione della storia editoriale (1981-2014)</em>, versione 1.0.
 Zenodo. DOI: <a href="https://doi.org/10.5281/zenodo.21820763">10.5281/zenodo.21820763</a></p>
-<h2>Licenza</h2>
+<h2 id="licenza">Licenza</h2>
 <p>Dati, tabelle e testi: <strong>CC BY 4.0</strong>. Attribuzione: Roberto Mura.</p>
 <p><strong>Le riproduzioni delle copertine non sono coperte da questa licenza</strong> e non sono incluse nel
 deposito con DOI: i diritti sul disegno di copertina appartengono all'editore. Dove presenti, sono
 riprodotte a bassa risoluzione a fini di identificazione documentaria, con contatto per la rimozione.</p>
-<h2>Come pubblicare e conservare</h2>
+<h2 id="come-pubblicare-e-conservare">Come pubblicare e conservare</h2>
 <ol>
 <li><strong>Zenodo</strong> (zenodo.org) — deposito con DOI, gratuito, gestito dal CERN. Caricare <code>dati/</code>, le pagine e <code>CONTROLLI.md</code>, <strong>non le immagini</strong>. I metadati sono già pronti in <code>zenodo.json</code>. Da questo momento la ricerca è citabile e non dipende più dalla sopravvivenza di alcun sito.</li>
 <li><strong>GitHub Pages</strong> — versione consultabile e indicizzata. Il repository contiene già le pagine markdown; attivare Pages dalle impostazioni. La cronologia documenta ogni aggiornamento.</li>
 <li><strong>Internet Archive</strong> — caricare lo stesso pacchetto come terza copia indipendente.</li>
 <li><strong>Wikipedia</strong> — citare il DOI Zenodo come fonte nella voce <em>TuttoCittà</em>, invece di inserire i dati direttamente.</li>
 </ol>
-<h2>Come contribuire</h2>
+<h2 id="come-contribuire">Come contribuire</h2>
 <p>Le segnalazioni più utili riguardano gli esemplari elencati in <code>pagine/questioni-aperte.md</code>. Per ogni
 fascicolo servono: città o raggruppamento, anno riportato in copertina, mese e anno del colophon se
 presenti, e se possibile una fotografia della copertina e del colophon.</p>
@@ -166,7 +167,7 @@ Contatto: <span class="contatto" data-u="rigilkent84" data-d="hotmail.com"></spa
 Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a><br>
 Dati e testi con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a> ·
 Roberto Mura · DOI <a href="https://doi.org/10.5281/zenodo.21820763">10.5281/zenodo.21820763</a><br>
-Le riproduzioni di copertina e di cartografia sono escluse dalla licenza: i diritti appartengono all'editore.
+Riproduzioni e trascrizioni sono escluse dalla licenza: i diritti appartengono all'editore e possono essere rimosse su richiesta.
 </div>
 </footer>
 <script>

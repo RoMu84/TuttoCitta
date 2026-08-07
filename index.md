@@ -7,11 +7,16 @@ Gialle pubblicato da SEAT dal 1981 al 2014: **1990 fascicoli accertati** su 34 a
 - **[Introduzione e convenzioni di lettura](pagine/index.md)** — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento
 - **[Le copertine, annata per annata](pagine/copertine.md)** — la galleria delle copertine con formati e conteggi
 - **[L'evoluzione delle tavole cartografiche](pagine/tavole.md)** — la stessa città attraverso le quattro fasi cromatiche
-- **[Questioni aperte](pagine/questioni-aperte.md)** — ciò che ancora non sappiamo, e come segnalarlo
+- **[Le note dell'editore](pagine/note-editore.md)** — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma
+- **[Questioni aperte](pagine/questioni-aperte.md)** — ciò che ancora non sappiamo, come segnalarlo e come contribuire
 - **[Rapporto di integrità](CONTROLLI.md)** — controlli, scostamenti e criteri di attribuzione
 
 <div class="striscia"><span style="background:#92D050" title="annata 81/82"></span><span style="background:#FF0000" title="annata 82/83"></span><span style="background:#00B0F0" title="annata 83/84"></span><span style="background:#92D050" title="annata 84/85"></span><span style="background:#FF0000" title="annata 85/86"></span><span style="background:#00B0F0" title="annata 86/87"></span><span style="background:#92D050" title="annata 87/88"></span><span style="background:#FF0000" title="annata 88/89"></span><span style="background:#00B0F0" title="annata 89/90"></span><span style="background:#002060" title="annata 90/91"></span><span style="background:#002671" title="annata 91/92"></span><span style="background:#DDD9C3" title="annata 92/93"></span><span style="background:#C4BC96" title="annata 93/94"></span><span style="background:#C4BC96" title="annata 94/95"></span><span style="background:#C4BC96" title="annata 95/96"></span><span style="background:#C4BC96" title="annata 96/97"></span><span style="background:#C4BC96" title="annata 97/98"></span><span style="background:#999999" title="annata 98/99"></span><span style="background:#FFD966" title="annata 99/00"></span><span style="background:#FFD966" title="annata 00/01"></span><span style="background:#FFD966" title="annata 01/02"></span><span style="background:#FFD966" title="annata 02/03"></span><span style="background:#FFD966" title="annata 03/04"></span><span style="background:#E69138" title="annata 04/05"></span><span style="background:#E69138" title="annata 05/06"></span><span style="background:#F6B26B" title="annata 06/07"></span><span style="background:#F6B26B" title="annata 07/08"></span><span style="background:#F6B26B" title="annata 08/09"></span><span style="background:#F9CB9C" title="annata 09/10"></span><span style="background:#F9CB9C" title="annata 10/11"></span><span style="background:#F9CB9C" title="annata 11/12"></span><span style="background:#F9CB9C" title="annata 12/13"></span><span style="background:#F9CB9C" title="annata 13/14"></span><span style="background:#F9CB9C" title="annata 14/15"></span></div>
 <p class="didascalia-striscia">Trentaquattro annate, un colore per annata: la sequenza delle copertine dal 1981/82 al 2014/15. Il dettaglio è nella <a href="pagine/copertine.html">galleria delle copertine</a>.</p>
+
+> **Hai un TuttoCittà?** La raccolta da cui nasce questo censimento è in continuo ampliamento: accolgo
+> donazioni e acquisto fascicoli a prezzi ragionevoli, singoli o in blocco. Anche la sola segnalazione di
+> un esemplare aiuta. Vedi [come contribuire](pagine/questioni-aperte.md#come-contribuire).
 
 ## Le edizioni regione per regione
 
@@ -53,8 +58,8 @@ Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
 Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.0.
 Zenodo. DOI: [10.5281/zenodo.21820763](https://doi.org/10.5281/zenodo.21820763)
 
-**Le riproduzioni di copertina e di cartografia fanno eccezione.** Sono fotografie di esemplari della
-raccolta, pubblicate a bassa risoluzione a fini di identificazione e studio documentario, ma i diritti
-sulle opere riprodotte appartengono all'editore: chi cura questa risorsa **non ne detiene alcun diritto
-e non li concede in licenza**. Non sono incluse nel deposito Zenodo. Per richieste di rimozione, aprire
-una segnalazione nel repository.
+**Le riproduzioni e le trascrizioni fanno eccezione.** Le fotografie di copertine e di cartografia e le
+trascrizioni dei testi dell'editore sono pubblicate a fini di identificazione e studio documentario, ma i
+diritti sulle opere riprodotte appartengono all'editore: chi cura questa risorsa **non ne detiene alcun
+diritto e non li concede in licenza**. Non sono incluse nel deposito Zenodo e possono essere rimosse su
+richiesta, aprendo una segnalazione nel repository.

@@ -57,7 +57,7 @@ falsificabile — il ritrovamento di un esemplare comporta l'aggiornamento del d
 - [`dati/fascicoli_matrice.csv`](../dati/fascicoli_matrice.csv) — la matrice come nel foglio originale
 - [`dati/copertine_per_annata.csv`](../dati/copertine_per_annata.csv) — tipi di copertina, conteggi, colore delle tavole
 - [`dati/totali_per_annata.csv`](../dati/totali_per_annata.csv) — totali per annata e note editoriali
-- [Controlli di integrità](../CONTROLLI.md) · [Questioni aperte](questioni-aperte.md) · [Le copertine](copertine.md) · [Le tavole](tavole.md)
+- [Controlli di integrità](../CONTROLLI.md) · [Questioni aperte](questioni-aperte.md) · [Le copertine](copertine.md) · [Le tavole](tavole.md) · [Le note dell'editore](note-editore.md)
 
 ## Regioni
 

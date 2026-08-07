@@ -90,9 +90,42 @@ fascicolo di Ancona, Casorate Primo in Lodi-Provincia di Milano Sud, Grado in Po
 Udine, Agliana in Prato-Provincia di Firenze, Castellanza in Provincia di Milano Nord e Mogliano Veneto
 in Venezia.
 
-## Come segnalare
+## Come contribuire
 
-Apri una segnalazione nel repository indicando città o raggruppamento, anno riportato in copertina,
-mese e anno del colophon se presenti, e se possibile una fotografia della copertina e del colophon. Il
-colophon, ossia le note tipografiche, tipicamente è rinvenibile a sinistra in verticale sulla copertina,
-oppure nella prima pagina.
+Questo censimento cresce solo con gli esemplari che emergono. Ci sono due modi per farlo crescere, e il
+primo non costa nulla.
+
+### Segnalare un fascicolo che possiedi
+
+Basta comunicare città o raggruppamento come riportato in copertina, l'anno riportato in copertina, e
+mese e anno del colophon se presenti. Una fotografia della copertina e del colophon è utile ma non
+indispensabile. Il colophon, ossia le note tipografiche, si trova di norma **in verticale sul lato
+sinistro della copertina, oppure nella prima pagina**.
+
+Le segnalazioni si inviano aprendo una richiesta nel repository, oppure scrivendo all'indirizzo indicato
+in fondo a questa pagina.
+
+### Cedere o donare fascicoli
+
+La raccolta da cui nasce questo lavoro è in costante ampliamento, e **sono interessato a ricevere altri
+fascicoli**: singoli esemplari, lotti o interi blocchi. Accetto volentieri donazioni e sono eventualmente
+disponibile anche all'acquisto, a prezzi ragionevoli.
+
+Non è un'attività commerciale: lo scopo è estendere il censimento e raccogliere dati su un prodotto
+editoriale di cui non esiste documentazione pubblica. Ogni fascicolo che entra nella raccolta viene
+esaminato e i suoi dati confluiscono in questa risorsa, che resta liberamente consultabile e riusabile.
+
+Sono particolarmente utili le annate **dal 1998 al 2002**, dove si concentra quasi tutta l'incertezza
+del censimento, e i fascicoli **anteriori al 1990**, sui quali le informazioni disponibili sono più
+scarse perché quasi nessuna biblioteca li ha conservati.
+
+Non si tratta però di oggetti rari. TuttoCittà arrivava gratuitamente a ogni abbonato al telefono, con
+una diffusione capillare su tutto il territorio, e moltissime copie sono semplicemente rimaste dove
+erano state posate: in un cassetto, in cantina, in soffitta. Gli oltre 1.200 fascicoli di questa
+raccolta, più della metà dell'intera produzione, sono stati recuperati quasi per intero **a partire dal
+2020**, a decenni di distanza dalla pubblicazione. Vale la pena guardare: è molto probabile che in
+casa ce ne sia uno.
+
+Se hai fascicoli di cui vorresti liberarti, scrivimi prima di buttarli: anche un esemplare in cattive
+condizioni porta con sé un colophon, una copertina e un anno, e può chiudere una casella rimasta vuota
+per quarant'anni.

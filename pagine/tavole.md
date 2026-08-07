@@ -22,6 +22,33 @@ nomi, indirizzi e recapiti di attività d'epoca senza alcuna necessità document
 | <span class="pastiglia" style="background:#A9B4BC"></span> | Grigio cromatico | 2000/01 → 2008/09 |
 | <span class="pastiglia" style="background:#F0C6C6"></span> | Rosa | 2009/10 → 2014/15 |
 
+## La riforma cartografica delle dieci città maggiori
+
+Il colore non è l'unica cosa che cambiò. A metà dell'annata 1985/86 le tavole delle **dieci città
+maggiori d'Italia** secondo il censimento del 1981 furono ridisegnate da capo, e fu il cambiamento più
+profondo che la cartografia di TuttoCittà abbia conosciuto.
+
+Fino ad allora quelle tavole derivavano dai vecchi **stradari SEAT** sviluppati all'inizio degli anni
+settanta e inclusi nelle Pagine Gialle. La loro organizzazione procedeva dalle zone centrali verso le
+aree periferiche in modo disomogeneo, e porzioni diverse della stessa città erano spesso rappresentate a
+scale differenti: confrontare due tavole contigue non era immediato.
+
+Dalla seconda metà dell'annata 1985/86 l'impianto fu riorganizzato su basi razionali. La successione
+delle tavole segue l'andamento **da nordovest a sudest**, e le scale si riducono a poche misure fisse,
+di norma da due a quattro per l'intera città. Il quadro d'unione, cioè lo schema che mostra come le
+tavole si dispongono sul territorio, rende la differenza evidente a colpo d'occhio.
+
+<div class="galleria quadri">
+  <figure><img src="../immagini/FI85.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze prima della riforma, fascicolo del 1985" loading="lazy"><figcaption><b>Prima della riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 85<br>annata 1985/86</span></figcaption></figure>
+  <figure><img src="../immagini/FI86.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze dopo la riforma, fascicolo del 1986" loading="lazy"><figcaption><b>Dopo la riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 86<br>annata 1985/86</span></figcaption></figure>
+</div>
+
+La riforma riguardò le sole dieci città maggiori, che per tre annate ebbero anche una copertina distinta
+dalle altre — la cosiddetta *serie edifici*, visibile nella
+[galleria delle copertine](copertine.md).
+
+## Le quattro fasi cromatiche
+
 Le date indicano la fase prevalente: il passaggio non fu simultaneo per tutte le edizioni, e nell'annata
 2000/01 le due tinte grigie convivono, così come nell'annata 2009/10 convivono grigio cromatico e rosa.
 Il dettaglio per singola copertina è in [`copertine_per_annata.csv`](../dati/copertine_per_annata.csv).
