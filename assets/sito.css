@@ -42,7 +42,8 @@ table.cop { font-size:14px; }
 .galleria figcaption { max-width:240px; }
 .galleria.tavole { flex-wrap:nowrap; overflow-x:auto; align-items:flex-start; }
 .galleria.tavole figure { width:auto; flex:0 0 auto; }
-.galleria.tavole img { height:235px; width:auto; }
+.galleria.tavole { margin:16px 0; }
+.galleria.tavole img { height:300px; width:auto; }
 .galleria.tavole figcaption { max-width:300px; }
 .galleria.quadri figure { width:auto; }
 .galleria.quadri img { height:420px; width:auto; }
