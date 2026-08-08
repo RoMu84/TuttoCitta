@@ -7,6 +7,7 @@ Gialle pubblicato da SEAT dal 1981 al 2014: **1990 fascicoli accertati** su 34 a
 - **[Introduzione e convenzioni di lettura](pagine/index.md)** — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento
 - **[Le copertine, annata per annata](pagine/copertine.md)** — la galleria delle copertine con formati e conteggi
 - **[L'evoluzione delle tavole cartografiche](pagine/tavole.md)** — la stessa città attraverso le quattro fasi cromatiche
+- **[Cerca nei dati](pagine/cerca-fascicoli.md)** — interroga il censimento e l'indice delle località direttamente dal browser
 - **[Le note dell'editore](pagine/note-editore.md)** — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma
 - **[Questioni aperte](pagine/questioni-aperte.md)** — ciò che ancora non sappiamo, come segnalarlo e come contribuire
 - **[Rapporto di integrità](CONTROLLI.md)** — controlli, scostamenti e criteri di attribuzione

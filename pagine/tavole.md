@@ -8,9 +8,12 @@ Le immagini sono ritagliate sulla sola area cartografica. I bordi delle tavole o
 pubblicitarie degli esercizi locali, che non hanno rilievo per il confronto e che avrebbero introdotto
 nomi, indirizzi e recapiti di attività d'epoca senza alcuna necessità documentaria.
 
-<div class="galleria tavole">
+
+<div class="galleria tavole r1">
   <figure><img src="../immagini/Jesi82.jpg" alt="Tavola topografica di Jesi, 1982/83, tavole arancione" loading="lazy"><figcaption><b>Arancione</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona - Pesaro - Urbino 82<br>annata 1982/83</span></figcaption></figure>
   <figure><img src="../immagini/Jesi90.jpg" alt="Tavola topografica di Jesi, 1990/91, tavole grigio" loading="lazy"><figcaption><b>Grigio</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona 90/91<br>annata 1990/91</span></figcaption></figure>
+</div>
+<div class="galleria tavole r2">
   <figure><img src="../immagini/Jesi04.jpg" alt="Tavola topografica di Jesi, 2004/05, tavole grigio cromatico" loading="lazy"><figcaption><b>Grigio cromatico</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona 2004<br>annata 2004/05</span></figcaption></figure>
   <figure><img src="../immagini/Jesi10.jpg" alt="Tavola topografica di Jesi, 2009/10, tavole rosa" loading="lazy"><figcaption><b>Rosa</b><br>Tavola topografica di Jesi<br><span class="dim">tratta dal fascicolo Ancona 2009/2010<br>annata 2009/10</span></figcaption></figure>
 </div>
@@ -21,6 +24,12 @@ nomi, indirizzi e recapiti di attività d'epoca senza alcuna necessità document
 | <span class="pastiglia" style="background:#BDBDBD"></span> | Grigio | 1990/91 → 1999/00 |
 | <span class="pastiglia" style="background:#A9B4BC"></span> | Grigio cromatico | 2000/01 → 2008/09 |
 | <span class="pastiglia" style="background:#F0C6C6"></span> | Rosa | 2009/10 → 2014/15 |
+
+## Le quattro fasi cromatiche
+
+Le date indicano la fase prevalente: il passaggio non fu simultaneo per tutte le edizioni, e nell'annata
+2000/01 le due tinte grigie convivono, così come nell'annata 2009/10 convivono grigio cromatico e rosa.
+Il dettaglio per singola copertina è in [`copertine_per_annata.csv`](../dati/copertine_per_annata.csv).
 
 ## La riforma cartografica delle dieci città maggiori
 
@@ -40,18 +49,12 @@ tavole si dispongono sul territorio, rende la differenza evidente a colpo d'occh
 
 <div class="galleria quadri">
   <figure><img src="../immagini/FI85.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze prima della riforma, fascicolo del 1985" loading="lazy"><figcaption><b>Prima della riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 85<br>annata 1985/86</span></figcaption></figure>
-  <figure><img src="../immagini/FI86.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze dopo la riforma, fascicolo del 1986" loading="lazy"><figcaption><b>Dopo la riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 86<br>annata 1985/86</span></figcaption></figure>
+  <figure><img src="../immagini/FI86.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze dopo la riforma, fascicolo del 1986" loading="lazy"><figcaption><b>Dopo la riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 86<br>annata 1986/87</span></figcaption></figure>
 </div>
 
-La riforma riguardò le sole dieci città maggiori, che per tre annate ebbero anche una copertina distinta
+La riforma riguardò le sole dieci città maggiori, che per quattro o cinque annate (a seconda dell'appartenenza rispettivamente alla serie *iniziale* o alla serie *tardiva*) ebbero anche una copertina distinta
 dalle altre — la cosiddetta *serie edifici*, visibile nella
 [galleria delle copertine](copertine.md).
-
-## Le quattro fasi cromatiche
-
-Le date indicano la fase prevalente: il passaggio non fu simultaneo per tutte le edizioni, e nell'annata
-2000/01 le due tinte grigie convivono, così come nell'annata 2009/10 convivono grigio cromatico e rosa.
-Il dettaglio per singola copertina è in [`copertine_per_annata.csv`](../dati/copertine_per_annata.csv).
 
 ---
 

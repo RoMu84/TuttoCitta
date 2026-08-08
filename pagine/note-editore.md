@@ -1,7 +1,7 @@
 # Le note dell'editore
 
 Le altre pagine di questo sito ricostruiscono TuttoCittà dall'esterno, contando fascicoli e confrontando
-copertine. Qui invece parla l'editore. Sono due sole note, ma cadono nei due momenti che contano: la
+copertine. Qui invece parla l'editore. Sono due sole note, ma cadono in due momenti fondamentali: la
 nascita del prodotto e la sua prima grande riforma.
 
 ## 1981: la presentazione di un prodotto nuovo
