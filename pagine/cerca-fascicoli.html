@@ -27,7 +27,9 @@
 <main>
 <h1 id="cerca-fra-i-fascicoli">Cerca fra i fascicoli</h1>
 <p>Interroga il censimento completo: 3.944 combinazioni di fascicolo e annata, con lo stato di
-pubblicazione, l'anno riportato in copertina e il tipo di copertina.</p>
+pubblicazione, l'anno riportato in copertina e il tipo di copertina. Il nome mostrato è la
+<strong>denominazione in vigore in quell'annata</strong>; dove differisce, sotto compare il nome con cui il fascicolo
+è censito nella sua continuità.</p>
 <p><a href="cerca-localita.html">Cerca invece una località →</a></p>
 <div class="cerca">
   <input type="search" id="q" placeholder="Fascicolo o tipo di copertina" autocomplete="off">
@@ -75,7 +77,7 @@ function ordinaAnnate(a){ return a.sort(function(x,y){
   return (fx>=80?0:1)-(fy>=80?0:1) || fx-fy; }); }
 fetch('../dati/fascicoli_lungo.csv').then(function(r){return r.text();}).then(function(t){
   dati=parseCSV(t);
-  dati.forEach(function(d){ d._n=norm(d.fascicolo+' '+d.tipo_copertina); });
+  dati.forEach(function(d){ d._n=norm((d.denominazione||'')+' '+d.fascicolo+' '+d.tipo_copertina); });
   opzioni(reg, unici('regione'), 'seleziona regione');
   opzioni(ann, ordinaAnnate(unici('annata')), 'tutte le annate');
   opzioni(sta, unici('stato'), 'tutti gli stati');
@@ -97,16 +99,19 @@ function mostra(){
     return true;
   });
   stato.textContent = out.length ? out.length+' risultati' : 'Nessun risultato.';
-  var max=out.slice(0,300);
+  var max=out.slice(0,350);
   ris.innerHTML='<thead><tr><th>regione</th><th>fascicolo</th><th>annata</th><th>stato</th>'
     + '<th>anno di copertina</th><th>tipo di copertina</th></tr></thead><tbody>'
     + max.map(function(x){
         var col=x.colore_esadecimale ? ' style="border-left:6px solid '+x.colore_esadecimale+'"' : '';
-        return '<tr><td>'+x.regione+'</td><td'+col+'><b>'+x.fascicolo+'</b></td><td>'+x.annata+'</td><td>'
+        var nome=x.denominazione||x.fascicolo;
+        var extra=(x.denominazione && x.denominazione!==x.fascicolo)
+          ? '<br><span class="dim">censito come: '+x.fascicolo+'</span>' : '';
+        return '<tr><td>'+x.regione+'</td><td'+col+'><b>'+nome+'</b>'+extra+'</td><td>'+x.annata+'</td><td>'
           + x.stato.replace(/_/g,' ')+'</td><td>'+(x.anno_copertina||'—')+'</td><td>'
           + (x.tipo_copertina||'—')+'</td></tr>';
       }).join('') + '</tbody>';
-  if(out.length>300) stato.textContent += ' (ne sono mostrati i primi 300)';
+  if(out.length>350) stato.textContent += ' (ne sono mostrati i primi 350)';
 }
 [q,reg,ann,sta].forEach(function(e){ e.addEventListener('input',mostra); });
 </script>

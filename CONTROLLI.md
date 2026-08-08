@@ -12,6 +12,37 @@ Annate con scostamento: **1** su 34.
 
 Uno scostamento positivo significa che la matrice registra più fascicoli del totale dichiarato: possibile doppio conteggio fra una riga di raggruppamento e le righe delle sue componenti nella stessa annata. Uno scostamento negativo significa che il totale dichiarato è una stima superiore a quanto la matrice attesti.
 
+## La denominazione in vigore per annata
+
+Il censimento identifica ogni fascicolo con un nome stabile lungo tutta la sua storia, perché un
+periodico che cambia titolo resta lo stesso periodico. Il campo `denominazione` del CSV lungo riporta
+invece **il titolo in vigore in quella singola annata**, e differisce dal nome di censimento in 234 celle
+su 1.990.
+
+Le variazioni sono di due tipi. Le **variazioni di raggruppamento** seguono le riforme amministrative:
+Como diventa Como-Lecco dall'annata 95/96, Cagliari acquisisce Carbonia-Iglesias e Medio Campidano dalla
+09/10, Bari diventa Bari-Barletta Andria Trani dalla 10/11, e così per Novara, Vercelli, Catanzaro,
+Forlì, Prato e Monza. Il fascicolo però non cambiò perimetro: la cartografia di Lecco era già dentro
+quella di Como prima che la provincia esistesse.
+
+Le **variazioni di suffisso** riguardano le dieci città maggiori e seguono esattamente l'ingresso e
+l'uscita dalla serie edifici, che è riconoscibile dal colore della copertina. Prima il titolo è «e comuni
+limitrofi»; durante la serie edifici il suffisso sparisce, perché la copertina elencava i comuni come
+sottotitolo; dopo diventa «e dintorni». Torino esce dalla serie dopo l'annata 88/89 e assume «e
+dintorni» già nell'89/90, le altre città un anno più tardi. Roma e Bologna non ebbero mai «e comuni
+limitrofi».
+
+Le denominazioni sono ricavate incrociando il censimento con il database della raccolta, che registra i
+titoli annata per annata, accettando solo i candidati che contengono tutte le parole del nome di
+censimento — un vincolo necessario, perché un confronto per semplice somiglianza produceva accostamenti
+errati come «Aosta» con «Asti» o «Catanzaro» con «Catania». Due normalizzazioni sono applicate: la
+grafia «L'Aquila-Teramo» è ricondotta a «L'Aquila - Teramo», e un'annotazione interna del compilatore
+sull'incertezza di Orvieto nell'annata 83/84 è sostituita dal nome di censimento, poiché quella
+incertezza è documentata fra le questioni aperte.
+
+Le tabelle regionali continuano a mostrare il nome di censimento, perché ciascuna riga attraversa tutte
+le annate.
+
 ## Correzioni applicate dopo l'estrazione
 
 **Nessuna.** Tutti i dati derivano direttamente dal foglio di origine: il pacchetto è riproducibile

@@ -88,14 +88,14 @@ function mostra(){
     return true;
   });
   stato.textContent = out.length ? out.length+' risultati' : 'Nessun risultato.';
-  var max=out.slice(0,300);
+  var max=out.slice(0,350);
   ris.innerHTML='<thead><tr><th>località</th><th>fascicolo</th><th>capoluogo</th><th>indicizzata</th>'
     + DEC.map(function(x){return '<th>'+x+'</th>';}).join('') + '</tr></thead><tbody>'
     + max.map(function(x){
         return '<tr><td><b>'+x.localita+'</b></td><td>'+x.fascicolo+'</td><td>'+x.capoluogo+'</td><td>'
           + x.indicizzata+'</td>'+DEC.map(function(k){return '<td>'+(x[k]==='sì'?'●':'')+'</td>';}).join('')+'</tr>';
       }).join('') + '</tbody>';
-  if(out.length>300) stato.textContent += ' (ne sono mostrati i primi 300)';
+  if(out.length>350) stato.textContent += ' (ne sono mostrati i primi 350)';
 }
 [q,dec,cap].forEach(function(e){ e.addEventListener('input',mostra); });
 </script>
