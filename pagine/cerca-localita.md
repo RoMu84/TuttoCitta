@@ -66,7 +66,7 @@ function mostra(){
   stato.textContent = out.length ? out.length+' risultati' : 'Nessun risultato.';
   var max=out.slice(0,300);
   ris.innerHTML='<thead><tr><th>località</th><th>fascicolo</th><th>capoluogo</th><th>indicizzata</th>'
-    + DEC.map(function(x){return '<th>'+x.replace('anni ','')+'</th>';}).join('') + '</tr></thead><tbody>'
+    + DEC.map(function(x){return '<th>'+x+'</th>';}).join('') + '</tr></thead><tbody>'
     + max.map(function(x){
         return '<tr><td><b>'+x.localita+'</b></td><td>'+x.fascicolo+'</td><td>'+x.capoluogo+'</td><td>'
           + x.indicizzata+'</td>'+DEC.map(function(k){return '<td>'+(x[k]==='sì'?'●':'')+'</td>';}).join('')+'</tr>';

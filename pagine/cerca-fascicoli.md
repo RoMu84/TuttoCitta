@@ -45,17 +45,26 @@ var dati=[], q=document.getElementById('q'), reg=document.getElementById('reg'),
     ann=document.getElementById('ann'), sta=document.getElementById('sta'),
     stato=document.getElementById('stato'), ris=document.getElementById('ris');
 function unici(k){ var s={}; dati.forEach(function(d){ if(d[k]) s[d[k]]=1; }); return Object.keys(s).sort(); }
+/* Le annate vanno ordinate cronologicamente: 81/82 precede 00/01, non il contrario. */
+function ordinaAnnate(a){ return a.sort(function(x,y){
+  var fx=+x.slice(0,2), fy=+y.slice(0,2);
+  return (fx>=80?0:1)-(fy>=80?0:1) || fx-fy; }); }
 fetch('../dati/fascicoli_lungo.csv').then(function(r){return r.text();}).then(function(t){
   dati=parseCSV(t);
   dati.forEach(function(d){ d._n=norm(d.fascicolo+' '+d.tipo_copertina); });
-  opzioni(reg, unici('regione'), 'tutte le regioni');
-  opzioni(ann, unici('annata'), 'tutte le annate');
+  opzioni(reg, unici('regione'), 'seleziona regione');
+  opzioni(ann, ordinaAnnate(unici('annata')), 'tutte le annate');
   opzioni(sta, unici('stato'), 'tutti gli stati');
   sta.value='pubblicato'; mostra();
 }).catch(function(){ stato.textContent='Impossibile caricare i dati.'; });
 
 function mostra(){
   var s=norm(q.value);
+  if(!reg.value){
+    ris.innerHTML='';
+    stato.textContent='Seleziona una regione per vedere i fascicoli.';
+    return;
+  }
   var out=dati.filter(function(x){
     if(s.length>=2 && x._n.indexOf(s)<0) return false;
     if(reg.value && x.regione!==reg.value) return false;
