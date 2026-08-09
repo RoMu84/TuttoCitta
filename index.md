@@ -53,6 +53,16 @@ Gialle pubblicato da SEAT dal 1981 al 2014: **1990 fascicoli accertati** su 34 a
 - [`attributi_grafici_per_annata.csv`](dati/attributi_grafici_per_annata.csv) — sfondo mappe, cornice, foto stradario
 - [`comuni_per_fascicolo.csv`](dati/comuni_per_fascicolo.csv) — indice delle località mappate, per decennio
 
+## TuttoCittà oggi
+
+Il fascicolo cartaceo cessò con l'annata 2014/15, ma il nome non è scomparso:
+**[tuttocitta.it](https://www.tuttocitta.it/)** è oggi un servizio online di mappe, percorsi, ricerca di
+attività commerciali e informazioni sul traffico. Appartiene a **Italiaonline S.p.A.**, la società che ha
+ereditato marchi e attività di SEAT Pagine Gialle, e affianca PagineGialle e PagineBianche.
+
+Questa risorsa **non è affiliata** a Italiaonline né al servizio online, e non ne rappresenta la
+continuazione: documenta il prodotto editoriale a stampa pubblicato fra il 1981 e il 2014.
+
 ## Licenza e citazione
 
 Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
@@ -62,6 +72,6 @@ Zenodo. DOI: [10.5281/zenodo.21820763](https://doi.org/10.5281/zenodo.21820763)
 
 **Le riproduzioni e le trascrizioni fanno eccezione.** Le fotografie di copertine e di cartografia e le
 trascrizioni dei testi dell'editore sono pubblicate a fini di identificazione e studio documentario, ma i
-diritti sulle opere riprodotte appartengono all'editore: chi cura questa risorsa **non ne detiene alcun
-diritto e non li concede in licenza**. Non sono incluse nel deposito Zenodo e possono essere rimosse su
+diritti sulle opere riprodotte appartengono all'editore, oggi Italiaonline S.p.A.: chi cura questa
+risorsa **non ne detiene alcun diritto e non li concede in licenza**. Non sono incluse nel deposito Zenodo e possono essere rimosse su
 richiesta, aprendo una segnalazione nel repository.

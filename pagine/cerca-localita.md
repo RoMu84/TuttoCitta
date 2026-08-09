@@ -1,7 +1,7 @@
 # Cerca una località
 
 Cerca il nome di un comune, di una frazione o di una zona e scopri **in quale fascicolo di TuttoCittà
-compariva la sua cartografia**, e in quali decenni. L'indice raccoglie 1.012 località rilevate sugli
+compariva la sua cartografia**, e in quali decenni. L'indice raccoglie 1.061 località rilevate sugli
 esemplari della raccolta.
 
 [Cerca invece fra i fascicoli →](cerca-fascicoli.md)

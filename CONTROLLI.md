@@ -95,7 +95,7 @@ Sono **21**:
 - Piemonte · Cuneo · annata 99/00
 - Piemonte · Provincia di Torino · annata 98/99
 - Piemonte · Provincia di Torino · annata 99/00
-- Toscana · Provincia di Firenze (Prato - Provincia di Firenze dal 1995) · annata 99/00
+- Toscana · Prato - Provincia di Firenze · annata 99/00
 - Trentino - Alto Adige · Trento · annata 98/99
 - Trentino - Alto Adige · Trento · annata 99/00
 - Veneto · Rovigo · annata 98/99

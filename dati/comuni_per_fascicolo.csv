@@ -31,14 +31,15 @@ Alessandria - Asti,Ovada,no,sì,,sì,,,
 Alessandria - Asti,Tortona,no,sì,,sì,,,
 Alessandria - Asti,Valenza,no,sì,,sì,,,
 Ancona,ANCONA,sì,sì,,sì,sì,sì,
-Ancona,Castelfidardo,no,sì,,,,sì,
-Ancona,Fabriano,no,sì,,sì,sì,sì,
-Ancona,Falconara Marittima,no,sì,,,sì,sì,
-Ancona,Jesi,no,sì,,sì,sì,sì,
-Ancona,Osimo,no,sì,,sì,sì,sì,
-Ancona,Porto Recanati,no,sì,MC,,,sì,
+Ancona,Ancona,sì,sì,,,,,sì
+Ancona,Castelfidardo,no,sì,,,,sì,sì
+Ancona,Fabriano,no,sì,,sì,sì,sì,sì
+Ancona,Falconara Marittima,no,sì,,,sì,sì,sì
+Ancona,Jesi,no,sì,,sì,sì,sì,sì
+Ancona,Osimo,no,sì,,sì,sì,sì,sì
+Ancona,Porto Recanati,no,sì,MC,,,sì,sì
 Ancona,Recanati,no,sì,MC,,sì,sì,
-Ancona,Senigallia,no,sì,,sì,sì,sì,
+Ancona,Senigallia,no,sì,,sì,sì,sì,sì
 Ancona - Pesaro - Urbino,ANCONA,sì,sì,,sì,,,
 Ancona - Pesaro - Urbino,Fabriano,no,sì,,sì,,,
 Ancona - Pesaro - Urbino,Fano,no,sì,,sì,,,
@@ -72,10 +73,12 @@ Ascoli Piceno - Macerata,Civitanova Marche,no,no,,sì,,,
 Ascoli Piceno - Macerata,MACERATA,sì,sì,,sì,,,
 Ascoli Piceno - Macerata,San Benedetto del Tronto,no,sì,,sì,,,
 Asti,ASTI,sì,sì,,sì,sì,,
-Asti,Canelli,no,sì,,sì,sì,,
-Asti,Nizza Monferrato,no,sì,,sì,sì,,
-Asti,San Damiano d'Asti,no,in parte,,sì,sì,,
-Asti,Villanova d'Asti,no,sì,,sì,sì,,
+Asti,Asti,sì,sì,,,,,sì
+Asti,Canelli,no,sì,,sì,sì,,sì
+Asti,Moncalvo,no,sì,,,,,sì
+Asti,Nizza Monferrato,no,sì,,sì,sì,,sì
+Asti,San Damiano d'Asti,no,in parte,,sì,sì,,sì
+Asti,Villanova d'Asti,no,sì,,sì,sì,,sì
 Avellino - Salerno,AVELLINO,sì,sì,,sì,sì,,
 Avellino - Salerno,Agropoli,no,sì,,,sì,,
 Avellino - Salerno,Amalfi,no,no,,sì,,,
@@ -148,22 +151,23 @@ Bergamo,Almè,no,sì,,,sì,sì,
 Bergamo,Azzano San Paolo,no,sì,,,,sì,
 Bergamo,BERGAMO,sì,sì,,sì,sì,sì,
 Bergamo,Bariano,no,no,,sì,,,
+Bergamo,Bergamo,sì,sì,,,,,sì
 Bergamo,Calusco d'Adda,no,sì,,,,sì,
 Bergamo,Caravaggio,no,sì,,,sì,sì,
 Bergamo,Clusone,no,sì,,sì,sì,sì,
 Bergamo,Curno,no,sì,,,sì,sì,
-Bergamo,Dalmine,no,sì,,,sì,sì,
+Bergamo,Dalmine,no,sì,,,sì,sì,sì
 Bergamo,Gazzaniga,no,sì,,,sì,,
 Bergamo,Grassobbio,no,sì,,,sì,sì,
 Bergamo,Medolago,no,in parte,,,sì,sì,
 Bergamo,Nembro,no,sì,,,sì,sì,
 Bergamo,Osio Sotto,no,sì,,,sì,sì,
-Bergamo,Ponte San Pietro,no,sì,,,sì,sì,
+Bergamo,Ponte San Pietro,no,sì,,,sì,sì,sì
 Bergamo,Romano di Lombardia,no,sì,,sì,sì,sì,
 Bergamo,Sarnico,no,sì,,,,sì,
 Bergamo,Seriate,no,sì,,sì,sì,sì,
 Bergamo,Trescore Balneario,no,sì,,,sì,sì,
-Bergamo,Treviglio,no,sì,,sì,sì,sì,
+Bergamo,Treviglio,no,sì,,sì,sì,sì,sì
 Bergamo,Verdello,no,sì,,,sì,,
 Bergamo,Zingonia,no,sì,,,sì,,
 Bergamo,Zogno,no,sì,,,sì,sì,
@@ -188,29 +192,45 @@ Bologna e dintorni,Granarolo nell'Emilia,no,sì,,,,sì,sì
 Bologna e dintorni,San Lazzaro di Savena,no,sì,,sì,sì,sì,sì
 Bologna e dintorni,Villanova,no,sì,,,sì,sì,sì
 Bologna e dintorni,Zola Predosa,no,sì,,sì,sì,sì,sì
-Bolzano,Appiano,no,sì,,,sì,,
+Bolzano,Appiano,no,sì,,,sì,sì,
+Bolzano,Appiano sulla Strada del Vino,no,sì,,,,,sì
 Bolzano,BOLZANO,sì,sì,,sì,sì,,
-Bolzano,Bressanone,no,sì,,sì,sì,,
-Bolzano,Brunico,no,sì,,sì,sì,,
-Bolzano,Caldaro,no,sì,,,sì,,
-Bolzano,Laives,no,sì,,,sì,,
-Bolzano,Lana,no,sì,,,sì,,
-Bolzano,Merano,no,sì,,sì,sì,,
-Bolzano,Vipiteno,no,in parte,,sì,sì,,
+Bolzano,Bolzano,sì,sì,,,,sì,sì
+Bolzano,Bressanone,no,sì,,sì,sì,sì,sì
+Bolzano,Brunico,no,sì,,sì,sì,sì,
+Bolzano,Caldaro,no,sì,,,sì,sì,
+Bolzano,Laives,no,sì,,,sì,sì,sì
+Bolzano,Lana,no,sì,,,sì,sì,
+Bolzano,Merano,no,sì,,sì,sì,sì,sì
+Bolzano,Vipiteno,no,in parte,,sì,sì,sì,
 Brescia,BRESCIA,sì,sì,,sì,sì,,
-Brescia,Bagnolo Mella,no,sì,,,sì,,
-Brescia,Botticino,no,sì,,,sì,,
-Brescia,Chiari,no,sì,,sì,sì,,
-Brescia,Desenzano del Garda,no,sì,,sì,sì,,
-Brescia,Ghedi,no,sì,,,sì,,
+Brescia,Bagnolo Mella,no,sì,,,sì,sì,
+Brescia,Bedizzole,no,sì,,,,,sì
+Brescia,Botticino,no,sì,,,sì,sì,
+Brescia,Brescia,sì,sì,,,,sì,sì
+Brescia,Chiari,no,sì,,sì,sì,sì,
+Brescia,Clusane (frazione Iseo),no,sì,,,,,sì
+Brescia,Concesio,no,sì,,,,,sì
+Brescia,Darfo Boario Terme,no,sì,,,,,sì
+Brescia,Desenzano del Garda,no,sì,,sì,sì,sì,sì
+Brescia,Gardone Valtrompia,no,sì,,,,,sì
+Brescia,Ghedi,no,sì,,,sì,sì,
+Brescia,Gussago,no,sì,,,,,sì
+Brescia,Iseo,no,sì,,,,,sì
 Brescia,Lago d'Iseo,no,no,,sì,,,
 Brescia,Lago di Garda - Valtenesi,no,no,,sì,,,
-Brescia,Lumezzane,no,sì,,sì,sì,,
-Brescia,Manerbio,no,sì,,sì,sì,,
-Brescia,Montichiari,no,sì,,sì,sì,,
-Brescia,Palazzolo sull'Oglio,no,sì,,sì,sì,,
-Brescia,Rezzato,no,sì,,,sì,,
-Brescia,Salò,no,sì,,sì,sì,,
+Brescia,Lumezzane,no,sì,,sì,sì,sì,sì
+Brescia,Manerbio,no,sì,,sì,sì,sì,sì
+Brescia,Mazzano,no,sì,,,,,sì
+Brescia,Montichiari,no,sì,,sì,sì,sì,sì
+Brescia,Nave,no,sì,,,,,sì
+Brescia,Nuvolento,no,sì,,,,,sì
+Brescia,Nuvolera,no,sì,,,,,sì
+Brescia,Palazzolo sull'Oglio,no,sì,,sì,sì,sì,sì
+Brescia,Rezzato,no,sì,,,sì,sì,sì
+Brescia,Rovato,no,sì,,,,,sì
+Brescia,Salò,no,sì,,sì,sì,sì,sì
+Brescia,San Zeno Naviglio,no,sì,,,,,sì
 Brescia,Val Camonica,no,no,,sì,,,
 Brindisi,BRINDISI,sì,sì,,sì,sì,,
 Brindisi,Ceglie Messapica,no,in parte,,sì,sì,,
@@ -597,19 +617,20 @@ Latina,Formia,no,sì,,sì,sì,,
 Latina,Gaeta,no,sì,,sì,sì,,
 Latina,LATINA,sì,sì,,sì,sì,,
 Latina,Terracina,no,sì,,sì,sì,,
-Lecce,Campi Salentina,no,sì,,,sì,,
-Lecce,Casarano,no,in parte,,sì,sì,,
-Lecce,Copertino,no,sì,,,sì,,
-Lecce,Galatina,no,sì,,sì,sì,,
-Lecce,Galatone,no,sì,,sì,sì,,
-Lecce,Gallipoli,no,in parte,,sì,sì,,
+Lecce,Campi Salentina,no,sì,,,sì,sì,
+Lecce,Casarano,no,in parte,,sì,sì,sì,
+Lecce,Copertino,no,sì,,,sì,sì,
+Lecce,Galatina,no,sì,,sì,sì,sì,
+Lecce,Galatone,no,sì,,sì,sì,sì,
+Lecce,Gallipoli,no,in parte,,sì,sì,sì,
 Lecce,LECCE,sì,sì,,sì,sì,,
-Lecce,Maglie,no,in parte,,sì,sì,,
-Lecce,Nardò,no,sì,,sì,sì,,
-Lecce,Squinzano,no,sì,,,sì,,
-Lecce,Tricase,no,sì,,,sì,,
-Lecce,Tuglie,no,sì,,,sì,,
-Lecce,Veglie,no,sì,,,sì,,
+Lecce,Lecce,sì,sì,,,,sì,
+Lecce,Maglie,no,in parte,,sì,sì,sì,
+Lecce,Nardò,no,sì,,sì,sì,sì,
+Lecce,Squinzano,no,sì,,,sì,sì,
+Lecce,Tricase,no,sì,,,sì,sì,
+Lecce,Tuglie,no,sì,,,sì,sì,
+Lecce,Veglie,no,sì,,,sì,sì,
 Livorno,Castiglioncello,no,in parte,LI,sì,sì,,
 Livorno,Cecina,no,in parte,LI,sì,sì,,
 Livorno,Isola d'Elba,no,sì,,sì,sì,,
@@ -689,49 +710,61 @@ Lodi - Provincia di Milano Sud,Basiglio,no,sì,,,,sì,
 Lodi - Provincia di Milano Sud,Binasco,no,sì,,,,sì,
 Lodi - Provincia di Milano Sud,Carugate,no,sì,,,,sì,
 Lodi - Provincia di Milano Sud,Casorate Primo,no,sì,PV,,,sì,
-Lodi - Provincia di Milano Sud,Cassina de' Pecchi,no,sì,,,,sì,
+Lodi - Provincia di Milano Sud,Cassina de' Pecchi,no,sì,,,,sì,sì
 Lodi - Provincia di Milano Sud,Castelpusterlengo,no,sì,,,,sì,
-Lodi - Provincia di Milano Sud,Cernusco sul Naviglio,no,sì,,,,sì,
-Lodi - Provincia di Milano Sud,Codogno,no,sì,,,,sì,
+Lodi - Provincia di Milano Sud,Cernusco sul Naviglio,no,sì,,,,sì,sì
+Lodi - Provincia di Milano Sud,Codogno,no,sì,,,,sì,sì
 Lodi - Provincia di Milano Sud,Corbetta,no,sì,,,,sì,
 Lodi - Provincia di Milano Sud,Cusago,no,sì,,,,sì,
 Lodi - Provincia di Milano Sud,Gorgonzola,no,sì,,,,sì,
-Lodi - Provincia di Milano Sud,Inzago,no,sì,,,,sì,
+Lodi - Provincia di Milano Sud,Inzago,no,sì,,,,sì,sì
 Lodi - Provincia di Milano Sud,LODI,sì,sì,,,,sì,
-Lodi - Provincia di Milano Sud,Magenta,no,sì,,,,sì,
+Lodi - Provincia di Milano Sud,Lodi,sì,sì,,,,,sì
+Lodi - Provincia di Milano Sud,Magenta,no,sì,,,,sì,sì
 Lodi - Provincia di Milano Sud,Melegnano,no,sì,,,,sì,
-Lodi - Provincia di Milano Sud,Melzo,no,sì,,,,sì,
+Lodi - Provincia di Milano Sud,Melzo,no,sì,,,,sì,sì
 Lodi - Provincia di Milano Sud,Paullo,no,sì,,,,sì,
-Lodi - Provincia di Milano Sud,Pieve Emanuele,no,sì,,,,sì,
-Lodi - Provincia di Milano Sud,Pioltello,no,sì,,,,sì,
-Lodi - Provincia di Milano Sud,San Giuliano Milanese,no,sì,,,,sì,
+Lodi - Provincia di Milano Sud,Pieve Emanuele,no,sì,,,,sì,sì
+Lodi - Provincia di Milano Sud,Pioltello,no,sì,,,,sì,sì
+Lodi - Provincia di Milano Sud,San Giuliano Milanese,no,sì,,,,sì,sì
 Lodi - Provincia di Milano Sud,Sant'Angelo Lodigiano,no,sì,,,,sì,
 Lodi - Provincia di Milano Sud,Trezzo sull'Adda,no,sì,,,,sì,
 Lodi - Provincia di Milano Sud,Zibido San Giacomo,no,sì,,,,sì,
-Lucca - Massa - Carrara,Altopascio,no,in parte,LU,sì,sì,,
+Lucca - Massa - Carrara,Altopascio,no,in parte,LU,sì,sì,sì,
 Lucca - Massa - Carrara,Avenza,no,sì,,,sì,,
+Lucca - Massa - Carrara,Avenza e Marina di Carrara,no,sì,,,,sì,
 Lucca - Massa - Carrara,CARRARA,sì,sì,,sì,sì,,
-Lucca - Massa - Carrara,Forte dei Marmi,no,in parte,LU,sì,sì,,
+Lucca - Massa - Carrara,Carrara,sì,sì,,,,sì,sì
+Lucca - Massa - Carrara,Forte dei Marmi,no,in parte,LU,sì,sì,sì,
 Lucca - Massa - Carrara,LUCCA,sì,sì,,sì,sì,,
+Lucca - Massa - Carrara,Lido di Camaiore,no,sì,,,,sì,
 Lucca - Massa - Carrara,Lido di camaiore,no,sì,,,sì,,
+Lucca - Massa - Carrara,Lucca,sì,sì,,,,sì,sì
 Lucca - Massa - Carrara,MASSA,sì,sì,,sì,sì,,
 Lucca - Massa - Carrara,Marina di Carrara,no,sì,,,sì,,
 Lucca - Massa - Carrara,Marina di MAssa,no,no,MS,sì,,,
-Lucca - Massa - Carrara,Marina di Massa,no,sì,,,sì,,
-Lucca - Massa - Carrara,Marina di Pietrasanta,no,sì,,,sì,,
-Lucca - Massa - Carrara,Montignoso,no,sì,,,sì,,
+Lucca - Massa - Carrara,Marina di Massa,no,sì,,,sì,sì,
+Lucca - Massa - Carrara,Marina di Pietrasanta,no,sì,,,sì,sì,
+Lucca - Massa - Carrara,Massa,sì,sì,,,,sì,sì
+Lucca - Massa - Carrara,Montignoso,no,sì,,,sì,sì,
 Lucca - Massa - Carrara,Montignoso (Località Cinquale),no,sì,,,sì,,
-Lucca - Massa - Carrara,Pietrasanta,no,sì,,,sì,,
-Lucca - Massa - Carrara,Viareggio,no,sì,,sì,sì,,
+Lucca - Massa - Carrara,Pietrasanta,no,sì,,,sì,sì,
+Lucca - Massa - Carrara,Viareggio,no,sì,,sì,sì,sì,
 Macerata,Civitanova Marche,no,sì,,sì,sì,,
 Macerata,MACERATA,sì,sì,,sì,sì,,
 Macerata,Tolentino,no,sì,,sì,sì,,
+Mantova,Asola,no,sì,,,,,sì
+Mantova,Castel Goffredo,no,sì,,,,,sì
 Mantova,Castelgoffredo,no,sì,,,sì,,
-Mantova,Castiglione delle Stiviere,no,sì,,sì,sì,,
+Mantova,Castiglione delle Stiviere,no,sì,,sì,sì,,sì
+Mantova,Curtatone,no,sì,,,,,sì
+Mantova,Levata (frazione di Curtatone),no,sì,,,,,sì
 Mantova,MANTOVA,sì,sì,,sì,sì,,
+Mantova,Mantova,sì,sì,,,,,sì
 Mantova,Ostiglia,no,no,,sì,,,
-Mantova,Suzzara,no,sì,,sì,sì,,
-Mantova,Viadana,no,sì,,sì,sì,,
+Mantova,Suzzara,no,sì,,sì,sì,,sì
+Mantova,Viadana,no,sì,,sì,sì,,sì
+Mantova,Virgilio,no,sì,,,,,sì
 Matera - Potenza,MATERA,sì,sì,,sì,sì,,
 Matera - Potenza,POTENZA,sì,sì,,sì,sì,,
 Matera - Potenza,Policoro,no,in parte,MT,sì,sì,,
@@ -797,24 +830,26 @@ Milano e dintorni,Sesto San Giovanni,no,sì,,sì,sì,sì,sì
 Milano e dintorni,Settimo Milanese,no,sì,,sì,sì,sì,sì
 Milano e dintorni,Trezzano sul Naviglio,no,sì,,sì,sì,sì,
 Milano e dintorni,Vimodrone,no,sì,,sì,sì,sì,
+Modena,Bomporto,no,sì,,,,,sì
 Modena,Campogalliano,no,sì,,,,sì,
-Modena,Carpi,no,sì,,sì,sì,sì,
-Modena,Castelfranco Emilia,no,sì,,,sì,sì,
+Modena,Carpi,no,sì,,sì,sì,sì,sì
+Modena,Castelfranco Emilia,no,sì,,,sì,sì,sì
 Modena,Castellarano,no,in parte,,sì,,,
-Modena,Castelnuovo Rangone,no,in parte,,sì,sì,sì,
-Modena,Finale Emilia,no,sì,,,sì,sì,
-Modena,Fiorano Modenese,no,sì,,sì,sì,sì,
-Modena,Formigine,no,sì,,sì,sì,sì,
+Modena,Castelnuovo Rangone,no,in parte,,sì,sì,sì,sì
+Modena,Finale Emilia,no,sì,,,sì,sì,sì
+Modena,Fiorano Modenese,no,sì,,sì,sì,sì,sì
+Modena,Formigine,no,sì,,sì,sì,sì,sì
 Modena,MODENA,sì,sì,,sì,sì,sì,
-Modena,Maranello,no,in parte,,sì,sì,sì,
-Modena,Mirandola,no,in parte,,sì,sì,sì,
-Modena,Nonantola,no,sì,,,,sì,
+Modena,Maranello,no,in parte,,sì,sì,sì,sì
+Modena,Mirandola,no,in parte,,sì,sì,sì,sì
+Modena,Modena,sì,sì,,,,,sì
+Modena,Nonantola,no,sì,,,,sì,sì
 Modena,Pavullo,no,no,,sì,,,
-Modena,Pavullo nel Frignano,no,sì,,,sì,sì,
-Modena,Sassuolo,no,sì,,sì,sì,sì,
-Modena,Soliera,no,in parte,,sì,sì,sì,
-Modena,Spilamberto,no,sì,,sì,sì,sì,
-Modena,Vignola,no,sì,,sì,sì,sì,
+Modena,Pavullo nel Frignano,no,sì,,,sì,sì,sì
+Modena,Sassuolo,no,sì,,sì,sì,sì,sì
+Modena,Soliera,no,in parte,,sì,sì,sì,sì
+Modena,Spilamberto,no,sì,,sì,sì,sì,sì
+Modena,Vignola,no,sì,,sì,sì,sì,sì
 Monza e Brianza - Provincia di Milano Nord,Agrate Brianza,no,sì,,,,,sì
 Monza e Brianza - Provincia di Milano Nord,Brugherio,no,sì,,,,,sì
 Monza e Brianza - Provincia di Milano Nord,Cesano Maderno,no,sì,,,,,sì
@@ -910,29 +945,33 @@ Palermo,Monreale,no,sì,,,sì,sì,
 Palermo,PALERMO,sì,sì,,sì,sì,sì,sì
 Palermo,Partinico,no,sì,,,sì,sì,
 Palermo,Termini Imerese,no,sì,,sì,sì,sì,sì
-Parma,Collecchio,no,in parte,,sì,sì,,
-Parma,Colorno,no,sì,,,sì,,
-Parma,Felino,no,in parte,,sì,sì,,
-Parma,Fidenza,no,sì,,sì,sì,,
-Parma,Fontanellato,no,sì,,,sì,,
-Parma,Fornovo di Taro,no,sì,,,sì,,
-Parma,Langhirano,no,sì,,,sì,,
-Parma,Noceto,no,sì,,,sì,,
+Parma,Collecchio,no,in parte,,sì,sì,sì,
+Parma,Colorno,no,sì,,,sì,sì,sì
+Parma,Felino,no,in parte,,sì,sì,sì,sì
+Parma,Fidenza,no,sì,,sì,sì,sì,sì
+Parma,Fontanellato,no,sì,,,sì,sì,
+Parma,Fornovo di Taro,no,sì,,,sì,sì,
+Parma,Langhirano,no,sì,,,sì,sì,sì
+Parma,Noceto,no,sì,,,sì,sì,
 Parma,PARMA,sì,sì,,sì,sì,,
-Parma,Sala Baganza,no,sì,,,sì,,
-Parma,Salsomaggiore Terme,no,sì,,sì,sì,,
-Parma,Traversetolo,no,in parte,,sì,sì,,
+Parma,Parma,sì,sì,,,,sì,sì
+Parma,Pilastro,no,sì,,,,,sì
+Parma,Sala Baganza,no,sì,,,sì,sì,
+Parma,Salsomaggiore Terme,no,sì,,sì,sì,sì,sì
+Parma,San Polo,no,sì,,,,,sì
+Parma,Traversetolo,no,in parte,,sì,sì,sì,sì
 Pavia,Belgioioso,no,sì,,sì,sì,sì,
 Pavia,Broni,no,sì,,sì,sì,sì,
-Pavia,Casteggio,no,in parte,,sì,sì,sì,
-Pavia,Garlasco,no,sì,,sì,sì,sì,
-Pavia,Mede,no,in parte,,sì,sì,sì,
-Pavia,Mortara,no,sì,,sì,sì,sì,
+Pavia,Casteggio,no,in parte,,sì,sì,sì,sì
+Pavia,Garlasco,no,sì,,sì,sì,sì,sì
+Pavia,Mede,no,in parte,,sì,sì,sì,sì
+Pavia,Mortara,no,sì,,sì,sì,sì,sì
 Pavia,PAVIA,sì,sì,,sì,sì,sì,
+Pavia,Pavia,sì,sì,,,,,sì
 Pavia,Robbio,no,in parte,,sì,sì,,
-Pavia,Stradella,no,sì,,sì,sì,sì,
-Pavia,Vigevano,no,sì,,sì,sì,sì,
-Pavia,Voghera,no,sì,,sì,sì,sì,
+Pavia,Stradella,no,sì,,sì,sì,sì,sì
+Pavia,Vigevano,no,sì,,sì,sì,sì,sì
+Pavia,Voghera,no,sì,,sì,sì,sì,sì
 Perugia,Assisi,no,sì,,sì,sì,,
 Perugia,Bastia Umbra,no,sì,,,sì,,
 Perugia,Città di Castello,no,sì,,sì,sì,,
@@ -959,30 +998,35 @@ Pesaro - Urbino,Fano,no,sì,,sì,sì,,
 Pesaro - Urbino,PESARO,sì,sì,,sì,sì,,
 Pesaro - Urbino,Sant'Angelo in Lizzola,no,sì,,,sì,,
 Pesaro - Urbino,URBINO,sì,sì,,sì,sì,,
+Piacenza,Bobbio,no,sì,,,,,sì
 Piacenza,Borgonova Val Tidone,no,sì,,,sì,,
-Piacenza,Cadeo,no,sì,,,sì,,
-Piacenza,Caorso,no,sì,,,sì,,
-Piacenza,Carpaneto Piacentino,no,sì,,,sì,,
-Piacenza,Castel San Giovanni,no,sì,,sì,sì,,
-Piacenza,Castell'Arquato,no,sì,,,sì,,
-Piacenza,Fiorenzuola D'Arda,no,sì,,,sì,,
+Piacenza,Borgonovo Val Tidone,no,sì,,,,sì,
+Piacenza,Cadeo,no,sì,,,sì,sì,
+Piacenza,Caorso,no,sì,,,sì,sì,
+Piacenza,Carpaneto Piacentino,no,sì,,,sì,sì,sì
+Piacenza,Castel San Giovanni,no,sì,,sì,sì,sì,
+Piacenza,Castell'Arquato,no,sì,,,sì,sì,
+Piacenza,Fiorenzuola D'Arda,no,sì,,,sì,sì,sì
 Piacenza,Fiorenzuola d'Arda,no,sì,,sì,sì,,
-Piacenza,Monticelli D'Ongina,no,sì,,,sì,,
+Piacenza,Monticelli D'Ongina,no,sì,,,sì,sì,
 Piacenza,PIACENZA,sì,sì,,sì,sì,,
-Piacenza,Podenzano,no,sì,,,sì,,
-Piacenza,Ponte dell'Olio,no,sì,,,sì,,
-Piacenza,Rivergaro,no,sì,,,sì,,
-Piacenza,Rottofreno,no,sì,,,sì,,
-Piacenza,Vigolzone,no,sì,,,sì,,
-Pisa,Bientina,no,sì,,,,sì,
-Pisa,Calcinaia,no,sì,,,,sì,
-Pisa,Cascina,no,sì,,,sì,sì,
-Pisa,Fornacette,no,sì,,,,sì,
+Piacenza,Piacenza,sì,sì,,,,sì,sì
+Piacenza,Podenzano,no,sì,,,sì,sì,sì
+Piacenza,Ponte dell'Olio,no,sì,,,sì,sì,sì
+Piacenza,Rivergaro,no,sì,,,sì,sì,
+Piacenza,Rottofreno,no,sì,,,sì,sì,
+Piacenza,Rottofreno - San Nicolò a Trebbia,no,sì,,,,,sì
+Piacenza,Vigolzone,no,sì,,,sì,sì,
+Pisa,Bientina,no,sì,,,,sì,sì
+Pisa,Calcinaia,no,sì,,,,sì,sì
+Pisa,Cascina,no,sì,,,sì,sì,sì
+Pisa,Fornacette,no,sì,,,,sì,sì
 Pisa,PISA,sì,sì,,sì,sì,sì,
-Pisa,Ponsacco,no,sì,,,sì,sì,
-Pisa,Pontedera,no,sì,,sì,sì,sì,
-Pisa,Vicopisano,no,sì,,,,sì,
-Pisa,Volterra,no,sì,,,sì,sì,
+Pisa,Pisa,sì,sì,,,,,sì
+Pisa,Ponsacco,no,sì,,,sì,sì,sì
+Pisa,Pontedera,no,sì,,sì,sì,sì,sì
+Pisa,Vicopisano,no,sì,,,,sì,sì
+Pisa,Volterra,no,sì,,,sì,sì,sì
 Pistoia,Monsummanno Terme,no,sì,,,sì,,
 Pistoia,Montale,no,in parte,,sì,sì,,
 Pistoia,Montecatini,no,sì,,,sì,,
@@ -1321,18 +1365,20 @@ Trento,Pergine Valsugana,no,sì,,sì,sì,,
 Trento,Riva del Garda,no,sì,,sì,sì,,
 Trento,Rovereto,no,sì,,sì,sì,,
 Trento,TRENTO,sì,sì,,sì,sì,,
-Treviso,Asolo,no,sì,,sì,sì,,
-Treviso,Castelfranco Veneto,no,sì,,sì,sì,,
-Treviso,Conegliano,no,sì,,sì,sì,,
-Treviso,Montebelluna,no,sì,,sì,sì,,
-Treviso,Oderzo,no,sì,,sì,sì,,
-Treviso,Paese,no,sì,,,sì,,
-Treviso,Pieve di Soligo,no,sì,,,sì,,
-Treviso,Roncade,no,sì,,,sì,,
-Treviso,San Biagio di Callalta,no,sì,,,sì,,
+Treviso,Asolo,no,sì,,sì,sì,sì,
+Treviso,Castelfranco Veneto,no,sì,,sì,sì,sì,sì
+Treviso,Conegliano,no,sì,,sì,sì,sì,sì
+Treviso,Montebelluna,no,sì,,sì,sì,sì,
+Treviso,Oderzo,no,sì,,sì,sì,sì,
+Treviso,Paese,no,sì,,,sì,sì,
+Treviso,Pieve di Soligo,no,sì,,,sì,sì,
+Treviso,Roncade,no,sì,,,sì,sì,
+Treviso,San Biagio di Callalta,no,sì,,,sì,sì,
 Treviso,TREVISO,sì,sì,,sì,sì,,
-Treviso,Valdobbiadene,no,sì,,,sì,,
-Treviso,Vittorio Veneto,no,sì,,sì,sì,,
+Treviso,Treviso,sì,sì,,,,sì,sì
+Treviso,Valdobbiadene,no,sì,,,sì,sì,
+Treviso,Villorba,no,sì,,,,,sì
+Treviso,Vittorio Veneto,no,sì,,sì,sì,sì,sì
 Trieste,TRIESTE,sì,sì,,sì,,,
 Udine,Buja,no,sì,,,sì,sì,
 Udine,Cervignano del Friuli,no,sì,,sì,sì,sì,sì
@@ -1358,45 +1404,47 @@ Valle d'Aosta,Courmayeur,no,sì,,,sì,,
 Valle d'Aosta,Port-Saint-Martin,no,sì,,,sì,,
 Valle d'Aosta,Saint-Vincent,no,sì,,,sì,,
 Varese,Angera,no,sì,,,sì,sì,
-Varese,Arcisate,no,in parte,,,sì,sì,
+Varese,Arcisate,no,in parte,,,sì,sì,sì
 Varese,Arsago Seprio,no,sì,,,sì,sì,
 Varese,Besozzo,no,sì,,,sì,sì,
-Varese,Busto Arsizio,no,sì,,sì,sì,sì,
+Varese,Busto Arsizio,no,sì,,sì,sì,sì,sì
 Varese,Caronno Pertusella,no,sì,,,sì,sì,
 Varese,Cassano Magnago,no,sì,,sì,sì,sì,
-Varese,Fagnano Olona,no,sì,,,sì,sì,
-Varese,Gallarate,no,sì,,sì,sì,sì,
+Varese,Fagnano Olona,no,sì,,,sì,sì,sì
+Varese,Gallarate,no,sì,,sì,sì,sì,sì
 Varese,Gavirate,no,in parte,,sì,sì,sì,
 Varese,Gerenzano,no,sì,,,sì,sì,
 Varese,Induno Olona,no,in parte,,,sì,sì,
 Varese,Laveno,no,no,,sì,,,
 Varese,Laveno Mombello,no,no,,sì,,,
-Varese,Lonate Pozzolo,no,sì,,,sì,sì,
+Varese,Lonate Pozzolo,no,sì,,,sì,sì,sì
 Varese,Luino,no,sì,,sì,sì,sì,
-Varese,Malnate,no,sì,,,sì,sì,
-Varese,Samarate,no,sì,,,sì,sì,
-Varese,Saronno,no,sì,,sì,sì,sì,
+Varese,Malnate,no,sì,,,sì,sì,sì
+Varese,Samarate,no,sì,,,sì,sì,sì
+Varese,Saronno,no,sì,,sì,sì,sì,sì
 Varese,Sesto Calende,no,sì,,,sì,sì,
 Varese,Somma Lombardo,no,sì,,sì,sì,sì,
-Varese,Tradate,no,sì,,sì,sì,sì,
+Varese,Tradate,no,sì,,sì,sì,sì,sì
 Varese,Uboldo,no,sì,,,sì,sì,
 Varese,VARESE,sì,sì,,sì,sì,sì,
+Varese,Varese,sì,sì,,,,,sì
 Varese,Vergiate,no,sì,,,,sì,
 Venezia,Chioggia,no,sì,,sì,,,
 Venezia,Chioggia/Sottomarina,no,sì,,,sì,sì,
-Venezia,Favaro Veneto,no,sì,,,sì,sì,
-Venezia,Jesolo,no,sì,,sì,sì,sì,
-Venezia,Marghera,no,sì,,,,sì,
-Venezia,Mestre,no,sì,,,,sì,
+Venezia,Favaro Veneto,no,sì,,,sì,sì,sì
+Venezia,Jesolo,no,sì,,sì,sì,sì,sì
+Venezia,Marghera,no,sì,,,,sì,sì
+Venezia,Mestre,no,sì,,,,sì,sì
 Venezia,Mestre),no,sì,,,sì,sì,
-Venezia,Mirano,no,sì,,sì,sì,sì,
-Venezia,Mogliano Veneto,no,sì,TV,,sì,sì,
+Venezia,Mirano,no,sì,,sì,sì,sì,sì
+Venezia,Mogliano Veneto,no,sì,TV,,sì,sì,sì
 Venezia,Noale,no,sì,,,sì,sì,
 Venezia,Portogruaro,no,sì,,sì,sì,sì,
-Venezia,San Donà di Piave,no,sì,,sì,sì,sì,
+Venezia,San Donà di Piave,no,sì,,sì,sì,sì,sì
 Venezia,Spinea,no,sì,,sì,sì,sì,
 Venezia,VENEZIA,sì,sì,,sì,,sì,
 Venezia,VENEZIA (Marghera,no,sì,,,sì,sì,
+Venezia,Venezia,sì,sì,,,,,sì
 Vercelli,Biella,no,sì,,sì,sì,,
 Vercelli,Borgosesia,no,sì,,sì,sì,,
 Vercelli,Cossato,no,sì,,sì,sì,,
@@ -1404,28 +1452,30 @@ Vercelli,Gattinara,no,sì,,sì,sì,,
 Vercelli,VERCELLI,sì,sì,,sì,sì,,
 Vercelli,Varallo,no,sì,,sì,sì,,
 Verona,Albaredo d'Adige,no,sì,,,sì,,
-Verona,Bovolone,no,sì,,,sì,,
+Verona,Bovolone,no,sì,,,sì,sì,
 Verona,Bovorone,no,sì,,,sì,,
-Verona,Bussolengo,no,sì,,,sì,,
+Verona,Bussolengo,no,sì,,,sì,sì,
 Verona,Castel d'Azzano,no,sì,,,sì,,
-Verona,Cerea,no,sì,,,sì,,
-Verona,Grezzana,no,sì,,,sì,,
-Verona,Isola della Scala,no,sì,,,sì,,
-Verona,Legnago,no,sì,,sì,sì,,
-Verona,San Bonifacio,no,sì,,sì,sì,,
-Verona,San Giovanni Lupatoto,no,sì,,,sì,,
+Verona,Cerea,no,sì,,,sì,sì,
+Verona,Grezzana,no,sì,,,sì,sì,
+Verona,Isola della Scala,no,sì,,,sì,sì,sì
+Verona,Legnago,no,sì,,sì,sì,sì,
+Verona,San Bonifacio,no,sì,,sì,sì,sì,sì
+Verona,San Giovanni Lupatoto,no,sì,,,sì,sì,
 Verona,VERONA,sì,sì,,sì,sì,,
-Verona,Villafranca di Verona,no,sì,,sì,sì,,
-Vicenza,Arzignano,no,in parte,,sì,sì,sì,
+Verona,Verona,sì,sì,,,,sì,sì
+Verona,Villafranca di Verona,no,sì,,sì,sì,sì,sì
+Vicenza,Arzignano,no,in parte,,sì,sì,sì,sì
 Vicenza,Asiago,no,sì,,,sì,sì,
-Vicenza,Bassano del Grappa,no,sì,,sì,sì,sì,
-Vicenza,Dueville,no,sì,,,sì,sì,
-Vicenza,Lonigo,no,sì,,sì,sì,sì,
-Vicenza,Marostica,no,in parte,,sì,sì,sì,
-Vicenza,Montecchio Maggiore,no,sì,,,sì,sì,
+Vicenza,Bassano del Grappa,no,sì,,sì,sì,sì,sì
+Vicenza,Dueville,no,sì,,,sì,sì,sì
+Vicenza,Lonigo,no,sì,,sì,sì,sì,sì
+Vicenza,Marostica,no,in parte,,sì,sì,sì,sì
+Vicenza,Montecchio Maggiore,no,sì,,,sì,sì,sì
 Vicenza,Noventa Vicentina,no,sì,,,sì,sì,
-Vicenza,Rosà,no,sì,,,,sì,
-Vicenza,Schio,no,sì,,sì,sì,sì,
-Vicenza,Thiene,no,sì,,sì,sì,sì,
+Vicenza,Rosà,no,sì,,,,sì,sì
+Vicenza,Schio,no,sì,,sì,sì,sì,sì
+Vicenza,Thiene,no,sì,,sì,sì,sì,sì
 Vicenza,VICENZA,sì,sì,,sì,sì,sì,
-Vicenza,Valdagno,no,sì,,sì,sì,sì,
+Vicenza,Valdagno,no,sì,,sì,sì,sì,sì
+Vicenza,Vicenza,sì,sì,,,,,sì

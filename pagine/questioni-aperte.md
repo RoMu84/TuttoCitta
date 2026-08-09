@@ -37,7 +37,7 @@ meno di 44; l'unica alternativa è che siano nati per scissione, come avvenne pe
 - **Cuneo** (Piemonte), annata 99/00
 - **Provincia di Torino** (Piemonte), annata 98/99
 - **Provincia di Torino** (Piemonte), annata 99/00
-- **Provincia di Firenze (Prato - Provincia di Firenze dal 1995)** (Toscana), annata 99/00
+- **Prato - Provincia di Firenze** (Toscana), annata 99/00
 - **Trento** (Trentino - Alto Adige), annata 98/99
 - **Trento** (Trentino - Alto Adige), annata 99/00
 - **Rovigo** (Veneto), annata 98/99
