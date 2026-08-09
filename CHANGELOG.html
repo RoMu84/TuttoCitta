@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Registro delle versioni — TuttoCittà</title>
+<meta name="description" content="1.1 — agosto 2026 Denominazione per annata. Il file dati/fascicoli_lungo.csv ha una colonna nuova, denominazione , che riporta il titolo in vigore in quella…">
+<link rel="canonical" href="https://romu84.github.io/TuttoCitta/CHANGELOG.html">
+<link rel="stylesheet" href="assets/sito.css">
+
+</head>
+<body>
+<header class="testata">
+  <div class="fascia">
+    <a class="marchio" href="index.html">TuttoCittà<span>ricostruzione della storia editoriale · 1981-2014</span></a>
+    <nav class="menu">
+      <a href="pagine/index.html">Introduzione</a>
+      <a href="pagine/copertine.html">Copertine</a>
+      <a href="pagine/tavole.html">Tavole</a>
+      <a href="pagine/note-editore.html">Note dell'editore</a>
+      <a href="pagine/cerca-fascicoli.html">Cerca nei dati</a>
+      <a href="pagine/questioni-aperte.html">Questioni aperte</a>
+      <a href="CONTROLLI.html">Integrità</a>
+    </nav>
+  </div>
+</header>
+<main>
+<h1 id="registro-delle-versioni">Registro delle versioni</h1>
+<h2 id="11-agosto-2026">1.1 — agosto 2026</h2>
+<p><strong>Denominazione per annata.</strong> Il file <code>dati/fascicoli_lungo.csv</code> ha una colonna nuova,
+<code>denominazione</code>, che riporta il titolo in vigore in quella singola annata, mentre il nome di censimento
+continua a identificare il fascicolo lungo tutta la sua storia. Differisce dal nome di censimento in 234
+celle su 1.990. Copre sia le variazioni di raggruppamento — Como diventa Como-Lecco dall'annata 95/96,
+Cagliari acquisisce Carbonia-Iglesias e Medio Campidano dalla 09/10, Bari diventa Bari-Barletta Andria
+Trani dalla 10/11 — sia le variazioni di suffisso delle dieci città maggiori, che seguono l'ingresso e
+l'uscita dalla serie edifici. Il criterio è documentato in <code>CONTROLLI.md</code>.</p>
+<p><strong>Indice delle località ampliato.</strong> <code>dati/comuni_per_fascicolo.csv</code> passa da 1.430 a 1.480 righe e da
+1.012 a 1.061 località. L'ampliamento riguarda soprattutto gli anni duemila e duemiladieci, la cui
+copertura sale rispettivamente da 395 a 525 e da 171 a 333 località. Sono state inoltre unificate due
+località registrate in due grafie diverse.</p>
+<p><strong>Correzioni.</strong> Nove nomi di località contenevano refusi, ora corretti. Il quadro d'unione di Firenze 86
+è attribuito all'annata 1986/87 anziché alla 1985/86. La durata della serie edifici è precisata in
+quattro o cinque annate secondo l'appartenenza alla serie iniziale o tardiva. Il numero massimo di
+fascicoli possibili per l'annata 1998/1999 scende da 87 a 70, perché di diciassette edizioni è accertato
+che non furono pubblicate.</p>
+<p><strong>Contenuti nuovi nella documentazione.</strong> Le due note dell'editore del 1981 e del 1990, con trascrizione
+integrale; la riforma cartografica delle dieci città maggiori del 1985/86; il principio dei distretti
+telefonici che spiega perché alcuni comuni compaiano in fascicoli di province diverse.</p>
+<h2 id="10-agosto-2026">1.0 — agosto 2026</h2>
+<p>Prima pubblicazione. Censimento di 1.990 fascicoli accertati su 34 annate, 20 regioni e 115
+raggruppamenti provinciali, con tipo di copertina, calendario editoriale, attributi grafici, indice
+delle località e rapporto di integrità.</p>
+</main>
+<footer class="pie">
+<div class="fascia">
+Contatto: <span class="contatto" data-u="rigilkent84" data-d="hotmail.com"></span> ·
+Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a><br>
+Dati e testi con licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a> ·
+Roberto Mura · DOI <a href="https://doi.org/10.5281/zenodo.21820762">10.5281/zenodo.21820762</a><br>
+Riproduzioni e trascrizioni sono escluse dalla licenza: i diritti appartengono all'editore e possono essere rimosse su richiesta.
+</div>
+</footer>
+<script>
+/* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
+   automatici, che leggono l'HTML statico senza eseguire codice, non lo trovano. */
+document.querySelectorAll('.contatto').forEach(function(e){
+  var a=document.createElement('a');
+  a.href='mail'+'to:'+e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  a.textContent=e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  e.appendChild(a);
+});
+</script>
+</body>
+</html>
