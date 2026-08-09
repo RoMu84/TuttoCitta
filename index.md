@@ -4,15 +4,18 @@ Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, sup
 Gialle pubblicato da SEAT dal 1981 al 2014: **1990 fascicoli accertati** su 34 annate, 20 regioni e
 115 raggruppamenti provinciali.
 
-- **[Introduzione e convenzioni di lettura](pagine/index.md)** — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento
-- **[Le copertine, annata per annata](pagine/copertine.md)** — la galleria delle copertine con formati e conteggi
-- **[L'evoluzione delle tavole cartografiche](pagine/tavole.md)** — la stessa città attraverso le quattro fasi cromatiche
-- **[Cerca nei dati](pagine/cerca-fascicoli.md)** — interroga il censimento e l'indice delle località direttamente dal browser
-- **[Le note dell'editore](pagine/note-editore.md)** — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma
-- **[Questioni aperte](pagine/questioni-aperte.md)** — ciò che ancora non sappiamo, come segnalarlo e come contribuire
-- **[Rapporto di integrità](CONTROLLI.md)** — controlli, scostamenti e criteri di attribuzione
-- **[Registro delle versioni (changelog)](CHANGELOG.md)** — storico degli aggiornamenti della presente pubblicazione
-
+<ul>
+<li><strong><a href="pagine/index.md">Introduzione e convenzioni di lettura</a></strong> — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento</li>
+<li><strong><a href="pagine/copertine.md">Le copertine, annata per annata</a></strong> — la galleria delle copertine con formati e conteggi</li>
+<li><strong><a href="pagine/tavole.md">L'evoluzione delle tavole cartografiche</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>
+<li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma</li>
+<li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo, come segnalarlo e come contribuire</li>
+<hr>
+<li><strong><a href="pagine/cerca-fascicoli.md">Cerca nei dati</a></strong> — interroga il censimento e l'indice delle località direttamente dal browser</li>
+<hr>
+<li><strong><a href="CONTROLLI.md">Rapporto di integrità</a></strong> — controlli, scostamenti e criteri di attribuzione</li>
+<li><strong><a href="CHANGELOG.md">Registro delle versioni (changelog)</a></strong> — storico degli aggiornamenti della presente pubblicazione</li>
+</ul>
 <div class="striscia"><span style="background:#92D050" title="annata 81/82"></span><span style="background:#FF0000" title="annata 82/83"></span><span style="background:#00B0F0" title="annata 83/84"></span><span style="background:#92D050" title="annata 84/85"></span><span style="background:#FF0000" title="annata 85/86"></span><span style="background:#00B0F0" title="annata 86/87"></span><span style="background:#92D050" title="annata 87/88"></span><span style="background:#FF0000" title="annata 88/89"></span><span style="background:#00B0F0" title="annata 89/90"></span><span style="background:#002060" title="annata 90/91"></span><span style="background:#002671" title="annata 91/92"></span><span style="background:#DDD9C3" title="annata 92/93"></span><span style="background:#C4BC96" title="annata 93/94"></span><span style="background:#C4BC96" title="annata 94/95"></span><span style="background:#C4BC96" title="annata 95/96"></span><span style="background:#C4BC96" title="annata 96/97"></span><span style="background:#C4BC96" title="annata 97/98"></span><span style="background:#999999" title="annata 98/99"></span><span style="background:#FFD966" title="annata 99/00"></span><span style="background:#FFD966" title="annata 00/01"></span><span style="background:#FFD966" title="annata 01/02"></span><span style="background:#FFD966" title="annata 02/03"></span><span style="background:#FFD966" title="annata 03/04"></span><span style="background:#E69138" title="annata 04/05"></span><span style="background:#E69138" title="annata 05/06"></span><span style="background:#F6B26B" title="annata 06/07"></span><span style="background:#F6B26B" title="annata 07/08"></span><span style="background:#F6B26B" title="annata 08/09"></span><span style="background:#F9CB9C" title="annata 09/10"></span><span style="background:#F9CB9C" title="annata 10/11"></span><span style="background:#F9CB9C" title="annata 11/12"></span><span style="background:#F9CB9C" title="annata 12/13"></span><span style="background:#F9CB9C" title="annata 13/14"></span><span style="background:#F9CB9C" title="annata 14/15"></span></div>
 <p class="didascalia-striscia">Trentaquattro annate, un colore per annata: la sequenza delle copertine dal 1981/82 al 2014/15. Il dettaglio è nella <a href="pagine/copertine.html">galleria delle copertine</a>.</p>
 
@@ -68,7 +71,7 @@ continuazione: documenta il prodotto editoriale a stampa pubblicato fra il 1981 
 
 Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
 
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.1.
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.2.
 Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
 
 **Le riproduzioni e le trascrizioni fanno eccezione.** Le fotografie di copertine e di cartografia e le

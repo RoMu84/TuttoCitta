@@ -6,10 +6,10 @@ type: dataset
 authors:
   - family-names: Mura
     given-names: Roberto
-version: "1.0"
+version: "1.2"
 date-released: "2026-08-06"
 license: CC-BY-4.0
-doi: 10.5281/zenodo.21820763
+doi: 10.5281/zenodo.21820762
 keywords:
   - TuttoCittà
   - SEAT Pagine Gialle

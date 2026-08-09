@@ -1,5 +1,17 @@
 # Registro delle versioni
 
+## 1.2 — agosto 2026
+
+**Nuova sezione sulla riforma del 2009/2010.** La pagina delle tavole documenta ora anche il secondo
+grande cambiamento della cartografia: la riduzione del fascicolo al formato tascabile, da 226 × 274 a
+140 × 212 mm, il rifacimento integrale delle tavole con il passaggio dello sfondo dal grigio cromatico
+al rosa, l'estensione dell'area cartografata nei capoluoghi e l'inserimento delle vie e piazze
+periferiche di più recente formazione. Il confronto è illustrato da due immagini dei fascicoli di
+Bologna 2008/2009 e 2009/2010.
+
+**Navigazione.** Il menu comprende ora il registro delle versioni; nella homepage lo strumento di
+ricerca è distinto dalle pagine descrittive.
+
 ## 1.1 — agosto 2026
 
 **Denominazione per annata.** Il file `dati/fascicoli_lungo.csv` ha una colonna nuova,

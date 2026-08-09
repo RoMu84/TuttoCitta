@@ -1,5 +1,7 @@
 # L'evoluzione delle tavole cartografiche
 
+## Le quattro fasi cromatiche
+
 La cartografia di TuttoCittà cambiò colore di stampa quattro volte in trent'anni. Il modo più diretto per
 vederlo è seguire **la stessa città attraverso le quattro fasi**: qui è Jesi, in provincia di Ancona,
 presente nei fascicoli fin dalle prime annate.
@@ -24,8 +26,6 @@ nomi, indirizzi e recapiti di attività d'epoca senza alcuna necessità document
 | <span class="pastiglia" style="background:#BDBDBD"></span> | Grigio | 1990/91 → 1999/00 |
 | <span class="pastiglia" style="background:#A9B4BC"></span> | Grigio cromatico | 2000/01 → 2008/09 |
 | <span class="pastiglia" style="background:#F0C6C6"></span> | Rosa | 2009/10 → 2014/15 |
-
-## Le quattro fasi cromatiche
 
 Le date indicano la fase prevalente: il passaggio non fu simultaneo per tutte le edizioni, e nell'annata
 2000/01 le due tinte grigie convivono, così come nell'annata 2009/10 convivono grigio cromatico e rosa.
@@ -53,8 +53,28 @@ tavole si dispongono sul territorio, rende la differenza evidente a colpo d'occh
 </div>
 
 La riforma riguardò le sole dieci città maggiori, che per quattro o cinque annate (a seconda dell'appartenenza rispettivamente alla serie *iniziale* o alla serie *tardiva*) ebbero anche una copertina distinta
-dalle altre — la cosiddetta *serie edifici*, visibile nella
+dalle altre — la cosiddetta *serie edifici* — visibile nella
 [galleria delle copertine](copertine.md).
+
+## Il formato tascabile e la seconda riforma cartografica
+
+Il secondo grande cambiamento avviene nel corso dell'annata **2009/2010**, e riguarda tutte le edizioni.
+Il fascicolo cambia radicalmente dimensioni — da 226 × 274 a 140 × 212 mm — assumendo il formato di uno
+stradario tascabile. Ma la riduzione non è soltanto materiale: **la cartografia viene rifatta da capo**,
+insieme al passaggio dello sfondo dal grigio cromatico al rosa.
+
+Il ridisegno porta due conseguenze visibili. L'**area cartografata si estende**, soprattutto nei
+capoluoghi, arrivando a coprire porzioni di territorio che le tavole precedenti lasciavano fuori. E
+compaiono **numerose vie e piazze delle zone periferiche**, sorte negli anni immediatamente precedenti e
+mai entrate nella cartografia in uso fino ad allora.
+
+<div class="galleria quadri">
+  <figure><img src="../immagini/Bologna08-09Copertina.jpg" alt="I fascicoli di Bologna 2008/2009 e 2009/2010 affiancati, per confrontarne il formato" loading="lazy"><figcaption><b>Il cambio di formato</b><br>I due fascicoli affiancati<br><span class="dim">Bologna 2008/2009 e Bologna 2009/2010<br>da 226 × 274 a 140 × 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/Bologna08-09Quadro.jpg" alt="I quadri d'unione dei fascicoli di Bologna 2008/2009 e 2009/2010 a confronto" loading="lazy"><figcaption><b>Il nuovo impianto delle tavole</b><br>I due quadri d'unione a confronto<br><span class="dim">Bologna 2008/2009, tavole grigio cromatico<br>Bologna 2009/2010, tavole rosa</span></figcaption></figure>
+</div>
+
+È l'ultima riforma della storia del prodotto: la veste adottata nel 2009/2010 resta invariata fino
+all'ultima annata autonoma, la 2014/15.
 
 ---
 
