@@ -205,18 +205,18 @@ Bolzano,Merano,no,sì,,sì,sì,sì,sì
 Bolzano,Vipiteno,no,in parte,,sì,sì,sì,
 Brescia,BRESCIA,sì,sì,,sì,sì,,
 Brescia,Bagnolo Mella,no,sì,,,sì,sì,
-Brescia,Bedizzole,no,sì,,,,,sì
+Brescia,Bedizzole,no,sì,,,,sì,sì
 Brescia,Botticino,no,sì,,,sì,sì,
 Brescia,Brescia,sì,sì,,,,sì,sì
 Brescia,Chiari,no,sì,,sì,sì,sì,
-Brescia,Clusane (frazione Iseo),no,sì,,,,,sì
-Brescia,Concesio,no,sì,,,,,sì
-Brescia,Darfo Boario Terme,no,sì,,,,,sì
+Brescia,Clusane (frazione Iseo),no,sì,,,,sì,sì
+Brescia,Concesio,no,sì,,,,sì,sì
+Brescia,Darfo Boario Terme,no,sì,,,,sì,sì
 Brescia,Desenzano del Garda,no,sì,,sì,sì,sì,sì
 Brescia,Gardone Valtrompia,no,sì,,,,,sì
 Brescia,Ghedi,no,sì,,,sì,sì,
-Brescia,Gussago,no,sì,,,,,sì
-Brescia,Iseo,no,sì,,,,,sì
+Brescia,Gussago,no,sì,,,,sì,sì
+Brescia,Iseo,no,sì,,,,sì,sì
 Brescia,Lago d'Iseo,no,no,,sì,,,
 Brescia,Lago di Garda - Valtenesi,no,no,,sì,,,
 Brescia,Lumezzane,no,sì,,sì,sì,sì,sì
@@ -228,9 +228,10 @@ Brescia,Nuvolento,no,sì,,,,,sì
 Brescia,Nuvolera,no,sì,,,,,sì
 Brescia,Palazzolo sull'Oglio,no,sì,,sì,sì,sì,sì
 Brescia,Rezzato,no,sì,,,sì,sì,sì
-Brescia,Rovato,no,sì,,,,,sì
+Brescia,Roncadelle,no,sì,,,,sì,
+Brescia,Rovato,no,sì,,,,sì,sì
 Brescia,Salò,no,sì,,sì,sì,sì,sì
-Brescia,San Zeno Naviglio,no,sì,,,,,sì
+Brescia,San Zeno Naviglio,no,sì,,,,sì,sì
 Brescia,Val Camonica,no,no,,sì,,,
 Brindisi,BRINDISI,sì,sì,,sì,sì,,
 Brindisi,Ceglie Messapica,no,in parte,,sì,sì,,
@@ -746,8 +747,7 @@ Lucca - Massa - Carrara,Marina di MAssa,no,no,MS,sì,,,
 Lucca - Massa - Carrara,Marina di Massa,no,sì,,,sì,sì,
 Lucca - Massa - Carrara,Marina di Pietrasanta,no,sì,,,sì,sì,
 Lucca - Massa - Carrara,Massa,sì,sì,,,,sì,sì
-Lucca - Massa - Carrara,Montignoso,no,sì,,,sì,sì,
-Lucca - Massa - Carrara,Montignoso (Località Cinquale),no,sì,,,sì,,
+Lucca - Massa - Carrara,Montignoso (Località Cinquale),no,sì,,,sì,sì,
 Lucca - Massa - Carrara,Pietrasanta,no,sì,,,sì,sì,
 Lucca - Massa - Carrara,Viareggio,no,sì,,sì,sì,sì,
 Macerata,Civitanova Marche,no,sì,,sì,sì,,
