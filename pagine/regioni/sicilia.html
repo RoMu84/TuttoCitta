@@ -75,5 +75,16 @@ document.querySelectorAll('.contatto').forEach(function(e){
   e.appendChild(a);
 });
 </script>
+<script>
+/* Esclusione dal conteggio: aprendo una pagina con ?escludimi=1 il browser memorizza
+   il contrassegno che GoatCounter riconosce, e da quel momento non conta piu le visite
+   da questo dispositivo. Con ?contami=1 il contrassegno viene rimosso. */
+try {
+  var qs=location.search;
+  if (qs.indexOf('escludimi=1')>-1) localStorage.setItem('skipgc','t');
+  if (qs.indexOf('contami=1')>-1)   localStorage.removeItem('skipgc');
+} catch(e) {}
+</script>
+<script data-goatcounter="https://romu84.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
