@@ -494,7 +494,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 
 <div class="galleria">
   <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/cellImage_1124998344_57.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
   <figure><img src="../immagini/cellImage_1124998344_56.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
