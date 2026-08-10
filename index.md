@@ -65,7 +65,7 @@ attività commerciali e informazioni sul traffico. Appartiene a **Italiaonline S
 ereditato marchi e attività di SEAT Pagine Gialle, e affianca PagineGialle e PagineBianche.
 
 Questa risorsa **non è affiliata** a Italiaonline né al servizio online, e non ne rappresenta la
-continuazione: documenta il prodotto editoriale a stampa pubblicato fra il 1981 e il 2014.
+continuazione: documenta soltanto il prodotto editoriale a stampa pubblicato fra il 1981 e il 2014 e non ha alcun fine di lucro, né diretto né indiretto.
 
 ## Licenza e citazione
 
