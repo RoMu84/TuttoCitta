@@ -417,7 +417,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 
 <div class="galleria">
   <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/cellImage_1124998344_54.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -434,7 +434,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 
 <div class="galleria">
   <figure><img src="../immagini/cellImage_1124998344_54.jpg" alt="Copertina TuttoCittà, annata 2005/2006" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_54.jpg" alt="Copertina TuttoCittà, annata 2005/2006" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2005/2006" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
