@@ -1,6 +1,6 @@
 # TuttoCittà — ricostruzione della storia editoriale (1981-2014)
 
-Questo sito (e la relativa pubblicazione associata) si prefigge lo scopo di sviluppare un censimento 
+Questo progetto si prefigge lo scopo di sviluppare un censimento 
 delle edizioni locali del fascicolo cartografico **TuttoCittà**, supplemento delle Pagine
 Gialle pubblicato da SEAT dal 1981 al 2014; sono stati individuati **1990 fascicoli accertati** su 34 annate, 20 regioni e
 115 raggruppamenti provinciali. Non ha alcuno scopo di lucro, né diretto né indiretto, ed è mosso 
@@ -66,7 +66,7 @@ Il fascicolo cartaceo cessò con l'annata 2014/15, ma il nome non è scomparso:
 attività commerciali e informazioni sul traffico. Appartiene a **Italiaonline S.p.A.**, la società che ha
 ereditato marchi e attività di SEAT Pagine Gialle, e affianca PagineGialle e PagineBianche.
 
-La presente risorsa **non è affiliata** a Italiaonline né al servizio online, e non ne rappresenta la
+Il presente progetto **non è affiliato** a Italiaonline né al servizio online, e non ne rappresenta la
 continuazione: documenta soltanto il prodotto editoriale a stampa pubblicato fra il 1981 e il 2014 e non ha alcun fine di lucro, né diretto né indiretto.
 
 ## Licenza e citazione
