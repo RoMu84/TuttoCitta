@@ -22,8 +22,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1981/1982
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_0.jpg" alt="Copertina TuttoCittà, annata 1981/1982" loading="lazy"><figcaption>Copertina 81 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_1.jpg" alt="Copertina TuttoCittà, annata 1981/1982" loading="lazy"><figcaption>Copertina 82 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/818201.jpg" alt="Copertina TuttoCittà, annata 1981/1982" loading="lazy"><figcaption>Copertina 81 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/818202.jpg" alt="Copertina TuttoCittà, annata 1981/1982" loading="lazy"><figcaption>Copertina 82 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -37,8 +37,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1982/1983
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_2.jpg" alt="Copertina TuttoCittà, annata 1982/1983" loading="lazy"><figcaption>Copertina 82 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_3.jpg" alt="Copertina TuttoCittà, annata 1982/1983" loading="lazy"><figcaption>Copertina 83 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/828301.jpg" alt="Copertina TuttoCittà, annata 1982/1983" loading="lazy"><figcaption>Copertina 82 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/828302.jpg" alt="Copertina TuttoCittà, annata 1982/1983" loading="lazy"><figcaption>Copertina 83 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -52,8 +52,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1983/1984
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_4.jpg" alt="Copertina TuttoCittà, annata 1983/1984" loading="lazy"><figcaption>Copertina 83 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_5.jpg" alt="Copertina TuttoCittà, annata 1983/1984" loading="lazy"><figcaption>Copertina 84 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/838401.jpg" alt="Copertina TuttoCittà, annata 1983/1984" loading="lazy"><figcaption>Copertina 83 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/838402.jpg" alt="Copertina TuttoCittà, annata 1983/1984" loading="lazy"><figcaption>Copertina 84 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -67,8 +67,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1984/1985
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_6.jpg" alt="Copertina TuttoCittà, annata 1984/1985" loading="lazy"><figcaption>Copertina 84 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_7.jpg" alt="Copertina TuttoCittà, annata 1984/1985" loading="lazy"><figcaption>Copertina 85 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/848501.jpg" alt="Copertina TuttoCittà, annata 1984/1985" loading="lazy"><figcaption>Copertina 84 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/848502.jpg" alt="Copertina TuttoCittà, annata 1984/1985" loading="lazy"><figcaption>Copertina 85 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -84,9 +84,9 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1985/1986
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_8.jpg" alt="Copertina TuttoCittà, annata 1985/1986" loading="lazy"><figcaption>Copertina 85 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_9.jpg" alt="Copertina TuttoCittà, annata 1985/1986" loading="lazy"><figcaption>Copertina 86 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_10.jpg" alt="Copertina TuttoCittà, annata 1985/1986" loading="lazy"><figcaption>Copertina 86 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/858601.jpg" alt="Copertina TuttoCittà, annata 1985/1986" loading="lazy"><figcaption>Copertina 85 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/858602.jpg" alt="Copertina TuttoCittà, annata 1985/1986" loading="lazy"><figcaption>Copertina 86 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/858603.jpg" alt="Copertina TuttoCittà, annata 1985/1986" loading="lazy"><figcaption>Copertina 86 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -105,10 +105,10 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1986/1987
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_11.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 86 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_12.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 87 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_13.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 86 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_14.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 87 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/868701.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 86 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/868702.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 87 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/868703.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 86 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/868704.jpg" alt="Copertina TuttoCittà, annata 1986/1987" loading="lazy"><figcaption>Copertina 87 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -124,10 +124,10 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1987/1988
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_15.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 87 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_16.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 88 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_17.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 87 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_18.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 88 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/878801.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 87 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/878802.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 88 verde<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/878803.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 87 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/878804.jpg" alt="Copertina TuttoCittà, annata 1987/1988" loading="lazy"><figcaption>Copertina 88 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -143,10 +143,10 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1988/1989
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_19.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 88 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_20.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 89 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_21.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 88 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_22.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 89 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/888901.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 88 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/888902.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 89 rossa<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/888903.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 88 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/888904.jpg" alt="Copertina TuttoCittà, annata 1988/1989" loading="lazy"><figcaption>Copertina 89 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -162,11 +162,11 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1989/1990
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_23.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 89 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_24.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 90 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_25.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 89 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_26.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 90 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_27.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 1990 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/899001.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 89 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/899002.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 90 azzurra<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/899003.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 89 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/899004.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 90 edifici<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/899005.jpg" alt="Copertina TuttoCittà, annata 1989/1990" loading="lazy"><figcaption>Copertina 1990 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -185,10 +185,10 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1990/1991
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_28.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 1990 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_29.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 90/91 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_30.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 1991 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_31.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 91 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/909101.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 1990 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/909102.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 90/91 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/909103.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 1991 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/909104.jpg" alt="Copertina TuttoCittà, annata 1990/1991" loading="lazy"><figcaption>Copertina 91 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -204,9 +204,9 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1991/1992
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_32.jpg" alt="Copertina TuttoCittà, annata 1991/1992" loading="lazy"><figcaption>Copertina 91 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_33.jpg" alt="Copertina TuttoCittà, annata 1991/1992" loading="lazy"><figcaption>Copertina 92 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_34.jpg" alt="Copertina TuttoCittà, annata 1991/1992" loading="lazy"><figcaption>Copertina 92 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/919201.jpg" alt="Copertina TuttoCittà, annata 1991/1992" loading="lazy"><figcaption>Copertina 91 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/919202.jpg" alt="Copertina TuttoCittà, annata 1991/1992" loading="lazy"><figcaption>Copertina 92 blu<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/919203.jpg" alt="Copertina TuttoCittà, annata 1991/1992" loading="lazy"><figcaption>Copertina 92 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -221,8 +221,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1992/1993
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_35.jpg" alt="Copertina TuttoCittà, annata 1992/1993" loading="lazy"><figcaption>Copertina 92 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_36.jpg" alt="Copertina TuttoCittà, annata 1992/1993" loading="lazy"><figcaption>Copertina 93 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/929301.jpg" alt="Copertina TuttoCittà, annata 1992/1993" loading="lazy"><figcaption>Copertina 92 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/929302.jpg" alt="Copertina TuttoCittà, annata 1992/1993" loading="lazy"><figcaption>Copertina 93 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -236,9 +236,9 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1993/1994
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_37.jpg" alt="Copertina TuttoCittà, annata 1993/1994" loading="lazy"><figcaption>Copertina 93 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_38.jpg" alt="Copertina TuttoCittà, annata 1993/1994" loading="lazy"><figcaption>Copertina 93 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_39.jpg" alt="Copertina TuttoCittà, annata 1993/1994" loading="lazy"><figcaption>Copertina 94 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/939401.jpg" alt="Copertina TuttoCittà, annata 1993/1994" loading="lazy"><figcaption>Copertina 93 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/939402.jpg" alt="Copertina TuttoCittà, annata 1993/1994" loading="lazy"><figcaption>Copertina 93 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/939403.jpg" alt="Copertina TuttoCittà, annata 1993/1994" loading="lazy"><figcaption>Copertina 94 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -253,8 +253,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1994/1995
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_40.jpg" alt="Copertina TuttoCittà, annata 1994/1995" loading="lazy"><figcaption>Copertina 94 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_41.jpg" alt="Copertina TuttoCittà, annata 1994/1995" loading="lazy"><figcaption>Copertina 95 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/949501.jpg" alt="Copertina TuttoCittà, annata 1994/1995" loading="lazy"><figcaption>Copertina 94 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/949502.jpg" alt="Copertina TuttoCittà, annata 1994/1995" loading="lazy"><figcaption>Copertina 95 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -268,8 +268,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1995/1996
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_42.jpg" alt="Copertina TuttoCittà, annata 1995/1996" loading="lazy"><figcaption>Copertina 95 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_43.jpg" alt="Copertina TuttoCittà, annata 1995/1996" loading="lazy"><figcaption>Copertina 96 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/959601.jpg" alt="Copertina TuttoCittà, annata 1995/1996" loading="lazy"><figcaption>Copertina 95 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/959602.jpg" alt="Copertina TuttoCittà, annata 1995/1996" loading="lazy"><figcaption>Copertina 96 beige<br><span class="dim">246 x 280 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -283,9 +283,9 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1996/1997
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_44.jpg" alt="Copertina TuttoCittà, annata 1996/1997" loading="lazy"><figcaption>Copertina 96 beige, prima variante<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_45.jpg" alt="Copertina TuttoCittà, annata 1996/1997" loading="lazy"><figcaption>Copertina 96 beige, seconda variante<br><span class="dim">246 x 280 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_46.jpg" alt="Copertina TuttoCittà, annata 1996/1997" loading="lazy"><figcaption>Copertina 97 beige<br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/969701.jpg" alt="Copertina TuttoCittà, annata 1996/1997" loading="lazy"><figcaption>Copertina 96 beige, prima variante<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/969702.jpg" alt="Copertina TuttoCittà, annata 1996/1997" loading="lazy"><figcaption>Copertina 96 beige, seconda variante<br><span class="dim">246 x 280 mm</span></figcaption></figure>
+  <figure><img src="../immagini/969703.jpg" alt="Copertina TuttoCittà, annata 1996/1997" loading="lazy"><figcaption>Copertina 97 beige<br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -303,10 +303,10 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1997/1998
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_47.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina 97 beige<br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_48.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina 98 beige<br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_49.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina grigia<br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_50.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina grigia<br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/979801.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina 97 beige<br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/979802.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina 98 beige<br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/979803.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina grigia<br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/979804.jpg" alt="Copertina TuttoCittà, annata 1997/1998" loading="lazy"><figcaption>Copertina grigia<br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -324,8 +324,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1998/1999
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_51.jpg" alt="Copertina TuttoCittà, annata 1998/1999" loading="lazy"><figcaption>Copertina grigia<br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_52.jpg" alt="Copertina TuttoCittà, annata 1998/1999" loading="lazy"><figcaption>Copertina 1999 gialla<br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989901.jpg" alt="Copertina TuttoCittà, annata 1998/1999" loading="lazy"><figcaption>Copertina grigia<br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989902.jpg" alt="Copertina TuttoCittà, annata 1998/1999" loading="lazy"><figcaption>Copertina 1999 gialla<br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -341,7 +341,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 1999/2000
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 1999/2000" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989902.jpg" alt="Copertina TuttoCittà, annata 1999/2000" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -355,7 +355,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2000/2001
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2000/2001" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989902.jpg" alt="Copertina TuttoCittà, annata 2000/2001" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -371,7 +371,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2001/2002
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2001/2002" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989902.jpg" alt="Copertina TuttoCittà, annata 2001/2002" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -386,7 +386,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2002/2003
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2002/2003" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989902.jpg" alt="Copertina TuttoCittà, annata 2002/2003" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -401,7 +401,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2003/2004
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2003/2004" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989902.jpg" alt="Copertina TuttoCittà, annata 2003/2004" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -416,8 +416,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2004/2005
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_53.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_54.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/989902.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/050601.jpg" alt="Copertina TuttoCittà, annata 2004/2005" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -433,8 +433,8 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2005/2006
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_54.jpg" alt="Copertina TuttoCittà, annata 2005/2006" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2005/2006" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/050601.jpg" alt="Copertina TuttoCittà, annata 2005/2006" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/080901.jpg" alt="Copertina TuttoCittà, annata 2005/2006" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -449,7 +449,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2006/2007
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2006/2007" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/080901.jpg" alt="Copertina TuttoCittà, annata 2006/2007" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -463,7 +463,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2007/2008
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2007/2008" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/080901.jpg" alt="Copertina TuttoCittà, annata 2007/2008" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -478,7 +478,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2008/2009
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2008/2009" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/080901.jpg" alt="Copertina TuttoCittà, annata 2008/2009" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -493,9 +493,9 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2009/2010
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_55.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_57.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
-  <figure><img src="../immagini/cellImage_1124998344_56.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/080901.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">226 x 274 mm</span></figcaption></figure>
+  <figure><img src="../immagini/091002.jpg" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/091003S" alt="Copertina TuttoCittà, annata 2009/2010" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -517,7 +517,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2010/2011
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_57.jpg" alt="Copertina TuttoCittà, annata 2010/2011" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/101101.jpg" alt="Copertina TuttoCittà, annata 2010/2011" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -532,7 +532,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2011/2012
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_58.jpg" alt="Copertina TuttoCittà, annata 2011/2012" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/111201.jpg" alt="Copertina TuttoCittà, annata 2011/2012" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -547,7 +547,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2012/2013
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_59.jpg" alt="Copertina TuttoCittà, annata 2012/2013" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/121301.jpg" alt="Copertina TuttoCittà, annata 2012/2013" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -562,7 +562,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2013/2014
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_60.jpg" alt="Copertina TuttoCittà, annata 2013/2014" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/131401.jpg" alt="Copertina TuttoCittà, annata 2013/2014" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
@@ -577,7 +577,7 @@ cartografia, che dal grigio cromatico passa al rosa.
 ## Annata 2014/2015
 
 <div class="galleria">
-  <figure><img src="../immagini/cellImage_1124998344_61.jpg" alt="Copertina TuttoCittà, annata 2014/2015" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
+  <figure><img src="../immagini/141501.jpg" alt="Copertina TuttoCittà, annata 2014/2015" loading="lazy"><figcaption><br><span class="dim">140 x 212 mm</span></figcaption></figure>
 </div>
 
 <table class="cop">
