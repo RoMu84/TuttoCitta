@@ -1,21 +1,21 @@
 # La Sardegna in dettaglio
 
 Questa pagina sperimentale si occupa di definire con estrema precisione l'organizzazione interna dei
-fascicoli di un'intera regione, la Sardegna, l'unica di cui la raccolta possieda tutti i fascicoli
-accertati. Serve anche per dimostrare come una serie completa consenta uno spoglio che una serie con
-dei buchi non consente, perché quasi tutto quello che si legge qui sotto sta nel confronto fra
-un'annata e la successiva.
+fascicoli di un'intera regione, la Sardegna, l'unica di cui la raccolta su cui si basa questo studio
+includa tutti i fascicoli accertati. Serve anche per dimostrare come una serie completa consenta una
+verifica estremamente puntuale e particolareggiata che una serie con dei buchi non consente, perché
+quasi tutto quello che si legge qui sotto emerge dal confronto fra un'annata e la successiva.
 
-Lo spoglio registra 872 occorrenze di sezione riconducibili a 63 rubriche distinte,
+Il censimento registra 872 occorrenze di sezione riconducibili a 63 rubriche distinte,
 1839 titoli di contenuto (357 diversi) e 463 righe di cartografia,
-una per ogni citta cartografata in ogni fascicolo.
+una per ogni città cartografata in ogni fascicolo.
 
 ## Le rubriche, annata per annata
 
 Ogni riga e una rubrica, ogni colonna una delle 34 annate, dal 1981/82 al 2014/15. La regione
 ha due serie parallele: i fascicoli dal 1981/82 al 1983/84 coprono tutte e quattro le province, poi la
 serie si divide in Cagliari e Nuoro-Sassari, e quest'ultima cessa con il 1997/98. La griglia le tiene
-distinte, perche una rubrica puo sopravvivere in una serie e sparire dall'altra.
+distinte, perché una rubrica può sopravvivere in una serie e sparire dall'altra.
 
 I titoli sono quelli normalizzati. L'editore rinominava spesso le rubriche senza cambiarne il
 contenuto, e prendere per buoni i titoli di copertina farebbe morire e rinascere sezioni che invece
@@ -98,10 +98,12 @@ definizione.
 <p class="legenda-griglia">La cella e piena quando la rubrica compare in almeno uno dei fascicoli di quell'annata. Dal 1984/85 al 1997/98 i fascicoli sono due, uno per la serie di Cagliari e uno per quella di Nuoro-Sassari: passando sulla cella si legge in quale delle due la rubrica compare.</p>
 
 
-Una sola rubrica attraversa tutte e trentaquattro le annate, le **tavole topografiche**: e il prodotto
-ridotto all'osso, cio che restava quando tutto il resto era stato tolto. Il resto della griglia mostra
-due fratture nette, nel 1989/90 e nel 1997/98, in cui una dozzina di rubriche sparisce insieme e
-altrettante ne nascono; e una coda destra punteggiata, dove le sezioni compaiono per una sola annata.
+Le uniche due rubriche che attraversano tutte e trentaquattro le annate sono le **tavole topografiche**
+e l'**elenco delle vie**: queste due rubriche rappresentano il prodotto ridotto all'osso, ossia ciò che
+restava quando tutto il resto era stato tolto. Il resto della griglia mostra due cesure nette, una nel
+1989/90, con la prima riforma editoriale, e una nel 1997/98, in cui una dozzina di rubriche sparisce
+insieme e altrettante ne nascono; infine il grafico mostra una coda destra punteggiata, dove le sezioni
+compaiono per una o due sole annate.
 
 ## Le città cartografate
 
@@ -113,7 +115,7 @@ nell'alfabeto.
 
 <div class="scorri">
 <table class="griglia">
-  <thead><tr><th scope="col">citta</th><th scope="col"><span>81/82</span></th><th scope="col"><span>82/83</span></th><th scope="col"><span>83/84</span></th><th scope="col"><span>84/85</span></th><th scope="col"><span>85/86</span></th><th scope="col"><span>86/87</span></th><th scope="col"><span>87/88</span></th><th scope="col"><span>88/89</span></th><th scope="col"><span>89/90</span></th><th scope="col"><span>90/91</span></th><th scope="col"><span>91/92</span></th><th scope="col"><span>92/93</span></th><th scope="col"><span>93/94</span></th><th scope="col"><span>94/95</span></th><th scope="col"><span>95/96</span></th><th scope="col"><span>96/97</span></th><th scope="col"><span>97/98</span></th><th scope="col"><span>98/99</span></th><th scope="col"><span>99/00</span></th><th scope="col"><span>00/01</span></th><th scope="col"><span>01/02</span></th><th scope="col"><span>02/03</span></th><th scope="col"><span>03/04</span></th><th scope="col"><span>04/05</span></th><th scope="col"><span>05/06</span></th><th scope="col"><span>06/07</span></th><th scope="col"><span>07/08</span></th><th scope="col"><span>08/09</span></th><th scope="col"><span>09/10</span></th><th scope="col"><span>10/11</span></th><th scope="col"><span>11/12</span></th><th scope="col"><span>12/13</span></th><th scope="col"><span>13/14</span></th><th scope="col"><span>14/15</span></th></tr></thead>
+  <thead><tr><th scope="col">città</th><th scope="col"><span>81/82</span></th><th scope="col"><span>82/83</span></th><th scope="col"><span>83/84</span></th><th scope="col"><span>84/85</span></th><th scope="col"><span>85/86</span></th><th scope="col"><span>86/87</span></th><th scope="col"><span>87/88</span></th><th scope="col"><span>88/89</span></th><th scope="col"><span>89/90</span></th><th scope="col"><span>90/91</span></th><th scope="col"><span>91/92</span></th><th scope="col"><span>92/93</span></th><th scope="col"><span>93/94</span></th><th scope="col"><span>94/95</span></th><th scope="col"><span>95/96</span></th><th scope="col"><span>96/97</span></th><th scope="col"><span>97/98</span></th><th scope="col"><span>98/99</span></th><th scope="col"><span>99/00</span></th><th scope="col"><span>00/01</span></th><th scope="col"><span>01/02</span></th><th scope="col"><span>02/03</span></th><th scope="col"><span>03/04</span></th><th scope="col"><span>04/05</span></th><th scope="col"><span>05/06</span></th><th scope="col"><span>06/07</span></th><th scope="col"><span>07/08</span></th><th scope="col"><span>08/09</span></th><th scope="col"><span>09/10</span></th><th scope="col"><span>10/11</span></th><th scope="col"><span>11/12</span></th><th scope="col"><span>12/13</span></th><th scope="col"><span>13/14</span></th><th scope="col"><span>14/15</span></th></tr></thead>
   <tbody>
   <tr><th scope="row">Alghero</th><td class="si" title="Alghero — 81/82"></td><td class="si" title="Alghero — 82/83"></td><td class="si" title="Alghero — 83/84"></td><td class="si" title="Alghero — 84/85"></td><td class="si" title="Alghero — 85/86"></td><td class="si" title="Alghero — 86/87"></td><td class="si" title="Alghero — 87/88"></td><td class="si" title="Alghero — 88/89"></td><td class="si" title="Alghero — 89/90"></td><td class="si" title="Alghero — 90/91"></td><td class="si" title="Alghero — 91/92"></td><td class="si" title="Alghero — 92/93"></td><td class="si" title="Alghero — 93/94"></td><td class="si" title="Alghero — 94/95"></td><td class="si" title="Alghero — 95/96"></td><td class="si" title="Alghero — 96/97"></td><td class="si" title="Alghero — 97/98"></td><td class="no" title="Alghero — 98/99"></td><td class="no" title="Alghero — 99/00"></td><td class="no" title="Alghero — 00/01"></td><td class="no" title="Alghero — 01/02"></td><td class="no" title="Alghero — 02/03"></td><td class="no" title="Alghero — 03/04"></td><td class="no" title="Alghero — 04/05"></td><td class="no" title="Alghero — 05/06"></td><td class="no" title="Alghero — 06/07"></td><td class="no" title="Alghero — 07/08"></td><td class="no" title="Alghero — 08/09"></td><td class="no" title="Alghero — 09/10"></td><td class="no" title="Alghero — 10/11"></td><td class="no" title="Alghero — 11/12"></td><td class="no" title="Alghero — 12/13"></td><td class="no" title="Alghero — 13/14"></td><td class="no" title="Alghero — 14/15"></td></tr>
   <tr><th scope="row">Assemini</th><td class="no" title="Assemini — 81/82"></td><td class="no" title="Assemini — 82/83"></td><td class="no" title="Assemini — 83/84"></td><td class="no" title="Assemini — 84/85"></td><td class="no" title="Assemini — 85/86"></td><td class="no" title="Assemini — 86/87"></td><td class="no" title="Assemini — 87/88"></td><td class="no" title="Assemini — 88/89"></td><td class="no" title="Assemini — 89/90"></td><td class="no" title="Assemini — 90/91"></td><td class="si" title="Assemini — 91/92"></td><td class="si" title="Assemini — 92/93"></td><td class="si" title="Assemini — 93/94"></td><td class="si" title="Assemini — 94/95"></td><td class="si" title="Assemini — 95/96"></td><td class="si" title="Assemini — 96/97"></td><td class="si" title="Assemini — 97/98"></td><td class="si" title="Assemini — 98/99"></td><td class="si" title="Assemini — 99/00"></td><td class="si" title="Assemini — 00/01"></td><td class="si" title="Assemini — 01/02"></td><td class="si" title="Assemini — 02/03"></td><td class="si" title="Assemini — 03/04"></td><td class="si" title="Assemini — 04/05"></td><td class="si" title="Assemini — 05/06"></td><td class="si" title="Assemini — 06/07"></td><td class="si" title="Assemini — 07/08"></td><td class="si" title="Assemini — 08/09"></td><td class="si" title="Assemini — 09/10"></td><td class="no" title="Assemini — 10/11"></td><td class="no" title="Assemini — 11/12"></td><td class="no" title="Assemini — 12/13"></td><td class="no" title="Assemini — 13/14"></td><td class="no" title="Assemini — 14/15"></td></tr>
@@ -155,13 +157,13 @@ definitive quanto sembrano: alcuni centri rientrano dopo anni di assenza, e chi 
 seconda metà della griglia lo fa perché la sua provincia esce dal perimetro, non perché la città abbia
 smesso di interessare all'editore.
 
-## L'indice degli articoli, 1990-1998
+## L'indice degli articoli, 1990-1997
 
 Dall'annata 1990/91 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia
-locale — in alcuni fascicoli sottotitolata «Vivere la città» — che cessa con il 1997/98 insieme al
-fascicolo provinciale. Sono 230 titoli in otto annate, mai indicizzati altrove: un piccolo corpus
-di giornalismo locale distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso con
-la carta che lo conteneva.
+locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1997/98. Sono
+230 titoli in otto annate, mai indicizzati altrove: un piccolo corpus di giornalismo locale
+distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza lasciare traccia in
+alcuna risorsa online.
 
 I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i
 diritti appartengono all'editore.
@@ -255,7 +257,7 @@ diritti appartengono all'editore.
   <dd>Sassari, la "fabbrica" di scienziati e presidenti <b class="perno">&bull;</b> La casa delle streghe e le porte dell'Aldilà <b class="perno">&bull;</b> Da Villanova a Pozzomaggiore, nuraghi e pascoli</dd>
 </dl>
 
-## Il fascicolo si assottiglia, la citta si ingrandisce
+## Il fascicolo si assottiglia, la città si ingrandisce
 
 Le barre scure sono le pagine del fascicolo, quelle chiare le tavole dedicate alla sola Cagliari.
 
@@ -302,13 +304,13 @@ Si passa da 56 pagine nel 81/82 a 56 nel 14/15,
 con un massimo di 88. Nello stesso periodo le tavole del capoluogo salgono da
 6 a 14. Le due curve vanno in direzioni
 opposte e raccontano una cosa sola: il fascicolo smette di essere una guida alla provincia e diventa
-una pianta della citta.
+una pianta della città.
 
 ## Dodici layout in trentaquattro anni
 
-Il layout e registrato durante lo spoglio osservando l'impaginazione, non la copertina. Le sue
-cesure sono percio indipendenti da quelle delle serie di copertina descritte altrove, e il confronto
-fra le due periodizzazioni e una verifica reciproca.
+I vari layout sono stati definiti durante il censimento osservando l'impaginazione. Le loro cesure
+sono perciò indipendenti da quelle delle serie di copertina descritte nell'[apposita
+pagina](copertine.md) di questo sito.
 
 | layout | annate |
 |---|---|
@@ -327,21 +329,21 @@ fra le due periodizzazioni e una verifica reciproca.
 
 ## Una regola dell'impaginazione degli anni ottanta
 
-Nelle annate dal 1982/83 al 1989/90 l'elenco delle vie non ha sempre una sezione propria. Lo spoglio
-registra per ciascuna citta quante tavole occupa e su quante pagine, e da li la regola emerge senza
-eccezioni: **la citta la cui tavola unica occupa due pagine affrontate non ha un elenco delle vie in
-pagina propria**, perche l'elenco sta nei margini esterni della tavola stessa. Cagliari, con sei o
+Nelle annate dal 1982/83 al 1989/90 l'elenco delle vie non ha sempre una sezione propria. Il censimento
+registra per ciascuna città quante tavole occupa e su quante pagine, e da lì la regola emerge senza
+eccezioni: **la città la cui tavola unica occupa due pagine affrontate non ha un elenco delle vie in
+pagina propria**, perché l'elenco sta nei margini esterni della tavola stessa. Cagliari, con sei o
 sette tavole, e Sassari, con tre o quattro, non possono farlo e mantengono la sezione separata.
 
 Nel 1981/82 la regola non vale ancora: la tavola unica occupa una pagina sola e l'elenco sta sulla
-pagina pari a fronte, secondo il layout piu antico. Dal 1990/91 non vale piu: l'elenco si sposta a
+pagina pari a fronte, secondo il layout più antico. Dal 1990/91 non vale più: l'elenco si sposta a
 fine provincia e raccoglie le vie di tutti i comuni cartografati, e dai margini sparisce.
 
 Nel CSV delle sezioni queste 65 righe portano `origine` uguale a `dedotta dalla nota della tavola`:
 esistono nel fascicolo ma non come sezione a se, e sono ricavate dalla descrizione della cartografia.
 Il campo permette di escluderle a chi voglia i soli dati rilevati direttamente.
 
-Come tutte le regolarita di questa ricostruzione, e falsificabile: basta un fascicolo con una tavola
+Come tutte le regolarità di questa ricostruzione, è falsificabile: basta un fascicolo con una tavola
 su due pagine e l'elenco in pagina propria, o viceversa, e cade. Vale la pena verificarla sulle altre
 regioni man mano che se ne completa la serie.
 
@@ -349,9 +351,9 @@ regioni man mano che se ne completa la serie.
 
 - [`sardegna_fascicoli.csv`](../dati/sardegna_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, sfondo della cartografia
 - [`sardegna_sezioni.csv`](../dati/sardegna_sezioni.csv) — una sezione per riga, con il titolo rilevato e quello normalizzato
-- [`sardegna_contenuti.csv`](../dati/sardegna_contenuti.csv) — un titolo per riga: lo spoglio degli articoli e delle voci
-- [`sardegna_cartografia.csv`](../dati/sardegna_cartografia.csv) — una citta per riga: tavole, pagine, collocazione dell'elenco delle vie
+- [`sardegna_contenuti.csv`](../dati/sardegna_contenuti.csv) — un titolo per riga: il censimento degli articoli e delle voci
+- [`sardegna_cartografia.csv`](../dati/sardegna_cartografia.csv) — una città per riga: tavole, pagine, collocazione dell'elenco delle vie
 
 Sono depositati con lo stesso dataset e la stessa licenza del censimento. Chi possiede fascicoli di
-altre regioni e vuole vederli trattati cosi trovera nelle [questioni aperte](questioni-aperte.md) come
+altre regioni e vuole vederli trattati così troverà nelle [questioni aperte](questioni-aperte.md) come
 contribuire.

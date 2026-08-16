@@ -1,8 +1,8 @@
 # Le note dell'editore
 
-Le altre pagine di questo sito ricostruiscono TuttoCittà dall'esterno, contando fascicoli e confrontando
-copertine. Qui invece parla l'editore. Sono due sole note, ma cadono in due momenti fondamentali: la
-nascita del prodotto e la sua prima grande riforma.
+Nel corso della storia editoriale dei TuttoCittà sono apparse due note dell'editore esplicitamente
+rivolte all'utenza: la prima è presente in tutti i fascicoli della prima edizione, in corrispondenza
+della nascita del prodotto; la seconda descrive invece la sua prima grande riforma editoriale.
 
 ## 1981: la presentazione di un prodotto nuovo
 
