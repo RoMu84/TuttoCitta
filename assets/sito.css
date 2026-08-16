@@ -99,9 +99,16 @@ table.griglia th[scope=row] { width:230px; font-weight:400; font-size:12px; text
 table.griglia thead th { border:0; background:none; padding:0; width:15px; vertical-align:bottom; }
 table.griglia thead th span { display:inline-block; writing-mode:vertical-rl; transform:rotate(180deg);
   font-size:10.5px; font-weight:400; color:var(--tenue); padding-bottom:4px; }
-table.griglia td { width:15px; height:13px; padding:0; border:0; border-radius:2px; }
-table.griglia td.si { background:var(--scuro); }
-table.griglia td.no { background:#eef1f4; }
+table.griglia td { width:15px; height:13px; padding:0; border:0; line-height:0; font-size:0; }
+/* Ogni cella e divisa a meta: la serie di Cagliari e quella di Nuoro-Sassari. */
+table.griglia td span { display:inline-block; width:50%; height:13px; vertical-align:top; }
+table.griglia td span:first-child { border-radius:2px 0 0 2px; }
+table.griglia td span:last-child { border-radius:0 2px 2px 0; }
+table.griglia td span.si { background:var(--scuro); }
+table.griglia td span.no { background:#eef1f4; }
+table.griglia td span.intera { width:100%; border-radius:2px; }
+.legenda-griglia { font-size:13px; color:var(--tenue); max-width:44rem; margin:2px 0 34px;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 /* Foliazione e tavole del capoluogo. */
 .barre { display:flex; align-items:flex-end; gap:2px; height:170px; margin:22px 0 0;
   border-bottom:1px solid var(--bordo); }
@@ -111,6 +118,11 @@ table.griglia td.no { background:#eef1f4; }
 .barre-etichette { display:flex; gap:2px; margin:5px 0 30px; font-size:10.5px; color:var(--tenue);
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 .barre-etichette span { flex:1; text-align:center; }
+/* Indice degli articoli delle rubriche provinciali. */
+dl.articoli { max-width:44rem; margin:14px 0 26px; }
+dl.articoli dt { font-size:13px; letter-spacing:.06em; text-transform:uppercase; color:var(--scuro);
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; margin-top:12px; }
+dl.articoli dd { margin:3px 0 0; font-size:15.5px; }
 @media (max-width:1120px){ .galleria.tavole.r1 img { height:250px } .galleria.tavole.r2 img { height:222px } }
 @media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px}
   table.matrice{table-layout:auto} table.matrice th, table.matrice td{font-size:11px}
