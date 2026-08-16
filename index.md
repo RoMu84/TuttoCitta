@@ -24,6 +24,7 @@ esclusivamente da una passione personale.
 <li><strong><a href="pagine/copertine.md">Le copertine, annata per annata</a></strong> — la galleria delle copertine con formati e conteggi</li>
 <li><strong><a href="pagine/tavole.md">L'evoluzione delle tavole cartografiche</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>
 <li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma</li>
+<li><strong><a href="pagine/sardegna.md">La Sardegna in dettaglio</a></strong> — che cosa c'era dentro i fascicoli: rubriche, contenuti e cartografia di una serie completa</li>
 <li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo, come segnalarlo e come contribuire</li>
 <hr>
 <li><strong><a href="pagine/cerca-fascicoli.md">Cerca nei dati</a></strong> — interroga il censimento e l'indice delle località direttamente dal browser</li>
