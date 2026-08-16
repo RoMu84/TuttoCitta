@@ -102,11 +102,6 @@ table.griglia thead th span { display:inline-block; writing-mode:vertical-rl; tr
 table.griglia td { width:15px; height:13px; padding:0; border:0; border-radius:2px; }
 table.griglia td.si { background:var(--scuro); }
 table.griglia td.no { background:#eef1f4; }
-/* Dove le serie parallele sono due, la cella si divide: meta sinistra Cagliari,
-   meta destra Nuoro-Sassari. Il taglio e netto perche le due tinte si incontrano
-   allo stesso 50% senza sfumatura. */
-table.griglia td.sx { background:linear-gradient(90deg, var(--scuro) 50%, #eef1f4 50%); }
-table.griglia td.dx { background:linear-gradient(90deg, #eef1f4 50%, var(--scuro) 50%); }
 .legenda-griglia { font-size:13px; color:var(--tenue); max-width:44rem; margin:2px 0 34px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 /* Foliazione e tavole del capoluogo. */
