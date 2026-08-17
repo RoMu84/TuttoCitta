@@ -119,6 +119,16 @@ dl.articoli dt { font-size:13px; letter-spacing:.06em; text-transform:uppercase;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; margin-top:12px; }
 dl.articoli dd { margin:3px 0 0; font-size:15.5px; }
 dl.articoli .perno { color:var(--oro); padding:0 3px; }
+/* Figure a se stanti. La larghezza e fissata in pixel, non l'altezza, perche la
+   figura di confronto sia esattamente il doppio delle altre due qualunque sia la
+   proporzione dell'immagine. A 220px una copertina 246x280 mm risulta alta 250px,
+   la stessa misura delle copertine nella galleria. */
+figure.figura { margin:26px 0 32px; }
+figure.figura img { width:220px; height:auto; border:1px solid var(--bordo);
+  box-shadow:0 2px 7px rgba(20,40,70,.13); }
+figure.figura.doppia img { width:440px; }
+figure.figura figcaption { font-size:13px; line-height:1.45; margin-top:9px; max-width:440px;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 @media (max-width:1120px){ .galleria.tavole.r1 img { height:250px } .galleria.tavole.r2 img { height:222px } }
 @media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px}
   table.matrice{table-layout:auto} table.matrice th, table.matrice td{font-size:11px}
