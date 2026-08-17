@@ -100,7 +100,7 @@ definizione.
   </tbody>
 </table>
 </div>
-<p class="legenda-griglia">La cella e piena quando la rubrica compare in almeno uno dei fascicoli di quell'annata. Dal 1984/85 al 1997/98 i fascicoli sono due, uno per la serie di Cagliari e uno per quella di Nuoro-Sassari: passando sulla cella si legge in quale delle due la rubrica compare.</p>
+<p class="legenda-griglia">La cella è piena quando la rubrica compare in almeno uno dei fascicoli di quell'annata. Dal 1984/85 al 1997/98 i fascicoli sono due, uno per la serie di Cagliari e uno per quella di Nuoro-Sassari: passando sulla cella si legge in quale delle due la rubrica compare.</p>
 
 
 Le uniche due rubriche che attraversano tutte e trentaquattro le annate sono le **tavole topografiche**
@@ -361,7 +361,7 @@ regioni man mano che se ne completa la serie.
 <img src="../immagini/NU8182confronto.jpg" alt="Confronto fra la tavola topografica di Nuoro nei fascicoli 81 e 82" loading="lazy">
 <figcaption>Confronto della tavola topografica e relativo elenco delle vie della città di Nuoro fra il
 fascicolo 81 (in alto) e 82 (in basso). Nel primo l'elenco delle vie è in una pagina a parte, nel
-secondo si trova ai margini sinistro e destro della tavola topografica</figcaption>
+secondo si trova ai margini sinistro e destro della tavola topografica.</figcaption>
 </figure>
 
 ## I dati
