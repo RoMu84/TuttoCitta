@@ -292,6 +292,29 @@ incorporata in Selargius e poi presentata in entrambe le città qualche annata d
 </details>
 
 
+## Una regola dell'impaginazione degli anni ottanta
+
+Nelle annate dal 1982/83 al 1989/90 l'elenco delle vie non ha sempre una sezione propria. Il censimento
+registra per ciascuna città quante tavole occupa e su quante pagine, facendo così emergere una regola
+chiara: **la città la cui tavola unica occupa due pagine affrontate non ha un elenco delle vie in
+pagina propria**, perché l'elenco sta nei margini esterni della tavola stessa. Cagliari, con sei o
+sette tavole, e Sassari, con tre o quattro, non possono farlo e mantengono la sezione separata.
+
+Nel 1981/82 la regola non vale ancora: la tavola unica occupa una pagina sola e l'elenco sta sulla
+pagina pari a fronte, secondo il layout più antico. Dal 1990/91 non vale più: l'elenco si sposta a
+fine provincia e raccoglie le vie di tutti i comuni cartografati, e dai margini sparisce.
+
+Nel CSV delle sezioni queste 65 righe portano `origine` uguale a `dedotta dalla nota della tavola`:
+esistono nel fascicolo ma non come sezione a se, e sono ricavate dalla descrizione della cartografia.
+Il campo permette di escluderle a chi voglia i soli dati rilevati direttamente.
+
+<figure class="figura doppia">
+<img src="../immagini/NU8182confronto.jpg" alt="Confronto fra la tavola topografica di Nuoro nei fascicoli 81 e 82" loading="lazy">
+<figcaption>Confronto della tavola topografica e relativo elenco delle vie della città di Nuoro fra il
+fascicolo 81 (in alto) e 82 (in basso). Nel primo l'elenco delle vie è in una pagina a parte, nel
+secondo si trova ai margini sinistro e destro della tavola topografica.</figcaption>
+</figure>
+
 ## L'indice degli articoli, 1990-1997
 
 Dall'annata 1990/91 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia
@@ -472,29 +495,6 @@ pagina](copertine.md) di questo sito.
 | TuttoCittà metà duemila | 05/06 – 05/06 |
 | TuttoCittà fine duemila | 06/07 – 09/10 |
 | TuttoCittà anni dieci | 10/11 – 14/15 |
-
-## Una regola dell'impaginazione degli anni ottanta
-
-Nelle annate dal 1982/83 al 1989/90 l'elenco delle vie non ha sempre una sezione propria. Il censimento
-registra per ciascuna città quante tavole occupa e su quante pagine, facendo così emergere una regola
-chiara: **la città la cui tavola unica occupa due pagine affrontate non ha un elenco delle vie in
-pagina propria**, perché l'elenco sta nei margini esterni della tavola stessa. Cagliari, con sei o
-sette tavole, e Sassari, con tre o quattro, non possono farlo e mantengono la sezione separata.
-
-Nel 1981/82 la regola non vale ancora: la tavola unica occupa una pagina sola e l'elenco sta sulla
-pagina pari a fronte, secondo il layout più antico. Dal 1990/91 non vale più: l'elenco si sposta a
-fine provincia e raccoglie le vie di tutti i comuni cartografati, e dai margini sparisce.
-
-Nel CSV delle sezioni queste 65 righe portano `origine` uguale a `dedotta dalla nota della tavola`:
-esistono nel fascicolo ma non come sezione a se, e sono ricavate dalla descrizione della cartografia.
-Il campo permette di escluderle a chi voglia i soli dati rilevati direttamente.
-
-<figure class="figura doppia">
-<img src="../immagini/NU8182confronto.jpg" alt="Confronto fra la tavola topografica di Nuoro nei fascicoli 81 e 82" loading="lazy">
-<figcaption>Confronto della tavola topografica e relativo elenco delle vie della città di Nuoro fra il
-fascicolo 81 (in alto) e 82 (in basso). Nel primo l'elenco delle vie è in una pagina a parte, nel
-secondo si trova ai margini sinistro e destro della tavola topografica.</figcaption>
-</figure>
 
 ## I dati
 
