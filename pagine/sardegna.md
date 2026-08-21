@@ -180,7 +180,7 @@ passaggi fascicolo per fascicolo. Le annotazioni ricorrenti sono cinque e copron
 
 | annotazione | ricorrenze |
 |---|---|
-| Nuovo comune cartografato | 21 |
+| Nuovo comune cartografato | 20 |
 | Aumento della superficie cartografata | 19 |
 | Leggera revisione e uniformità grafica | 18 |
 | Nuova cartografia rinnovata | 10 |
@@ -201,7 +201,7 @@ amministrative: ad esempio Monserrato che diventa comune autonomo, una tavola sc
 incorporata in Selargius e poi presentata in entrambe le città qualche annata dopo.
 
 <details class="cassetto" markdown="1">
-<summary>Espandi l'elenco completo — 78 cambiamenti annotati</summary>
+<summary>Espandi l'elenco completo — 77 cambiamenti annotati</summary>
 
 <div class="scorri">
 <table class="cambiamenti">
@@ -241,8 +241,7 @@ incorporata in Selargius e poi presentata in entrambe le città qualche annata d
   <tr class="stacco"><td><span class="pastiglia" style="background:#DDD9C3"></span> 92</td><td>Guspini</td><td>Aumento della superficie cartografata</td></tr>
   <tr><td><span class="pastiglia" style="background:#DDD9C3"></span> 92</td><td>Pula</td><td>Nuovo comune cartografato</td></tr>
   <tr class="stacco"><td><span class="pastiglia" style="background:#DDD9C3"></span> 92</td><td>Macomer</td><td>Nuovo comune cartografato</td></tr>
-  <tr class="stacco"><td><span class="pastiglia" style="background:#DDD9C3"></span> 93</td><td>Macomer</td><td>Nuovo comune cartografato</td></tr>
-  <tr><td><span class="pastiglia" style="background:#DDD9C3"></span> 93</td><td>Olbia</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#DDD9C3"></span> 93</td><td>Olbia</td><td>Nuova cartografia rinnovata</td></tr>
   <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 94</td><td>Alghero</td><td>Aumento della superficie cartografata</td></tr>
   <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 95</td><td>Cagliari</td><td>Monserrato diventa comune autonomo</td></tr>
   <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 95</td><td>Monserrato</td><td>Precedentemente incluso in Cagliari</td></tr>
