@@ -174,124 +174,122 @@ smesso di interessare all'editore.
 
 ## I cambiamenti della cartografia
 
-La cartografia non restava ferma: comuni che entrano per la prima volta, aree che si allargano, tavole
-ridisegnate da capo. Il censimento annota questi passaggi fascicolo per fascicolo, e ne risultano
-90 in 22 annate. Le annotazioni ricorrenti sono cinque e coprono quasi tutti i casi:
+La cartografia subiva delle modifiche nel tempo, con comuni che entravano per la prima volta, aree che
+si allargavano, tavole ridisegnate da capo. Il presente censimento annota con attenzione questi
+passaggi fascicolo per fascicolo. Le annotazioni ricorrenti sono cinque e coprono quasi tutti i casi:
 
 | annotazione | ricorrenze |
 |---|---|
 | Nuovo comune cartografato | 21 |
 | Aumento della superficie cartografata | 19 |
-| Leggera revisione e uniformità grafica | 19 |
-| Nuova cartografia rinnovata | 16 |
-| Aggiornamenti nella cartografia | 10 |
+| Leggera revisione e uniformità grafica | 18 |
+| Nuova cartografia rinnovata | 11 |
+| Aggiornamenti nella cartografia | 7 |
 
-Vale la pena distinguerle, perché dicono cose diverse. «Nuovo comune cartografato» segna l'ingresso di
-un centro che prima non c'era, ed è la crescita del perimetro; «aumento della superficie cartografata»
-riguarda una città già presente la cui tavola si estende, ed è la crescita della città. «Nuova
-cartografia rinnovata» è il ridisegno da capo, l'intervento più profondo, e si concentra nelle annate
-di riforma. «Leggera revisione e uniformità grafica» è invece il ritocco di allineamento che accompagna
-i passaggi di serie.
+Queste annotazioni ricorrenti indicano modifiche standardizzate.
 
-Le restanti annotazioni sono casi singoli e circostanziati, e sono le più interessanti perché
-registrano vicende amministrative: Monserrato che diventa comune autonomo, una tavola scorporata e
-incorporata in Selargius e poi reincorporata qualche annata dopo.
+- «Nuovo comune cartografato» segna l'ingresso di un centro che prima non c'era.
+- «Aumento della superficie cartografata» riguarda una città già presente la cui tavola si estende.
+- «Leggera revisione e uniformità grafica» è invece il ritocco di allineamento che accompagna i
+  passaggi di serie.
+- «Nuova cartografia rinnovata» è il ridisegno da capo, l'intervento più profondo.
+- «Aggiornamenti nella cartografia» si riferisce invece all'aggiunta o alla modifica di alcune strade e
+  ad altri cambiamenti più o meno importanti nel medesimo impianto cartografico.
+
+Le restanti annotazioni sono casi singoli e circostanziati, che spesso registrano vicende
+amministrative: ad esempio Monserrato che diventa comune autonomo, una tavola scorporata da Cagliari e
+incorporata in Selargius e poi presentata in entrambe le città qualche annata dopo.
 
 <details class="cassetto" markdown="1">
-<summary>Espandi l'elenco completo — 90 cambiamenti annotati</summary>
+<summary>Espandi l'elenco completo — 80 cambiamenti annotati</summary>
 
-| annata | dove | che cosa cambia |
-|---|---|---|
-| 82/83 | Alghero | Aumento della superficie cartografata |
-| 82/83 | Carbonia | Nuovo comune cartografato |
-| 82/83 | Nuoro | Aumento della superficie cartografata |
-| 82/83 | Olbia | Aumento della superficie cartografata |
-| 82/83 | Oristano | Aumento della superficie cartografata |
-| 82/83 | Porto Torres | Nuovo comune cartografato |
-| 82/83 | Quartu Sant'Elena | Aumento della superficie cartografata |
-| 84/85 | Cagliari | Aumento della superficie cartografata; Aggiornamenti nella cartografia (Monserrato) |
-| 84/85 | Iglesias | Nuovo comune cartografato |
-| 86/87 | Nuoro | Aggiornamenti nella cartografia |
-| 87/88 | Oristano | Aggiornamenti nella cartografia |
-| 87/88 | Quartu Sant'Elena | Nuova cartografia rinnovata |
-| 87/88 | Nuoro | Nuova cartografia rinnovata |
-| 88/89 | Nuoro | Aggiornamenti nella cartografia |
-| 89/90 | Oristano | Aggiornamenti nella cartografia |
-| 89/90 | Quartu Sant'Elena | Nuova cartografia rinnovata |
-| 90/91 | Cagliari | Aumento della superficie cartografata; nuovo assortimento delle tavole |
-| 90/91 | Carbonia | Riduzione della superficie cartografata |
-| 90/91 | Guspini | Nuovo comune cartografato |
-| 90/91 | Iglesias | Aumento della superficie cartografata |
-| 90/91 | La Provincia di Cagliari | Nuova cartografia rinnovata |
-| 90/91 | La Provincia di Oristano | Nuova cartografia rinnovata |
-| 90/91 | Oristano | Aumento della superficie cartografata; Aggiornamenti nella cartografia |
-| 90/91 | Quartu Sant'Elena | Aumento della superficie cartografata |
-| 90/91 | Alghero | Aumento della superficie cartografata |
-| 90/91 | La Provincia di Nuoro | Nuova cartografia rinnovata |
-| 90/91 | La Provincia di Sassari | Nuova cartografia rinnovata |
-| 90/91 | Nuoro | Aumento della superficie cartografata |
-| 90/91 | Olbia | Aumento della superficie cartografata |
-| 90/91 | Porto Torres | Aumento della superficie cartografata |
-| 90/91 | Sassari | Aumento della superficie cartografata |
-| 90/91 | Tempio Pausania | Nuovo comune cartografato |
-| 90/91 | Zona industriale Predda Niedda | Nuova area cartografata |
-| 91/92 | Assemini | Nuovo comune cartografato |
-| 91/92 | Cagliari | Aumento della superficie cartografata |
-| 91/92 | Elmas | Nuovo comune cartografato |
-| 91/92 | Quartu Sant'Elena | Aumento della superficie cartografata |
-| 92/93 | Guspini | Aumento della superficie cartografata |
-| 92/93 | Pula | Nuovo comune cartografato |
-| 92/93 | Macomer | Nuovo comune cartografato |
-| 93/94 | Macomer | Nuovo comune cartografato |
-| 93/94 | Olbia | Nuova cartografia rinnovata |
-| 94/95 | Alghero | Aumento della superficie cartografata |
-| 95/96 | Cagliari | Monserrato diventa comune autonomo |
-| 95/96 | Monserrato | Precedentemente incluso in Cagliari |
-| 95/96 | La Maddalena | Nuovo comune cartografato |
-| 95/96 | Zona industriale Predda Niedda | Nuova cartografia rinnovata |
-| 96/97 | Zona industriale Predda Niedda | Aggiornamenti nella cartografia |
-| 97/98 | Assemini | Leggera revisione e uniformità grafica |
-| 97/98 | Cagliari | Leggera revisione e uniformità grafica |
-| 97/98 | Carbonia | Leggera revisione e uniformità grafica |
-| 97/98 | Codici di Avviamento Postale dei Comuni della Provincia di Oristano | Leggera revisione e uniformità grafica |
-| 97/98 | Elmas | Leggera revisione e uniformità grafica |
-| 97/98 | Guspini | Leggera revisione e uniformità grafica |
-| 97/98 | Iglesias | Leggera revisione e uniformità grafica |
-| 97/98 | Monserrato | Leggera revisione e uniformità grafica |
-| 97/98 | Pula | Leggera revisione e uniformità grafica |
-| 97/98 | Quartu Sant'Elena | Leggera revisione e uniformità grafica |
-| 97/98 | Alghero | Leggera revisione e uniformità grafica |
-| 97/98 | Azienda U.S.L. n.1 Sassari | Leggera revisione e uniformità grafica |
-| 97/98 | La Maddalena | Leggera revisione e uniformità grafica |
-| 97/98 | Macomer | Leggera revisione e uniformità grafica |
-| 97/98 | Nuoro | Leggera revisione e uniformità grafica |
-| 97/98 | Olbia | Leggera revisione e uniformità grafica |
-| 97/98 | Porto Torres | Leggera revisione e uniformità grafica |
-| 97/98 | Sassari | Leggera revisione e uniformità grafica |
-| 97/98 | Tempio Pausania | Leggera revisione e uniformità grafica |
-| 98/99 | La Provincia di Cagliari | Nuova cartografia rinnovata |
-| 99/00 | CTM Linee urbane | Nuova mappa |
-| 99/00 | Cagliari | Scorporo di una tavola e incorporazione in Selargius |
-| 99/00 | Capoterra | Nuovo comune cartografato |
-| 99/00 | Sanluri | Nuovo comune cartografato |
-| 99/00 | Selargius | Nuovo comune cartografato |
-| 99/00 | Sestu | Nuovo comune cartografato |
-| 00/01 | Muravera | Nuovo comune cartografato |
-| 00/01 | San Sperate | Nuovo comune cartografato |
-| 00/01 | Sarroch | Nuovo comune cartografato |
-| 00/01 | Senorbì | Nuovo comune cartografato |
-| 01/02 | CTM Linee urbane | Aggiornamenti nella cartografia |
-| 01/02 | Villacidro | Nuovo comune cartografato |
-| 04/05 | CTM Linee urbane | Aggiornamenti nella cartografia |
-| 05/06 | Cagliari | Reincorporo tavola sottratta da Selargius, ora presente anche in Cagliari |
-| 06/07 | CTM Linee urbane | Aggiornamenti nella cartografia |
-| 06/07 | Sant'Antioco | Nuovo comune cartografato |
-| 10/11 | Cagliari | Nuova cartografia rinnovata |
-| 10/11 | Carbonia | Nuova cartografia rinnovata |
-| 10/11 | Iglesias | Nuova cartografia rinnovata |
-| 10/11 | Sanluri | Nuova cartografia rinnovata |
-| 10/11 | Selargius | Nuova cartografia rinnovata |
-| 10/11 | Villacidro | Nuova cartografia rinnovata |
+<div class="scorri">
+<table class="cambiamenti">
+  <thead><tr><th>anno</th><th>comune</th><th>che cosa cambia</th></tr></thead>
+  <tbody>
+  <tr><td><span class="pastiglia" style="background:#FF0000"></span> 82</td><td>Carbonia</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FF0000"></span> 82</td><td>Quartu Sant'Elena</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FF0000"></span> 82</td><td>Nuoro</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FF0000"></span> 82</td><td>Oristano</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FF0000"></span> 82</td><td>Alghero</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FF0000"></span> 82</td><td>Olbia</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FF0000"></span> 82</td><td>Porto Torres</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#92D050"></span> 84</td><td>Cagliari</td><td>Aumento della superficie cartografata; Aggiornamenti nella cartografia (Monserrato)</td></tr>
+  <tr><td><span class="pastiglia" style="background:#92D050"></span> 84</td><td>Iglesias</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#00B0F0"></span> 86</td><td>Nuoro</td><td>Aggiornamenti nella cartografia</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#92D050"></span> 87</td><td>Quartu Sant'Elena</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#92D050"></span> 87</td><td>Oristano</td><td>Aggiornamenti nella cartografia</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#92D050"></span> 87</td><td>Nuoro</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#FF0000"></span> 88</td><td>Nuoro</td><td>Aggiornamenti nella cartografia</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#00B0F0"></span> 89</td><td>Quartu Sant'Elena</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#00B0F0"></span> 89</td><td>Oristano</td><td>Aggiornamenti nella cartografia</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Cagliari</td><td>Aumento della superficie cartografata; nuovo assortimento delle tavole</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Guspini</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Carbonia</td><td>Riduzione della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Iglesias</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Quartu Sant'Elena</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Oristano</td><td>Aumento della superficie cartografata; Aggiornamenti nella cartografia</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Nuoro</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Sassari</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Zona industriale Predda Niedda</td><td>Nuova area cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Alghero</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Olbia</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Porto Torres</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002060"></span> 90/91</td><td>Tempio Pausania</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#002671"></span> 91</td><td>Cagliari</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002671"></span> 91</td><td>Assemini</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002671"></span> 91</td><td>Elmas</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#002671"></span> 91</td><td>Quartu Sant'Elena</td><td>Aumento della superficie cartografata</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#DDD9C3"></span> 92</td><td>Guspini</td><td>Aumento della superficie cartografata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#DDD9C3"></span> 92</td><td>Pula</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#DDD9C3"></span> 92</td><td>Macomer</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#DDD9C3"></span> 93</td><td>Macomer</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#DDD9C3"></span> 93</td><td>Olbia</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 94</td><td>Alghero</td><td>Aumento della superficie cartografata</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 95</td><td>Cagliari</td><td>Monserrato diventa comune autonomo</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 95</td><td>Monserrato</td><td>Precedentemente incluso in Cagliari</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 95</td><td>Zona industriale Predda Niedda</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 95</td><td>La Maddalena</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 96</td><td>Zona industriale Predda Niedda</td><td>Aggiornamenti nella cartografia</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Cagliari</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Assemini</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Carbonia</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Elmas</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Iglesias</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Guspini</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Monserrato</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Pula</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Quartu Sant'Elena</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Oristano</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Nuoro</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Macomer</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Sassari</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>La Maddalena</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Alghero</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Olbia</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Porto Torres</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Tempio Pausania</td><td>Leggera revisione e uniformità grafica</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Cagliari</td><td>Scorporo di una tavola e incorporazione in Selargius</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Capoterra</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Selargius</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Sanluri</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Sestu</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#FFD966"></span> 00/01</td><td>Muravera</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 00/01</td><td>Sarroch</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 00/01</td><td>San Sperate</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 00/01</td><td>Senorbì</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#FFD966"></span> 01/02</td><td>Villacidro</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#E69138"></span> 05</td><td>Cagliari</td><td>Reincorporo tavola sottratta da Selargius, ora presente anche in Cagliari</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#F6B26B"></span> 06</td><td>Sant'Antioco</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#F9CB9C"></span> 10/11</td><td>Cagliari</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> 10/11</td><td>Carbonia</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> 10/11</td><td>Iglesias</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> 10/11</td><td>Sanluri</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> 10/11</td><td>Villacidro</td><td>Nuova cartografia rinnovata</td></tr>
+  <tr><td><span class="pastiglia" style="background:#F9CB9C"></span> 10/11</td><td>Selargius</td><td>Nuova cartografia rinnovata</td></tr>
+  </tbody>
+</table>
+</div>
 
 </details>
 
