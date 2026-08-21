@@ -15,17 +15,19 @@ esclusivamente da una passione personale.
 > **Hai un TuttoCittà?** La raccolta da cui nasce questo censimento è in continuo ampliamento: accolgo
 > donazioni di fascicoli singoli o in blocco e sono anche aperto all'acquisto di fascicoli, a prezzi
 > ragionevoli. Anche la sola segnalazione di un esemplare aiuta.
-> Vedi [come contribuire](pagine/questioni-aperte.md#come-contribuire).
+> Vedi [come contribuire](pagine/come-contribuire.md).
 
 ## Sommario
 
 <ul>
 <li><strong><a href="pagine/index.md">Introduzione e convenzioni di lettura</a></strong> — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento</li>
 <li><strong><a href="pagine/copertine.md">Le copertine, annata per annata</a></strong> — la galleria delle copertine con formati e conteggi</li>
+<li><strong><a href="pagine/sezioni.md">Le sezioni dei fascicoli</a></strong> — la scaletta interna del fascicolo nelle tre serie in cui si articola</li>
 <li><strong><a href="pagine/tavole.md">L'evoluzione delle tavole cartografiche</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>
 <li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma</li>
 <li><strong><a href="pagine/sardegna.md">La Sardegna in dettaglio</a></strong> — dettaglio di una regione per cui la raccolta dei fascicoli è completa: indicizzazione di cartografia, rubriche e altri contenuti</li>
-<li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo, come segnalarlo e come contribuire</li>
+<li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo e come segnalarlo</li>
+<li><strong><a href="pagine/come-contribuire.md">Come contribuire</a></strong> — segnalare un fascicolo che possiedi, cedere o donare fascicoli</li>
 <hr>
 <li><strong><a href="pagine/cerca-fascicoli.md">Cerca nei dati</a></strong> — interroga il censimento e l'indice delle località direttamente dal browser</li>
 <hr>

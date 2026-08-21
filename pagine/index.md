@@ -8,12 +8,20 @@ raccoglitori e dalle regolarità editoriali osservate nelle pubblicazioni.
 
 ## Come leggere le annate
 
-L'indicizzazione è per **anno di copertina**, non per anno civile. Il ciclo editoriale si apriva a
-febbraio e si chiudeva a gennaio dell'anno successivo, quindi l'annata `81/82` comprende fascicoli
-che riportano in copertina sia `81` sia `82`:
+L'indicizzazione è per **anno di copertina**, non per anno civile. Il ciclo editoriale solitamente si
+apriva a febbraio e si chiudeva a gennaio dell'anno successivo; i fascicoli editi nella seconda metà
+dell'anno di riferimento quindi riportavano in copertina già l'anno successivo, in quanto andavano in
+distribuzione alla fine dell'anno o all'inizio dell'anno dopo. Ad esempio l'annata `81/82` comprendeva
+fascicoli che riportavano in copertina sia `81` sia `82`:
 
 - le **serie iniziali** sono quelle il cui fascicolo dell'annata 1981/82 riporta come titolo *TuttoCittà 81*;
 - le **serie tardive** sono quelle il cui fascicolo della stessa annata riporta *TuttoCittà 82*.
+
+<figure class="figura doppia">
+<img src="../immagini/MIRM8182.jpg" alt="Copertine dei fascicoli di Milano e di Roma dell'annata 81/82" loading="lazy">
+<figcaption>Fascicoli di Milano e di Roma appartenenti all'annata 81/82: il primo riporta 81 in
+copertina, il secondo riporta 82 in copertina.</figcaption>
+</figure>
 
 I fascicoli di Bologna e delle province della Campania e della Basilicata saltano nominalmente il
 *TuttoCittà 85*, passando da serie iniziale a serie tardiva, in coincidenza con la riforma grafica
@@ -31,13 +39,20 @@ a…»). Il passaggio fra le due avviene all'inizio dell'annata 98/99: i due fas
 e Lodi-Provincia di Milano, portano ancora l'intervallo completo. La finestra è **sempre di dodici
 mesi**, e il fascicolo restava valido fino all'arrivo del successivo.
 
-Sono 77 fascicoli, 35 nell'annata 97/98 e 42 nella 98/99. **Per essi l'anno indicato nelle tabelle non
-è la trascrizione di un dato stampato né una derivazione dalla finestra d'uso: è un'attribuzione
-convenzionale secondo la posizione del fascicolo nel ciclo**, la stessa convenzione applicata ai
-fascicoli che l'anno lo riportano. Nell'annata 97/98 la copertina grigia compare solo nella coda del
-ciclo, quindi i suoi fascicoli sono tutti di serie tardiva; l'implicazione non si inverte, perché i
-fascicoli campani e lucani della stessa coda portano copertina beige con il 1998 stampato. L'annata
-98/99 si chiude con Torino, che introduce la copertina gialla poi adottata negli anni successivi.
+<figure class="figura">
+<img src="../immagini/979803.jpg" alt="Fascicolo con copertina grigia senza anno" loading="lazy">
+<figcaption>Esempio di fascicolo senza anno in copertina; in alto è indicato il periodo della finestra
+d'uso.</figcaption>
+</figure>
+
+I fascicoli senza anno in copertina accertati sono 77, di cui 35 nell'annata 97/98 e 42 nell'annata
+98/99. **Per essi l'anno indicato nelle tabelle non è la trascrizione di un dato stampato né una
+derivazione dalla finestra d'uso, ma è un'attribuzione convenzionale secondo la posizione del fascicolo
+nel ciclo**, la stessa convenzione applicata ai fascicoli che l'anno lo riportano. Nell'annata 97/98 la
+copertina grigia compare solo nella coda del ciclo, quindi i suoi fascicoli sono tutti di serie
+tardiva, ma non tutti i fascicoli di serie tardiva portano questo layout, perché i fascicoli campani e
+lucani portano copertina beige con il 1998 stampato. L'annata successiva, ossia la 98/99, si chiude con
+Torino, che introduce la copertina gialla poi adottata negli anni successivi.
 
 ## Stati di ciascuna cella
 

@@ -2,7 +2,7 @@
 
 Raggruppamenti di province censiti: 3. Annate: 1981/82 - 2014/15.
 
-Il colore della cella indica il tipo di copertina; l'elenco completo è in [copertine per annata.csv](../../dati/copertine_per_annata.csv).  
+Il colore della cella indica il tipo di copertina; tutte le tipologie di copertina sono visualizzabili nella [pagina Copertine](../copertine.md), mentre la lista completa è interrogabile in [copertine per annata.csv](../../dati/copertine_per_annata.csv).  
 Per ciascuna casella rappresentante un fascicolo è riportato l'anno di copertina quando questo è noto.  
 x indica che sebbene sia accertata l'esistenza del fascicolo, l'anno di copertina non è noto con precisione.  
 ? indica che la pubblicazione è probabile ma non è confermata.  

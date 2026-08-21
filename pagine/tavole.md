@@ -6,9 +6,7 @@ La cartografia di TuttoCittà cambiò colore di stampa quattro volte in trent'an
 vederlo è seguire **la stessa città attraverso le quattro fasi**: qui è Jesi, in provincia di Ancona,
 presente nei fascicoli fin dalle prime annate.
 
-Le immagini sono ritagliate sulla sola area cartografica. I bordi delle tavole ospitavano le inserzioni
-pubblicitarie degli esercizi locali, che non hanno rilievo per il confronto e che avrebbero introdotto
-nomi, indirizzi e recapiti di attività d'epoca senza alcuna necessità documentaria.
+Le immagini sono ritagliate sulla sola area cartografica.
 
 
 <div class="galleria tavole r1">
@@ -34,8 +32,8 @@ Il dettaglio per singola copertina è in [`copertine_per_annata.csv`](../dati/co
 ## La riforma cartografica delle dieci città maggiori
 
 A metà dell'annata 1985/86 le tavole delle **dieci città maggiori d'Italia** secondo il censimento del
-1981 furono ridisegnate da capo, e fu il cambiamento più profondo che la cartografia di TuttoCittà
-abbia conosciuto.
+1981 (Roma, Milano, Napoli, Torino, Genova, Palermo, Bologna, Firenze, Catania, Bari) furono
+ridisegnate da capo.
 
 Fino ad allora quelle tavole derivavano dai vecchi **stradari SEAT** sviluppati all'inizio degli anni
 settanta e inclusi nelle Pagine Gialle. La loro organizzazione procedeva dalle zone centrali verso le
