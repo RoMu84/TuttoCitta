@@ -30,6 +30,9 @@ somiglianza del titolo ma la compresenza: due sezioni che non compaiono mai nell
 cui intervalli si susseguono sono quasi sempre la stessa cosa; due che convivono sono cose diverse per
 definizione.
 
+<details class="cassetto" markdown="1">
+<summary>Espandi la griglia delle rubriche — 63 rubriche su 34 annate</summary>
+
 <div class="scorri">
 <table class="griglia">
   <thead><tr><th scope="col">Rubrica</th><th scope="col"><span>81/82</span></th><th scope="col"><span>82/83</span></th><th scope="col"><span>83/84</span></th><th scope="col"><span>84/85</span></th><th scope="col"><span>85/86</span></th><th scope="col"><span>86/87</span></th><th scope="col"><span>87/88</span></th><th scope="col"><span>88/89</span></th><th scope="col"><span>89/90</span></th><th scope="col"><span>90/91</span></th><th scope="col"><span>91/92</span></th><th scope="col"><span>92/93</span></th><th scope="col"><span>93/94</span></th><th scope="col"><span>94/95</span></th><th scope="col"><span>95/96</span></th><th scope="col"><span>96/97</span></th><th scope="col"><span>97/98</span></th><th scope="col"><span>98/99</span></th><th scope="col"><span>99/00</span></th><th scope="col"><span>00/01</span></th><th scope="col"><span>01/02</span></th><th scope="col"><span>02/03</span></th><th scope="col"><span>03/04</span></th><th scope="col"><span>04/05</span></th><th scope="col"><span>05/06</span></th><th scope="col"><span>06/07</span></th><th scope="col"><span>07/08</span></th><th scope="col"><span>08/09</span></th><th scope="col"><span>09/10</span></th><th scope="col"><span>10/11</span></th><th scope="col"><span>11/12</span></th><th scope="col"><span>12/13</span></th><th scope="col"><span>13/14</span></th><th scope="col"><span>14/15</span></th></tr></thead>
@@ -102,6 +105,8 @@ definizione.
 </div>
 <p class="legenda-griglia">La cella è piena quando la rubrica compare in almeno uno dei fascicoli di quell'annata. Dal 1984/85 al 1997/98 i fascicoli sono due, uno per la serie di Cagliari e uno per quella di Nuoro-Sassari: passando sulla cella si legge in quale delle due la rubrica compare.</p>
 
+</details>
+
 
 Le uniche due rubriche che attraversano tutte e trentaquattro le annate sono le **tavole topografiche**
 e l'**elenco delle vie**: queste due rubriche rappresentano il prodotto ridotto all'osso, ossia ciò che
@@ -117,6 +122,9 @@ dell'editore, e ordinarle per provincia nasconderebbe proprio quello che qui int
 quali centri entrano ed escono dalla cartografia nel corso di trentaquattro anni. I quattro capoluoghi
 storici — CAGLIARI, NUORO, ORISTANO, SASSARI — sono in maiuscolo, ma restano al loro posto
 nell'alfabeto.
+
+<details class="cassetto" markdown="1">
+<summary>Espandi la griglia delle città — 29 città su 34 annate</summary>
 
 <div class="scorri">
 <table class="griglia">
@@ -155,12 +163,138 @@ nell'alfabeto.
 </table>
 </div>
 
+</details>
+
 
 Le città cartografate almeno una volta sono 29. Il minimo è nel 10/11, con
 6 città; il massimo nel 97/98, con 19. Le uscite non sono mai
 definitive quanto sembrano: alcuni centri rientrano dopo anni di assenza, e chi manca del tutto dalla
 seconda metà della griglia lo fa perché la sua provincia esce dal perimetro, non perché la città abbia
 smesso di interessare all'editore.
+
+## I cambiamenti della cartografia
+
+La cartografia non restava ferma: comuni che entrano per la prima volta, aree che si allargano, tavole
+ridisegnate da capo. Il censimento annota questi passaggi fascicolo per fascicolo, e ne risultano
+90 in 22 annate. Le annotazioni ricorrenti sono cinque e coprono quasi tutti i casi:
+
+| annotazione | ricorrenze |
+|---|---|
+| Nuovo comune cartografato | 21 |
+| Aumento della superficie cartografata | 19 |
+| Leggera revisione e uniformità grafica | 19 |
+| Nuova cartografia rinnovata | 16 |
+| Aggiornamenti nella cartografia | 10 |
+
+Vale la pena distinguerle, perché dicono cose diverse. «Nuovo comune cartografato» segna l'ingresso di
+un centro che prima non c'era, ed è la crescita del perimetro; «aumento della superficie cartografata»
+riguarda una città già presente la cui tavola si estende, ed è la crescita della città. «Nuova
+cartografia rinnovata» è il ridisegno da capo, l'intervento più profondo, e si concentra nelle annate
+di riforma. «Leggera revisione e uniformità grafica» è invece il ritocco di allineamento che accompagna
+i passaggi di serie.
+
+Le restanti annotazioni sono casi singoli e circostanziati, e sono le più interessanti perché
+registrano vicende amministrative: Monserrato che diventa comune autonomo, una tavola scorporata e
+incorporata in Selargius e poi reincorporata qualche annata dopo.
+
+<details class="cassetto" markdown="1">
+<summary>Espandi l'elenco completo — 90 cambiamenti annotati</summary>
+
+| annata | dove | che cosa cambia |
+|---|---|---|
+| 82/83 | Alghero | Aumento della superficie cartografata |
+| 82/83 | Carbonia | Nuovo comune cartografato |
+| 82/83 | Nuoro | Aumento della superficie cartografata |
+| 82/83 | Olbia | Aumento della superficie cartografata |
+| 82/83 | Oristano | Aumento della superficie cartografata |
+| 82/83 | Porto Torres | Nuovo comune cartografato |
+| 82/83 | Quartu Sant'Elena | Aumento della superficie cartografata |
+| 84/85 | Cagliari | Aumento della superficie cartografata; Aggiornamenti nella cartografia (Monserrato) |
+| 84/85 | Iglesias | Nuovo comune cartografato |
+| 86/87 | Nuoro | Aggiornamenti nella cartografia |
+| 87/88 | Oristano | Aggiornamenti nella cartografia |
+| 87/88 | Quartu Sant'Elena | Nuova cartografia rinnovata |
+| 87/88 | Nuoro | Nuova cartografia rinnovata |
+| 88/89 | Nuoro | Aggiornamenti nella cartografia |
+| 89/90 | Oristano | Aggiornamenti nella cartografia |
+| 89/90 | Quartu Sant'Elena | Nuova cartografia rinnovata |
+| 90/91 | Cagliari | Aumento della superficie cartografata; nuovo assortimento delle tavole |
+| 90/91 | Carbonia | Riduzione della superficie cartografata |
+| 90/91 | Guspini | Nuovo comune cartografato |
+| 90/91 | Iglesias | Aumento della superficie cartografata |
+| 90/91 | La Provincia di Cagliari | Nuova cartografia rinnovata |
+| 90/91 | La Provincia di Oristano | Nuova cartografia rinnovata |
+| 90/91 | Oristano | Aumento della superficie cartografata; Aggiornamenti nella cartografia |
+| 90/91 | Quartu Sant'Elena | Aumento della superficie cartografata |
+| 90/91 | Alghero | Aumento della superficie cartografata |
+| 90/91 | La Provincia di Nuoro | Nuova cartografia rinnovata |
+| 90/91 | La Provincia di Sassari | Nuova cartografia rinnovata |
+| 90/91 | Nuoro | Aumento della superficie cartografata |
+| 90/91 | Olbia | Aumento della superficie cartografata |
+| 90/91 | Porto Torres | Aumento della superficie cartografata |
+| 90/91 | Sassari | Aumento della superficie cartografata |
+| 90/91 | Tempio Pausania | Nuovo comune cartografato |
+| 90/91 | Zona industriale Predda Niedda | Nuova area cartografata |
+| 91/92 | Assemini | Nuovo comune cartografato |
+| 91/92 | Cagliari | Aumento della superficie cartografata |
+| 91/92 | Elmas | Nuovo comune cartografato |
+| 91/92 | Quartu Sant'Elena | Aumento della superficie cartografata |
+| 92/93 | Guspini | Aumento della superficie cartografata |
+| 92/93 | Pula | Nuovo comune cartografato |
+| 92/93 | Macomer | Nuovo comune cartografato |
+| 93/94 | Macomer | Nuovo comune cartografato |
+| 93/94 | Olbia | Nuova cartografia rinnovata |
+| 94/95 | Alghero | Aumento della superficie cartografata |
+| 95/96 | Cagliari | Monserrato diventa comune autonomo |
+| 95/96 | Monserrato | Precedentemente incluso in Cagliari |
+| 95/96 | La Maddalena | Nuovo comune cartografato |
+| 95/96 | Zona industriale Predda Niedda | Nuova cartografia rinnovata |
+| 96/97 | Zona industriale Predda Niedda | Aggiornamenti nella cartografia |
+| 97/98 | Assemini | Leggera revisione e uniformità grafica |
+| 97/98 | Cagliari | Leggera revisione e uniformità grafica |
+| 97/98 | Carbonia | Leggera revisione e uniformità grafica |
+| 97/98 | Codici di Avviamento Postale dei Comuni della Provincia di Oristano | Leggera revisione e uniformità grafica |
+| 97/98 | Elmas | Leggera revisione e uniformità grafica |
+| 97/98 | Guspini | Leggera revisione e uniformità grafica |
+| 97/98 | Iglesias | Leggera revisione e uniformità grafica |
+| 97/98 | Monserrato | Leggera revisione e uniformità grafica |
+| 97/98 | Pula | Leggera revisione e uniformità grafica |
+| 97/98 | Quartu Sant'Elena | Leggera revisione e uniformità grafica |
+| 97/98 | Alghero | Leggera revisione e uniformità grafica |
+| 97/98 | Azienda U.S.L. n.1 Sassari | Leggera revisione e uniformità grafica |
+| 97/98 | La Maddalena | Leggera revisione e uniformità grafica |
+| 97/98 | Macomer | Leggera revisione e uniformità grafica |
+| 97/98 | Nuoro | Leggera revisione e uniformità grafica |
+| 97/98 | Olbia | Leggera revisione e uniformità grafica |
+| 97/98 | Porto Torres | Leggera revisione e uniformità grafica |
+| 97/98 | Sassari | Leggera revisione e uniformità grafica |
+| 97/98 | Tempio Pausania | Leggera revisione e uniformità grafica |
+| 98/99 | La Provincia di Cagliari | Nuova cartografia rinnovata |
+| 99/00 | CTM Linee urbane | Nuova mappa |
+| 99/00 | Cagliari | Scorporo di una tavola e incorporazione in Selargius |
+| 99/00 | Capoterra | Nuovo comune cartografato |
+| 99/00 | Sanluri | Nuovo comune cartografato |
+| 99/00 | Selargius | Nuovo comune cartografato |
+| 99/00 | Sestu | Nuovo comune cartografato |
+| 00/01 | Muravera | Nuovo comune cartografato |
+| 00/01 | San Sperate | Nuovo comune cartografato |
+| 00/01 | Sarroch | Nuovo comune cartografato |
+| 00/01 | Senorbì | Nuovo comune cartografato |
+| 01/02 | CTM Linee urbane | Aggiornamenti nella cartografia |
+| 01/02 | Villacidro | Nuovo comune cartografato |
+| 04/05 | CTM Linee urbane | Aggiornamenti nella cartografia |
+| 05/06 | Cagliari | Reincorporo tavola sottratta da Selargius, ora presente anche in Cagliari |
+| 06/07 | CTM Linee urbane | Aggiornamenti nella cartografia |
+| 06/07 | Sant'Antioco | Nuovo comune cartografato |
+| 10/11 | Cagliari | Nuova cartografia rinnovata |
+| 10/11 | Carbonia | Nuova cartografia rinnovata |
+| 10/11 | Iglesias | Nuova cartografia rinnovata |
+| 10/11 | Sanluri | Nuova cartografia rinnovata |
+| 10/11 | Selargius | Nuova cartografia rinnovata |
+| 10/11 | Villacidro | Nuova cartografia rinnovata |
+
+</details>
+
 
 ## L'indice degli articoli, 1990-1997
 
