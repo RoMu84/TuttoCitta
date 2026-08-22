@@ -1,5 +1,35 @@
 # Registro delle versioni
 
+## 1.3 — agosto 2026
+
+**Censimento di dettaglio della Sardegna.** Una pagina e quattro file nuovi descrivono l'organizzazione
+interna dei fascicoli di un'intera regione, l'unica di cui la raccolta possieda tutti i fascicoli
+accertati: 48 fascicoli con foliazione, layout e formato, 872 occorrenze di sezione riconducibili a 63
+rubriche, 1.839 titoli di contenuto e 463 righe di cartografia. La pagina mostra la vita delle rubriche
+annata per annata, l'ingresso e l'uscita delle città dalla cartografia, i cambiamenti annotati nelle
+tavole, l'indice degli articoli delle rubriche provinciali dal 1990 al 1997 e la periodizzazione dei
+dodici layout.
+
+**Una regola dell'impaginazione degli anni ottanta.** Fra il 1982/83 e il 1989/90 la città la cui tavola
+unica occupa due pagine affrontate non ha un elenco delle vie in pagina propria, perché l'elenco sta nei
+margini esterni della tavola. La regola è verificata senza eccezioni sulle 78 righe-città delle otto
+annate ed è dichiaratamente falsificabile.
+
+**Pagine nuove.** «Le sezioni dei fascicoli» descrive la scaletta interna nelle tre serie classiche degli
+anni ottanta e novanta. «Come contribuire» raccoglie, in una pagina propria, i due modi di contribuire al
+censimento: segnalare un fascicolo posseduto oppure cederlo o donarlo.
+
+**Correzioni ai dati.** Il conteggio dei raggruppamenti provinciali in copertina al PDF passa da 116 a
+115: il 116 comprendeva anche l'edizione speciale di Torino per la Sindone, che non è un raggruppamento
+in più. Nell'annata 2005/2006 la copertina «2005 arancione» risulta ora su 28 fascicoli anziché 29,
+coerentemente con il totale dell'annata.
+
+**Riproducibilità.** Due valori del pacchetto 1.2 non erano riproducibili dai fogli di origine e sono
+stati corretti alla fonte: una denominazione dell'annata 81/82 e due grafie di una stessa località,
+unificate. Da questa versione l'affermazione che l'intero pacchetto si rigenera dai soli fogli di origine
+è vera alla lettera. La galleria delle copertine legge inoltre le immagini direttamente dal foglio di
+lavoro anziché da un'esportazione HTML intermedia, e la loro numerazione non dipende più dall'esportazione.
+
 ## 1.2 — agosto 2026
 
 **Nuova sezione sulla riforma del 2009/2010.** La pagina delle tavole documenta ora anche il secondo

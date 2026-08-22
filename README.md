@@ -28,9 +28,24 @@ dati/
   fascicoli_matrice.csv        la matrice come nel foglio originale
   copertine_per_annata.csv     tipi di copertina, conteggi, colore delle tavole
   totali_per_annata.csv        totali per annata e note editoriali
+  aggregati_per_annata.csv     calendario editoriale e foliazione
+  attributi_grafici_per_annata.csv   sfondo delle mappe, cornice, foto dello stradario
+  comuni_per_fascicolo.csv     indice delle località mappate, per decennio
+  sardegna_fascicoli.csv       censimento di dettaglio: un fascicolo per riga
+  sardegna_sezioni.csv         censimento di dettaglio: una sezione per riga
+  sardegna_contenuti.csv       censimento di dettaglio: un titolo per riga
+  sardegna_cartografia.csv     censimento di dettaglio: una città cartografata per riga
 pagine/
   index.md                     introduzione e convenzioni di lettura
+  copertine.md                 galleria delle copertine, annata per annata
+  sezioni.md                   la scaletta interna del fascicolo nelle tre serie classiche
+  tavole.md                    l'evoluzione delle tavole cartografiche
+  note-editore.md              le due note con cui l'editore presentò e riformò il prodotto
+  sardegna.md                  censimento di dettaglio di una regione a serie completa
   questioni-aperte.md          ciò che non sappiamo, con l'invito a segnalare
+  come-contribuire.md          segnalare un fascicolo, cedere o donare fascicoli
+  cerca-fascicoli.md           interrogazione del censimento dal browser
+  cerca-localita.md            interrogazione dell'indice delle località
   regioni/<regione>.md         una tabella per regione
 CONTROLLI.md                   rapporto di integrità generato dai dati
 ```
@@ -40,7 +55,8 @@ CONTROLLI.md                   rapporto di integrità generato dai dati
 | campo | contenuto |
 |---|---|
 | `regione` | regione amministrativa |
-| `fascicolo` | denominazione del fascicolo, che può coprire più province |
+| `fascicolo` | nome di censimento, che identifica il fascicolo lungo tutta la sua storia e può coprire più province |
+| `denominazione` | titolo in vigore in quella singola annata, quando l'editore lo cambiò |
 | `annata` | annata editoriale per anno di copertina, da `81/82` a `14/15` |
 | `stato` | `pubblicato`, `probabile_non_confermato`, `non_pubblicato` |
 | `anno_copertina` | anno riportato in copertina; vuoto se il fascicolo è accertato ma il dato è ignoto |
@@ -81,7 +97,8 @@ esemplare comporta l'aggiornamento del dato, non una difesa della ricostruzione.
 
 **L'annata 1998/1999 resta la più incerta di tutto il ciclo.** Fra i 87 fascicoli del 1997/98 e i 42
 del 1999/2000 — questi ultimi documentati dal bilancio d'esercizio 1998 della SEAT — il numero
-intermedio non è determinabile: sta fra 42 e 87 e le fonti d'epoca non lo dichiarano. Vedi
+intermedio non è determinabile: sta fra 42 e 70 — il massimo scende da 87 perché di diciassette
+edizioni è accertato che non furono pubblicate — e le fonti d'epoca non lo dichiarano. Vedi
 `pagine/questioni-aperte.md`.
 
 **Resta un solo scostamento su trentaquattro annate, e non è un errore.** Nel 1999/2000 la matrice
@@ -93,7 +110,7 @@ dunque ciò che ancora manca, e va letto come un'informazione.
 pubblicazione probabile non confermata, 11 stanno nell'annata 1998/1999 e 10 nella 1999/2000.
 
 Il rapporto certifica inoltre che **nessuna correzione è applicata fuori dai dati**: l'intero pacchetto
-si rigenera dal solo foglio di origine.
+si rigenera dai soli fogli di origine, senza interventi a mano sui file prodotti.
 
 **Le edizioni straordinarie stanno fuori dalla matrice.** Una matrice a una riga per raggruppamento non
 può ospitare due edizioni della stessa città nella stessa annata: le commemorative sono quindi
@@ -101,6 +118,26 @@ registrate come righe distinte con `tipo_edizione = straordinaria`. Al momento �
 occorrenza, l'edizione speciale di Torino del 2010 per l'ostensione della Sindone. Non è noto se le
 edizioni di questo tipo partecipassero al concorso fotografico che assegnava le copertine o avessero
 copertina predefinita dall'editore.
+
+## Il censimento di dettaglio
+
+Al censimento dei fascicoli si affianca un **censimento di dettaglio**, che descrive l'organizzazione
+interna dei fascicoli: rubriche, contenuti e cartografia, fascicolo per fascicolo e pagina per pagina.
+Per ora riguarda la sola **Sardegna**, unica regione di cui la raccolta possieda tutti i fascicoli
+accertati — 48 su 48 — perché il confronto fra un'annata e la successiva richiede una serie senza
+lacune.
+
+I quattro file `sardegna_*.csv` registrano 48 fascicoli con foliazione, layout e formato; 872
+occorrenze di sezione riconducibili a 63 rubriche distinte; 1.839 titoli di contenuto; 463 righe di
+cartografia, una per città cartografata in ogni fascicolo, con il numero di tavole, le pagine occupate
+e la collocazione dell'elenco delle vie.
+
+Due avvertenze per chi riusa questi file. Il campo `nome_normalizzato` delle sezioni svolge per le
+rubriche la stessa funzione che il nome di censimento svolge per i fascicoli: l'editore rinominava le
+rubriche senza cambiarne il contenuto, e i titoli di copertina da soli farebbero morire e rinascere
+sezioni che invece duravano vent'anni. Il campo `origine` distingue inoltre le righe rilevate
+direttamente da quelle dedotte per regola: sessantacinque righe di elenco delle vie non hanno una
+sezione propria nel fascicolo e sono ricavate dalla descrizione della cartografia.
 
 ## Riproducibilità
 
@@ -113,7 +150,7 @@ invece di propagarsi nei dati.
 
 ## Citazione
 
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.2.
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.3.
 Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
 
 ## Licenza
@@ -136,3 +173,7 @@ riprodotte a bassa risoluzione a fini di identificazione documentaria, con conta
 Le segnalazioni più utili riguardano gli esemplari elencati in `pagine/questioni-aperte.md`. Per ogni
 fascicolo servono: città o raggruppamento, anno riportato in copertina, mese e anno del colophon se
 presenti, e se possibile una fotografia della copertina e del colophon.
+
+La raccolta è inoltre in costante ampliamento e accoglie donazioni o cessioni di fascicoli, che
+consentono un esame completo e non solo la verifica di un singolo dato. Le due modalità sono descritte
+in `pagine/come-contribuire.md`.

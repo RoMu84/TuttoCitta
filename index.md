@@ -22,7 +22,7 @@ esclusivamente da una passione personale.
 <ul>
 <li><strong><a href="pagine/index.md">Introduzione e convenzioni di lettura</a></strong> — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento</li>
 <li><strong><a href="pagine/copertine.md">Le copertine, annata per annata</a></strong> — la galleria delle copertine con formati e conteggi</li>
-<li><strong><a href="pagine/sezioni.md">Le sezioni dei fascicoli</a></strong> — la scaletta interna del fascicolo nelle tre serie in cui si articola</li>
+<li><strong><a href="pagine/sezioni.md">Le sezioni dei fascicoli</a></strong> — la scaletta interna del fascicolo nelle tre serie classiche degli anni ottanta e novanta</li>
 <li><strong><a href="pagine/tavole.md">L'evoluzione delle tavole cartografiche</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>
 <li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma</li>
 <li><strong><a href="pagine/sardegna.md">La Sardegna in dettaglio</a></strong> — dettaglio di una regione per cui la raccolta dei fascicoli è completa: indicizzazione di cartografia, rubriche e altri contenuti</li>
@@ -82,7 +82,7 @@ continuazione: documenta soltanto il prodotto editoriale a stampa pubblicato fra
 
 Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
 
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.2.
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione {VERSIONE}.
 Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
 
 **Le riproduzioni e le trascrizioni fanno eccezione.** Le fotografie di copertine e di cartografia e le
