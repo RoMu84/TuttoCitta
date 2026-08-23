@@ -481,20 +481,23 @@ caratteristiche sono descritte in [questa pagina](tabella-layout.md). Le loro ce
 indipendenti da quelle delle serie di copertina descritte nell'[apposita pagina](copertine.md) di
 questo sito.
 
-| layout | annate |
-|---|---|
-| Stradario SEAT | 81/82 – 81/82 |
-| TuttoCittà '80 con foto | 82/83 – 82/83 |
-| TuttoCittà '80 classico | 83/84 – 89/90 |
-| TuttoCittà '90 classico iniziale | 90/91 – 91/92 |
-| TuttoCittà '90 classico | 92/93 – 97/98 |
-| TuttoCittà '90 riformato | 98/99 – 98/99 |
-| TuttoCittà nuovo millennio | 99/00 – 99/00 |
-| TuttoCittà nuovo millennio bis | 00/01 – 00/01 |
-| TuttoCittà nuovo millennio ter | 01/02 – 04/05 |
-| TuttoCittà metà duemila | 05/06 – 05/06 |
-| TuttoCittà fine duemila | 06/07 – 09/10 |
-| TuttoCittà anni dieci | 10/11 – 14/15 |
+<table class="layout-sardegna">
+<thead><tr><th>Layout</th><th>Annate</th></tr></thead>
+<tbody>
+<tr><td>Stradario SEAT</td><td class="ann">81/82</td></tr>
+<tr><td>TuttoCittà '80 con foto</td><td class="ann">82/83</td></tr>
+<tr><td>TuttoCittà '80 classico</td><td class="ann">83/84 – 89/90</td></tr>
+<tr><td>TuttoCittà '90 classico iniziale</td><td class="ann">90/91 – 91/92</td></tr>
+<tr><td>TuttoCittà '90 classico</td><td class="ann">92/93 – 97/98</td></tr>
+<tr><td>TuttoCittà '90 riformato</td><td class="ann">98/99</td></tr>
+<tr><td>TuttoCittà nuovo millennio</td><td class="ann">99/00</td></tr>
+<tr><td>TuttoCittà nuovo millennio bis</td><td class="ann">00/01</td></tr>
+<tr><td>TuttoCittà nuovo millennio ter</td><td class="ann">01/02 – 04/05</td></tr>
+<tr><td>TuttoCittà metà duemila</td><td class="ann">05/06</td></tr>
+<tr><td>TuttoCittà fine duemila</td><td class="ann">06/07 – 09/10</td></tr>
+<tr><td>TuttoCittà anni dieci</td><td class="ann">10/11 – 14/15</td></tr>
+</tbody>
+</table>
 
 ## I dati
 

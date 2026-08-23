@@ -14,7 +14,7 @@ dell'anno di riferimento quindi riportavano in copertina già l'anno successivo,
 distribuzione alla fine dell'anno o all'inizio dell'anno dopo. Ad esempio l'annata `81/82` comprendeva
 fascicoli che riportavano in copertina sia `81` sia `82`:
 
-- le **serie iniziali** sono quelle il cui fascicolo dell'annata 1981/82 riporta come titolo *TuttoCittà 81*;
+- le **serie iniziali** sono quelle il cui fascicolo riporta come titolo *TuttoCittà 81*;
 - le **serie tardive** sono quelle il cui fascicolo della stessa annata riporta *TuttoCittà 82*.
 
 <figure class="figura doppia">

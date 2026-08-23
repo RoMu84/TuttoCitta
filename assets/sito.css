@@ -56,6 +56,10 @@ table.layout td.nome { font-weight:600; color:var(--scuro); }
 table.layout td.ann { white-space:nowrap; font-variant-numeric:tabular-nums; }
 table.layout col.c-nome { width:16%; } table.layout col.c-ann { width:11%; }
 table.layout col.c-car { width:42%; } table.layout col.c-note { width:31%; }
+/* Tabella dei layout nella pagina di dettaglio: le annate incolonnate al centro,
+   l'intestazione no, che resta allineata come nel resto del sito. */
+table.layout-sardegna td.ann { text-align:center; white-space:nowrap;
+  font-variant-numeric:tabular-nums; }
 main { max-width:1460px; margin:0 auto; padding:40px 28px 16px; }
 main > p, main > ul, main > ol, main > h1, main > h2, main > h3, main > blockquote { max-width:44rem; }
 h1 { font-size:34px; line-height:1.25; margin:0 0 .55em; color:var(--scuro); font-weight:600; }

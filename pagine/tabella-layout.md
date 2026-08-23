@@ -13,7 +13,7 @@ raccolgono le eccezioni osservate fascicolo per fascicolo.
 <div class="scorri">
 <table class="layout">
 <colgroup><col class="c-nome"><col class="c-ann"><col class="c-car"><col class="c-note"></colgroup>
-<thead><tr><th>layout</th><th>annate</th><th>caratteristiche</th><th>note</th></tr></thead>
+<thead><tr><th>Layout</th><th>Annate</th><th>Caratteristiche</th><th>Note</th></tr></thead>
 <tbody>
 <tr><td class="nome">Stradario SEAT</td><td class="ann">81/82 – 82/83</td><td><ul class="punti"><li>Sommario con riquadro a fondo celeste</li><li>Tavole topografiche a sfondo arancione</li><li>Inserzioni pubblicitarie a fondo celeste su banner a fondo giallo nelle pagine delle tavole topografiche</li><li>Fotografie della città nelle pagine degli elenchi delle vie</li></ul></td><td><ul class="punti"><li>Molti fascicoli dell'annata 81/82 non la includono</li><li>Raramente questo layout si estende all'annata 82/83</li></ul></td></tr>
 <tr><td class="nome">TuttoCittà '80 con foto</td><td class="ann">81/82 – 83/84</td><td><ul class="punti"><li>Sommario con ruota numerica telefonica stilizzata</li><li>Tavole topografiche a sfondo arancione</li><li>Inserzioni pubblicitarie a fondo giallo su banner a fondo grigio nelle pagine delle tavole topografiche</li><li>Elenchi delle vie ai margini delle tavole topografiche dei comuni minori della provincia, con illustrazioni di chiese o monumenti cittadini</li><li>Talvolta presenti residue fotografie della città negli elenchi delle vie che ancora hanno pagine ad essi dedicate</li></ul></td><td><ul class="punti"><li>Molti fascicoli dell'annata 82/83 la includono</li><li>Talvolta questo layout si estende alle annate 81/82 e 83/84</li></ul></td></tr>
