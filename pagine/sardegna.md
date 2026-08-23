@@ -476,9 +476,10 @@ una pianta della città.
 
 ## Dodici layout in trentaquattro anni
 
-I vari layout sono stati definiti durante il censimento osservando l'impaginazione. Le loro cesure
-sono perciò indipendenti da quelle delle serie di copertina descritte nell'[apposita
-pagina](copertine.md) di questo sito.
+I vari layout sono stati definiti durante il censimento osservando l'impaginazione e le loro
+caratteristiche sono descritte in [questa pagina](tabella-layout.md). Le loro cesure sono perciò
+indipendenti da quelle delle serie di copertina descritte nell'[apposita pagina](copertine.md) di
+questo sito.
 
 | layout | annate |
 |---|---|

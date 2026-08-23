@@ -72,34 +72,12 @@ falsificabile — il ritrovamento di un esemplare comporta l'aggiornamento del d
 - [`dati/fascicoli_matrice.csv`](../dati/fascicoli_matrice.csv) — la matrice come nel foglio originale
 - [`dati/copertine_per_annata.csv`](../dati/copertine_per_annata.csv) — tipi di copertina, conteggi, colore delle tavole
 - [`dati/totali_per_annata.csv`](../dati/totali_per_annata.csv) — totali per annata e note editoriali
-- [Controlli di integrità](../CONTROLLI.md) · [Questioni aperte](questioni-aperte.md) · [Le copertine](copertine.md) · [Le tavole](tavole.md) · [Le note dell'editore](note-editore.md) · [Cerca nei dati](cerca-fascicoli.md)
+- [Questioni aperte](questioni-aperte.md) · [Cerca nei dati](cerca-fascicoli.md) · [Controlli di integrità](../CONTROLLI.md)
 
-## Regioni
-
-- [Abruzzo](regioni/abruzzo.md)
-- [Basilicata](regioni/basilicata.md)
-- [Calabria](regioni/calabria.md)
-- [Campania](regioni/campania.md)
-- [Emilia - Romagna](regioni/emilia-romagna.md)
-- [Friuli - Venezia Giulia](regioni/friuli-venezia-giulia.md)
-- [Lazio](regioni/lazio.md)
-- [Liguria](regioni/liguria.md)
-- [Lombardia](regioni/lombardia.md)
-- [Marche](regioni/marche.md)
-- [Molise](regioni/molise.md)
-- [Piemonte](regioni/piemonte.md)
-- [Puglia](regioni/puglia.md)
-- [Sardegna](regioni/sardegna.md)
-- [Sicilia](regioni/sicilia.md)
-- [Toscana](regioni/toscana.md)
-- [Trentino - Alto Adige](regioni/trentino-alto-adige.md)
-- [Umbria](regioni/umbria.md)
-- [Valle d'Aosta](regioni/valle-daosta.md)
-- [Veneto](regioni/veneto.md)
 
 ## Licenza e citazione
 
 Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
 
 Citazione consigliata: Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale
-(1981-2014)*, versione 1.3. Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
+(1981-2014)*, versione 1.4. Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)

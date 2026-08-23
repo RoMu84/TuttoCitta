@@ -12,6 +12,44 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
   text-transform:uppercase; padding-bottom:11px; border-bottom:3px solid transparent;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 .menu a:hover { color:#fff; border-bottom-color:var(--oro); }
+/* Separatore fra i gruppi di voci: un segno dorato, non un collegamento. */
+.menu .stacco { align-self:flex-start; margin-top:2px; width:5px; height:5px; border-radius:50%;
+  background:var(--oro); flex:none; }
+/* Voci con tendina. Il titolo resta un collegamento alla pagina contenitore; ad
+   aprire l'elenco è il pulsante accanto, così al tocco la voce non naviga via
+   prima che la tendina si veda. */
+.menu .voce { position:relative; display:inline-flex; align-items:flex-start; gap:2px; }
+.menu .apri { background:none; border:0; padding:0 6px 11px 4px; margin:0; cursor:pointer;
+  color:#cbd9e8; display:flex; align-items:center; height:19px; }
+.menu .apri:hover { color:#fff; }
+.menu .apri:focus-visible { outline:2px solid var(--oro); outline-offset:2px; }
+.freccia { display:inline-block; width:0; height:0; border-left:4px solid transparent;
+  border-right:4px solid transparent; border-top:4px solid currentColor; opacity:.75;
+  transition:transform .12s; }
+.menu .voce.aperta .freccia { transform:rotate(180deg); }
+.tendina { position:absolute; left:-14px; top:100%; z-index:20; display:none; margin:0;
+  padding:7px 0; list-style:none; min-width:250px; background:#fff; border:1px solid var(--bordo);
+  border-top:3px solid var(--oro); box-shadow:0 10px 26px rgba(12,30,55,.22); }
+/* Al passaggio del puntatore solo dove un puntatore c'è davvero; altrove, e da
+   tastiera, apre la classe che mette il codice dell'intestazione. */
+@media (hover:hover){ .menu .voce:hover .tendina { display:block; } }
+.menu .voce.aperta .tendina { display:block; }
+.tendina li { margin:0; }
+.tendina a { display:block; color:var(--testo); text-transform:none; letter-spacing:0;
+  font-size:14px; padding:6px 18px; border-bottom:0; }
+.tendina a:hover { color:var(--scuro); background:var(--testa); border-bottom:0; }
+/* Elenchi puntati con il segno dorato, usati nella tabella dei layout. */
+ul.punti { list-style:none; margin:0; padding:0; }
+ul.punti li { position:relative; padding-left:15px; margin:0 0 5px; }
+ul.punti li:last-child { margin-bottom:0; }
+ul.punti li::before { content:"•"; position:absolute; left:0; top:-1px; color:var(--oro);
+  font-size:15px; line-height:1.5; }
+table.layout { width:100%; table-layout:fixed; }
+table.layout td { vertical-align:top; font-size:13.5px; line-height:1.55; }
+table.layout td.nome { font-weight:600; color:var(--scuro); }
+table.layout td.ann { white-space:nowrap; font-variant-numeric:tabular-nums; }
+table.layout col.c-nome { width:16%; } table.layout col.c-ann { width:11%; }
+table.layout col.c-car { width:42%; } table.layout col.c-note { width:31%; }
 main { max-width:1460px; margin:0 auto; padding:40px 28px 16px; }
 main > p, main > ul, main > ol, main > h1, main > h2, main > h3, main > blockquote { max-width:44rem; }
 h1 { font-size:34px; line-height:1.25; margin:0 0 .55em; color:var(--scuro); font-weight:600; }
@@ -161,6 +199,22 @@ table.cambiamenti td:last-child { white-space:normal; }
 table.cambiamenti tr.stacco td { border-top:2px solid var(--scuro); padding-top:8px; }
 table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
 @media (max-width:1120px){ .galleria.tavole.r1 img { height:250px } .galleria.tavole.r2 img { height:222px } }
+/* Senza puntatore il bersaglio del pulsante va allargato: al tocco 24 pixel sono
+   il minimo perché non si sbagli voce. */
+@media (hover:none){ .menu .apri { padding:0 10px 11px 8px; height:24px; } }
+/* Su schermo stretto il menu va a capo, e un pannello sovrapposto coprirebbe le
+   voci sottostanti rendendole intoccabili: qui l'elenco entra nel flusso e
+   spinge in basso il resto, come una fisarmonica. */
+@media (max-width:1000px){
+  .menu .voce { width:100%; flex-wrap:wrap; }
+  .menu .voce > a { flex:0 1 auto; }
+  .tendina { position:static; width:100%; min-width:0; margin:0 0 8px; padding:2px 0 4px;
+    border:0; border-left:3px solid var(--oro); background:none; box-shadow:none; }
+  .tendina a { color:#dce6f2; padding:7px 14px; font-size:14.5px; }
+  .tendina a:hover { color:#fff; background:none; }
+}
+@media (max-width:1000px){ table.layout { table-layout:auto; }
+  table.layout col.c-nome, table.layout col.c-ann, table.layout col.c-car, table.layout col.c-note { width:auto; } }
 @media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px}
   table.matrice{table-layout:auto} table.matrice th, table.matrice td{font-size:11px}
   table.matrice thead tr, table.matrice tbody tr{height:auto}

@@ -1,6 +1,6 @@
 # Registro delle versioni
 
-## 1.3 — agosto 2026
+## 1.4 — agosto 2026
 
 **Il trentanovesimo fascicolo ha un nome.** È **La Spezia**, che rientra nel perimetro dall'annata
 2010/2011 dopo esserne uscito con la 1998/1999, e resta fino alla fine. La scoperta chiude una delle
@@ -10,6 +10,8 @@ L'accertamento viene dal portfolio dell'illustratore delle copertine, dove compa
 ultime due annate; le annate 2010/2011 e 2012/2013 si ricavano dalla regolarità della serie. Il bando
 del concorso *Passione Italia* del 2010, che dichiarava 39 copertine e che la ricostruzione aveva
 giudicato inattendibile, era dunque esatto.
+
+## 1.3 — agosto 2026
 
 **Censimento di dettaglio della Sardegna.** Una pagina e quattro file nuovi descrivono l'organizzazione
 interna dei fascicoli di un'intera regione, l'unica di cui la raccolta possieda tutti i fascicoli

@@ -1,4 +1,4 @@
-# L'evoluzione delle tavole cartografiche
+# Evoluzione della cartografia
 
 ## Le quattro fasi cromatiche
 

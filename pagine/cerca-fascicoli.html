@@ -16,14 +16,26 @@
     <a class="marchio" href="../index.html">TuttoCittà<span>ricostruzione della storia editoriale · 1981-2014</span></a>
     <nav class="menu">
       <a href="../pagine/index.html">Introduzione</a>
-      <a href="../pagine/copertine.html">Copertine</a>
-      <a href="../pagine/sezioni.html">Sezioni</a>
-      <a href="../pagine/tavole.html">Tavole</a>
-      <a href="../pagine/note-editore.html">Note dell'editore</a>
-      <a href="../pagine/sardegna.html">Sardegna</a>
+      <div class="voce">
+        <a href="../pagine/evoluzione-fascicoli.html">Evoluzione dei fascicoli</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-1" aria-label="Mostra le pagine di Evoluzione dei fascicoli"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-1"><li><a href="../pagine/copertine.html">Copertine</a></li><li><a href="../pagine/sezioni.html">Sezioni</a></li><li><a href="../pagine/tabella-layout.html">Tabella dei layout</a></li><li><a href="../pagine/note-editore.html">Note dell'editore</a></li><li><a href="../pagine/tavole.html">Evoluzione della cartografia</a></li></ul>
+      </div>
+      <div class="voce">
+        <a href="../pagine/edizioni-regione-per-regione.html">Edizioni regione per regione</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-2" aria-label="Mostra le pagine di Edizioni regione per regione"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-2"><li><a href="../pagine/regioni/abruzzo.html">Abruzzo</a></li><li><a href="../pagine/regioni/basilicata.html">Basilicata</a></li><li><a href="../pagine/regioni/calabria.html">Calabria</a></li><li><a href="../pagine/regioni/campania.html">Campania</a></li><li><a href="../pagine/regioni/emilia-romagna.html">Emilia - Romagna</a></li><li><a href="../pagine/regioni/friuli-venezia-giulia.html">Friuli - Venezia Giulia</a></li><li><a href="../pagine/regioni/lazio.html">Lazio</a></li><li><a href="../pagine/regioni/liguria.html">Liguria</a></li><li><a href="../pagine/regioni/lombardia.html">Lombardia</a></li><li><a href="../pagine/regioni/marche.html">Marche</a></li><li><a href="../pagine/regioni/molise.html">Molise</a></li><li><a href="../pagine/regioni/piemonte.html">Piemonte</a></li><li><a href="../pagine/regioni/puglia.html">Puglia</a></li><li><a href="../pagine/regioni/sardegna.html">Sardegna</a></li><li><a href="../pagine/regioni/sicilia.html">Sicilia</a></li><li><a href="../pagine/regioni/toscana.html">Toscana</a></li><li><a href="../pagine/regioni/trentino-alto-adige.html">Trentino - Alto Adige</a></li><li><a href="../pagine/regioni/umbria.html">Umbria</a></li><li><a href="../pagine/regioni/valle-daosta.html">Valle d'Aosta</a></li><li><a href="../pagine/regioni/veneto.html">Veneto</a></li></ul>
+      </div>
+      <div class="voce">
+        <a href="../pagine/regioni-in-dettaglio.html">Le regioni in dettaglio</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-3" aria-label="Mostra le pagine di Le regioni in dettaglio"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-3"><li><a href="../pagine/sardegna.html">Sardegna</a></li></ul>
+      </div>
       <a href="../pagine/questioni-aperte.html">Questioni aperte</a>
       <a href="../pagine/come-contribuire.html">Come contribuire</a>
+      <span class="stacco" aria-hidden="true"></span>
       <a href="../pagine/cerca-fascicoli.html">Cerca nei dati</a>
+      <span class="stacco" aria-hidden="true"></span>
       <a href="../CONTROLLI.html">Integrità</a>
       <a href="../CHANGELOG.html">Changelog</a>
     </nav>
@@ -136,6 +148,68 @@ Roberto Mura · DOI <a href="https://doi.org/10.5281/zenodo.21820762">10.5281/ze
 Riproduzioni e trascrizioni sono escluse dalla licenza: i diritti appartengono all'editore e possono essere rimosse su richiesta.
 </div>
 </footer>
+<script>
+/* Tendine dell'intestazione. Dove c'è un puntatore l'apertura al passaggio la fa il
+   foglio di stile; qui si aggiunge quel che il solo CSS non può: apertura al tocco,
+   chiusura toccando fuori o con Esc, stato annunciato con aria-expanded. Se questo
+   codice non venisse eseguito resterebbero i collegamenti delle pagine contenitore,
+   che elencano le stesse sottopagine. */
+(function(){
+  var voci = Array.prototype.slice.call(document.querySelectorAll('.menu .voce'));
+  if (!voci.length) return;
+  var conPuntatore = window.matchMedia && window.matchMedia('(hover:hover)').matches;
+
+  function stato(v, aperta){
+    v.classList.toggle('aperta', aperta);
+    var b = v.querySelector('.apri');
+    if (b) b.setAttribute('aria-expanded', aperta ? 'true' : 'false');
+  }
+  function chiudi(tranne){
+    voci.forEach(function(v){ if (v !== tranne) stato(v, false); });
+  }
+
+  voci.forEach(function(v){
+    var b = v.querySelector('.apri');
+    if (b) b.addEventListener('click', function(e){
+      e.preventDefault();
+      e.stopPropagation();           /* altrimenti chiude subito il gestore sul documento */
+      var apri = !v.classList.contains('aperta');
+      chiudi(v); stato(v, apri);
+    });
+    /* Tabulando dentro la voce l'elenco si apre da sé; sul pulsante no, perché lì
+       ad aprire è Invio, che arriva come clic. */
+    v.addEventListener('focusin', function(e){
+      if (e.target.classList.contains('apri')) return;
+      chiudi(v); stato(v, true);
+    });
+    v.addEventListener('focusout', function(e){
+      var dove = e.relatedTarget;
+      if (v.contains(dove)) return;
+      /* Se il fuoco sta passando a un'altra voce del menu, chiudere adesso sposterebbe
+         il pannello mentre il dito è ancora premuto, e il tocco andrebbe perso fra la
+         pressione e il rilascio: a chiudere ci pensa il gestore del clic, dopo. */
+      if (dove && dove.closest && dove.closest('.menu')) return;
+      stato(v, false);
+    });
+    /* Con il puntatore l'apertura al passaggio è del CSS: se un clic ha lasciato la
+       voce aperta, uscendo si richiude, senza restare appesa sopra il contenuto. */
+    if (conPuntatore) v.addEventListener('mouseleave', function(){ stato(v, false); });
+  });
+
+  document.addEventListener('click', function(e){
+    if (!(e.target instanceof Element) || !e.target.closest('.menu .voce')) chiudi(null);
+  });
+  document.addEventListener('keydown', function(e){
+    if (e.key !== 'Escape' && e.key !== 'Esc') return;
+    var aperta = null;
+    voci.forEach(function(v){ if (v.classList.contains('aperta')) aperta = v; });
+    if (!aperta) return;
+    stato(aperta, false);
+    var b = aperta.querySelector('.apri');   /* il fuoco torna dove si era */
+    if (b) b.focus();
+  });
+})();
+</script>
 <script>
 /* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
    automatici, che leggono l'HTML statico senza eseguire codice, non lo trovano. */
