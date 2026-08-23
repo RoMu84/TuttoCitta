@@ -3,7 +3,7 @@
 Questo progetto si prefigge lo scopo di sviluppare un censimento 
 delle edizioni locali del fascicolo cartografico **TuttoCittà**, il supplemento delle Pagine
 Gialle pubblicato da SEAT dal 1981 al 2014, e di indicizzarne le caratteristiche principali delle varie annate;
-tramite questo censimento sono stati individuati finora **1990 fascicoli accertati** su 34 annate, 20 regioni e
+tramite questo censimento sono stati individuati finora **1995 fascicoli accertati** su 34 annate, 20 regioni e
 115 raggruppamenti provinciali.
 
 Il censimento non ha alcuno scopo di lucro, né diretto né indiretto, ed è mosso 

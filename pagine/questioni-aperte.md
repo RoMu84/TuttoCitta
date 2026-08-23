@@ -47,18 +47,27 @@ meno di 44; l'unica alternativa è che siano nati per scissione, come avvenne pe
 
 Sono 106 casi, elencati con `x` nelle tabelle regionali.
 
-## Il trentanovesimo fascicolo dell'annata 2011/2012
+## Il trentanovesimo fascicolo: risolta
 
-Il bando del concorso fotografico *Passione Italia*, pubblicato nel giugno 2010, annuncia la
-pubblicazione delle opere vincitrici «sulle 39 copertine del TuttoCittà». Le edizioni accertate per
-quell'annata sono però **38**, e lo restano per le quattro annate dal 2011/2012 al 2014/2015.
+*Questa questione era aperta fino alla versione 1.3 ed è qui conservata come nota di metodo.*
 
-I numeri dei documenti di concorso non sono conteggi affidabili: il regolamento dell'edizione 2011
-dello stesso concorso, rimasto online senza modifiche fino al 2013, dichiara 35 copertine, cioè meno
-del reale. Due ipotesi restano aperte: un quarto reingresso progettato e mai eseguito, oppure
-un'edizione straordinaria aggiuntiva — nell'annata 2009/2010 Torino ne ebbe due, una regolare e una
-speciale per l'ostensione della Sindone, e non è noto se le edizioni commemorative rientrassero nel
-concorso o avessero copertina predefinita dall'editore.
+Il bando del concorso fotografico *Passione Italia*, pubblicato nel giugno 2010, annunciava la
+pubblicazione delle opere vincitrici «sulle 39 copertine del TuttoCittà», mentre le edizioni accertate
+per quelle annate erano 38. Si era supposto che i documenti di concorso non fossero conteggi
+affidabili, anche perché il regolamento dell'edizione 2011, rimasto online senza modifiche fino al
+2013, dichiarava 35 copertine, cioè meno del reale.
+
+Il trentanovesimo fascicolo esisteva davvero ed è **La Spezia**, che rientra nel perimetro dall'annata
+2010/2011 dopo esserne uscito con la 1998/1999. L'accertamento viene dal portfolio dell'illustratore
+che disegnò quelle copertine, dove compaiono quelle delle ultime due annate. Le annate 2010/2011 e
+2012/2013 non sono attestate da un esemplare ma si ricavano dalla regolarità della serie: un fascicolo
+presente nel 2011, nel 2013 e nel 2014 non può ragionevolmente avere saltato gli anni intermedi, e in
+quel periodo il perimetro editoriale è stabilissimo. L'anno di copertina segue quello di Genova, perché
+il fascicolo della Spezia usciva nella prima metà dell'anno a ridosso di quello genovese.
+
+Il bando, dunque, aveva ragione, e la ricostruzione torto: vale la pena ricordarlo, perché il criterio
+con cui era stata scartata quella fonte — «i documenti di concorso non sono conteggi affidabili» — si è
+rivelato troppo severo.
 
 ## Il fascicolo di Rieti-Viterbo del 1984: comprendeva Orvieto?
 

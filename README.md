@@ -4,7 +4,7 @@ Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, sup
 Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014, poi confluito nel volume unico
 *Pagine Bianche Pagine Gialle Tuttocittà*.
 
-**1.990 fascicoli accertati** — 1.989 edizioni ordinarie più 1 straordinaria — su 34 annate,
+**1.995 fascicoli accertati** — 1.994 edizioni ordinarie più 1 straordinaria — su 34 annate,
 20 regioni e 115 raggruppamenti provinciali.
 
 Registrazione della testata: Tribunale di Torino n. 3026 del 1981. Stampatore: ILTE, Moncalieri.

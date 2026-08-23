@@ -2,6 +2,15 @@
 
 ## 1.3 — agosto 2026
 
+**Il trentanovesimo fascicolo ha un nome.** È **La Spezia**, che rientra nel perimetro dall'annata
+2010/2011 dopo esserne uscito con la 1998/1999, e resta fino alla fine. La scoperta chiude una delle
+questioni aperte del censimento e porta il totale da 1.990 a 1.995 fascicoli accertati; i totali
+dichiarati delle cinque annate finali salgono da 38 a 39 e tornano a coincidere con gli accertati.
+L'accertamento viene dal portfolio dell'illustratore delle copertine, dove compaiono quelle delle
+ultime due annate; le annate 2010/2011 e 2012/2013 si ricavano dalla regolarità della serie. Il bando
+del concorso *Passione Italia* del 2010, che dichiarava 39 copertine e che la ricostruzione aveva
+giudicato inattendibile, era dunque esatto.
+
 **Censimento di dettaglio della Sardegna.** Una pagina e quattro file nuovi descrivono l'organizzazione
 interna dei fascicoli di un'intera regione, l'unica di cui la raccolta possieda tutti i fascicoli
 accertati: 48 fascicoli con foliazione, layout e formato, 872 occorrenze di sezione riconducibili a 63
