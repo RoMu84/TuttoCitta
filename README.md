@@ -96,13 +96,13 @@ ricostruzione basata sulle regolarità editoriali. È una posizione falsificabil
 esemplare comporta l'aggiornamento del dato, non una difesa della ricostruzione.
 
 **L'annata 1998/1999 resta la più incerta di tutto il ciclo.** Fra i 87 fascicoli del 1997/98 e i 42
-del 1999/2000 — questi ultimi documentati dal bilancio d'esercizio 1998 della SEAT — il numero
+del 1999/2000 — questi ultimi documentati dal bilancio d'esercizio 1998 della SEAT Pagine Gialle — il numero
 intermedio non è determinabile: sta fra 42 e 70 — il massimo scende da 87 perché di diciassette
 edizioni è accertato che non furono pubblicate — e le fonti d'epoca non lo dichiarano. Vedi
 `pagine/questioni-aperte.md`.
 
 **Resta un solo scostamento su trentaquattro annate, e non è un errore.** Nel 1999/2000 la matrice
-identifica 40 fascicoli contro i 42 documentati dal bilancio d'esercizio 1998 della SEAT: i due di
+identifica 40 fascicoli contro i 42 documentati dal bilancio d'esercizio 1998 della SEAT Pagine Gialle: i due di
 differenza sono edizioni la cui esistenza è certa e la cui identità non è nota. Lo scostamento misura
 dunque ciò che ancora manca, e va letto come un'informazione.
 

@@ -2,7 +2,7 @@
 
 Questo progetto si prefigge lo scopo di sviluppare un censimento 
 delle edizioni locali del fascicolo cartografico **TuttoCittà**, il supplemento delle Pagine
-Gialle pubblicato da SEAT dal 1981 al 2014, e di indicizzarne le caratteristiche principali delle varie annate;
+Gialle pubblicato da SEAT Pagine Gialle dal 1981 al 2014, e di indicizzarne le caratteristiche principali delle varie annate;
 tramite questo censimento sono stati individuati finora **1995 fascicoli accertati** su 34 annate, 20 regioni e
 115 raggruppamenti provinciali.
 
@@ -24,7 +24,7 @@ esclusivamente da una passione personale.
 <li><strong><a href="pagine/copertine.md">Le copertine, annata per annata</a></strong> — la galleria delle copertine con formati e conteggi</li>
 <li><strong><a href="pagine/sezioni.md">Le sezioni dei fascicoli</a></strong> — la scaletta interna del fascicolo nelle tre serie classiche degli anni ottanta e novanta</li>
 <li><strong><a href="pagine/tabella-layout.md">Tabella dei layout</a></strong> — descrizione dei layout che si sono susseguiti nel tempo</li>
-<li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT presentò il prodotto e ne annunciò la riforma</li>
+<li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT Pagine Gialle presentò il prodotto e ne annunciò la riforma</li>
 <li><strong><a href="pagine/tavole.md">L'evoluzione della cartografia</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>
 <li><strong><a href="pagine/sardegna.md">La Sardegna in dettaglio</a></strong> — dettaglio di una regione per cui la raccolta dei fascicoli è completa: indicizzazione di cartografia, rubriche e altri contenuti</li>
 <li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo e come segnalarlo</li>

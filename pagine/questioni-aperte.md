@@ -86,7 +86,7 @@ possieda un TuttoCittà di Rieti o di Viterbo datato 84 può rispondere leggendo
 
 ## Perché alcuni comuni compaiono in fascicoli di province diverse
 
-I fascicoli non seguivano i confini provinciali ma la griglia dei **distretti telefonici**, che SEAT
+I fascicoli non seguivano i confini provinciali ma la griglia dei **distretti telefonici**, che SEAT Pagine Gialle
 ereditava dalla struttura dei propri elenchi. L'ipotesi è verificata su due casi con fonti primarie.
 Aprilia, in provincia di Latina, compare nel fascicolo «Provincia di Roma» e ha prefisso 06: il
 distretto di Roma comprende infatti anche alcuni comuni della provincia di Latina, il comune di Oriolo

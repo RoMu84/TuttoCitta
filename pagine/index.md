@@ -1,7 +1,7 @@
 # TuttoCittà — ricostruzione della storia editoriale (1981-2014)
 
 Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, supplemento delle Pagine
-Gialle pubblicato da SEAT dal 1981 al 2014, con 1995 fascicoli accertati su 34 annate e 20 regioni.
+Gialle pubblicato da SEAT Pagine Gialle dal 1981 al 2014, con 1995 fascicoli accertati su 34 annate e 20 regioni.
 
 I dati derivano da una collezione privata di oltre 1.200 esemplari, da dati incrociati con altri
 raccoglitori e dalle regolarità editoriali osservate nelle pubblicazioni.
@@ -56,7 +56,7 @@ Torino, che introduce la copertina gialla poi adottata negli anni successivi.
 
 ## Stati di ciascuna cella
 
-| stato | significato |
+| Stato | Significato |
 |---|---|
 | `pubblicato` | fascicolo accertato. L'anno di copertina può mancare quando il dato non è noto |
 | `probabile_non_confermato` | pubblicazione ritenuta probabile ma non confermata |

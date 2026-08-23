@@ -60,6 +60,12 @@ table.layout col.c-car { width:42%; } table.layout col.c-note { width:31%; }
    l'intestazione no, che resta allineata come nel resto del sito. */
 table.layout-sardegna td.ann { text-align:center; white-space:nowrap;
   font-variant-numeric:tabular-nums; }
+/* Gli anni di copertina stanno su una riga sola, staccati da un segno dorato, e
+   allineati a sinistra come l'intestazione della colonna. */
+table.layout-sardegna td.cop { text-align:left; white-space:nowrap;
+  font-variant-numeric:tabular-nums; }
+table.layout-sardegna td.cop .pt { display:inline-block; vertical-align:middle; width:4px;
+  height:4px; margin:0 7px 1px; border-radius:50%; background:var(--oro); }
 main { max-width:1460px; margin:0 auto; padding:40px 28px 16px; }
 main > p, main > ul, main > ol, main > h1, main > h2, main > h3, main > blockquote { max-width:44rem; }
 h1 { font-size:34px; line-height:1.25; margin:0 0 .55em; color:var(--scuro); font-weight:600; }

@@ -35,7 +35,7 @@ A metà dell'annata 1985/86 le tavole delle **dieci città maggiori d'Italia** s
 1981 (Roma, Milano, Napoli, Torino, Genova, Palermo, Bologna, Firenze, Catania, Bari) furono
 ridisegnate da capo.
 
-Fino ad allora quelle tavole derivavano dai vecchi **stradari SEAT** sviluppati all'inizio degli anni
+Fino ad allora quelle tavole derivavano dai vecchi **stradari SEAT Pagine Gialle** sviluppati all'inizio degli anni
 settanta e inclusi nelle Pagine Gialle. La loro organizzazione procedeva dalle zone centrali verso le
 aree periferiche in modo disomogeneo, e porzioni diverse della stessa città erano spesso rappresentate a
 scale differenti: confrontare due tavole contigue non era immediato.
