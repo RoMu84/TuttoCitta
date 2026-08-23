@@ -15,12 +15,40 @@ una per ogni città cartografata in ogni fascicolo.
 <figcaption>Copertina del fascicolo Cagliari - Nuoro - Oristano - Sassari 81</figcaption>
 </figure>
 
+## Dodici layout in trentaquattro anni
+
+La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il
+sistema definito durante il censimento osservando l'impaginazione; le loro caratteristiche sono
+descritte in [questa pagina](tabella-layout.md). Come descritto anche lì, i cambi di layout non
+rispettano i cambi delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo
+sito.
+
+<table class="layout-sardegna">
+<thead><tr><th>Layout</th><th>Annate</th><th>Anni di copertina</th></tr></thead>
+<tbody>
+<tr><td>Stradario SEAT</td><td class="ann">81/82</td><td class="cop">81</td></tr>
+<tr><td>TuttoCittà '80 con foto</td><td class="ann">82/83</td><td class="cop">82</td></tr>
+<tr><td>TuttoCittà '80 classico</td><td class="ann">83/84 – 89/90</td><td class="cop">83<i class="pt"></i>84<i class="pt"></i>85<i class="pt"></i>86<i class="pt"></i>87<i class="pt"></i>88<i class="pt"></i>89</td></tr>
+<tr><td>TuttoCittà '90 classico iniziale</td><td class="ann">90/91 – 91/92</td><td class="cop">90/91<i class="pt"></i>91</td></tr>
+<tr><td>TuttoCittà '90 classico</td><td class="ann">92/93 – 97/98</td><td class="cop">92<i class="pt"></i>93<i class="pt"></i>94<i class="pt"></i>95<i class="pt"></i>96<i class="pt"></i>97</td></tr>
+<tr><td>TuttoCittà '90 riformato</td><td class="ann">98/99</td><td class="cop">(98)</td></tr>
+<tr><td>TuttoCittà nuovo millennio</td><td class="ann">99/00</td><td class="cop">99</td></tr>
+<tr><td>TuttoCittà nuovo millennio bis</td><td class="ann">00/01</td><td class="cop">00/01</td></tr>
+<tr><td>TuttoCittà nuovo millennio ter</td><td class="ann">01/02 – 04/05</td><td class="cop">01/02<i class="pt"></i>02/03<i class="pt"></i>03/04<i class="pt"></i>04</td></tr>
+<tr><td>TuttoCittà metà duemila</td><td class="ann">05/06</td><td class="cop">05</td></tr>
+<tr><td>TuttoCittà fine duemila</td><td class="ann">06/07 – 09/10</td><td class="cop">06<i class="pt"></i>07<i class="pt"></i>08/09<i class="pt"></i>09/10</td></tr>
+<tr><td>TuttoCittà anni dieci</td><td class="ann">10/11 – 14/15</td><td class="cop">10/11<i class="pt"></i>11/12<i class="pt"></i>12/13<i class="pt"></i>13/14<i class="pt"></i>14/15</td></tr>
+</tbody>
+</table>
+
 ## Le rubriche, annata per annata
 
-Ogni riga e una rubrica, ogni colonna una delle 34 annate, dal 1981/82 al 2014/15. La regione
-ha due serie parallele: i fascicoli dal 1981/82 al 1983/84 coprono tutte e quattro le province, poi la
-serie si divide in Cagliari e Nuoro-Sassari, e quest'ultima cessa con il 1997/98. La griglia le tiene
-distinte, perché una rubrica può sopravvivere in una serie e sparire dall'altra.
+La seguente tabella censisce tutte le rubriche presenti nei fascicoli della Sardegna. Ad ogni riga
+corrisponde una rubrica, ad ogni colonna corrisponde una delle 34 annate, dal 1981/82 al
+2014/15. La regione ha tre serie parallele: i fascicoli dal 1981/82 al 1983/84 coprono tutte e quattro
+le province, poi la serie si divide in Cagliari-Oristano e Nuoro-Sassari, e quest'ultima cessa con
+l'annata 1997/98; dall'annata 1998/99 al 2014/15 prosegue solo la serie Cagliari, privata di Oristano.
+La griglia le tiene distinte, perché una rubrica può sopravvivere in una serie e sparire dalle altre.
 
 I titoli sono quelli normalizzati. L'editore rinominava spesso le rubriche senza cambiarne il
 contenuto, e prendere per buoni i titoli di copertina farebbe morire e rinascere sezioni che invece
@@ -117,11 +145,11 @@ compaiono per una o due sole annate.
 
 ## Le città cartografate
 
-Una riga per città, in ordine alfabetico e non per provincia: il raggruppamento provinciale è quello
-dell'editore, e ordinarle per provincia nasconderebbe proprio quello che qui interessa vedere, cioè
-quali centri entrano ed escono dalla cartografia nel corso di trentaquattro anni. I quattro capoluoghi
-storici — CAGLIARI, NUORO, ORISTANO, SASSARI — sono in maiuscolo, ma restano al loro posto
-nell'alfabeto.
+La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per
+quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo
+è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso
+degli anni. I quattro capoluoghi storici — CAGLIARI, NUORO, ORISTANO, SASSARI — sono in maiuscolo, ma
+restano al loro posto nell'alfabeto.
 
 <details class="cassetto" markdown="1">
 <summary>Espandi la griglia delle città — 29 città su 34 annate</summary>
@@ -473,31 +501,6 @@ con un massimo di 88. Nello stesso periodo le tavole del capoluogo salgono da
 6 a 14. Le due curve vanno in direzioni
 opposte e mostrano come il fascicolo smetta di essere una guida alla provincia e diventi
 sostanzialmente una pianta della città.
-
-## Dodici layout in trentaquattro anni
-
-I vari layout sono stati definiti durante il censimento osservando l'impaginazione e le loro
-caratteristiche sono descritte in [questa pagina](tabella-layout.md). Le loro cesure sono perciò
-indipendenti da quelle delle serie di copertina descritte nell'[apposita pagina](copertine.md) di
-questo sito.
-
-<table class="layout-sardegna">
-<thead><tr><th>Layout</th><th>Annate</th><th>Anni di copertina</th></tr></thead>
-<tbody>
-<tr><td>Stradario SEAT</td><td class="ann">81/82</td><td class="cop">81</td></tr>
-<tr><td>TuttoCittà '80 con foto</td><td class="ann">82/83</td><td class="cop">82</td></tr>
-<tr><td>TuttoCittà '80 classico</td><td class="ann">83/84 – 89/90</td><td class="cop">83<i class="pt"></i>84<i class="pt"></i>85<i class="pt"></i>86<i class="pt"></i>87<i class="pt"></i>88<i class="pt"></i>89</td></tr>
-<tr><td>TuttoCittà '90 classico iniziale</td><td class="ann">90/91 – 91/92</td><td class="cop">90/91<i class="pt"></i>91</td></tr>
-<tr><td>TuttoCittà '90 classico</td><td class="ann">92/93 – 97/98</td><td class="cop">92<i class="pt"></i>93<i class="pt"></i>94<i class="pt"></i>95<i class="pt"></i>96<i class="pt"></i>97</td></tr>
-<tr><td>TuttoCittà '90 riformato</td><td class="ann">98/99</td><td class="cop">(98)</td></tr>
-<tr><td>TuttoCittà nuovo millennio</td><td class="ann">99/00</td><td class="cop">99</td></tr>
-<tr><td>TuttoCittà nuovo millennio bis</td><td class="ann">00/01</td><td class="cop">00/01</td></tr>
-<tr><td>TuttoCittà nuovo millennio ter</td><td class="ann">01/02 – 04/05</td><td class="cop">01/02<i class="pt"></i>02/03<i class="pt"></i>03/04<i class="pt"></i>04</td></tr>
-<tr><td>TuttoCittà metà duemila</td><td class="ann">05/06</td><td class="cop">05</td></tr>
-<tr><td>TuttoCittà fine duemila</td><td class="ann">06/07 – 09/10</td><td class="cop">06<i class="pt"></i>07<i class="pt"></i>08/09<i class="pt"></i>09/10</td></tr>
-<tr><td>TuttoCittà anni dieci</td><td class="ann">10/11 – 14/15</td><td class="cop">10/11<i class="pt"></i>11/12<i class="pt"></i>12/13<i class="pt"></i>13/14<i class="pt"></i>14/15</td></tr>
-</tbody>
-</table>
 
 ## I dati
 
