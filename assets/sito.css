@@ -7,14 +7,20 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
 .marchio { display:block; color:#fff; text-decoration:none; font-size:27px; letter-spacing:.3px; }
 .marchio span { display:block; font-size:13px; letter-spacing:.14em; text-transform:uppercase;
   color:#a9bdd4; margin-top:5px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
-.menu { margin-top:16px; display:flex; flex-wrap:wrap; gap:22px; }
-.menu a { color:#cbd9e8; text-decoration:none; font-size:13.5px; letter-spacing:.06em;
+/* Le undici voci stanno su una riga sola fin dentro la fascia da 1404 pixel di uno
+   schermo FHD: a 13,5 pixel ne servivano 1635 e «Changelog» finiva a capo. */
+.menu { margin-top:16px; display:flex; flex-wrap:wrap; gap:14px; }
+.menu a { color:#cbd9e8; text-decoration:none; font-size:12px; letter-spacing:.03em;
   text-transform:uppercase; padding-bottom:11px; border-bottom:3px solid transparent;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 .menu a:hover { color:#fff; border-bottom-color:var(--oro); }
-/* Separatore fra i gruppi di voci: un segno dorato, non un collegamento. */
-.menu .stacco { align-self:flex-start; margin-top:2px; width:5px; height:5px; border-radius:50%;
-  background:var(--oro); flex:none; }
+/* Separatore fra i gruppi di voci: un segno dorato, non un collegamento. Il riquadro
+   ripete il padding dei collegamenti, così il centro cade sulla riga del testo e non
+   sopra. */
+.menu .stacco { align-self:stretch; display:flex; align-items:center; padding-bottom:15px;
+  flex:none; }
+.menu .stacco::before { content:""; width:5px; height:5px; border-radius:50%;
+  background:var(--oro); }
 /* Voci con tendina. Il titolo resta un collegamento alla pagina contenitore; ad
    aprire l'elenco è il pulsante accanto, così al tocco la voce non naviga via
    prima che la tendina si veda. */
@@ -206,6 +212,10 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
    voci sottostanti rendendole intoccabili: qui l'elenco entra nel flusso e
    spinge in basso il resto, come una fisarmonica. */
 @media (max-width:1000px){
+  /* Qui le voci vanno a capo comunque: il corpo ridotto non serve e il tocco chiede
+     un bersaglio più generoso. */
+  .menu { gap:12px 18px; }
+  .menu a { font-size:13px; letter-spacing:.05em; }
   .menu .voce { width:100%; flex-wrap:wrap; }
   .menu .voce > a { flex:0 1 auto; }
   .tendina { position:static; width:100%; min-width:0; margin:0 0 8px; padding:2px 0 4px;
