@@ -50,6 +50,22 @@ ul.punti li { position:relative; padding-left:15px; margin:0 0 5px; }
 ul.punti li:last-child { margin-bottom:0; }
 ul.punti li::before { content:"•"; position:absolute; left:0; top:-1px; color:var(--oro);
   font-size:15px; line-height:1.5; }
+/* Sommario di pagina, generato dai titoli di sezione. L'etichetta sta nel foglio di
+   stile e non nel testo, così non finisce dentro il sommario stesso. */
+.toc { margin:26px 0 30px; padding:18px 22px 20px; background:var(--testa);
+  border:1px solid var(--bordo); border-left:3px solid var(--oro); }
+.toc::before { content:"In questa pagina"; display:block; margin-bottom:10px;
+  font-size:12px; letter-spacing:.06em; text-transform:uppercase; color:var(--scuro);
+  font-weight:600; }
+.toc ul { margin:0; padding:0; list-style:none; columns:2; column-gap:34px; counter-reset:sez; }
+.toc li { margin:0 0 7px; break-inside:avoid; padding-left:26px; position:relative; }
+/* Il numero, non il pallino: in due colonne dice da solo che l'ordine scende lungo
+   la colonna e non attraversa la riga — il 5 in cima a destra lo rende evidente. */
+.toc li::before { content:counter(sez) "."; counter-increment:sez; position:absolute; left:0;
+  top:1px; color:var(--oro); font-size:13px; font-weight:600; font-variant-numeric:tabular-nums; }
+.toc a { font-size:15px; }
+@media (max-width:700px){ .toc ul { columns:1; } }
+
 table.layout { width:100%; table-layout:fixed; }
 table.layout td { vertical-align:top; font-size:13.5px; line-height:1.55; }
 table.layout td.nome { font-weight:600; color:var(--scuro); }

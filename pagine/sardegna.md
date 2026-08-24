@@ -15,6 +15,8 @@ una per ogni città cartografata in ogni fascicolo.
 <figcaption>Copertina del fascicolo Cagliari - Nuoro - Oristano - Sassari 81</figcaption>
 </figure>
 
+[TOC]
+
 ## Dodici layout in trentaquattro anni
 
 La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il
