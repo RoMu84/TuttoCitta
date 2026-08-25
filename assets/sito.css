@@ -7,10 +7,11 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
 .marchio { display:block; color:#fff; text-decoration:none; font-size:27px; letter-spacing:.3px; }
 .marchio span { display:block; font-size:13px; letter-spacing:.14em; text-transform:uppercase;
   color:#a9bdd4; margin-top:5px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
-/* Le undici voci stanno su una riga sola fin dentro la fascia da 1404 pixel di uno
-   schermo FHD: a 13,5 pixel ne servivano 1635 e «Changelog» finiva a capo. */
+/* Le dodici voci stanno su una riga sola fin dentro la fascia da 1404 pixel di uno
+   schermo FHD: a 13,5 pixel ne servivano 1635 e «Changelog» finiva a capo. Con
+   «Licenza» il conto è tornato a sforare, da cui la crenatura più stretta. */
 .menu { margin-top:16px; display:flex; flex-wrap:wrap; gap:14px; }
-.menu a { color:#cbd9e8; text-decoration:none; font-size:12px; letter-spacing:.03em;
+.menu a { color:#cbd9e8; text-decoration:none; font-size:12px; letter-spacing:.01em;
   text-transform:uppercase; padding-bottom:11px; border-bottom:3px solid transparent;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 .menu a:hover { color:#fff; border-bottom-color:var(--oro); }

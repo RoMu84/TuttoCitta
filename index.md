@@ -79,15 +79,4 @@ ereditato marchi e attività di SEAT Pagine Gialle, e affianca PagineGialle e Pa
 Il presente progetto **non è affiliato** a Italiaonline né al servizio online, e non ne rappresenta la
 continuazione: documenta soltanto il prodotto editoriale a stampa pubblicato fra il 1981 e il 2014 e non ha alcun fine di lucro, né diretto né indiretto.
 
-## Licenza e citazione
-
-Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
-
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione {VERSIONE}.
-Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
-
-**Le riproduzioni e le trascrizioni fanno eccezione.** Le fotografie di copertine e di cartografia e le
-trascrizioni dei testi dell'editore sono pubblicate a fini di identificazione e studio documentario, ma i
-diritti sulle opere riprodotte appartengono all'editore, oggi Italiaonline S.p.A.: chi cura questa
-risorsa **non ne detiene alcun diritto e non li concede in licenza**. Non sono incluse nel deposito Zenodo e possono essere rimosse su
-richiesta, aprendo una segnalazione nel repository.
+{LICENZA}

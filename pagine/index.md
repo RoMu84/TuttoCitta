@@ -79,5 +79,11 @@ falsificabile — il ritrovamento di un esemplare comporta l'aggiornamento del d
 
 Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
 
-Citazione consigliata: Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale
-(1981-2014)*, versione 1.4. Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.4.
+Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
+
+**Le riproduzioni e le trascrizioni fanno eccezione.** Le fotografie di copertine e di cartografia e le
+trascrizioni dei testi dell'editore sono pubblicate a fini di identificazione e studio documentario, ma i
+diritti sulle opere riprodotte appartengono all'editore, oggi Italiaonline S.p.A.: chi cura questa
+risorsa **non ne detiene alcun diritto e non li concede in licenza**. Non sono incluse nel deposito Zenodo e possono essere rimosse su
+richiesta, aprendo una segnalazione nel repository.
