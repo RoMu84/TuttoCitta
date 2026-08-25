@@ -185,6 +185,47 @@ table.griglia td.no { background:#eef1f4; }
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 .barre-etichette span { flex:1; text-align:center; }
 /* Indice degli articoli delle rubriche provinciali. */
+/* --- Speciale Roma: due tabelle larghe con immagini in colonna --- */
+table.roma-fascicoli, table.roma-cartografia { width:100%; table-layout:fixed; }
+/* Le colonne fitte di testo hanno bisogno di spazio, quelle di cifre no: senza
+   larghezze imposte «Modifiche cartografiche» si incolonna su otto righe mentre
+   «Note», spesso vuota, resta larghissima. */
+table.roma-fascicoli th:nth-child(1), table.roma-fascicoli td:nth-child(1) { width:7%; }
+table.roma-fascicoli th:nth-child(2), table.roma-fascicoli td:nth-child(2) { width:11%; }
+table.roma-fascicoli th:nth-child(3), table.roma-fascicoli td:nth-child(3) { width:11%; }
+table.roma-fascicoli th:nth-child(4), table.roma-fascicoli td:nth-child(4) { width:15%; }
+table.roma-fascicoli th:nth-child(5), table.roma-fascicoli td:nth-child(5) { width:16%; }
+table.roma-fascicoli th:nth-child(6), table.roma-fascicoli td:nth-child(6) { width:8%; }
+table.roma-cartografia th:nth-child(1), table.roma-cartografia td:nth-child(1) { width:6%; }
+table.roma-cartografia th:nth-child(2), table.roma-cartografia td:nth-child(2) { width:9%; }
+table.roma-cartografia th:nth-child(3), table.roma-cartografia td:nth-child(3) { width:7%; }
+table.roma-cartografia th:nth-child(4), table.roma-cartografia td:nth-child(4) { width:22%; }
+table.roma-cartografia th:nth-child(5), table.roma-cartografia td:nth-child(5) { width:11%; }
+table.roma-cartografia th:nth-child(6), table.roma-cartografia td:nth-child(6) { width:26%; }
+table.roma-fascicoli td, table.roma-cartografia td { vertical-align:top; font-size:13.5px;
+  line-height:1.55; }
+table.roma-fascicoli td.ann, table.roma-cartografia td.ann { font-weight:600; color:var(--scuro);
+  white-space:nowrap; font-variant-numeric:tabular-nums; }
+table.roma-fascicoli td.anno, table.roma-cartografia td.anno { white-space:nowrap; }
+table.roma-fascicoli td.num, table.roma-cartografia td.num { text-align:center;
+  font-variant-numeric:tabular-nums; white-space:nowrap; }
+table.roma-fascicoli td.lay { white-space:nowrap; }
+table.roma-cartografia td.sf { white-space:nowrap; }
+table.roma-fascicoli td.img, table.roma-cartografia td.img { text-align:center; }
+img.copertina { width:104px; height:auto; display:block; border:1px solid var(--bordo); }
+img.quadro { height:auto; display:block; border:1px solid var(--bordo); }
+img.quadro.oriz { width:250px; }
+img.quadro.vert { width:150px; }
+/* Lacuna dichiarata: il fascicolo non è ancora in raccolta, il dato arriverà. */
+.sospeso { display:inline-block; padding:1px 7px; border:1px dashed var(--oro); border-radius:3px;
+  font-size:11.5px; letter-spacing:.04em; text-transform:uppercase; color:#8a6d1f;
+  background:#fdf7e6; white-space:nowrap; }
+/* Colonna del grafico senza dati: si vede che manca, senza fingere uno zero. */
+.barre .vuota { border-bottom:2px dotted var(--oro); align-self:flex-end; height:6px; }
+.articoli .perno { color:var(--oro); padding:0 3px; }
+div.articoli { max-width:44rem; margin:6px 0 26px; }
+div.articoli p { margin:0; font-size:15.5px; }
+
 dl.articoli { max-width:44rem; margin:14px 0 26px; }
 dl.articoli dt { font-size:13px; letter-spacing:.06em; text-transform:uppercase; color:var(--scuro);
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; margin-top:12px; }
