@@ -186,15 +186,19 @@ table.griglia td.no { background:#eef1f4; }
 .barre-etichette span { flex:1; text-align:center; }
 /* Indice degli articoli delle rubriche provinciali. */
 /* --- Speciale Roma: due tabelle larghe con immagini in colonna --- */
-table.roma-fascicoli, table.roma-cartografia { width:100%; table-layout:fixed; }
+table.roma-fascicoli, table.roma-cartografia { width:100%; table-layout:fixed; min-width:1340px; }
+/* La larghezza minima serve al contenitore scorrevole: senza, su schermo stretto la
+   tabella si comprime e le colonne fitte sbordano invece di scorrere. */
 /* Le colonne fitte di testo hanno bisogno di spazio, quelle di cifre no: senza
    larghezze imposte «Modifiche cartografiche» si incolonna su otto righe mentre
    «Note», spesso vuota, resta larghissima. */
 table.roma-fascicoli th:nth-child(1), table.roma-fascicoli td:nth-child(1) { width:7%; }
 table.roma-fascicoli th:nth-child(2), table.roma-fascicoli td:nth-child(2) { width:11%; }
-table.roma-fascicoli th:nth-child(3), table.roma-fascicoli td:nth-child(3) { width:11%; }
-table.roma-fascicoli th:nth-child(4), table.roma-fascicoli td:nth-child(4) { width:15%; }
-table.roma-fascicoli th:nth-child(5), table.roma-fascicoli td:nth-child(5) { width:16%; }
+/* Alla copertina va lo spazio che «Formato» e «Note» non usano: misurate, le due
+   colonne chiedono 137 e 386 pixel per non andare a capo e ne avevano 201 e 430. */
+table.roma-fascicoli th:nth-child(3), table.roma-fascicoli td:nth-child(3) { width:12.8%; }
+table.roma-fascicoli th:nth-child(4), table.roma-fascicoli td:nth-child(4) { width:12.8%; }
+table.roma-fascicoli th:nth-child(5), table.roma-fascicoli td:nth-child(5) { width:16.8%; }
 table.roma-fascicoli th:nth-child(6), table.roma-fascicoli td:nth-child(6) { width:8%; }
 table.roma-cartografia th:nth-child(1), table.roma-cartografia td:nth-child(1) { width:6%; }
 table.roma-cartografia th:nth-child(2), table.roma-cartografia td:nth-child(2) { width:9%; }
@@ -212,7 +216,13 @@ table.roma-fascicoli td.num, table.roma-cartografia td.num { text-align:center;
 table.roma-fascicoli td.lay { white-space:nowrap; }
 table.roma-cartografia td.sf { white-space:nowrap; }
 table.roma-fascicoli td.img, table.roma-cartografia td.img { text-align:center; }
-img.copertina { width:104px; height:auto; display:block; border:1px solid var(--bordo); }
+img.copertina { width:150px; height:auto; display:block; margin:0 auto;
+  border:1px solid var(--bordo); }
+/* Le sei copertine in formato ridotto sono piu alte che larghe: alla larghezza
+   delle altre sfonderebbero la riga, quindi restano a 104 pixel e centrate. */
+img.copertina.ridotta { width:104px; }
+table.roma-fascicoli td.img a, table.roma-cartografia td.img a { display:block; }
+img.quadro { margin:0 auto; }
 img.quadro { height:auto; display:block; border:1px solid var(--bordo); }
 img.quadro.oriz { width:250px; }
 img.quadro.vert { width:150px; }
