@@ -87,3 +87,5 @@ trascrizioni dei testi dell'editore sono pubblicate a fini di identificazione e 
 diritti sulle opere riprodotte appartengono all'editore, oggi Italiaonline S.p.A.: chi cura questa
 risorsa **non ne detiene alcun diritto e non li concede in licenza**. Non sono incluse nel deposito Zenodo e possono essere rimosse su
 richiesta, aprendo una segnalazione nel repository.
+
+Per ulteriori informazioni, consultare [questa pagina](licenza.md).

@@ -32,6 +32,7 @@ esclusivamente da una passione personale.
 <hr>
 <li><strong><a href="pagine/cerca-fascicoli.md">Cerca nei dati</a></strong> — interroga il censimento e l'indice delle località direttamente dal browser</li>
 <hr>
+<li><strong><a href="pagine/licenza.md">Licenza</a></strong> — clausole di licenza per dati, testi, riproduzioni e trascrizioni</li>
 <li><strong><a href="CONTROLLI.md">Rapporto di integrità</a></strong> — controlli, scostamenti e criteri di attribuzione</li>
 <li><strong><a href="CHANGELOG.md">Registro delle versioni (changelog)</a></strong> — storico degli aggiornamenti della presente pubblicazione</li>
 </ul>
@@ -91,4 +92,6 @@ trascrizioni dei testi dell'editore sono pubblicate a fini di identificazione e 
 diritti sulle opere riprodotte appartengono all'editore, oggi Italiaonline S.p.A.: chi cura questa
 risorsa **non ne detiene alcun diritto e non li concede in licenza**. Non sono incluse nel deposito Zenodo e possono essere rimosse su
 richiesta, aprendo una segnalazione nel repository.
+
+Per ulteriori informazioni, consultare [questa pagina](pagine/licenza.md).
 
