@@ -12,6 +12,12 @@ anche la città i cui fascicoli contengono il maggior numero di pagine.
 L'indagine di dettaglio della cartografia degli iconici fascicoli di Roma restituisce una grande
 quantità di informazioni che meritano di essere messe in evidenza.
 
+<figure class="figura larga">
+<img src="../immagini/RomaVari.jpg" alt="Alcuni fascicoli di TuttoCittà di Roma degli anni ottanta"
+     width="1500" height="1129" loading="lazy">
+<figcaption>Alcuni TuttoCittà di Roma degli anni ottanta.</figcaption>
+</figure>
+
 [TOC]
 
 Il fascicolo dell'annata **10/11** non è ancora in raccolta: i dati che dipendono dall'esame

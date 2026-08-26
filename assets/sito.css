@@ -249,6 +249,13 @@ figure.figura { margin:26px 0 32px; }
 figure.figura img { width:220px; height:auto; border:1px solid var(--bordo);
   box-shadow:0 2px 7px rgba(20,40,70,.13); }
 figure.figura.doppia img { width:440px; }
+/* Una fotografia d'insieme, non la riproduzione di una singola copertina: a 220
+   pixel non si distinguerebbero i fascicoli. Il taglio è 4:3, quindi a piena
+   colonna sarebbe alta mezzo schermo: 34rem bastano a leggere i fascicoli. Le
+   misure native sono dichiarate nell'HTML, così lo spazio è riservato prima del
+   caricamento e il sommario non sobbalza. */
+figure.figura.larga img { width:100%; max-width:34rem; height:auto; }
+figure.figura.larga figcaption { max-width:34rem; }
 figure.figura figcaption { font-size:13px; line-height:1.45; margin-top:9px; max-width:440px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 /* Due figure appaiate, come nella galleria delle copertine. */
