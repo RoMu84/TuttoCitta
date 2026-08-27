@@ -26,6 +26,8 @@ esclusivamente da una passione personale.
 <li><strong><a href="pagine/tabella-layout.md">Tabella dei layout</a></strong> — descrizione dei layout che si sono susseguiti nel tempo</li>
 <li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT Pagine Gialle presentò il prodotto e ne annunciò la riforma</li>
 <li><strong><a href="pagine/tavole.md">L'evoluzione della cartografia</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>
+<li><strong><a href="pagine/inserti.md">Inserti speciali</a></strong> — i due inserti comuni a tutti i fascicoli presentati nel 1984 e attorno al 2010-2012</li>
+<li><strong><a href="pagine/stradarioseat.md">Il precursore: lo stradario SEAT</a></strong> — breve descrizione del prodotto editoriale da cui i TuttoCittà traggono origine</li>
 <li><strong><a href="pagine/sardegna.md">La Sardegna in dettaglio</a></strong> — dettaglio di una regione per cui la raccolta dei fascicoli è completa: indicizzazione di cartografia, rubriche e altri contenuti</li>
 <li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo e come segnalarlo</li>
 <li><strong><a href="pagine/come-contribuire.md">Come contribuire</a></strong> — segnalare un fascicolo che possiedi, cedere o donare fascicoli</li>

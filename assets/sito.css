@@ -256,6 +256,10 @@ figure.figura.doppia img { width:440px; }
    misure native sono dichiarate nell'HTML, così lo spazio è riservato prima del
    caricamento e il sommario non sobbalza. */
 figure.figura.larga img { width:100%; max-width:34rem; height:auto; }
+/* Una fotografia verticale: alla larghezza di quelle orizzontali sarebbe alta il
+   doppio della finestra. */
+figure.figura.alta img { width:300px; }
+figure.figura.alta figcaption { max-width:340px; }
 figure.figura.larga figcaption { max-width:34rem; }
 figure.figura figcaption { font-size:13px; line-height:1.45; margin-top:9px; max-width:440px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }

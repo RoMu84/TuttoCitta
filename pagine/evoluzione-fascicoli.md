@@ -8,3 +8,5 @@ elementi principali.
 - [Tabella dei layout](tabella-layout.md)
 - [Note dell'editore](note-editore.md)
 - [Evoluzione della cartografia](tavole.md)
+- [Inserti speciali](inserti.md)
+- [Il precursore: lo stradario SEAT](stradarioseat.md)
