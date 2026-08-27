@@ -53,19 +53,20 @@ ul.punti li::before { content:"•"; position:absolute; left:0; top:-1px; color:
   font-size:15px; line-height:1.5; }
 /* Sommario di pagina, generato dai titoli di sezione. L'etichetta sta nel foglio di
    stile e non nel testo, così non finisce dentro il sommario stesso. */
-.toc { margin:26px 0 30px; padding:18px 22px 20px; background:var(--testa);
+.toc { max-width:44rem; margin:26px 0 30px; padding:18px 22px 20px; background:var(--testa);
   border:1px solid var(--bordo); border-left:3px solid var(--oro); }
 .toc::before { content:"In questa pagina"; display:block; margin-bottom:10px;
   font-size:12px; letter-spacing:.06em; text-transform:uppercase; color:var(--scuro);
   font-weight:600; }
-.toc ul { margin:0; padding:0; list-style:none; columns:2; column-gap:34px; counter-reset:sez; }
+/* Una colonna sola: alla misura del testo, a due colonne le voci più lunghe
+   andavano a capo lasciando una parola orfana su una riga. */
+.toc ul { margin:0; padding:0; list-style:none; counter-reset:sez; }
 .toc li { margin:0 0 7px; break-inside:avoid; padding-left:26px; position:relative; }
-/* Il numero, non il pallino: in due colonne dice da solo che l'ordine scende lungo
-   la colonna e non attraversa la riga — il 5 in cima a destra lo rende evidente. */
+/* Il numero, non il pallino: dà la misura di quanto è lunga la pagina, e resta
+   utile se un domani le voci tornassero su due colonne. */
 .toc li::before { content:counter(sez) "."; counter-increment:sez; position:absolute; left:0;
   top:1px; color:var(--oro); font-size:13px; font-weight:600; font-variant-numeric:tabular-nums; }
 .toc a { font-size:15px; }
-@media (max-width:700px){ .toc ul { columns:1; } }
 
 table.layout { width:100%; table-layout:fixed; }
 table.layout td { vertical-align:top; font-size:13.5px; line-height:1.55; }
@@ -262,6 +263,11 @@ figure.figura figcaption { font-size:13px; line-height:1.45; margin-top:9px; max
 .coppia { display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start; margin:26px 0 32px; }
 .coppia figure.figura { margin:0; }
 /* Blocchi richiudibili: le griglie e gli elenchi lunghi restano chiusi. */
+/* Chiuso il cassetto è una riga di testo, e sta nella misura del testo; aperto
+   libera la larghezza intera, perché dentro c'è una griglia larga. La transizione
+   è solo sulla larghezza: l'apertura in sé la gestisce il browser. */
+details.cassetto { max-width:44rem; transition:max-width .18s ease; }
+details.cassetto[open] { max-width:none; }
 details.cassetto { margin:20px 0 30px; border:1px solid #e8dcc0; border-radius:4px;
   background:#fdf9ef; }
 details.cassetto[open] { background:none; }
