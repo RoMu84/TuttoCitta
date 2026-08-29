@@ -74,6 +74,19 @@ table.layout td.nome { font-weight:600; color:var(--scuro); }
 table.layout td.ann { white-space:nowrap; font-variant-numeric:tabular-nums; }
 table.layout col.c-nome { width:16%; } table.layout col.c-ann { width:11%; }
 table.layout col.c-car { width:42%; } table.layout col.c-note { width:31%; }
+/* Tabella dei fascicoli sardi: larga quanto bastano due copertine affiancate, non
+   quanto la pagina. Le didascalie lunghe vanno a capo. */
+table.fascicoli-sardegna { width:auto; }
+table.fascicoli-sardegna td { vertical-align:top; }
+table.fascicoli-sardegna td.ann { font-weight:600; color:var(--scuro); white-space:nowrap;
+  font-variant-numeric:tabular-nums; text-align:center; }
+table.fascicoli-sardegna td.fasc { width:236px; text-align:center; }
+table.fascicoli-sardegna td.fasc.vuota { border-left:0; }
+table.fascicoli-sardegna p.nome { margin:9px 0 7px; font-size:13px; line-height:1.3;
+  font-weight:600; color:var(--scuro); }
+ul.scheda { list-style:none; margin:0; padding:0; text-align:left; font-size:12.5px;
+  line-height:1.5; }
+ul.scheda b { font-weight:600; color:var(--scuro); }
 /* Tabella dei layout nella pagina di dettaglio: le annate incolonnate al centro,
    l'intestazione no, che resta allineata come nel resto del sito. */
 table.layout-sardegna td.ann { text-align:center; white-space:nowrap;
@@ -329,8 +342,8 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
      vincoli si mettono sulle celle, e valgono anche in layout automatico. */
   /* Bordi separati: con i bordi fusi il testo delle celle scorse trapela da sotto
      la colonna bloccata, che e un difetto noto di position:sticky. */
-  table.matrice, table.roma-fascicoli, table.roma-cartografia, table.layout-sardegna {
-    border-collapse:separate; border-spacing:0; }
+  table.matrice, table.roma-fascicoli, table.roma-cartografia, table.layout-sardegna,
+  table.fascicoli-sardegna { border-collapse:separate; border-spacing:0; }
   table.matrice { table-layout:auto; width:auto; }
   table.matrice th, table.matrice td { font-size:10.5px; }
   table.matrice th:first-child, table.matrice td.nome { min-width:158px; max-width:158px; }
@@ -349,10 +362,11 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
   /* Stessa cosa per le altre tabelle che scorrono, dove la prima colonna e gia
      stretta e uniforme: basta bloccarla. */
   table.roma-fascicoli td.ann, table.roma-cartografia td.ann,
+  table.fascicoli-sardegna td.ann,
   table.layout-sardegna td:first-child, table.griglia th[scope=row] {
     position:sticky; left:0; z-index:2; background:#fff; }
   table.roma-fascicoli thead th:first-child, table.roma-cartografia thead th:first-child,
-  table.layout-sardegna thead th:first-child {
+  table.fascicoli-sardegna thead th:first-child, table.layout-sardegna thead th:first-child {
     position:sticky; left:0; z-index:3; background:var(--testa); }
   /* La griglia: stessa larghezza della matrice per l'etichetta, e sfondo pieno,
      che serve alla colonna bloccata per coprire quel che le passa sotto. I nomi
