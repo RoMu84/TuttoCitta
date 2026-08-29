@@ -320,7 +320,45 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
 }
 @media (max-width:1000px){ table.layout { table-layout:auto; }
   table.layout col.c-nome, table.layout col.c-ann, table.layout col.c-car, table.layout col.c-note { width:auto; } }
-@media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px}
-  table.matrice{table-layout:auto} table.matrice th, table.matrice td{font-size:11px}
-  table.matrice thead tr, table.matrice tbody tr{height:auto}
-  table.matrice th:first-child{width:auto} .marchio{font-size:22px} }
+@media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px} .marchio{font-size:22px}
+  /* La matrice non si adatta allo schermo: si scorre. Le colonne hanno larghezza
+     imposta, quindi la tabella e larga quanto serve e le righe restano tutte
+     uguali, invece di alzarsi dove il nome del fascicolo va a capo. */
+  /* Non «table-layout:fixed» con larghezza automatica: in quel caso il browser
+     ricade sull'algoritmo automatico e ignora le larghezze delle colonne. I
+     vincoli si mettono sulle celle, e valgono anche in layout automatico. */
+  /* Bordi separati: con i bordi fusi il testo delle celle scorse trapela da sotto
+     la colonna bloccata, che e un difetto noto di position:sticky. */
+  table.matrice, table.roma-fascicoli, table.roma-cartografia, table.layout-sardegna {
+    border-collapse:separate; border-spacing:0; }
+  table.matrice { table-layout:auto; width:auto; }
+  table.matrice th, table.matrice td { font-size:10.5px; }
+  table.matrice th:first-child, table.matrice td.nome { min-width:158px; max-width:158px; }
+  table.matrice thead th:not(:first-child), table.matrice tbody td:not(.nome) {
+    min-width:32px; max-width:32px; }
+  /* Tre righe di testo piu il margine: nessun nome ne chiede di piu, e cosi tutte
+     le righe misurano uguale. */
+  table.matrice thead tr, table.matrice tbody tr { height:50px; }
+  table.matrice td.nome { font-size:11px; line-height:1.25; white-space:normal; }
+  /* Prima colonna bloccata: scorrendo, le annate le passano sotto. */
+  table.matrice td.nome, table.matrice thead th:first-child { position:sticky; left:0; z-index:2; }
+  table.matrice td.nome { background:#fff; }
+  table.matrice thead th:first-child { background:var(--testa); z-index:3; }
+  table.matrice td.nome::after, table.matrice thead th:first-child::after { content:"";
+    position:absolute; top:0; right:0; bottom:0; width:1px; background:var(--bordo); }
+  /* Stessa cosa per le altre tabelle che scorrono, dove la prima colonna e gia
+     stretta e uniforme: basta bloccarla. */
+  table.roma-fascicoli td.ann, table.roma-cartografia td.ann,
+  table.layout-sardegna td:first-child, table.griglia th[scope=row] {
+    position:sticky; left:0; z-index:2; background:#fff; }
+  table.roma-fascicoli thead th:first-child, table.roma-cartografia thead th:first-child,
+  table.layout-sardegna thead th:first-child {
+    position:sticky; left:0; z-index:3; background:var(--testa); }
+  /* La griglia: stessa larghezza della matrice per l'etichetta, e sfondo pieno,
+     che serve alla colonna bloccata per coprire quel che le passa sotto. I nomi
+     lunghi erano gia troncati con i puntini a 230 pixel. */
+  table.griglia { table-layout:auto; width:auto; }
+  table.griglia th[scope=row] { min-width:158px; max-width:158px; font-size:11px;
+    background:#fff; padding-right:8px; }
+  table.griglia td { min-width:15px; }
+}
