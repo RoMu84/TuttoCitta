@@ -80,6 +80,13 @@ table.fascicoli-sardegna { width:auto; }
 table.fascicoli-sardegna td { vertical-align:top; }
 table.fascicoli-sardegna td.ann { font-weight:600; color:var(--scuro); white-space:nowrap;
   font-variant-numeric:tabular-nums; text-align:center; }
+table.fascicoli-sardegna td.ann .pastiglia { margin-bottom:3px; }
+table.fascicoli-sardegna th:nth-child(2) { line-height:1.25; }
+table.fascicoli-sardegna td.tav { text-align:center; }
+/* Il colore delle tavole senza il suo nome: il quadrato basta, e la colonna resta
+   stretta anche per le regioni con molti fascicoli sulla stessa riga. */
+.quadro-tavole { display:inline-block; width:22px; height:22px; border:1px solid #9aa3ab;
+  border-radius:2px; }
 table.fascicoli-sardegna td.fasc { width:236px; text-align:center; }
 table.fascicoli-sardegna td.fasc.vuota { border-left:0; }
 table.fascicoli-sardegna p.nome { margin:9px 0 7px; font-size:13px; line-height:1.3;
