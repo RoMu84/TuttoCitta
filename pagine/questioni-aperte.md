@@ -69,20 +69,23 @@ Il bando, dunque, aveva ragione, e la ricostruzione torto: vale la pena ricordar
 con cui era stata scartata quella fonte — «i documenti di concorso non sono conteggi affidabili» — si è
 rivelato troppo severo.
 
-## Il fascicolo di Rieti-Viterbo del 1984: comprendeva Orvieto?
+## Il fascicolo di Rieti-Viterbo del 1984: risolta
+
+*Questa questione era aperta fino alla versione 1.3 ed è qui conservata come nota di metodo.*
 
 Nelle prime due annate il fascicolo s'intitola **Rieti - Orvieto - Viterbo**, con i fascicoli datati 82
-e 83 in copertina; dall'annata 1984/85, datata 85, è **Rieti - Viterbo**. Resta indeterminato il
-fascicolo **datato 84**, cioè la serie tardiva dell'annata 1983/84: non è noto se recasse ancora Orvieto
-nel titolo.
+e 83 in copertina; dall'annata 1984/85, datata 85, è **Rieti - Viterbo**. Restava indeterminato il
+fascicolo **datato 84**, cioè la serie tardiva dell'annata 1983/84, e le biblioteche di Orvieto, Terni,
+Rieti e Viterbo, interpellate direttamente, non conservavano né TuttoCittà né Pagine Gialle di quegli
+anni.
 
-Il caso è notevole perché Orvieto è in Umbria, mentre Rieti e Viterbo sono nel Lazio, e perché nelle
-stesse annate Orvieto compare **anche** nella cartografia del fascicolo Perugia - Terni: era quindi
-mappata contemporaneamente in due edizioni diverse.
+Un esemplare datato 84 è stato reperito: **in copertina Orvieto non compare**. Il titolo è dunque già
+*Rieti - Viterbo*, e la presenza di Orvieto nella denominazione si limita ai due fascicoli datati 82 e
+83. La denominazione dell'annata 1983/84 registrata nel censimento è quella corretta.
 
-Le biblioteche di Orvieto, Terni, Rieti e Viterbo, interpellate direttamente, non conservano né
-TuttoCittà né Pagine Gialle di quegli anni. La domanda si risolve soltanto con un esemplare: **chiunque
-possieda un TuttoCittà di Rieti o di Viterbo datato 84 può rispondere leggendo il frontespizio.**
+Resta interessante il fatto che nelle stesse annate Orvieto compaia **anche** nella cartografia del
+fascicolo Perugia - Terni: era quindi mappata contemporaneamente in due edizioni diverse, e ne è uscita
+prima di quanto la sola denominazione lasciasse supporre.
 
 ## Perché alcuni comuni compaiono in fascicoli di province diverse
 

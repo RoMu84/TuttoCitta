@@ -11,6 +11,41 @@ ultime due annate; le annate 2010/2011 e 2012/2013 si ricavano dalla regolarità
 del concorso *Passione Italia* del 2010, che dichiarava 39 copertine e che la ricostruzione aveva
 giudicato inattendibile, era dunque esatto.
 
+**Il fascicolo di Rieti-Viterbo del 1984 non comprendeva Orvieto.** Un esemplare datato 84 mostra in
+copertina il solo titolo *Rieti - Viterbo*: la presenza di Orvieto nella denominazione si limita ai
+fascicoli datati 82 e 83. Si chiude così la seconda delle questioni aperte, e la denominazione già
+registrata per l'annata 1983/84 risulta confermata.
+
+**Speciale: Roma città.** Una pagina nuova dedicata non a una regione ma a una singola città, la più
+riccamente cartografata della collana: 34 annate con copertine, formato, layout e foliazione, il
+dettaglio della cartografia con numero di tavole, quadri d'unione, sfondi e modifiche annata per annata,
+l'indice dei 113 articoli della rubrica dal 1990/91 al 1996/97 e il confronto fra pagine e tavole. Tre
+file di dati nuovi la accompagnano.
+
+**Tabella dei fascicoli della Sardegna.** La pagina di dettaglio si apre ora con le 48 copertine della
+regione, affiancate annata per annata, con formato, layout, foliazione, mese di aggiornamento e note, e
+con il colore delle tavole di ciascuna annata.
+
+**Tabella dei layout.** Una pagina nuova descrive i quattordici layout riconosciuti nel censimento —
+due in più rispetto alla 1.3 — con annate, caratteristiche e note fascicolo per fascicolo. La sezione
+dei layout della pagina sarda vi rimanda e ne riporta gli anni di copertina.
+
+**Inserti speciali e Stradario SEAT.** Due pagine nuove: la prima documenta i due inserti staccabili,
+quello del 1984 sui primi 54 articoli della Costituzione e l'opuscolo dell'Agenzia del Territorio
+allegato fra il 2010 e il 2011; la seconda descrive lo Stradario SEAT, la rubrica cartografica delle
+Pagine Gialle da cui i TuttoCittà derivano, venduta anche in edicola come volumetto autonomo.
+
+**Il sito riorganizzato.** Le pagine sono raccolte in tre sezioni — «Evoluzione dei fascicoli»,
+«Edizioni regione per regione», «Le regioni in dettaglio» — raggiungibili da un'intestazione con menu a
+tendina. Una pagina «Licenza» dedicata espone per esteso i termini d'uso e il significato della clausola
+di attribuzione. Le pagine più lunghe hanno un sommario interno. Su schermo piccolo le tabelle scorrono
+con la prima colonna bloccata e le righe di altezza uniforme.
+
+**Correzioni ai dati sardi.** Il confronto incrociato fra il censimento e il nuovo repertorio delle
+copertine ha corretto nove valori: quattro foliazioni, un titolo di articolo troncato, lo scambio di due
+layout e le denominazioni di copertina di sei fascicoli, che riportano gli anni per esteso. Nessuna
+correzione muove i totali per annata.
+
 ## 1.3 — agosto 2026
 
 **Censimento di dettaglio della Sardegna.** Una pagina e quattro file nuovi descrivono l'organizzazione
