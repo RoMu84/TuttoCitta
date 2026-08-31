@@ -30,7 +30,7 @@ copertine e indicandone il formato, il layout così come definito in [questa
 pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-sardegna">
+<table class="fascicoli-dettaglio">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="2">Copertine</th></tr></thead>
 <tbody>
 <tr><td class="ann"><span class="pastiglia" style="background:#92D050"></span><br>81/82</td><td class="tav"><span class="quadro-tavole" style="background:#FF9900"></span></td><td class="fasc"><a href="../immagini/CANUORSS81.jpg"><img class="copertina" src="../immagini/CANUORSS81.jpg" alt="Copertina del fascicolo Cagliari - Nuoro - Oristano - Sassari 81" loading="lazy"></a><p class="nome">Cagliari - Nuoro -<br>Oristano - Sassari 81</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> Grossa</li><li><b>Layout:</b> Stradario SEAT</li><li><b>Pagine:</b> 56</li><li><b>Mese aggiornamento:</b> marzo 1981</li><li><b>Note:</b> Nota dell'editore</li></ul></td><td class="fasc vuota"></td></tr>
@@ -79,7 +79,7 @@ descritte in [questa pagina](tabella-layout.md). Come descritto anche lì, i cam
 rispettano i cambi delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo
 sito.
 
-<table class="layout-sardegna">
+<table class="layout-dettaglio">
 <thead><tr><th>Layout</th><th>Annate</th><th>Anni di copertina</th></tr></thead>
 <tbody>
 <tr><td>Stradario SEAT</td><td class="ann">81/82</td><td class="cop">81</td></tr>
@@ -88,7 +88,7 @@ sito.
 <tr><td>TuttoCittà '90 classico iniziale</td><td class="ann">90/91 – 91/92</td><td class="cop">90/91<i class="pt"></i>91</td></tr>
 <tr><td>TuttoCittà '90 classico</td><td class="ann">92/93 – 97/98</td><td class="cop">92<i class="pt"></i>93<i class="pt"></i>94<i class="pt"></i>95<i class="pt"></i>96<i class="pt"></i>97</td></tr>
 <tr><td>TuttoCittà '90 riformato</td><td class="ann">98/99</td><td class="cop">(98)</td></tr>
-<tr><td>TuttoCittà nuovo millennio</td><td class="ann">99/00</td><td class="cop">99</td></tr>
+<tr><td>TuttoCittà nuovo millennio</td><td class="ann">99/00</td><td class="cop">99/00</td></tr>
 <tr><td>TuttoCittà nuovo millennio bis</td><td class="ann">00/01</td><td class="cop">00/01</td></tr>
 <tr><td>TuttoCittà nuovo millennio ter</td><td class="ann">01/02 – 04/05</td><td class="cop">01/02<i class="pt"></i>02/03<i class="pt"></i>03/04<i class="pt"></i>04</td></tr>
 <tr><td>TuttoCittà metà duemila</td><td class="ann">05/06</td><td class="cop">05</td></tr>
@@ -350,11 +350,11 @@ incorporata in Selargius e poi presentata in entrambe le città qualche annata d
   <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Olbia</td><td>Leggera revisione e uniformità grafica</td></tr>
   <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Porto Torres</td><td>Leggera revisione e uniformità grafica</td></tr>
   <tr><td><span class="pastiglia" style="background:#C4BC96"></span> 97</td><td>Tempio Pausania</td><td>Leggera revisione e uniformità grafica</td></tr>
-  <tr class="stacco"><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Cagliari</td><td>Scorporo di una tavola e incorporazione in Selargius</td></tr>
-  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Capoterra</td><td>Nuovo comune cartografato</td></tr>
-  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Selargius</td><td>Nuovo comune cartografato</td></tr>
-  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Sanluri</td><td>Nuovo comune cartografato</td></tr>
-  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99</td><td>Sestu</td><td>Nuovo comune cartografato</td></tr>
+  <tr class="stacco"><td><span class="pastiglia" style="background:#FFD966"></span> 99/00</td><td>Cagliari</td><td>Scorporo di una tavola e incorporazione in Selargius</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99/00</td><td>Capoterra</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99/00</td><td>Selargius</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99/00</td><td>Sanluri</td><td>Nuovo comune cartografato</td></tr>
+  <tr><td><span class="pastiglia" style="background:#FFD966"></span> 99/00</td><td>Sestu</td><td>Nuovo comune cartografato</td></tr>
   <tr class="stacco"><td><span class="pastiglia" style="background:#FFD966"></span> 00/01</td><td>Muravera</td><td>Nuovo comune cartografato</td></tr>
   <tr><td><span class="pastiglia" style="background:#FFD966"></span> 00/01</td><td>Sarroch</td><td>Nuovo comune cartografato</td></tr>
   <tr><td><span class="pastiglia" style="background:#FFD966"></span> 00/01</td><td>San Sperate</td><td>Nuovo comune cartografato</td></tr>
