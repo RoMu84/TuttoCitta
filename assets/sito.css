@@ -201,6 +201,10 @@ table.griglia td.no { background:#eef1f4; }
    vuota direbbe "non cartografato", che e un'altra cosa. */
 table.griglia td.ig { background:#fdf7e6; color:#8a6d1f; font-size:10px; line-height:13px;
   text-align:center; }
+/* Quarto stato: cartografato ma assente dall'elenco delle vie. Non e ne un si
+   pieno ne un no: stessa convenzione della colonna "indicizzata" della ricerca. */
+table.griglia td.ni { background:#eef1f4; color:var(--scuro); font-size:9px; line-height:13px;
+  text-align:center; }
 .legenda-griglia { font-size:13px; color:var(--tenue); max-width:44rem; margin:2px 0 34px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 /* Foliazione e tavole del capoluogo. */
