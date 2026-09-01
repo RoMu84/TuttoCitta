@@ -202,9 +202,15 @@ table.griglia td.no { background:#eef1f4; }
 table.griglia td.ig { background:#fdf7e6; color:#8a6d1f; font-size:10px; line-height:13px;
   text-align:center; }
 /* Quarto stato: cartografato ma assente dall'elenco delle vie. Non e ne un si
-   pieno ne un no: stessa convenzione della colonna "indicizzata" della ricerca. */
-table.griglia td.ni { background:#eef1f4; color:var(--scuro); font-size:9px; line-height:13px;
-  text-align:center; }
+   pieno ne un no: stessa convenzione della colonna "indicizzata" della ricerca.
+   Azzurro, che stacca dal blu profondo della casella piena. */
+table.griglia td.ni { background:#4da3d9; }
+/* Cornice del foglio incorporato: l'iframe si adatta alla larghezza e tiene una
+   proporzione fissa, cosi non serve fissare un'altezza in pixel. */
+.incorniciato { position:relative; width:100%; padding-bottom:70%; margin:18px 0;
+  border:1px solid var(--bordo); background:#fff; }
+.incorniciato iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:0; }
+@media (max-width:700px) { .incorniciato { padding-bottom:120%; } }
 .legenda-griglia { font-size:13px; color:var(--tenue); max-width:44rem; margin:2px 0 34px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 /* Foliazione e tavole del capoluogo. */
