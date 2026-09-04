@@ -13,8 +13,8 @@ dell'intera regione Basilicata.
 Il censimento registra un totale di 17 fascicoli e 3 comuni cartografati.
 
 <figure class="figura">
-<img src="../immagini/Ricercato1.jpg" alt="Copertina non reperita del fascicolo Matera - Potenza 81" loading="lazy">
-<figcaption>Copertina del fascicolo Matera - Potenza 81</figcaption>
+<img src="../immagini/Ricercato1.jpg" alt="Segnaposto della copertina non reperita del fascicolo Matera - Potenza 81" loading="lazy">
+<figcaption>Il fascicolo Matera - Potenza 81 non è in raccolta: la copertina non è stata reperita</figcaption>
 </figure>
 
 [TOC]

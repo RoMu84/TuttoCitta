@@ -15,7 +15,7 @@ si basano i dati del presente censimento.
 - Liguria — <span class="sospeso">in preparazione</span>
 - Lombardia — <span class="sospeso">in preparazione</span>
 - Marche — <span class="sospeso">in preparazione</span>
-- Molise — <span class="sospeso">in preparazione</span>
+- [Molise](molise.md)
 - Piemonte — <span class="sospeso">in preparazione</span>
 - Puglia — <span class="sospeso">in preparazione</span>
 - [Sardegna](sardegna.md)
@@ -26,4 +26,4 @@ si basano i dati del presente censimento.
 - Valle d'Aosta — <span class="sospeso">in preparazione</span>
 - Veneto — <span class="sospeso">in preparazione</span>
 
-Pagine disponibili: 4 su 20.
+Pagine disponibili: 5 su 20.
