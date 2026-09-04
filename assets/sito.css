@@ -205,6 +205,9 @@ table.griglia td.ig { background:#fdf7e6; color:#8a6d1f; font-size:10px; line-he
    pieno ne un no: stessa convenzione della colonna "indicizzata" della ricerca.
    Azzurro, che stacca dal blu profondo della casella piena. */
 table.griglia td.ni { background:#4da3d9; }
+/* Filetto piu marcato all'inizio di ogni decennio: con trentaquattro colonne
+   serve un punto d'appoggio per contare le annate. */
+table.griglia td.dec, table.griglia th.dec { border-left:2px solid var(--scuro); }
 /* Cornice del foglio incorporato: l'iframe si adatta alla larghezza e tiene una
    proporzione fissa, cosi non serve fissare un'altezza in pixel. */
 .incorniciato { position:relative; width:100%; padding-bottom:70%; margin:18px 0;
