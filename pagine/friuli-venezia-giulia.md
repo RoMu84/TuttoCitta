@@ -1,11 +1,6 @@
 # Il Friuli - Venezia Giulia in dettaglio
 
-**Questa pagina è incompleta.** Alla raccolta mancano 24 dei 78 fascicoli
-accertati della regione — **Trieste, annata 83/84; Pordenone, annate 92/93, 94/95, 96/97 e 97/98; Udine, annate 96/97, 98/99, 00/01–07/08, 09/10 e 11/12–14/15; Gorizia - Trieste, annate 06/07, 07/08, 12/13 e 13/14** — e i dati che dipendono dall'esame diretto dell'esemplare sono
-segnati <span class="sospeso">in sospeso</span>. Le copertine non reperite sono sostituite da un
-segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota,
-perché vuoto significherebbe «non cartografato», che non è ciò che sappiamo. Per la stessa ragione la
-pagina non è annunciata altrove nel sito, e vi si arriva soltanto per indirizzo.
+<em><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 24 dei 78 fascicoli accertati della regione — <strong>Trieste, annata 83/84; Pordenone, annate 92/93, 94/95, 96/97 e 97/98; Udine, annate 96/97, 98/99, 00/01–07/08, 09/10 e 11/12–14/15; Gorizia - Trieste, annate 06/07, 07/08, 12/13 e 13/14</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati</em> <span class="sospeso">in sospeso</span><em>. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia. Per la stessa ragione questa pagina non è annunciata altrove nel sito e per il momento vi si arriva soltanto per indirizzo diretto.</em>
 
 Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli
 dell'intera regione Friuli - Venezia Giulia.
