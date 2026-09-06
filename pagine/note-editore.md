@@ -53,11 +53,3 @@ La rubrica visse dunque sette annate, dal 1989/90 al 1997/98. Il fascicolo che n
 trasformato, «una vera guida per conoscere dal di dentro il nostro Paese», tornò in quel momento a
 essere ciò che era all'origine: uno strumento cartografico.
 
----
-
-Le riproduzioni fotografiche e le trascrizioni dei testi sono tratte da esemplari della raccolta e
-pubblicate a fini di identificazione e studio documentario. **I diritti sui testi e sulle immagini
-riprodotte appartengono all'editore, oggi Italiaonline S.p.A.: chi cura questa risorsa non ne detiene
-alcun diritto e non li concede in licenza**, e non sono coperti dalla licenza CC BY 4.0 applicata al resto del sito. Sia le
-immagini sia le trascrizioni possono essere rimosse su richiesta: è sufficiente aprire una segnalazione
-nel repository o scrivere all'indirizzo indicato in fondo alla pagina.

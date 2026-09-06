@@ -587,9 +587,3 @@ cartografia, che dal grigio cromatico passa al rosa.
 </tbody>
 </table>
 
----
-
-Le riproduzioni di copertina sono fotografie di esemplari della raccolta, pubblicate a bassa risoluzione
-a fini di identificazione e studio documentario. **I diritti sul disegno di copertina appartengono
-all'editore** e non sono coperti dalla licenza CC BY 4.0 applicata al resto della risorsa. Per richieste
-di rimozione, aprire una segnalazione nel repository.

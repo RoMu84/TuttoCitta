@@ -28,7 +28,10 @@ esclusivamente da una passione personale.
 <li><strong><a href="pagine/tavole.md">L'evoluzione della cartografia</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>
 <li><strong><a href="pagine/inserti.md">Inserti speciali</a></strong> — i due inserti comuni a tutti i fascicoli presentati nel 1984 e attorno al 2010-2012</li>
 <li><strong><a href="pagine/stradarioseat.md">Il precursore: lo stradario SEAT</a></strong> — breve descrizione del prodotto editoriale da cui i TuttoCittà traggono origine</li>
-<li><strong><a href="pagine/sardegna.md">La Sardegna in dettaglio</a></strong> — dettaglio di una regione per cui la raccolta dei fascicoli è completa: indicizzazione di cartografia, rubriche e altri contenuti</li>
+<hr>
+<li><strong><a href="pagine/edizioni-regione-per-regione.md">Le edizioni regione per regione</a></strong> — tabelle regionali che mostrano quali fascicoli vennero pubblicati in ciascuna annata per ciascuna provincia</li>
+<li><strong><a href="pagine/regioni-in-dettaglio.md">Le regioni in dettaglio</a></strong> — per ciascuna regione sono mostrate le copertine di tutte le province annata per annata, la tabella dei comuni cartografati e altre informazioni</li>
+<hr>
 <li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo e come segnalarlo</li>
 <li><strong><a href="pagine/come-contribuire.md">Come contribuire</a></strong> — segnalare un fascicolo che possiedi, cedere o donare fascicoli</li>
 <hr>
@@ -41,26 +44,11 @@ esclusivamente da una passione personale.
 
 ## Le edizioni regione per regione
 
-- [Abruzzo](pagine/regioni/abruzzo.md)
-- [Basilicata](pagine/regioni/basilicata.md)
-- [Calabria](pagine/regioni/calabria.md)
-- [Campania](pagine/regioni/campania.md)
-- [Emilia - Romagna](pagine/regioni/emilia-romagna.md)
-- [Friuli - Venezia Giulia](pagine/regioni/friuli-venezia-giulia.md)
-- [Lazio](pagine/regioni/lazio.md)
-- [Liguria](pagine/regioni/liguria.md)
-- [Lombardia](pagine/regioni/lombardia.md)
-- [Marche](pagine/regioni/marche.md)
-- [Molise](pagine/regioni/molise.md)
-- [Piemonte](pagine/regioni/piemonte.md)
-- [Puglia](pagine/regioni/puglia.md)
-- [Sardegna](pagine/regioni/sardegna.md)
-- [Sicilia](pagine/regioni/sicilia.md)
-- [Toscana](pagine/regioni/toscana.md)
-- [Trentino - Alto Adige](pagine/regioni/trentino-alto-adige.md)
-- [Umbria](pagine/regioni/umbria.md)
-- [Valle d'Aosta](pagine/regioni/valle-daosta.md)
-- [Veneto](pagine/regioni/veneto.md)
+<p class="inriga"><a href="pagine/regioni/abruzzo.md">Abruzzo</a> <b class="perno">&bull;</b> <a href="pagine/regioni/basilicata.md">Basilicata</a> <b class="perno">&bull;</b> <a href="pagine/regioni/calabria.md">Calabria</a> <b class="perno">&bull;</b> <a href="pagine/regioni/campania.md">Campania</a> <b class="perno">&bull;</b> <a href="pagine/regioni/emilia-romagna.md">Emilia - Romagna</a> <b class="perno">&bull;</b> <a href="pagine/regioni/friuli-venezia-giulia.md">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="pagine/regioni/lazio.md">Lazio</a> <b class="perno">&bull;</b> <a href="pagine/regioni/liguria.md">Liguria</a> <b class="perno">&bull;</b> <a href="pagine/regioni/lombardia.md">Lombardia</a> <b class="perno">&bull;</b> <a href="pagine/regioni/marche.md">Marche</a> <b class="perno">&bull;</b> <a href="pagine/regioni/molise.md">Molise</a> <b class="perno">&bull;</b> <a href="pagine/regioni/piemonte.md">Piemonte</a> <b class="perno">&bull;</b> <a href="pagine/regioni/puglia.md">Puglia</a> <b class="perno">&bull;</b> <a href="pagine/regioni/sardegna.md">Sardegna</a> <b class="perno">&bull;</b> <a href="pagine/regioni/sicilia.md">Sicilia</a> <b class="perno">&bull;</b> <a href="pagine/regioni/toscana.md">Toscana</a> <b class="perno">&bull;</b> <a href="pagine/regioni/trentino-alto-adige.md">Trentino - Alto Adige</a> <b class="perno">&bull;</b> <a href="pagine/regioni/umbria.md">Umbria</a> <b class="perno">&bull;</b> <a href="pagine/regioni/valle-daosta.md">Valle d'Aosta</a> <b class="perno">&bull;</b> <a href="pagine/regioni/veneto.md">Veneto</a></p>
+
+## Le regioni in dettaglio
+
+<p class="inriga"><a href="pagine/sardegna.md">Sardegna</a> <b class="perno">&bull;</b> <a href="pagine/roma.md">Speciale: Roma città</a></p>
 
 ## Dati
 

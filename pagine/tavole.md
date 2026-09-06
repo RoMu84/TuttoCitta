@@ -74,9 +74,3 @@ mai entrate nella cartografia in uso fino ad allora.
 È l'ultima riforma della storia del prodotto: la veste adottata nel 2009/2010 resta invariata fino
 all'ultima annata autonoma, la 2014/15.
 
----
-
-Le riproduzioni sono fotografie di esemplari della raccolta, pubblicate a bassa risoluzione a fini di
-identificazione e studio documentario. **I diritti sulle opere riprodotte appartengono all'editore** e non
-sono coperti dalla licenza CC BY 4.0 applicata al resto della risorsa. Per richieste di rimozione, aprire
-una segnalazione nel repository.
