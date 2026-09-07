@@ -71,7 +71,9 @@ rivelato troppo severo.
 
 ## Il fascicolo di Rieti-Viterbo del 1984: risolta
 
-*Questa questione era aperta fino alla versione 1.3 ed è qui conservata come nota di metodo.*
+*Questa questione è rimasta aperta a intermittenza dalla versione 1.3 alla 1.5 ed è qui conservata come
+nota di metodo, perché il modo in cui si è risolta spiega da sé le due letture contrastanti che si sono
+succedute.*
 
 Nelle prime due annate il fascicolo s'intitola **Rieti - Orvieto - Viterbo**, con i fascicoli datati 82
 e 83 in copertina; dall'annata 1984/85, datata 85, è **Rieti - Viterbo**. Restava indeterminato il
@@ -79,9 +81,21 @@ fascicolo **datato 84**, cioè la serie tardiva dell'annata 1983/84, e le biblio
 Rieti e Viterbo, interpellate direttamente, non conservavano né TuttoCittà né Pagine Gialle di quegli
 anni.
 
-Un esemplare datato 84 è stato reperito: **in copertina Orvieto non compare**. Il titolo è dunque già
-*Rieti - Viterbo*, e la presenza di Orvieto nella denominazione si limita ai due fascicoli datati 82 e
-83. La denominazione dell'annata 1983/84 registrata nel censimento è quella corretta.
+L'esemplare è ora in raccolta, e la risposta è che **le due letture erano entrambe esatte**. La
+copertina è stata stampata con la dicitura *Rieti - Orvieto - Viterbo*; sopra quella dicitura è
+applicata **un'etichetta** che riporta *Rieti - Viterbo*. Il carattere e la fattura dell'etichetta
+rendono molto probabile che l'abbia applicata l'editore stesso, per rimediare a un errore di stampa
+della copertina. Il fascicolo, all'interno, **non comprende Orvieto**.
+
+Chi aveva riferito la presenza di Orvieto guardava dunque la stampa; chi ne aveva riferito l'assenza
+guardava l'etichetta. La denominazione registrata nel censimento per l'annata 1983/84 resta
+**Rieti - Viterbo**, che è la forma voluta dall'editore e quella coerente con il contenuto: la dicitura
+stampata sotto l'etichetta è un errore corretto in produzione, non una denominazione editoriale.
+
+Ne resta una piccola lezione di metodo. Una copertina non è un documento a strato singolo, e due
+osservazioni contrastanti sullo stesso esemplare non sono necessariamente in contraddizione: possono
+descrivere due strati diversi dello stesso oggetto. Vale la pena chiedersi, davanti a una discordanza,
+se le due parti stiano guardando la stessa superficie.
 
 Resta interessante il fatto che nelle stesse annate Orvieto compaia **anche** nella cartografia del
 fascicolo Perugia - Terni: era quindi mappata contemporaneamente in due edizioni diverse, e ne è uscita

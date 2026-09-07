@@ -68,7 +68,7 @@ falsificabile — il ritrovamento di un esemplare comporta l'aggiornamento del d
 
 ## Dati
 
-- [`dati/fascicoli_lungo.csv`](../dati/fascicoli_lungo.csv) — una riga per fascicolo e annata: la forma adatta al riuso
+- [`dati/fascicoli_lungo.csv`](../dati/fascicoli_lungo.csv) — una riga per fascicolo e annata: la forma adatta al riuso, con una nota per i pochi fascicoli che hanno una particolarità da segnalare
 - [`dati/fascicoli_matrice.csv`](../dati/fascicoli_matrice.csv) — la matrice come nel foglio originale
 - [`dati/copertine_per_annata.csv`](../dati/copertine_per_annata.csv) — tipi di copertina, conteggi, colore delle tavole
 - [`dati/totali_per_annata.csv`](../dati/totali_per_annata.csv) — totali per annata e note editoriali
