@@ -145,10 +145,20 @@ l'indice resta in sospeso.
 I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i
 diritti appartengono all'editore.
 
+<div class="coppia">
 <figure class="figura">
 <img src="../immagini/CZ90.jpg" alt="Copertina del fascicolo Catanzaro 90" loading="lazy">
 <figcaption>Copertina del fascicolo Catanzaro 90</figcaption>
 </figure>
+<figure class="figura">
+<img src="../immagini/CS90.jpg" alt="Copertina del fascicolo Cosenza 90" loading="lazy">
+<figcaption>Copertina del fascicolo Cosenza 90</figcaption>
+</figure>
+<figure class="figura">
+<img src="../immagini/RC90.jpg" alt="Copertina del fascicolo Reggio Calabria 90" loading="lazy">
+<figcaption>Copertina del fascicolo Reggio Calabria 90</figcaption>
+</figure>
+</div>
 
 <h3 id="articoli-89-90">Annata 89/90</h3>
 <dl class="articoli">
