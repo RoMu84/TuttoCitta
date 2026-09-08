@@ -92,6 +92,12 @@ table.fascicoli-dettaglio td.fasc.vuota { border-left:0; }
 /* Colonna di un fascicolo non in raccolta: la copertina e un segnaposto. */
 table.fascicoli-dettaglio td.fasc.sospesa { background:#fdf7e6; }
 table.fascicoli-dettaglio td.fasc.sospesa img.copertina { opacity:.85; }
+/* Colonna di un fascicolo di cui non e accertata nemmeno l'esistenza: e un caso
+   diverso dal non averlo, e va distinto a vista. */
+table.fascicoli-dettaglio td.fasc.dubbia { background:#fdeaea; }
+table.fascicoli-dettaglio td.fasc.dubbia img.copertina { opacity:.85; }
+.dubbio { display:inline-block; padding:1px 7px; border:1px dashed #c0392b; border-radius:3px;
+  font-size:12px; color:#96281b; background:#fdeaea; }
 table.fascicoli-dettaglio p.nome { margin:9px 0 7px; font-size:13px; line-height:1.3;
   font-weight:600; color:var(--scuro); }
 ul.scheda { list-style:none; margin:0; padding:0; text-align:left; font-size:12.5px;
