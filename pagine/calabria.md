@@ -2,33 +2,26 @@
 
 <em><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 16 dei 46 fascicoli accertati della regione — <strong>Cosenza, annate 84/85, 85/86 e 94/95–96/97; Reggio Calabria, annate 84/85, 85/86, 87/88, 90/91 e 94/95–97/98; Catanzaro, annata 85/86; Catanzaro - Crotone - Vibo Valentia, annate 95/96 e 96/97</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati</em> <span class="sospeso">in sospeso</span><em>. Di altri 2 fascicoli — <strong>Cosenza (99) e Reggio Calabria (99)</strong> — non è accertata nemmeno l'esistenza, e il loro posto in tabella porta un segnaposto proprio. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia. Per la stessa ragione questa pagina non è annunciata altrove nel sito e per il momento vi si arriva soltanto per indirizzo diretto.</em>
 
-Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli
-dell'intera regione Calabria.
+Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli dell'intera regione Calabria.
 
-Il censimento registra un totale di 46 fascicoli accertati e 16 comuni
-cartografati.
+Il censimento registra un totale di 46 fascicoli e 16 comuni cartografati.
 
 <figure class="figura">
 <img src="../immagini/CZCSRC82.jpg" alt="Copertina del fascicolo Catanzaro - Cosenza - Reggio Calabria 82" loading="lazy">
 <figcaption>Copertina del fascicolo Catanzaro - Cosenza - Reggio Calabria 82</figcaption>
 </figure>
 
+In questa pagina
+
 [TOC]
 
 ## Tabella dei fascicoli
 
-I fascicoli della Calabria appartenevano in principio alla serie iniziale: il primo fascicolo, edito a
-gennaio del 1982, era infatti intitolato *TuttoCittà 82*. La Calabria è anche una delle prime regioni a
-vedere la riforma editoriale a cavallo fra gli anni '80 e '90, nonché una delle sole quattro regioni ad
-essere interessata da questa riforma già dall'annata 1989/90.
+I fascicoli della Calabria appartenevano in principio alla serie iniziale: il primo fascicolo, edito a gennaio del 1982, era infatti intitolato TuttoCittà 82. La Calabria è anche una delle prime regioni a vedere la riforma editoriale a cavallo fra gli anni '80 e '90, nonché una delle sole quattro regioni ad essere interessata da questa riforma già dall'annata 1989/90.
 
-Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le province. Permangono dubbi
-sull'esistenza o meno dei fascicoli di Cosenza e di Reggio Calabria nell'annata 1998/99: di quelli il
-censimento non registra alcun anno di copertina, perché non c'è un esemplare da cui leggerlo.
+Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le province. Permangono dubbi sull'esistenza o meno dei fascicoli di Cosenza e di Reggio Calabria nell'annata 1998/99: di quelli il censimento non registra alcun anno di copertina, perché non c'è un esemplare da cui leggerlo.
 
-La seguente tabella censisce i dati fondamentali dei fascicoli della Calabria, mostrandone le copertine
-e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il
-numero totale di pagine, anno per anno.
+La seguente tabella censisce i dati fondamentali dei fascicoli della Calabria, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
 <table class="fascicoli-dettaglio">
@@ -58,10 +51,7 @@ numero totale di pagine, anno per anno.
 
 ## Cinque layout in diciotto anni
 
-La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il sistema
-definito durante il censimento osservando l'impaginazione; le loro caratteristiche sono descritte in
-[questa pagina](tabella-layout.md). Come descritto anche lì, i cambi di layout non rispettano i cambi
-delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo sito.
+La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il sistema definito durante il censimento osservando l'impaginazione; le loro caratteristiche sono descritte in [questa pagina](tabella-layout.md). Come descritto anche lì, i cambi di layout non rispettano i cambi delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo sito.
 
 <table class="layout-dettaglio">
 <thead><tr><th>Layout</th><th>Annate</th><th>Anni di copertina</th></tr></thead>
@@ -74,30 +64,17 @@ delle serie di copertina descritte nell'[apposita pagina](copertine.md) di quest
 </tbody>
 </table>
 
-Non compaiono le annate 98/99 e 98/99: il fascicolo non è in raccolta e il layout non è stato accertato.
+Non compaiono le annate 98/99: il fascicolo non è in raccolta e il layout non è stato accertato.
 
 ## Le città cartografate
 
-La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per
-quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è
-infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli
-anni. I tre capoluoghi storici — CATANZARO, COSENZA, REGGIO CALABRIA — sono in maiuscolo, ma restano al
-loro posto nell'alfabeto. Crotone e Vibo Valentia, che diventano capoluoghi di provincia soltanto nel
-1992, restano in minuscolo: nella cartografia sono comuni come gli altri, e comuni erano quando la
-serie cominciò.
+La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli anni. I tre capoluoghi storici — CATANZARO, COSENZA, REGGIO CALABRIA — sono in maiuscolo, ma restano al loro posto nell'alfabeto. Crotone e Vibo Valentia, che diventano capoluoghi di provincia soltanto nel 1992, restano in minuscolo, perché nella cartografia sono comuni come gli altri, così come lo erano quando la serie cominciò.
 
-La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è
-in raccolta, o perché non è accertato che sia mai esistito.
+Un dettaglio che vale la pena notare: le province di Crotone e Vibo Valentia nascono nel 1992, ma il titolo del fascicolo continua a citare la sola Catanzaro fino all'annata 1994/95, diventando Catanzaro - Crotone - Vibo Valentia solo dall'annata 1995/96. La denominazione editoriale segue dunque la riforma amministrativa con tre anni di ritardo, mentre la cartografia non cambia affatto: le due città erano infatti già mappate dal primo fascicolo del 1982.
 
-Un dettaglio che vale la pena notare, perché è una cosa che soltanto una tabella come questa mette in
-evidenza: le province di Crotone e Vibo Valentia nascono nel 1992, ma il titolo del fascicolo continua
-a citare la sola Catanzaro fino all'annata 1994/95, e diventa *Catanzaro - Crotone - Vibo Valentia*
-solo dall'annata 1995/96. La denominazione editoriale segue dunque la riforma amministrativa con tre
-anni di ritardo, mentre la cartografia non cambia affatto: le due città erano già mappate dal primo
-fascicolo del 1982.
+La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è in raccolta, perché non è accertato che sia mai esistito, o perché il suo contenuto non è ancora stato spogliato.
 
-Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva il relativo elenco
-delle vie, un fenomeno questo relativamente comune soprattutto nei fascicoli degli anni '80.
+Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80.
 
 <details class="cassetto" markdown="1">
 <summary>Espandi la griglia delle città — 16 città su 18 annate</summary>
@@ -129,21 +106,17 @@ delle vie, un fenomeno questo relativamente comune soprattutto nei fascicoli deg
 </details>
 
 
-Le città cartografate almeno una volta sono 16. Sulle 9 annate di cui
-la raccolta ha tutti i fascicoli, il minimo è nelle annate 81/82–83/84, con 8 città; il massimo
-nelle annate 91/92–93/94, con 16.
+Le città cartografate almeno una volta sono 16. Il minimo è nelle annate 81/82–83/84, con 8 città; il massimo nelle annate 91/92–93/94, con 16.
+
+I conteggi valgono sulle 9 annate di cui la raccolta ha tutti i fascicoli: altrove sarebbero un minimo spacciato per un totale.
 
 ## L'indice degli articoli, 1990-1997
 
-Dall'annata 1989/90 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia
-locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1996/97. Sono
-145 titoli in sei annate, mai indicizzati altrove: un piccolo corpus
-di giornalismo locale distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza
-lasciare traccia in alcuna risorsa online. Per le annate 95/96 e 96/97 i fascicoli non sono in raccolta e
-l'indice resta in sospeso.
+Dall'annata 1989/90 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1996/97. Sono 145 titoli in 8 annate, mai indicizzati altrove: un piccolo corpus di giornalismo locale distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza lasciare traccia in alcuna risorsa online.
 
-I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i
-diritti appartengono all'editore.
+Per le annate 95/96 e 96/97 i fascicoli non sono in raccolta e l'indice resta in sospeso.
+
+I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i diritti appartengono all'editore.
 
 <div class="coppia">
 <figure class="figura">
@@ -239,7 +212,4 @@ diritti appartengono all'editore.
 - [`calabria_cartografia.csv`](../dati/calabria_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`calabria_articoli.csv`](../dati/calabria_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà nelle [questioni
-aperte](questioni-aperte.md) come contribuire. Chi possiede un fascicolo di Cosenza o di Reggio
-Calabria dell'annata 1998/99, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione
-diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
+Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà nelle [questioni aperte](questioni-aperte.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
