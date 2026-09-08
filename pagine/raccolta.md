@@ -23,7 +23,7 @@ si basano i dati del presente censimento.
 - Toscana — <span class="sospeso">in preparazione</span>
 - Trentino - Alto Adige — <span class="sospeso">in preparazione</span>
 - Umbria — <span class="sospeso">in preparazione</span>
-- Valle d'Aosta — <span class="sospeso">in preparazione</span>
+- [Valle d'Aosta](valle-daosta.md)
 - Veneto — <span class="sospeso">in preparazione</span>
 
-Pagine disponibili: 6 su 20.
+Pagine disponibili: 7 su 20.
