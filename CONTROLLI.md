@@ -6,7 +6,7 @@ Generati automaticamente dal foglio di lavoro. Ogni scostamento è un punto da v
 
 | annata | totale dichiarato | accertati in matrice | scostamento | totale marcato incerto |
 |---|---|---|---|---|
-| 99/00 | 42 | 40 | -2 | no |
+| 99/00 | 42 | 39 | -3 | no |
 
 Annate con scostamento: **1** su 34.
 
