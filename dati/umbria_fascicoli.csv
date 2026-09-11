@@ -5,7 +5,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 84/85,Perugia - Terni,Perugia - Terni 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,48,dicembre 1984,Inserto Costituzione,PGTR85.jpg,True,accertata
 85/86,Perugia - Terni,Perugia - Terni 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Ricercato1.jpg,False,accertata
 86/87,Perugia - Terni,Perugia - Terni 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,48,novembre 1986,,PGTR87.jpg,True,accertata
-87/88,Perugia,Perugia 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,16,maggio 1987,,Ricercato1.jpg,False,accertata
+87/88,Perugia,Perugia 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Ricercato1.jpg,False,accertata
 87/88,Terni,Terni 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,16,novembre 1987,,TR88.jpg,True,accertata
 88/89,Perugia,Perugia 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,novembre 1988,,PG89.jpg,True,accertata
 88/89,Terni,Terni 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,16,novembre 1988,,TR89.jpg,True,accertata
@@ -21,8 +21,8 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 93/94,Terni,Terni 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,22,dicembre 1993,,TR94.jpg,True,accertata
 94/95,Perugia,Perugia 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
 94/95,Terni,Terni 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,22,dicembre 1994,,TR95.jpg,True,accertata
-95/96,Perugia,Perugia 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,22,maggio 1995,,Ricercato1.jpg,False,accertata
-95/96,Terni,Terni 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,22,maggio 1995,,Ricercato1.jpg,False,accertata
+95/96,Perugia,Perugia 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
+95/96,Terni,Terni 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
 96/97,Perugia,Perugia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,dicembre 1996,Cambio formato,PG97.jpg,True,accertata
 96/97,Terni,Terni 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,dicembre 1996,Cambio formato,TR97.jpg,True,accertata
 97/98,Perugia,Perugia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,Ricercato1.jpg,False,accertata
