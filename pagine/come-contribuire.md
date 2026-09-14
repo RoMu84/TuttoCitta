@@ -39,7 +39,7 @@ Non si tratta però di oggetti rari. TuttoCittà arrivava gratuitamente a ogni a
 una diffusione capillare su tutto il territorio, e moltissime copie sono semplicemente rimaste dove
 erano state posate: in un cassetto, in cantina, in soffitta. Infatti a differenza degli ingombranti
 elenchi telefonici, molto spesso i TuttoCittà venivano conservati, sia perché molto più pratici e
-sottili, sia perché poteva tornare utile conservare in casa più di uno stradario. Gli oltre 1.200
+sottili, sia perché poteva tornare utile conservare in casa più di uno stradario. I quasi 1.300
 fascicoli di questa raccolta, più della metà dell'intera produzione, sono stati recuperati quasi per
 intero **a partire dal 2020**, a decenni di distanza dalla pubblicazione. Vale la pena guardare: è
 molto probabile che in casa ce ne sia qualcuno.

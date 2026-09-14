@@ -3,7 +3,7 @@
 Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, supplemento delle Pagine
 Gialle pubblicato da SEAT Pagine Gialle dal 1981 al 2014, con 1994 fascicoli accertati su 34 annate e 20 regioni.
 
-I dati derivano da una collezione privata di oltre 1.200 esemplari, da dati incrociati con altri
+I dati derivano da una collezione privata di quasi 1.300 esemplari, da dati incrociati con altri
 raccoglitori e dalle regolarità editoriali osservate nelle pubblicazioni.
 
 ## Come leggere le annate
