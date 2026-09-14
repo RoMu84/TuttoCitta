@@ -173,7 +173,7 @@ Questo è l'unico rimedio praticabile su un fascicolo già rilegato: ogni faccia
 
 Una seconda copia dello stesso fascicolo, conservata da un'altra persona e consultata su richiesta, presenta la medesima situazione: tavola duplicata e allegato al centro. La correzione fu dunque applicata in legatura all'intera tiratura, e non inviata a chi ne facesse richiesta.
 
-<figure class="figura">
+<figure class="figura larga">
 <img src="../immagini/Bari97Molfetta.jpg" alt="A sinistra, la cartografia di Molfetta con la tavola 1 duplicata; a destra, l'allegato con la pagina corretta" loading="lazy">
 <figcaption>A sinistra, la cartografia di Molfetta con la tavola 1 duplicata; a destra, l'allegato con la pagina corretta</figcaption>
 </figure>
@@ -330,12 +330,12 @@ Depone nella stessa direzione il fatto che quelle inserzioni non si ritrovino in
 
 Questo è il solo esemplare del genere finora noto, ma la sua rarità apparente non è un dato: è l'assenza di osservazioni. La riforma del layout non raggiunse tutte le regioni nello stesso anno, e Bari appartiene alla prima ondata, quella dell'annata 1997/98; esemplari analoghi potrebbero quindi esistere per le altre aree interessate dalla riforma in quell'anno, e nessuno finora è stato segnalato. Si riconoscerebbero dal sommario ridotto in copertina e dallo spessore molto inferiore a quello atteso.
 
-<figure class="figura">
+<figure class="figura larga">
 <img src="../immagini/Bari98copertine.jpg" alt="I due fascicoli affiancati: a sinistra quello fuori serie, a destra quello regolare" loading="lazy">
 <figcaption>I due fascicoli affiancati: a sinistra quello fuori serie, a destra quello regolare</figcaption>
 </figure>
 
-<figure class="figura">
+<figure class="figura larga">
 <img src="../immagini/Bari98sommario.jpg" alt="I sommari dei due fascicoli: a sinistra quello fuori serie, a destra quello regolare" loading="lazy">
 <figcaption>I sommari dei due fascicoli: a sinistra quello fuori serie, a destra quello regolare</figcaption>
 </figure>
