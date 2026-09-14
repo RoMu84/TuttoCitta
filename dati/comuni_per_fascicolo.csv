@@ -108,21 +108,24 @@ Bari,Molfetta,no,sì,,sì,sì,sì,
 Bari,Monopoli,no,sì,,sì,sì,sì,
 Bari,Trani,no,sì,,sì,sì,sì,
 Bari - Barletta Andria Trani,ANDRIA,sì,sì,,,,,sì
-Bari - Barletta Andria Trani,Altamura,no,sì,,,,,sì
-Bari - Barletta Andria Trani,BARI,sì,sì,,,,,sì
+Bari - Barletta Andria Trani,Altamura,no,sì,,,,sì,sì
+Bari - Barletta Andria Trani,Andria,no,sì,,,,sì,
+Bari - Barletta Andria Trani,BARI,sì,sì,,,,sì,sì
 Bari - Barletta Andria Trani,BARLETTA,sì,sì,,,,,sì
-Bari - Barletta Andria Trani,Bisceglie,no,sì,,,,,sì
-Bari - Barletta Andria Trani,Bitonto,no,sì,,,,,sì
-Bari - Barletta Andria Trani,Canosa di Puglia,no,sì,,,,,sì
+Bari - Barletta Andria Trani,Barletta,no,sì,,,,sì,
+Bari - Barletta Andria Trani,Bisceglie,no,sì,,,,sì,sì
+Bari - Barletta Andria Trani,Bitonto,no,sì,,,,sì,sì
+Bari - Barletta Andria Trani,Canosa di Puglia,no,sì,,,,sì,sì
 Bari - Barletta Andria Trani,Carbonara,no,sì,,,,,sì
-Bari - Barletta Andria Trani,Castellana Grotte,no,sì,,,,,sì
-Bari - Barletta Andria Trani,Conversano,no,sì,,,,,sì
-Bari - Barletta Andria Trani,Modugno,no,sì,,,,,sì
-Bari - Barletta Andria Trani,Molfetta,no,sì,,,,,sì
-Bari - Barletta Andria Trani,Monopoli,no,sì,,,,,sì
+Bari - Barletta Andria Trani,Castellana Grotte,no,sì,,,,sì,sì
+Bari - Barletta Andria Trani,Conversano,no,sì,,,,sì,sì
+Bari - Barletta Andria Trani,Modugno,no,sì,,,,sì,sì
+Bari - Barletta Andria Trani,Molfetta,no,sì,,,,sì,sì
+Bari - Barletta Andria Trani,Monopoli,no,sì,,,,sì,sì
 Bari - Barletta Andria Trani,Palese,no,sì,,,,,sì
 Bari - Barletta Andria Trani,Santo Spirito,no,sì,,,,,sì
 Bari - Barletta Andria Trani,TRANI,sì,sì,,,,,sì
+Bari - Barletta Andria Trani,Trani,no,sì,,,,sì,
 Belluno,BELLUNO,sì,sì,,sì,sì,,
 Belluno,Cortina d'Ampezzo,no,sì,,sì,sì,,
 Belluno,Feltre,no,sì,,sì,sì,,
