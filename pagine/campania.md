@@ -165,8 +165,8 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 <figcaption>Copertina del fascicolo Napoli 91</figcaption>
 </figure>
 <figure class="figura">
-<img src="../immagini/PROVNA91.jpg" alt="Copertina del fascicolo Provincia di Napoli 91" loading="lazy">
-<figcaption>Copertina del fascicolo Provincia di Napoli 91</figcaption>
+<img src="../immagini/Ricercato1.jpg" alt="Segnaposto per il fascicolo Provincia di Napoli 91" loading="lazy">
+<figcaption>Il fascicolo Provincia di Napoli 91 non è in raccolta: la copertina non è stata reperita</figcaption>
 </figure>
 <figure class="figura">
 <img src="../immagini/AVSA91.jpg" alt="Copertina del fascicolo Avellino - Salerno 91" loading="lazy">
