@@ -311,8 +311,13 @@ figure.figura.larga img { width:100%; max-width:34rem; height:auto; }
 figure.figura.alta img { width:300px; }
 figure.figura.alta figcaption { max-width:340px; }
 figure.figura.larga figcaption { max-width:34rem; }
-figure.figura figcaption { font-size:13px; line-height:1.45; margin-top:9px; max-width:440px;
+/* La didascalia non deve superare la larghezza della sua immagine: una riga piu
+   larga della figura sembra appartenere alla pagina e non alla figura, e fra due
+   figure appaiate invade lo spazio dell'altra. Ogni variante ha quindi la misura
+   della propria immagine. */
+figure.figura figcaption { font-size:13px; line-height:1.45; margin-top:9px; max-width:220px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
+figure.figura.doppia figcaption { max-width:440px; }
 /* Due figure appaiate, come nella galleria delle copertine. */
 .coppia { display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start; margin:26px 0 32px; }
 .coppia figure.figura { margin:0; }
