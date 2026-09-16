@@ -8,7 +8,7 @@ si basano i dati del presente censimento.
 - [Abruzzo](abruzzo.md)
 - [Basilicata](basilicata.md)
 - [Calabria](calabria.md)
-- Campania — <span class="sospeso">in preparazione</span>
+- [Campania](campania.md)
 - Emilia - Romagna — <span class="sospeso">in preparazione</span>
 - [Friuli - Venezia Giulia](friuli-venezia-giulia.md)
 - Lazio — <span class="sospeso">in preparazione</span>
@@ -26,4 +26,4 @@ si basano i dati del presente censimento.
 - [Valle d'Aosta](valle-daosta.md)
 - Veneto — <span class="sospeso">in preparazione</span>
 
-Pagine disponibili: 9 su 20.
+Pagine disponibili: 10 su 20.
