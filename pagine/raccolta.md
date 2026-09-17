@@ -3,7 +3,7 @@
 Questa pagina indicizza tutti i fascicoli ad oggi in raccolta, suddivisi regione per regione, su cui
 si basano i dati del presente censimento.
 
-Una visione d'insieme la si può avere consultando la tabella a link qui sotto: i fascicoli sono
+Una visione d'insieme la si può avere consultando la tabella al link qui sotto: i fascicoli sono
 ordinati per annate e province, divisi per regione e colorati in base alle copertine, con l'annata di
 copertina riportata nelle caselle.
 
@@ -16,10 +16,9 @@ copertina, il numero di pagine e il mese di aggiornamento. Nelle annate a copert
 coerentemente con la numerazione effettiva interna al fascicolo.
 
 Per ogni regione è inoltre presente una tabella riassuntiva dei layout utilizzati, una tabella
-espandibile con la lista di tutti i comuni cartografati suddivisi per annate e ordinati
-alfabeticamente, più una sezione dedicata ai titoli degli articoli delle rubriche degli anni novanta.
-Quando richiesto, sono anche presenti sezioni aggiuntive per segnalare eventuali anomalie di
-produzione.
+espandibile con la lista dei comuni cartografati anno per anno e ordinati alfabeticamente, più una
+sezione dedicata ai titoli degli articoli degli anni novanta. Quando richiesto, sono anche presenti
+sezioni aggiuntive per segnalare eventuali anomalie di produzione.
 
 Chiude la pagina una sezione coi dati aggregati in formato csv.
 
