@@ -62,7 +62,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 94/95,Lecce,Lecce 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
 94/95,Foggia,Foggia 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,dicembre 1994,,FG95.jpg,True,accertata
 94/95,Taranto,Taranto 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
-95/96,Bari,Bari 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,BA96.jpg,True,accertata
+95/96,Bari,Bari 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
 95/96,Brindisi,Brindisi 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
 95/96,Lecce,Lecce 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
 95/96,Foggia,Foggia 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,Ricercato1.jpg,False,accertata
@@ -81,7 +81,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 98/99,Lecce,Lecce (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,"""da utilizzare fino a Luglio 1999""",Ricercato1.jpg,False,accertata
 99/00,Bari,Bari 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,62,novembre 1999,,BA00.jpg,True,accertata
 99/00,Lecce,Lecce 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,Ricercato1.jpg,False,accertata
-00/01,Bari,Bari ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,aprile 2000,,Ricercato1.jpg,False,accertata
+00/01,Bari,Bari ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,,Ricercato1.jpg,False,accertata
 00/01,Lecce,Lecce ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,Ricercato1.jpg,False,accertata
 01/02,Bari,Bari 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,Ricercato1.jpg,False,accertata
 01/02,Lecce,Lecce 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,Ricercato1.jpg,False,accertata
