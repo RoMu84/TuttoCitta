@@ -3,9 +3,8 @@
 Questa pagina indicizza tutti i fascicoli ad oggi in raccolta, suddivisi regione per regione, su cui
 si basano i dati del presente censimento.
 
-Una visione d'insieme la si può avere consultando la tabella al link qui sotto: i fascicoli sono
-ordinati per annate e province, divisi per regione e colorati in base alle copertine, con l'annata di
-copertina riportata nelle caselle.
+Una visione d'insieme la si può avere consultando la tabella al link qui sotto, coi fascicoli ordinati
+per annate e divisi per regione e l'anno di copertina riportato nelle caselle.
 
 [Tabella aggiornata in tempo reale con lo stato attuale della raccolta](tabella-raccolta.md)
 
