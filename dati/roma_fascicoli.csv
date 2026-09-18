@@ -19,7 +19,7 @@ annata,anno_copertina,colore_copertina,copertina_immagine,formato,layout,pagine_
 98/99,(99),#999999,Roma9899,226 x 274 mm | Copertina sottile,TuttoCittà '90 riformato,190,"""Da utilizzare fino a Dicembre 1999"""
 99/00,99/00,#FFD966,Roma9900,226 x 274 mm | Copertina sottile,TuttoCittà nuovo millennio bis,182,
 00/01,00/01,#FFD966,Roma0001,226 x 274 mm | Copertina sottile,TuttoCittà nuovo millennio ter,182,
-01/02,01/02,#FFD966,Roma0102,226 x 274 mm | Copertina sottile,TuttoCittà nuovo millennio ter,174 (175),
+01/02,01/02,#FFD966,Roma0102,226 x 274 mm | Copertina sottile,TuttoCittà nuovo millennio ter,174,
 02/03,02/03,#FFD966,Roma0203,226 x 274 mm | Copertina sottile,TuttoCittà nuovo millennio ter,182,
 03/04,03/04,#FFD966,Roma0304,226 x 274 mm | Copertina sottile,TuttoCittà nuovo millennio ter,174,
 04/05,04,#E69138,Roma0405,226 x 274 mm | Copertina sottile,TuttoCittà metà duemila,174,
@@ -31,5 +31,5 @@ annata,anno_copertina,colore_copertina,copertina_immagine,formato,layout,pagine_
 10/11,10/11,#F9CB9C,Roma1011,140 x 212 mm | Copertina grossa,TuttoCittà anni dieci,216,
 11/12,11/12,#F9CB9C,Roma1112,140 x 212 mm | Copertina grossa,TuttoCittà anni dieci,208,
 12/13,12/13,#F9CB9C,Roma1213,140 x 212 mm | Copertina grossa,TuttoCittà anni dieci,208,
-13/14,13/14,#F9CB9C,Roma1314,140 x 212 mm | Copertina grossa,TuttoCittà anni dieci,185,
+13/14,13/14,#F9CB9C,Roma1314,140 x 212 mm | Copertina grossa,TuttoCittà anni dieci,184,
 14/15,14/15,#F9CB9C,Roma1415,140 x 212 mm | Copertina grossa,TuttoCittà anni dieci,192,
