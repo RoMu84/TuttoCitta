@@ -1,88 +1,88 @@
-annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
-81/82,Napoli e comuni limitrofi,Napoli e comuni limitrofi 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,128,luglio 1981,Nota dell'editore,NA81.jpg,True,accertata
-81/82,Provincia di Napoli,Provincia di Napoli 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,luglio 1981,Nota dell'editore,PROVNA81.jpg,True,accertata
-81/82,Avellino - Salerno,Avellino - Salerno 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
-81/82,Benevento - Caserta,Benevento - Caserta 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
-82/83,Napoli e comuni limitrofi,Napoli e comuni limitrofi 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,128,giugno 1982,,NA82.jpg,True,accertata
-82/83,Provincia di Napoli,Provincia di Napoli 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,Ricercato1.jpg,False,accertata
-82/83,Avellino - Salerno,Avellino - Salerno 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,Ricercato1.jpg,False,accertata
-82/83,Benevento - Caserta,Benevento - Caserta 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,Ricercato1.jpg,False,accertata
-83/84,Napoli e comuni limitrofi,Napoli e comuni limitrofi 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,128,giugno 1983,,NA83.jpg,True,accertata
-83/84,Provincia di Napoli,Provincia di Napoli 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,,,,,Ricercato1.jpg,False,accertata
-83/84,Avellino - Salerno,Avellino - Salerno 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,40,luglio 1983,,AVSA83.jpg,True,accertata
-83/84,Benevento - Caserta,Benevento - Caserta 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,,,,,Ricercato1.jpg,False,accertata
-84/85,Napoli e comuni limitrofi,Napoli e comuni limitrofi 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
-84/85,Provincia di Napoli,Provincia di Napoli 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,giugno 1984,Inserto Costituzione,PROVNA84.jpg,True,accertata
-84/85,Avellino - Salerno,Avellino - Salerno 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,40,giugno 1984,Inserto Costituzione,AVSA84.jpg,True,accertata
-84/85,Benevento - Caserta,Benevento - Caserta 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,giugno 1984,Inserto Costituzione,BNCE84.jpg,True,accertata
-85/86,Napoli,Napoli 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,novembre 1985,,Ricercato1.jpg,False,accertata
-85/86,Provincia di Napoli,Provincia di Napoli 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Ricercato1.jpg,False,accertata
-85/86,Avellino - Salerno,Avellino - Salerno 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,40,settembre 1985,,AVSA86.jpg,True,accertata
-85/86,Benevento - Caserta,Benevento - Caserta 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Ricercato1.jpg,False,accertata
-86/87,Napoli,Napoli 87,87,Copertina 87 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,112,luglio 1986,,NA87.jpg,True,accertata
-86/87,Provincia di Napoli,Provincia di Napoli 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,luglio 1986,,PROVNA87.jpg,True,accertata
-86/87,Avellino - Salerno,Avellino - Salerno 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,luglio 1986,,AVSA87.jpg,True,accertata
-86/87,Benevento - Caserta,Benevento - Caserta 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,luglio 1986,,BNCE87.jpg,True,accertata
-87/88,Napoli,Napoli 88,88,Copertina 88 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,,,,Ricercato1.jpg,False,accertata
-87/88,Provincia di Napoli,Provincia di Napoli 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Ricercato1.jpg,False,accertata
-87/88,Avellino - Salerno,Avellino - Salerno 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,luglio 1987,,AVSA88.jpg,True,accertata
-87/88,Benevento - Caserta,Benevento - Caserta 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Ricercato1.jpg,False,accertata
-88/89,Napoli,Napoli 89,89,Copertina 89 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,112,luglio 1988,,NA89.jpg,True,accertata
-88/89,Provincia di Napoli,Provincia di Napoli 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,luglio 1988,,PROVNA89.jpg,True,accertata
-88/89,Avellino - Salerno,Avellino - Salerno 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,luglio 1988,,AVSA89.jpg,True,accertata
-88/89,Benevento - Caserta,Benevento - Caserta 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,luglio 1988,,BNCE89.jpg,True,accertata
-89/90,Napoli,Napoli 90,90,Copertina 90 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,112,luglio 1989,,NA90.jpg,True,accertata
-89/90,Provincia di Napoli,Provincia di Napoli 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,luglio 1989,nota dell'editore,PROVNA90.jpg,True,accertata
-89/90,Avellino - Salerno,Avellino - Salerno 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,luglio 1989,nota dell'editore,AVSA90.jpg,True,accertata
-89/90,Benevento - Caserta,Benevento - Caserta 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,luglio 1989,nota dell'editore,BNCE90.jpg,True,accertata
-90/91,Napoli e dintorni,Napoli e dintorni 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,96,luglio 1990,nota dell'editore,NA91.jpg,True,accertata
-90/91,Provincia di Napoli,Provincia di Napoli 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,,Ricercato1.jpg,False,accertata
-90/91,Avellino - Salerno,Avellino - Salerno 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,agosto 1990,,AVSA91.jpg,True,accertata
-90/91,Benevento - Caserta,Benevento - Caserta 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,agosto 1990,,BNCE91.jpg,True,accertata
-91/92,Napoli e dintorni,Napoli e dintorni 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,104,luglio 1991,,NA92.jpg,True,accertata
-91/92,Provincia di Napoli,Provincia di Napoli 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,48,luglio 1991,,PROVNA92.jpg,True,accertata
-91/92,Avellino - Salerno,Avellino - Salerno 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,luglio 1991,,AVSA92.jpg,True,accertata
-91/92,Benevento - Caserta,Benevento - Caserta 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,luglio 1991,,BNCE92.jpg,True,accertata
-92/93,Napoli e dintorni,Napoli e dintorni 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,96,luglio 1992,,NA93.jpg,True,accertata
-92/93,Provincia di Napoli,Provincia di Napoli 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,48,luglio 1992,,PROVNA93.jpg,True,accertata
-92/93,Avellino - Salerno,Avellino - Salerno 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,luglio 1992,,AVSA93.jpg,True,accertata
-92/93,Benevento - Caserta,Benevento - Caserta 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,24,agosto 1992,,BNCE93.jpg,True,accertata
-93/94,Napoli e dintorni,Napoli e dintorni 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,94,luglio 1993,,NA94.jpg,True,accertata
-93/94,Provincia di Napoli,Provincia di Napoli 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,luglio 1993,,PROVNA94.jpg,True,accertata
-93/94,Avellino - Salerno,Avellino - Salerno 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,agosto 1993,,AVSA94.jpg,True,accertata
-93/94,Benevento - Caserta,Benevento - Caserta 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,luglio 1993,,BNCE94.jpg,True,accertata
-94/95,Napoli e dintorni,Napoli e dintorni 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,86,luglio 1994,,NA95.jpg,True,accertata
-94/95,Provincia di Napoli,Provincia di Napoli 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,luglio 1994,,PROVNA95.jpg,True,accertata
-94/95,Avellino - Salerno,Avellino - Salerno 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,luglio 1994,,AVSA95.jpg,True,accertata
-94/95,Benevento - Caserta,Benevento - Caserta 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,luglio 1994,,BNCE95.jpg,True,accertata
-95/96,Napoli e dintorni,Napoli e dintorni 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,78,luglio 1995,,NA96.jpg,True,accertata
-95/96,Provincia di Napoli,Provincia di Napoli 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,luglio 1995,,PROVNA96.jpg,True,accertata
-95/96,Avellino - Salerno,Avellino - Salerno 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,luglio 1995,,AVSA96.jpg,True,accertata
-95/96,Benevento - Caserta,Benevento - Caserta 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,agosto 1995,,BNCE96.jpg,True,accertata
-96/97,Napoli e dintorni,Napoli e dintorni 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,86,luglio 1996,Cambio formato,NA97.jpg,True,accertata
-96/97,Provincia di Napoli,Provincia di Napoli 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,luglio 1996,Cambio formato,PROVNA97.jpg,True,accertata
-96/97,Avellino - Salerno,Avellino - Salerno 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,luglio 1996,Cambio formato,AVSA97.jpg,True,accertata
-96/97,Benevento - Caserta,Benevento - Caserta 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,Cambio formato,Ricercato1.jpg,False,accertata
-97/98,Napoli e dintorni,Napoli e dintorni 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,86,agosto 1997,,NA98.jpg,True,accertata
-97/98,Provincia di Napoli,Provincia di Napoli 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,agosto 1997,,PROVNA98.jpg,True,accertata
-97/98,Avellino - Salerno,Avellino - Salerno 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,agosto 1997,,AVSA98.jpg,True,accertata
-97/98,Benevento - Caserta,Benevento - Caserta 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,agosto 1997,,BNCE98.jpg,True,accertata
-98/99,Napoli e dintorni,Napoli e dintorni (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,86,luglio 1998,"""da utilizzare fino a Dicembre 1999""",NA98b.jpg,True,accertata
-98/99,Provincia di Napoli,Provincia di Napoli (99),99,,,,,,,,Dubbio1.jpg,False,dubbia
-99/00,Napoli e dintorni,Napoli e dintorni 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,,,,,Ricercato1.jpg,False,accertata
-99/00,Provincia di Napoli,Provincia di Napoli 2000/2001,00/01,,,,,,,,Dubbio1.jpg,False,dubbia
-00/01,Napoli e dintorni,Napoli e dintorni 2001,01,Copertina 2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,luglio 2000,,NA01.jpg,True,accertata
-01/02,Napoli e dintorni,Napoli e dintorni 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,luglio 2001,,NA02.jpg,True,accertata
-02/03,Napoli e dintorni,Napoli e dintorni 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,88,luglio 2002,,NA03.jpg,True,accertata
-03/04,Napoli e dintorni,Napoli e dintorni 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,luglio 2003,,NA04.jpg,True,accertata
-04/05,Napoli e dintorni,Napoli 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,Ricercato1.jpg,False,accertata
-05/06,Napoli e dintorni,Napoli 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,86,novembre 2005,,NA05.jpg,True,accertata
-06/07,Napoli e dintorni,Napoli e dintorni 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,88,novembre 2006,,NA06.jpg,True,accertata
-07/08,Napoli e dintorni,Napoli e dintorni 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,ottobre 2007,,NA07.jpg,True,accertata
-08/09,Napoli e dintorni,Napoli e dintorni 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,ottobre 2008,,NA0809.jpg,True,accertata
-09/10,Napoli e dintorni,Napoli 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,226 x 274 mm,grossa,TuttoCittà anni dieci,,,Riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
-10/11,Napoli e dintorni,Napoli 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,Ricercato2.jpg,False,accertata
-11/12,Napoli e dintorni,Napoli 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,Ricercato2.jpg,False,accertata
-12/13,Napoli e dintorni,Napoli 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,Ricercato2.jpg,False,accertata
-13/14,Napoli e dintorni,Napoli 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,Ricercato2.jpg,False,accertata
-14/15,Napoli e dintorni,Napoli 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,settembre 2014,,NA1415.jpg,True,accertata
+annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,pagine_comprese_copertine,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
+81/82,Napoli e comuni limitrofi,Napoli e comuni limitrofi 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,128,,luglio 1981,Nota dell'editore,NA81.jpg,True,accertata
+81/82,Provincia di Napoli,Provincia di Napoli 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,,luglio 1981,Nota dell'editore,PROVNA81.jpg,True,accertata
+81/82,Avellino - Salerno,Avellino - Salerno 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Benevento - Caserta,Benevento - Caserta 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
+82/83,Napoli e comuni limitrofi,Napoli e comuni limitrofi 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,128,,giugno 1982,,NA82.jpg,True,accertata
+82/83,Provincia di Napoli,Provincia di Napoli 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+82/83,Avellino - Salerno,Avellino - Salerno 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+82/83,Benevento - Caserta,Benevento - Caserta 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+83/84,Napoli e comuni limitrofi,Napoli e comuni limitrofi 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,128,,giugno 1983,,NA83.jpg,True,accertata
+83/84,Provincia di Napoli,Provincia di Napoli 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+83/84,Avellino - Salerno,Avellino - Salerno 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,luglio 1983,,AVSA83.jpg,True,accertata
+83/84,Benevento - Caserta,Benevento - Caserta 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+84/85,Napoli e comuni limitrofi,Napoli e comuni limitrofi 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
+84/85,Provincia di Napoli,Provincia di Napoli 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,giugno 1984,Inserto Costituzione,PROVNA84.jpg,True,accertata
+84/85,Avellino - Salerno,Avellino - Salerno 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,giugno 1984,Inserto Costituzione,AVSA84.jpg,True,accertata
+84/85,Benevento - Caserta,Benevento - Caserta 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,giugno 1984,Inserto Costituzione,BNCE84.jpg,True,accertata
+85/86,Napoli,Napoli 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,,novembre 1985,,Ricercato1.jpg,False,accertata
+85/86,Provincia di Napoli,Provincia di Napoli 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+85/86,Avellino - Salerno,Avellino - Salerno 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,settembre 1985,,AVSA86.jpg,True,accertata
+85/86,Benevento - Caserta,Benevento - Caserta 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+86/87,Napoli,Napoli 87,87,Copertina 87 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,112,,luglio 1986,,NA87.jpg,True,accertata
+86/87,Provincia di Napoli,Provincia di Napoli 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,luglio 1986,,PROVNA87.jpg,True,accertata
+86/87,Avellino - Salerno,Avellino - Salerno 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,luglio 1986,,AVSA87.jpg,True,accertata
+86/87,Benevento - Caserta,Benevento - Caserta 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,luglio 1986,,BNCE87.jpg,True,accertata
+87/88,Napoli,Napoli 88,88,Copertina 88 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,,,,,Ricercato1.jpg,False,accertata
+87/88,Provincia di Napoli,Provincia di Napoli 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+87/88,Avellino - Salerno,Avellino - Salerno 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,luglio 1987,,AVSA88.jpg,True,accertata
+87/88,Benevento - Caserta,Benevento - Caserta 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+88/89,Napoli,Napoli 89,89,Copertina 89 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,112,,luglio 1988,,NA89.jpg,True,accertata
+88/89,Provincia di Napoli,Provincia di Napoli 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,luglio 1988,,PROVNA89.jpg,True,accertata
+88/89,Avellino - Salerno,Avellino - Salerno 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,luglio 1988,,AVSA89.jpg,True,accertata
+88/89,Benevento - Caserta,Benevento - Caserta 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,luglio 1988,,BNCE89.jpg,True,accertata
+89/90,Napoli,Napoli 90,90,Copertina 90 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,112,,luglio 1989,,NA90.jpg,True,accertata
+89/90,Provincia di Napoli,Provincia di Napoli 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,luglio 1989,nota dell'editore,PROVNA90.jpg,True,accertata
+89/90,Avellino - Salerno,Avellino - Salerno 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,luglio 1989,nota dell'editore,AVSA90.jpg,True,accertata
+89/90,Benevento - Caserta,Benevento - Caserta 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,luglio 1989,nota dell'editore,BNCE90.jpg,True,accertata
+90/91,Napoli e dintorni,Napoli e dintorni 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,96,,luglio 1990,nota dell'editore,NA91.jpg,True,accertata
+90/91,Provincia di Napoli,Provincia di Napoli 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,,,Ricercato1.jpg,False,accertata
+90/91,Avellino - Salerno,Avellino - Salerno 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,agosto 1990,,AVSA91.jpg,True,accertata
+90/91,Benevento - Caserta,Benevento - Caserta 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,agosto 1990,,BNCE91.jpg,True,accertata
+91/92,Napoli e dintorni,Napoli e dintorni 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,104,,luglio 1991,,NA92.jpg,True,accertata
+91/92,Provincia di Napoli,Provincia di Napoli 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,48,,luglio 1991,,PROVNA92.jpg,True,accertata
+91/92,Avellino - Salerno,Avellino - Salerno 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,luglio 1991,,AVSA92.jpg,True,accertata
+91/92,Benevento - Caserta,Benevento - Caserta 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,luglio 1991,,BNCE92.jpg,True,accertata
+92/93,Napoli e dintorni,Napoli e dintorni 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,96,,luglio 1992,,NA93.jpg,True,accertata
+92/93,Provincia di Napoli,Provincia di Napoli 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,48,,luglio 1992,,PROVNA93.jpg,True,accertata
+92/93,Avellino - Salerno,Avellino - Salerno 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,,luglio 1992,,AVSA93.jpg,True,accertata
+92/93,Benevento - Caserta,Benevento - Caserta 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,24,,agosto 1992,,BNCE93.jpg,True,accertata
+93/94,Napoli e dintorni,Napoli e dintorni 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,94,,luglio 1993,,NA94.jpg,True,accertata
+93/94,Provincia di Napoli,Provincia di Napoli 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,,luglio 1993,,PROVNA94.jpg,True,accertata
+93/94,Avellino - Salerno,Avellino - Salerno 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,,agosto 1993,,AVSA94.jpg,True,accertata
+93/94,Benevento - Caserta,Benevento - Caserta 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,luglio 1993,,BNCE94.jpg,True,accertata
+94/95,Napoli e dintorni,Napoli e dintorni 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,86,,luglio 1994,,NA95.jpg,True,accertata
+94/95,Provincia di Napoli,Provincia di Napoli 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,luglio 1994,,PROVNA95.jpg,True,accertata
+94/95,Avellino - Salerno,Avellino - Salerno 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,,luglio 1994,,AVSA95.jpg,True,accertata
+94/95,Benevento - Caserta,Benevento - Caserta 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,luglio 1994,,BNCE95.jpg,True,accertata
+95/96,Napoli e dintorni,Napoli e dintorni 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,78,,luglio 1995,,NA96.jpg,True,accertata
+95/96,Provincia di Napoli,Provincia di Napoli 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,luglio 1995,,PROVNA96.jpg,True,accertata
+95/96,Avellino - Salerno,Avellino - Salerno 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,luglio 1995,,AVSA96.jpg,True,accertata
+95/96,Benevento - Caserta,Benevento - Caserta 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,agosto 1995,,BNCE96.jpg,True,accertata
+96/97,Napoli e dintorni,Napoli e dintorni 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,86,,luglio 1996,Cambio formato,NA97.jpg,True,accertata
+96/97,Provincia di Napoli,Provincia di Napoli 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,,luglio 1996,Cambio formato,PROVNA97.jpg,True,accertata
+96/97,Avellino - Salerno,Avellino - Salerno 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,,luglio 1996,Cambio formato,AVSA97.jpg,True,accertata
+96/97,Benevento - Caserta,Benevento - Caserta 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+97/98,Napoli e dintorni,Napoli e dintorni 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,86,,agosto 1997,,NA98.jpg,True,accertata
+97/98,Provincia di Napoli,Provincia di Napoli 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,agosto 1997,,PROVNA98.jpg,True,accertata
+97/98,Avellino - Salerno,Avellino - Salerno 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,agosto 1997,,AVSA98.jpg,True,accertata
+97/98,Benevento - Caserta,Benevento - Caserta 98,98,Copertina 98 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,,agosto 1997,,BNCE98.jpg,True,accertata
+98/99,Napoli e dintorni,Napoli e dintorni (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,86,,luglio 1998,"""da utilizzare fino a Dicembre 1999""",NA98b.jpg,True,accertata
+98/99,Provincia di Napoli,Provincia di Napoli (99),99,,,,,,,,,Dubbio1.jpg,False,dubbia
+99/00,Napoli e dintorni,Napoli e dintorni 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,,,,,,Ricercato1.jpg,False,accertata
+99/00,Provincia di Napoli,Provincia di Napoli 2000/2001,00/01,,,,,,,,,Dubbio1.jpg,False,dubbia
+00/01,Napoli e dintorni,Napoli e dintorni 2001,01,Copertina 2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,,luglio 2000,,NA01.jpg,True,accertata
+01/02,Napoli e dintorni,Napoli e dintorni 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,,luglio 2001,,NA02.jpg,True,accertata
+02/03,Napoli e dintorni,Napoli e dintorni 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,88,,luglio 2002,,NA03.jpg,True,accertata
+03/04,Napoli e dintorni,Napoli e dintorni 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,,luglio 2003,,NA04.jpg,True,accertata
+04/05,Napoli e dintorni,Napoli 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+05/06,Napoli e dintorni,Napoli 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,86,,novembre 2005,,NA05.jpg,True,accertata
+06/07,Napoli e dintorni,Napoli e dintorni 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,88,,novembre 2006,,NA06.jpg,True,accertata
+07/08,Napoli e dintorni,Napoli e dintorni 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,,ottobre 2007,,NA07.jpg,True,accertata
+08/09,Napoli e dintorni,Napoli e dintorni 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,,ottobre 2008,,NA0809.jpg,True,accertata
+09/10,Napoli e dintorni,Napoli 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+10/11,Napoli e dintorni,Napoli 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+11/12,Napoli e dintorni,Napoli 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+12/13,Napoli e dintorni,Napoli 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Napoli e dintorni,Napoli 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Napoli e dintorni,Napoli 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,settembre 2014,,NA1415.jpg,True,accertata

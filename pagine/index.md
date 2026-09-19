@@ -1,10 +1,16 @@
-# TuttoCittà — ricostruzione della storia editoriale (1981-2014)
+# Introduzione
 
-Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, supplemento delle Pagine
-Gialle pubblicato da SEAT Pagine Gialle dal 1981 al 2014, con 1994 fascicoli accertati su 34 annate e 20 regioni.
+Questa pagina fornisce le principali chiavi di lettura per comprendere l'organizzazione generale del
+prodotto editoriale, attraverso alcune regole di base. I dati derivano da una raccolta privata di
+quasi 1.300 esemplari, da dati incrociati con altre raccolte e immagini, nonché dalle regolarità
+editoriali osservate nelle pubblicazioni.
 
-I dati derivano da una collezione privata di quasi 1.300 esemplari, da dati incrociati con altri
-raccoglitori e dalle regolarità editoriali osservate nelle pubblicazioni.
+- [Come leggere le annate](#come-leggere-le-annate)
+- [Come leggere la foliazione](#come-leggere-la-foliazione)
+- [Un'anomalia: i fascicoli senza anno in copertina](#unanomalia-i-fascicoli-senza-anno-in-copertina)
+- [Stati di ciascuna cella](#stati-di-ciascuna-cella)
+- [Dati](#dati)
+- [Licenza e citazione](#licenza-e-citazione)
 
 ## Come leggere le annate
 
@@ -29,6 +35,35 @@ della topografia delle dieci città maggiori.
 
 Il Piemonte chiudeva di norma l'annata, con aggiornamenti attorno al gennaio successivo: i suoi
 fascicoli dell'annata 1999/2000 portano in copertina il **2000**.
+
+## Come leggere la foliazione
+
+Il numero di pagine indicato per ciascun fascicolo segue due regole, che dipendono da come il
+fascicolo è materialmente fatto.
+
+Il tipo di copertina stabilisce da dove comincia la numerazione: nei fascicoli a **copertina grossa**
+la pagina 1 è la prima che si incontra dopo la prima e la seconda di copertina, che restano fuori dal
+conto; nei fascicoli a **copertina sottile** è la copertina stessa a fare da pagina 1 e la seconda di
+copertina da pagina 2, così che quella che nell'altro caso sarebbe la pagina 1 diventa qui la pagina
+3. Questa è effettivamente la numerazione stampata dentro il fascicolo. La copertina sottile compare
+fra le annate 1993/94 e 2005/06.
+
+Il conteggio delle pagine esclude la terza e la quarta di copertina, che normalmente sono impegnate da
+inserzioni pubblicitarie e che quindi non portano un numero esplicitamente indicato; il numero non in
+parentesi si riferisce quindi al numero di pagine escluse terza e quarta di copertina. Quando accanto
+ne compare un secondo fra parentesi, vuol dire che la terza o la quarta di copertina sono state usate
+per contenuto proprio del fascicolo — una mappa non indicizzata, la parte finale dell'elenco delle vie
+— e che quindi eccedono il conteggio regolare. Così `24 (25)` è un fascicolo di ventiquattro pagine
+che si prolunga sulla terza di copertina.
+
+Uno scarto di una pagina riguarda dunque la sola terza di copertina. Uno scarto di due pagine segnala
+invece che è impegnata anche la quarta di copertina; quest'ultimo fatto accade però soltanto nei
+fascicoli con layout *TuttoCittà metà duemila*, in uso nel biennio 2004/05–2005/06: `62 (64)` è un
+fascicolo di sessantadue pagine che occupa entrambe le facciate finali con contenuti propri,
+tipicamente l'elenco delle vie.
+
+Nei csv i due numeri stanno in colonne separate, `pagine_totali` e `pagine_comprese_copertine`, così
+che il conteggio regolare resti confrontabile fra fascicoli.
 
 ## Un'anomalia: i fascicoli senza anno in copertina
 
