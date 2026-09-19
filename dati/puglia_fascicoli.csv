@@ -1,8 +1,8 @@
 annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,pagine_comprese_copertine,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
-81/82,Bari,Bari 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,64,,novembre 1981,Nota dell'editore,BA82.jpg,True,accertata
-81/82,Brindisi - Lecce,Brindisi - Lecce 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
-81/82,Foggia,Foggia 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
-81/82,Taranto,Taranto 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Bari,Bari 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,64,,novembre 1981,nota dell'editore,BA82.jpg,True,accertata
+81/82,Brindisi - Lecce,Brindisi - Lecce 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Foggia,Foggia 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Taranto,Taranto 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,nota dell'editore,Ricercato1.jpg,False,accertata
 82/83,Bari,Bari 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,64,,novembre 1982,,BA83.jpg,True,accertata
 82/83,Brindisi - Lecce,Brindisi - Lecce 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 82/83,Foggia,Foggia 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
@@ -15,21 +15,21 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 84/85,Brindisi - Lecce,Brindisi - Lecce 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Foggia,Foggia 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Taranto,Taranto 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
-85/86,Bari,Bari 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,,novembre 1985,,BA86.jpg,True,accertata
+85/86,Bari,Bari 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,65,novembre 1985,,BA86.jpg,True,accertata
 85/86,Brindisi - Lecce,Brindisi - Lecce 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 85/86,Foggia,Foggia 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 85/86,Taranto,Taranto 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
-86/87,Bari,Bari 87,87,Copertina 87 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,,novembre 1986,,BA87.jpg,True,accertata
+86/87,Bari,Bari 87,87,Copertina 87 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,65,novembre 1986,,BA87.jpg,True,accertata
 86/87,Brindisi - Lecce,Brindisi - Lecce 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,novembre 1986,,BRLE87.jpg,True,accertata
 86/87,Foggia,Foggia 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,novembre 1986,,FG87.jpg,True,accertata
 86/87,Taranto,Taranto 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,novembre 1986,,TA87.jpg,True,accertata
-87/88,Bari,Bari 88,88,Copertina 88 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,,novembre 1987,,BA88.jpg,True,accertata
+87/88,Bari,Bari 88,88,Copertina 88 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,65,novembre 1987,,BA88.jpg,True,accertata
 87/88,Brindisi - Lecce,Brindisi - Lecce 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,novembre 1987,,BRLE88.jpg,True,accertata
 87/88,Foggia,Foggia 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,16,,novembre 1987,,FG88.jpg,True,accertata
 87/88,Taranto,Taranto 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,novembre 1987,,TA88.jpg,True,accertata
-88/89,Bari,Bari 89,89,Copertina 89 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,,novembre 1988,,BA89.jpg,True,accertata
+88/89,Bari,Bari 89,89,Copertina 89 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,65,novembre 1988,,BA89.jpg,True,accertata
 88/89,Brindisi,Brindisi 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,novembre 1988,,BR89.jpg,True,accertata
-88/89,Lecce,Lecce 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,novembre 1988,,LE89.jpg,True,accertata
+88/89,Lecce,Lecce 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,novembre 1988,,LE89.jpg,True,accertata
 88/89,Foggia,Foggia 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,16,,novembre 1988,,FG89.jpg,True,accertata
 88/89,Taranto,Taranto 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,novembre 1988,,TA89.jpg,True,accertata
 89/90,Bari,Bari 90,90,Copertina 1990 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,64,,dicembre 1989,nota dell'editore,BA90.jpg,True,accertata

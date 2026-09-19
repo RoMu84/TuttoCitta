@@ -5,12 +5,7 @@ prodotto editoriale, attraverso alcune regole di base. I dati derivano da una ra
 quasi 1.300 esemplari, da dati incrociati con altre raccolte e immagini, nonché dalle regolarità
 editoriali osservate nelle pubblicazioni.
 
-- [Come leggere le annate](#come-leggere-le-annate)
-- [Come leggere la foliazione](#come-leggere-la-foliazione)
-- [Un'anomalia: i fascicoli senza anno in copertina](#unanomalia-i-fascicoli-senza-anno-in-copertina)
-- [Stati di ciascuna cella](#stati-di-ciascuna-cella)
-- [Dati](#dati)
-- [Licenza e citazione](#licenza-e-citazione)
+[TOC]
 
 ## Come leggere le annate
 

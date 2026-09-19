@@ -1,6 +1,6 @@
 annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,pagine_comprese_copertine,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
-81/82,Trieste,Trieste 81,81,Copertina 81 verde,246 x 280 mm,grossa,Stradario SEAT,32,,aprile 1981,Nota dell'editore,TS81.jpg,True,accertata
-81/82,Gorizia - Pordenone - Udine,Gorizia - Pordenone - Udine 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,48,,aprile 1981,Nota dell'editore,GOPNUD81.jpg,True,accertata
+81/82,Trieste,Trieste 81,81,Copertina 81 verde,246 x 280 mm,grossa,Stradario SEAT,32,,aprile 1981,nota dell'editore,TS81.jpg,True,accertata
+81/82,Gorizia - Pordenone - Udine,Gorizia - Pordenone - Udine 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,48,,aprile 1981,nota dell'editore,GOPNUD81.jpg,True,accertata
 82/83,Trieste,Trieste 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,aprile 1982,,TS82.jpg,True,accertata
 82/83,Gorizia - Pordenone - Udine,Gorizia - Pordenone - Udine 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,48,,aprile 1982,,GOPNUD82.jpg,True,accertata
 83/84,Trieste,Trieste 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
@@ -8,11 +8,11 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 84/85,Gorizia - Trieste,Gorizia - Trieste 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,marzo 1984,Inserto Costituzione,GOTS84.jpg,True,accertata
 84/85,Pordenone - Udine,Pordenone - Udine 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,marzo 1984,Inserto Costituzione,PNUD84.jpg,True,accertata
 85/86,Gorizia - Trieste,Gorizia - Trieste 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,marzo 1985,,GOTS85.jpg,True,accertata
-85/86,Pordenone - Udine,Pordenone - Udine 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,marzo 1985,,PNUD85.jpg,True,accertata
+85/86,Pordenone - Udine,Pordenone - Udine 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,marzo 1985,,PNUD85.jpg,True,accertata
 86/87,Gorizia - Trieste,Gorizia - Trieste 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,marzo 1986,,GOTS86.jpg,True,accertata
-86/87,Pordenone - Udine,Pordenone - Udine 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,marzo 1986,,PNUD86.jpg,True,accertata
+86/87,Pordenone - Udine,Pordenone - Udine 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,marzo 1986,,PNUD86.jpg,True,accertata
 87/88,Gorizia - Trieste,Gorizia - Trieste 87,87,Copertina 87 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,marzo 1987,,GOTS87.jpg,True,accertata
-87/88,Pordenone - Udine,Pordenone - Udine 87,87,Copertina 87 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,marzo 1987,,PNUD87.jpg,True,accertata
+87/88,Pordenone - Udine,Pordenone - Udine 87,87,Copertina 87 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,marzo 1987,,PNUD87.jpg,True,accertata
 88/89,Gorizia - Trieste,Gorizia - Trieste 88,88,Copertina 88 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,marzo 1988,,GOTS88.jpg,True,accertata
 88/89,Udine,Udine 88,88,Copertina 88 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,16,,marzo 1988,,UD88.jpg,True,accertata
 88/89,Pordenone,Pordenone 88,88,Copertina 88 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,16,,marzo 1988,,PN88.jpg,True,accertata
@@ -41,30 +41,30 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 96/97,Udine,Udine 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 96/97,Pordenone,Pordenone 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 97/98,Gorizia - Trieste,Gorizia - Trieste 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,,aprile 1997,Cambio formato,GOTS97.jpg,True,accertata
-97/98,Udine,Udine 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,aprile 1997,Cambio formato,UD97.jpg,True,accertata
+97/98,Udine,Udine 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,31,aprile 1997,Cambio formato,UD97.jpg,True,accertata
 97/98,Pordenone,Pordenone 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
 98/99,Gorizia - Trieste,Gorizia - Trieste (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,aprile 1998,"""da utilizzare fino a Luglio 1999"" * Grande aumento topografia Trieste",GOTS98.jpg,True,accertata
 98/99,Udine,Udine (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino a Luglio 1999""",Ricercato1.jpg,False,accertata
 99/00,Gorizia - Trieste,Gorizia - Trieste 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,54,,aprile 1999,,GOTS99.jpg,True,accertata
-99/00,Udine,Udine 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,30,,aprile 1999,,UD99.jpg,True,accertata
-00/01,Gorizia - Trieste,Gorizia - Trieste 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,46,,aprile 2000,,GOTS00.jpg,True,accertata
+99/00,Udine,Udine 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,30,31,aprile 1999,,UD99.jpg,True,accertata
+00/01,Gorizia - Trieste,Gorizia - Trieste 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,46,47,aprile 2000,,GOTS00.jpg,True,accertata
 00/01,Udine,Udine 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata
-01/02,Gorizia - Trieste,Gorizia - Trieste 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,aprile 2001,,GOTS01.jpg,True,accertata
+01/02,Gorizia - Trieste,Gorizia - Trieste 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,47,aprile 2001,,GOTS01.jpg,True,accertata
 01/02,Udine,Udine 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-02/03,Gorizia - Trieste,Gorizia - Trieste 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,maggio 2002,,GOTS02.jpg,True,accertata
+02/03,Gorizia - Trieste,Gorizia - Trieste 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,47,maggio 2002,,GOTS02.jpg,True,accertata
 02/03,Udine,Udine 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-03/04,Gorizia - Trieste,Gorizia - Trieste 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,giugno 2003,,GOTS03.jpg,True,accertata
+03/04,Gorizia - Trieste,Gorizia - Trieste 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,47,giugno 2003,,GOTS03.jpg,True,accertata
 03/04,Udine,Udine 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-04/05,Gorizia - Trieste,Gorizia - Trieste 2004/2005,04/05,Copertina 2004/2005 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,giugno 2004,,GOTS04.jpg,True,accertata
+04/05,Gorizia - Trieste,Gorizia - Trieste 2004/2005,04/05,Copertina 2004/2005 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,47,giugno 2004,,GOTS04.jpg,True,accertata
 04/05,Udine,Udine 2004/2005,04/05,Copertina 2004/2005 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-05/06,Gorizia - Trieste,Gorizia - Trieste 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,46,,giugno 2005,,GOTS05.jpg,True,accertata
+05/06,Gorizia - Trieste,Gorizia - Trieste 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,46,47,giugno 2005,,GOTS05.jpg,True,accertata
 05/06,Udine,Udine 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
 06/07,Gorizia - Trieste,Gorizia - Trieste 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 06/07,Udine,Udine 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 07/08,Gorizia - Trieste,Gorizia - Trieste 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 07/08,Udine,Udine 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 08/09,Gorizia - Trieste,Gorizia - Trieste 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,40,,giugno 2008,,GOTS08.jpg,True,accertata
-08/09,Udine,Udine 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,25,,giugno 2008,,UD08.jpg,True,accertata
+08/09,Udine,Udine 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,25,giugno 2008,,UD08.jpg,True,accertata
 09/10,Gorizia - Trieste,Gorizia - Trieste 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,32,,giugno 2009,,GOTS09.jpg,True,accertata
 09/10,Udine,Udine 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 10/11,Gorizia - Trieste,Gorizia - Trieste 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,48,,giugno 2010,Riforma cartografica; nuovo formato,GOTS10.jpg,True,accertata

@@ -1,6 +1,6 @@
 annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,pagine_comprese_copertine,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
-81/82,Ancona - Pesaro - Urbino,Ancona - Pesaro - Urbino 81,81,Copertina 81 verde,246 x 280 mm,grossa,Stradario SEAT,40,,maggio 1981,Nota dell'editore,ANPS81.jpg,True,accertata
-81/82,Ascoli Piceno - Macerata,Ascoli Piceno - Macerata 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,,maggio 1981,Nota dell'editore,APMC81.jpg,True,accertata
+81/82,Ancona - Pesaro - Urbino,Ancona - Pesaro - Urbino 81,81,Copertina 81 verde,246 x 280 mm,grossa,Stradario SEAT,40,,maggio 1981,nota dell'editore,ANPS81.jpg,True,accertata
+81/82,Ascoli Piceno - Macerata,Ascoli Piceno - Macerata 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,,maggio 1981,nota dell'editore,APMC81.jpg,True,accertata
 82/83,Ancona - Pesaro - Urbino,Ancona - Pesaro - Urbino 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,48,,giugno 1982,,ANPS82.jpg,True,accertata
 82/83,Ascoli Piceno - Macerata,Ascoli Piceno - Macerata 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,giugno 1982,,APMC82.jpg,True,accertata
 83/84,Ancona - Pesaro - Urbino,Ancona - Pesaro - Urbino 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,48,,maggio 1983,,ANPS83.jpg,True,accertata
@@ -48,10 +48,10 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 95/96,Pesaro - Urbino,Pesaro - Urbino 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,maggio 1995,,PS95.jpg,True,accertata
 95/96,Ascoli Piceno,Ascoli Piceno 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,22,,maggio 1995,,AP95.jpg,True,accertata
 95/96,Macerata,Macerata 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,maggio 1995,,MC95.jpg,True,accertata
-96/97,Ancona,Ancona 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,70,,,Cambio formato,Ricercato1.jpg,False,accertata
-96/97,Pesaro - Urbino,Pesaro - Urbino 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-96/97,Ascoli Piceno,Ascoli Piceno 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-96/97,Macerata,Macerata 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,14,,giugno 1996,Cambio formato,MC96.jpg,True,accertata
+96/97,Ancona,Ancona 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,70,,,,Ricercato1.jpg,False,accertata
+96/97,Pesaro - Urbino,Pesaro - Urbino 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+96/97,Ascoli Piceno,Ascoli Piceno 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+96/97,Macerata,Macerata 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,14,,giugno 1996,,MC96.jpg,True,accertata
 97/98,Ancona,Ancona 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,70,,novembre 1996,Cambio formato,Ricercato1.jpg,False,accertata
 97/98,Pesaro - Urbino,Pesaro - Urbino 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
 97/98,Ascoli Piceno,Ascoli Piceno 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
@@ -62,11 +62,11 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 01/02,Ancona,Ancona 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 02/03,Ancona,Ancona ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 03/04,Ancona,Ancona ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-04/05,Ancona,Ancona 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,30,,luglio 2004,,AN04.jpg,True,accertata
+04/05,Ancona,Ancona 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,30,31,luglio 2004,,AN04.jpg,True,accertata
 05/06,Ancona,Ancona 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
 06/07,Ancona,Ancona 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,56,,,,Ricercato1.jpg,False,accertata
 07/08,Ancona,Ancona 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,32,,agosto 2007,,AN07.jpg,True,accertata
-08/09,Ancona,Ancona 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,,luglio 2008,,AN0809.jpg,True,accertata
+08/09,Ancona,Ancona 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,25,luglio 2008,,AN0809.jpg,True,accertata
 09/10,Ancona,Ancona 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,226 x 274 mm,grossa,TuttoCittà anni dieci,32,,agosto 2009,Riforma cartografica; nuovo formato,AN0910.jpg,True,accertata
 10/11,Ancona,Ancona 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 11/12,Ancona,Ancona 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,32,,agosto 2011,,AN1112.jpg,True,accertata

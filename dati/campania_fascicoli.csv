@@ -1,8 +1,8 @@
 annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,pagine_comprese_copertine,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
-81/82,Napoli e comuni limitrofi,Napoli e comuni limitrofi 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,128,,luglio 1981,Nota dell'editore,NA81.jpg,True,accertata
-81/82,Provincia di Napoli,Provincia di Napoli 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,,luglio 1981,Nota dell'editore,PROVNA81.jpg,True,accertata
-81/82,Avellino - Salerno,Avellino - Salerno 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
-81/82,Benevento - Caserta,Benevento - Caserta 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,Nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Napoli e comuni limitrofi,Napoli e comuni limitrofi 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,128,,luglio 1981,nota dell'editore,NA81.jpg,True,accertata
+81/82,Provincia di Napoli,Provincia di Napoli 81,81,Copertina 81 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,,luglio 1981,nota dell'editore,PROVNA81.jpg,True,accertata
+81/82,Avellino - Salerno,Avellino - Salerno 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Benevento - Caserta,Benevento - Caserta 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
 82/83,Napoli e comuni limitrofi,Napoli e comuni limitrofi 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,128,,giugno 1982,,NA82.jpg,True,accertata
 82/83,Provincia di Napoli,Provincia di Napoli 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
 82/83,Avellino - Salerno,Avellino - Salerno 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
@@ -78,7 +78,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 04/05,Napoli e dintorni,Napoli 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
 05/06,Napoli e dintorni,Napoli 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,86,,novembre 2005,,NA05.jpg,True,accertata
 06/07,Napoli e dintorni,Napoli e dintorni 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,88,,novembre 2006,,NA06.jpg,True,accertata
-07/08,Napoli e dintorni,Napoli e dintorni 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,,ottobre 2007,,NA07.jpg,True,accertata
+07/08,Napoli e dintorni,Napoli e dintorni 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,81,ottobre 2007,,NA07.jpg,True,accertata
 08/09,Napoli e dintorni,Napoli e dintorni 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,,ottobre 2008,,NA0809.jpg,True,accertata
 09/10,Napoli e dintorni,Napoli 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
 10/11,Napoli e dintorni,Napoli 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
