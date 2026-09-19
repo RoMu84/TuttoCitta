@@ -19,6 +19,8 @@ In questa pagina
 
 I fascicoli del Lazio appartenevano alla serie tardiva: il primo fascicolo, edito ad agosto 1981, era infatti intitolato TuttoCittà 82.
 
+Fin dall'annata 1981/82 Roma e la sua provincia è cartografata in due fascicoli distinti: uno riguardante solo Roma città (e in seguito i comuni dell'immediato circondario, appena questi diventavano autonomi da Roma), l'altro riguardante i comuni della provincia più lontani. Questa separazione si riflette spesso (ma non sempre) sul titolo di copertina: il fascicolo di Roma città è indicato alternativamente come «Roma e dintorni» oppure anche solo «Roma»; il fascicolo sui comuni più esterni della provincia si intitola invece «Provincia di Roma».
+
 Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le provincie tranne Roma, la cui linea proseguì fino al 2014.
 
 La seguente tabella censisce i dati fondamentali dei fascicoli del Lazio, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.

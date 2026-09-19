@@ -19,7 +19,9 @@ In questa pagina
 
 I fascicoli della Campania appartenevano in principio alla serie iniziale: il primo fascicolo, edito a luglio del 1981, era infatti intitolato TuttoCittà 81. Tuttavia nell'annata 1985/86 la serie campana fa il salto dalla serie iniziale a quella tardiva: il fascicolo edito nel 1985 infatti riporta in copertina il titolo TuttoCittà 86 con copertina edifici per Napoli e rossa per le altre province, saltando quindi il titolo TuttoCittà 85. La serie campana è anche una delle sole due (l'altra è quella lucana) ad avere un fascicolo con layout TuttoCittà '90 classico dal titolo TuttoCittà 98.
 
-Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per le province di Avellino, Benevento, Caserta, Salerno e provincia di Napoli, mentre per Napoli città la linea proseguì fino al 2014.
+Fin dall'annata 1981/82 Napoli e la sua provincia è cartografata in due fascicoli distinti: uno riguardante solo Napoli città e i comuni dell'immediato circondario, l'altro riguardante i comuni della provincia più lontani. Questa separazione si riflette spesso (ma non sempre) sul titolo di copertina: il fascicolo di Napoli città è indicato alternativamente come «Napoli e comuni limitrofi», «Napoli e dintorni», oppure anche solo «Napoli»; il fascicolo sui comuni più esterni della provincia si intitola invece «Provincia di Napoli».
+
+Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per le province di Avellino, Benevento, Caserta, Salerno e Provincia di Napoli, mentre per Napoli città la linea proseguì fino al 2014.
 
 La seguente tabella censisce i dati fondamentali dei fascicoli della Campania, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
