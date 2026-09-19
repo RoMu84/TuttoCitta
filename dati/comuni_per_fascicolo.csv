@@ -181,19 +181,21 @@ Biella - Vercelli,VERCELLI,sì,sì,,,sì,,
 Biella - Vercelli,Varallo,no,sì,,,sì,,
 Bologna,BOLOGNA,sì,sì,,sì,,,
 Bologna,Casalecchio di Reno,no,sì,,sì,,,
+Bologna,Granarolo dell'Emilia,no,sì,,sì,,,
 Bologna,Imola,no,sì,,sì,,,
 Bologna,San Giovanni in Persiceto,no,sì,,sì,,,
 Bologna,San Lazzaro di Savena,no,sì,,sì,,,
-Bologna e dintorni,BOLOGNA,sì,sì,,sì,sì,sì,sì
+Bologna,Zola Predosa,no,sì,,sì,,,
+Bologna e dintorni,BOLOGNA,sì,sì,,,sì,sì,sì
 Bologna e dintorni,Calderara di Reno,no,sì,,,sì,sì,sì
-Bologna e dintorni,Casalecchio di Reno,no,sì,,sì,sì,sì,sì
+Bologna e dintorni,Casalecchio di Reno,no,sì,,,sì,sì,sì
 Bologna e dintorni,Castel Maggiore,no,sì,,,sì,sì,sì
 Bologna e dintorni,Castenaso,no,sì,,,sì,sì,sì
-Bologna e dintorni,Granarolo dell'Emilia,no,sì,,sì,sì,sì,
+Bologna e dintorni,Granarolo dell'Emilia,no,sì,,,sì,sì,
 Bologna e dintorni,Granarolo nell'Emilia,no,sì,,,,sì,sì
-Bologna e dintorni,San Lazzaro di Savena,no,sì,,sì,sì,sì,sì
+Bologna e dintorni,San Lazzaro di Savena,no,sì,,,sì,sì,sì
 Bologna e dintorni,Villanova,no,sì,,,sì,sì,sì
-Bologna e dintorni,Zola Predosa,no,sì,,sì,sì,sì,sì
+Bologna e dintorni,Zola Predosa,no,sì,,,sì,sì,sì
 Bolzano,Appiano,no,sì,,,sì,sì,
 Bolzano,Appiano sulla Strada del Vino,no,sì,,,,,sì
 Bolzano,BOLZANO,sì,sì,,sì,sì,,
@@ -205,12 +207,13 @@ Bolzano,Laives,no,sì,,,sì,sì,sì
 Bolzano,Lana,no,sì,,,sì,sì,
 Bolzano,Merano,no,sì,,sì,sì,sì,sì
 Bolzano,Vipiteno,no,in parte,,sì,sì,sì,
-Brescia,BRESCIA,sì,sì,,sì,sì,,
+Brescia,BRESCIA,sì,sì,,sì,sì,sì,
 Brescia,Bagnolo Mella,no,sì,,,sì,sì,
 Brescia,Bedizzole,no,sì,,,,sì,sì
 Brescia,Botticino,no,sì,,,sì,sì,
 Brescia,Brescia,sì,sì,,,,sì,sì
 Brescia,Chiari,no,sì,,sì,sì,sì,
+Brescia,Clusane,no,sì,,,,sì,
 Brescia,Clusane (frazione Iseo),no,sì,,,,sì,sì
 Brescia,Concesio,no,sì,,,,sì,sì
 Brescia,Darfo Boario Terme,no,sì,,,,sì,sì
@@ -499,18 +502,18 @@ Firenze,FIRENZE,sì,sì,,sì,,,sì
 Firenze,Fiesole,no,sì,,,,,sì
 Firenze,Impruneta,no,sì,,,,,sì
 Firenze,Prato,no,sì,,sì,,,
-Firenze,Scandicci,no,sì,,,,,sì
+Firenze,Scandicci,no,sì,,sì,,,sì
 Firenze,Sesto Fiorentino,no,sì,,sì,,,sì
 Firenze e comuni limitrofi,FIRENZE,sì,sì,,sì,,,
 Firenze e comuni limitrofi,Scandicci,no,sì,,sì,,,
 Firenze e comuni limitrofi,Sesto Fiorentino,no,sì,,sì,,,
 Firenze e dintorni,Bagno a Ripoli,no,sì,,,sì,sì,sì
-Firenze e dintorni,FIRENZE,sì,sì,,sì,sì,sì,sì
+Firenze e dintorni,FIRENZE,sì,sì,,,sì,sì,sì
 Firenze e dintorni,Fiesole,no,sì,,,sì,sì,sì
 Firenze e dintorni,Impruneta,no,sì,,,sì,sì,
 Firenze e dintorni,Osmannoro,no,sì,,,,sì,
-Firenze e dintorni,Scandicci,no,sì,,sì,sì,sì,sì
-Firenze e dintorni,Sesto Fiorentino,no,sì,,sì,sì,sì,sì
+Firenze e dintorni,Scandicci,no,sì,,,sì,sì,sì
+Firenze e dintorni,Sesto Fiorentino,no,sì,,,sì,sì,sì
 Foggia,Cerignola,no,sì,,sì,sì,,
 Foggia,FOGGIA,sì,sì,,sì,sì,,
 Foggia,Lucera,no,sì,,sì,sì,,
@@ -524,7 +527,7 @@ Forlì - Cesena - Rimini - San Marino,REPUBBLICA DI SAN MARINO,sì,sì,,,sì,,
 Forlì - Cesena - Rimini - San Marino,RICCIONE,sì,sì,,,sì,,
 Forlì - Cesena - Rimini - San Marino,RIMINI,sì,sì,,,sì,,
 Forlì - San Marino,Cesena,no,sì,,sì,sì,,
-Forlì - San Marino,Cesenatico,no,sì,,,sì,,
+Forlì - San Marino,Cesenatico,no,in parte,,sì,sì,,
 Forlì - San Marino,FORLÌ,sì,sì,,sì,sì,,
 Forlì - San Marino,REPUBBLICA DI SAN MARINO,sì,sì,,sì,sì,,
 Forlì - San Marino,Riccione,no,sì,,sì,sì,,
@@ -781,11 +784,29 @@ Messina,Patti,no,sì,,,sì,,
 Messina,Rocca di Caprileone,no,no,,sì,,,
 Messina,Sant'Agata di Militello,no,sì,,,sì,,
 Messina,Taormina,no,sì,,sì,sì,,
-Milano,Assago,no,sì,,,,,sì
-Milano,Cinisello Balsamo,no,sì,,,,,sì
-Milano,Cologno Monzese,no,sì,,,,,sì
-Milano,Corsico,no,sì,,,,,sì
-Milano,MILANO,sì,sì,,,,,sì
+Milano,Assago,no,sì,,sì,,,sì
+Milano,Basiglio,no,no,,sì,,,
+Milano,Bollate,no,sì,,sì,,,
+Milano,Bresso,no,sì,,sì,,,
+Milano,Buccinasco,no,sì,,sì,,,
+Milano,Cesano Boscone,no,sì,,sì,,,
+Milano,Cinisello Balsamo,no,sì,,sì,,,sì
+Milano,Cologno Monzese,no,sì,,sì,,,sì
+Milano,Cormano,no,sì,,sì,,,
+Milano,Corsico,no,sì,,sì,,,sì
+Milano,Cusano Milanino,no,sì,,sì,,,
+Milano,MILANO,sì,sì,,sì,,,sì
+Milano,Novate Milanese,no,sì,,sì,,,
+Milano,Opera,no,sì,,sì,,,
+Milano,Pero,no,sì,,sì,,,
+Milano,Peschiera Borromeo,no,sì,,sì,,,
+Milano,Rozzano,no,sì,,sì,,,
+Milano,San Donato Milanese,no,sì,,sì,,,
+Milano,Segrate,no,sì,,sì,,,
+Milano,Sesto San Giovanni,no,sì,,sì,,,
+Milano,Settimo Milanese,no,sì,,sì,,,
+Milano,Trezzano sul Naviglio,no,sì,,sì,,,
+Milano,Vimodrone,no,sì,,sì,,,
 Milano e comuni limitrofi,Assago,no,sì,,sì,,,
 Milano e comuni limitrofi,Bollate,no,sì,,sì,,,
 Milano e comuni limitrofi,Bresso,no,sì,,sì,,,
@@ -808,30 +829,29 @@ Milano e comuni limitrofi,Sesto San Giovanni,no,sì,,sì,,,
 Milano e comuni limitrofi,Settimo Milanese,no,sì,,sì,,,
 Milano e comuni limitrofi,Trezzano sul Naviglio,no,sì,,sì,,,
 Milano e comuni limitrofi,Vimodrone,no,sì,,sì,,,
-Milano e dintorni,Assago,no,sì,,sì,sì,sì,
+Milano e dintorni,Assago,no,sì,,,sì,sì,
 Milano e dintorni,Baranzate,no,sì,,,,sì,
-Milano e dintorni,Basiglio,no,no,,sì,,,
-Milano e dintorni,Bollate,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Bresso,no,sì,,sì,sì,sì,
-Milano e dintorni,Buccinasco,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Cesano Boscone,no,sì,,sì,sì,sì,
-Milano e dintorni,Cinisello Balsamo,no,sì,,sì,sì,sì,
-Milano e dintorni,Cologno Monzese,no,sì,,sì,sì,sì,
-Milano e dintorni,Cormano,no,sì,,sì,sì,sì,
-Milano e dintorni,Corsico,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Cusano Milanino,no,sì,,sì,sì,sì,
-Milano e dintorni,MILANO,sì,sì,,sì,sì,sì,sì
-Milano e dintorni,Novate Milanese,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Opera,no,sì,,sì,sì,sì,
-Milano e dintorni,Pero,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Peschiera Borromeo,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Rozzano,no,sì,,sì,sì,sì,sì
-Milano e dintorni,San Donato Milanese,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Segrate,no,sì,,sì,sì,sì,
-Milano e dintorni,Sesto San Giovanni,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Settimo Milanese,no,sì,,sì,sì,sì,sì
-Milano e dintorni,Trezzano sul Naviglio,no,sì,,sì,sì,sì,
-Milano e dintorni,Vimodrone,no,sì,,sì,sì,sì,
+Milano e dintorni,Bollate,no,sì,,,sì,sì,sì
+Milano e dintorni,Bresso,no,sì,,,sì,sì,
+Milano e dintorni,Buccinasco,no,sì,,,sì,sì,sì
+Milano e dintorni,Cesano Boscone,no,sì,,,sì,sì,
+Milano e dintorni,Cinisello Balsamo,no,sì,,,sì,sì,
+Milano e dintorni,Cologno Monzese,no,sì,,,sì,sì,
+Milano e dintorni,Cormano,no,sì,,,sì,sì,
+Milano e dintorni,Corsico,no,sì,,,sì,sì,sì
+Milano e dintorni,Cusano Milanino,no,sì,,,sì,sì,
+Milano e dintorni,MILANO,sì,sì,,,sì,sì,sì
+Milano e dintorni,Novate Milanese,no,sì,,,sì,sì,sì
+Milano e dintorni,Opera,no,sì,,,sì,sì,
+Milano e dintorni,Pero,no,sì,,,sì,sì,sì
+Milano e dintorni,Peschiera Borromeo,no,sì,,,sì,sì,sì
+Milano e dintorni,Rozzano,no,sì,,,sì,sì,sì
+Milano e dintorni,San Donato Milanese,no,sì,,,sì,sì,sì
+Milano e dintorni,Segrate,no,sì,,,sì,sì,
+Milano e dintorni,Sesto San Giovanni,no,sì,,,sì,sì,sì
+Milano e dintorni,Settimo Milanese,no,sì,,,sì,sì,sì
+Milano e dintorni,Trezzano sul Naviglio,no,sì,,,sì,sì,
+Milano e dintorni,Vimodrone,no,sì,,,sì,sì,
 Modena,Bomporto,no,sì,,,,,sì
 Modena,Campogalliano,no,sì,,,,sì,
 Modena,Carpi,no,sì,,sì,sì,sì,sì
@@ -862,21 +882,24 @@ Monza e Brianza - Provincia di Milano Nord,MONZA,sì,sì,,,,,sì
 Monza e Brianza - Provincia di Milano Nord,Rho,no,sì,,,,,sì
 Monza e Brianza - Provincia di Milano Nord,Seregno,no,sì,,,,,sì
 Monza e Brianza - Provincia di Milano Nord,Vimercate,no,sì,,,,,sì
+Napoli,Arzano,no,sì,,sì,,,
 Napoli,Casoria,no,sì,,,,,sì
 Napoli,Ercolano,no,sì,,,,,sì
-Napoli,NAPOLI,sì,sì,,,,,sì
+Napoli,NAPOLI,sì,sì,,sì,,,sì
+Napoli,Portici,no,sì,,sì,,,
+Napoli,San Giorgio a Cremano,no,sì,,sì,,,
 Napoli e comuni limitrofi,Arzano,no,sì,,sì,,,
 Napoli e comuni limitrofi,NAPOLI,sì,sì,,sì,,,
 Napoli e comuni limitrofi,Portici,no,sì,,sì,,,
 Napoli e comuni limitrofi,San Giorgio a Cremano,no,sì,,sì,,,
-Napoli e dintorni,Arzano,no,sì,,sì,sì,sì,
+Napoli e dintorni,Arzano,no,sì,,,sì,sì,
 Napoli e dintorni,Casoria,no,sì,,,sì,sì,
 Napoli e dintorni,Ercolano,no,sì,,,sì,sì,
 Napoli e dintorni,Marano di Napoli,no,sì,,,sì,sì,
-Napoli e dintorni,NAPOLI,sì,sì,,sì,sì,sì,
-Napoli e dintorni,Portici,no,sì,,sì,sì,sì,
+Napoli e dintorni,NAPOLI,sì,sì,,,sì,sì,
+Napoli e dintorni,Portici,no,sì,,,sì,sì,
 Napoli e dintorni,Pozzuoli,no,in parte,,,sì,sì,
-Napoli e dintorni,San Giorgio a Cremano,no,sì,,sì,sì,sì,
+Napoli e dintorni,San Giorgio a Cremano,no,sì,,,sì,sì,
 Novara,Arona,no,sì,,sì,sì,,
 Novara,Bellinzago,no,sì,,,sì,,
 Novara,Borgomanero,no,sì,,sì,sì,,
@@ -955,7 +978,7 @@ Parma,Fontanellato,no,sì,,,sì,sì,
 Parma,Fornovo di Taro,no,sì,,,sì,sì,
 Parma,Langhirano,no,sì,,,sì,sì,sì
 Parma,Noceto,no,sì,,,sì,sì,
-Parma,PARMA,sì,sì,,sì,sì,,
+Parma,PARMA,sì,sì,,sì,sì,sì,
 Parma,Parma,sì,sì,,,,sì,sì
 Parma,Pilastro,no,sì,,,,,sì
 Parma,Sala Baganza,no,sì,,,sì,sì,
@@ -1329,14 +1352,15 @@ Terni,Amelia,no,in parte,,sì,sì,,
 Terni,Narni,no,in parte,,sì,sì,,
 Terni,Orvieto,no,sì,,sì,sì,,
 Terni,TERNI,sì,sì,,sì,sì,,
-Torino,Beinasco,no,sì,,,,sì,sì
-Torino,Collegno,no,sì,,,,sì,sì
-Torino,Grugliasco,no,sì,,,,sì,sì
-Torino,Moncalieri,no,sì,,,,sì,sì
-Torino,Nichelino,no,sì,,,,sì,sì
-Torino,San Mauro Torinese,no,sì,,,,sì,sì
-Torino,Settimo Torinese,no,sì,,,,sì,sì
-Torino,TORINO,sì,sì,,,,sì,sì
+Torino,Beinasco,no,sì,,sì,,sì,sì
+Torino,Collegno,no,sì,,sì,,sì,sì
+Torino,Grugliasco,no,sì,,sì,,sì,sì
+Torino,Moncalieri,no,sì,,sì,,sì,sì
+Torino,Nichelino,no,sì,,sì,,sì,sì
+Torino,San Mauro Torinese,no,sì,,sì,,sì,sì
+Torino,Settimo Torinese,no,sì,,sì,,sì,sì
+Torino,TORINO,sì,sì,,sì,,sì,sì
+Torino,Venaria,no,sì,,sì,,,
 Torino,Venaria Reale,no,sì,,,,sì,sì
 Torino e comuni limitrofi,Beinasco,no,sì,,sì,,,
 Torino e comuni limitrofi,Collegno,no,sì,,sì,,,
@@ -1377,10 +1401,10 @@ Treviso,Paese,no,sì,,,sì,sì,
 Treviso,Pieve di Soligo,no,sì,,,sì,sì,
 Treviso,Roncade,no,sì,,,sì,sì,
 Treviso,San Biagio di Callalta,no,sì,,,sì,sì,
-Treviso,TREVISO,sì,sì,,sì,sì,,
+Treviso,TREVISO,sì,sì,,sì,sì,sì,
 Treviso,Treviso,sì,sì,,,,sì,sì
 Treviso,Valdobbiadene,no,sì,,,sì,sì,
-Treviso,Villorba,no,sì,,,,,sì
+Treviso,Villorba,no,sì,,,,sì,sì
 Treviso,Vittorio Veneto,no,sì,,sì,sì,sì,sì
 Trieste,TRIESTE,sì,sì,,sì,,,
 Udine,Buja,no,sì,,,sì,sì,
