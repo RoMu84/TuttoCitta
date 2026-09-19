@@ -19,7 +19,7 @@ In questa pagina
 
 I fascicoli della Campania appartenevano in principio alla serie iniziale: il primo fascicolo, edito a luglio del 1981, era infatti intitolato TuttoCittà 81. Tuttavia nell'annata 1985/86 la serie campana fa il salto dalla serie iniziale a quella tardiva: il fascicolo edito nel 1985 infatti riporta in copertina il titolo TuttoCittà 86 con copertina edifici per Napoli e rossa per le altre province, saltando quindi il titolo TuttoCittà 85. La serie campana è anche una delle sole due (l'altra è quella lucana) ad avere un fascicolo con layout TuttoCittà '90 classico dal titolo TuttoCittà 98.
 
-Fin dall'annata 1981/82 Napoli e la sua provincia è cartografata in due fascicoli distinti: uno riguardante solo Napoli città e i comuni dell'immediato circondario, l'altro riguardante i comuni della provincia più lontani. Questa separazione si riflette spesso (ma non sempre) sul titolo di copertina: il fascicolo di Napoli città è indicato alternativamente come «Napoli e comuni limitrofi», «Napoli e dintorni», oppure anche solo «Napoli»; il fascicolo sui comuni più esterni della provincia si intitola invece «Provincia di Napoli».
+Fin dall'annata 1981/82 Napoli e la sua provincia era cartografata in due fascicoli distinti: uno riguardante solo Napoli città e i comuni dell'immediato circondario, l'altro riguardante i comuni della provincia più lontani. Questa separazione si rifletteva spesso (ma non sempre) sul titolo di copertina: il fascicolo di Napoli città era indicato alternativamente come «Napoli e comuni limitrofi», «Napoli e dintorni», oppure anche solo «Napoli»; il fascicolo sui comuni più esterni della provincia si intitolava invece «Provincia di Napoli».
 
 Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per le province di Avellino, Benevento, Caserta, Salerno e Provincia di Napoli, mentre per Napoli città la linea proseguì fino al 2014.
 
@@ -308,4 +308,4 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`campania_cartografia.csv`](../dati/campania_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`campania_articoli.csv`](../dati/campania_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà nelle [questioni aperte](questioni-aperte.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
+Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.

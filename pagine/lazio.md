@@ -19,7 +19,7 @@ In questa pagina
 
 I fascicoli del Lazio appartenevano alla serie tardiva: il primo fascicolo, edito ad agosto 1981, era infatti intitolato TuttoCittà 82.
 
-Fin dall'annata 1981/82 Roma e la sua provincia è cartografata in due fascicoli distinti: uno riguardante solo Roma città (e in seguito i comuni dell'immediato circondario, appena questi diventavano autonomi da Roma), l'altro riguardante i comuni della provincia più lontani. Questa separazione si riflette spesso (ma non sempre) sul titolo di copertina: il fascicolo di Roma città è indicato alternativamente come «Roma e dintorni» oppure anche solo «Roma»; il fascicolo sui comuni più esterni della provincia si intitola invece «Provincia di Roma».
+Fin dall'annata 1981/82 Roma e la sua provincia era cartografata in due fascicoli distinti: uno riguardante solo Roma città (e in seguito i comuni dell'immediato circondario, appena questi diventavano autonomi da Roma), l'altro riguardante i comuni della provincia più lontani. Questa separazione si rifletteva spesso (ma non sempre) sul titolo di copertina: il fascicolo di Roma città era indicato alternativamente come «Roma e dintorni» oppure anche solo «Roma»; il fascicolo sui comuni più esterni della provincia si intitolava invece «Provincia di Roma».
 
 Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le provincie tranne Roma, la cui linea proseguì fino al 2014.
 
@@ -306,4 +306,4 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`lazio_cartografia.csv`](../dati/lazio_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`lazio_articoli.csv`](../dati/lazio_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà nelle [questioni aperte](questioni-aperte.md) come contribuire.
+Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.

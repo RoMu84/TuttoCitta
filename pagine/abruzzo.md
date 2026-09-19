@@ -240,5 +240,5 @@ diritti appartengono all'editore.
 - [`abruzzo_cartografia.csv`](../dati/abruzzo_cartografia.csv) — un comune per riga e per annata, con la provincia
 - [`abruzzo_articoli.csv`](../dati/abruzzo_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà nelle [questioni
-aperte](questioni-aperte.md) come contribuire.
+Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in
+[questa pagina](come-contribuire.md) come contribuire.

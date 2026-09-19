@@ -190,4 +190,4 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`umbria_cartografia.csv`](../dati/umbria_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`umbria_articoli.csv`](../dati/umbria_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà nelle [questioni aperte](questioni-aperte.md) come contribuire.
+Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
