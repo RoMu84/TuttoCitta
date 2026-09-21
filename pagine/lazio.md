@@ -154,7 +154,7 @@ I conteggi valgono sulle 24 annate di cui la raccolta ha tutti i fascicoli: altr
 
 ## Anomalie di produzione
 
-Il fascicolo dell'annata 83/84 porta in copertina, stampato, il titolo «Rieti / Orvieto / Viterbo»; sopra il titolo è applicata un'etichetta che riporta invece «Rieti / Viterbo». L'etichetta è quasi certamente dell'editore.
+Il fascicolo delle province di **Rieti e Viterbo** dell'annata 83/84 porta in copertina, stampato, il titolo «Rieti / Orvieto / Viterbo»; sopra il titolo è applicata un'etichetta che riporta invece «Rieti / Viterbo». L'etichetta è quasi certamente dell'editore.
 
 Il fascicolo non comprende effettivamente Orvieto, ma solo Rieti e Viterbo. Nell'annata 81/82 il fascicolo «Rieti - Orvieto - Viterbo 82», l'unico dei due a tre nomi che sia in raccolta, cartografava invece tutte e tre le città, fra cui Orvieto, che è in provincia di Terni e compare contemporaneamente in due fascicoli, quello delle province di Rieti e Viterbo e quello delle province di Perugia e Terni. Il fascicolo di Rieti e Viterbo dell'annata 82/83 non è in raccolta, ma è stato osservato e consultato ed è stata constatata la presenza della cartografia di Orvieto anche lì. La copertina, stampata con il titolo vecchio, fu quindi corretta con un'etichetta anziché ristampata; è lecito ipotizzare che la decisione sia arrivata a lavorazione iniziata, quando non era più possibile apportare la correzione a stampa.
 

@@ -64,8 +64,8 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 97/98,La Spezia,La Spezia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
 97/98,Imperia,Imperia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,maggio 1997,Cambio formato,IM97.jpg,True,accertata
 97/98,Savona,Savona 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,,maggio 1997,Cambio formato,SV97.jpg,True,accertata
-98/99,Genova,Genova (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,94,,maggio 1998,,GE98.jpg,True,accertata
-98/99,La Spezia,La Spezia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,maggio 1998,,SP98.jpg,True,accertata
+98/99,Genova,Genova (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,94,,maggio 1998,"""da utilizzare fino ad Agosto 1999""",GE98.jpg,True,accertata
+98/99,La Spezia,La Spezia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,maggio 1998,"""da utilizzare fino ad Agosto 1999""",SP98.jpg,True,accertata
 98/99,Imperia,Imperia (98),98,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Genova,Genova 1999/2000,99/00,,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
 00/01,Genova,Genova ?,,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,86,,maggio 2000,,GE0001.jpg,True,accertata

@@ -12,6 +12,17 @@ Di seguito invece la lista delle regioni. Per ciascuna regione è presente una g
 mostra tutte le copertine dei fascicoli in raccolta, assieme a vari dati come il layout, l'anno di
 copertina, il numero di pagine e il mese di aggiornamento.
 
+Per ogni regione è inoltre presente una tabella riassuntiva dei layout utilizzati, una tabella
+espandibile con la lista dei comuni cartografati anno per anno e ordinati alfabeticamente, più una
+sezione dedicata ai titoli degli articoli degli anni novanta. Quando richiesto, sono anche presenti
+sezioni aggiuntive per segnalare eventuali anomalie di produzione.
+
+Chiude la pagina una sezione coi dati aggregati in formato csv.
+
+<p class="inriga"><a href="abruzzo.md">Abruzzo</a> <b class="perno">&bull;</b> <a href="basilicata.md">Basilicata</a> <b class="perno">&bull;</b> <a href="calabria.md">Calabria</a> <b class="perno">&bull;</b> <a href="campania.md">Campania</a> <b class="perno">&bull;</b> Emilia - Romagna <b class="perno">&bull;</b> <a href="friuli-venezia-giulia.md">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="lazio.md">Lazio</a> <b class="perno">&bull;</b> <a href="liguria.md">Liguria</a> <b class="perno">&bull;</b> Lombardia <b class="perno">&bull;</b> <a href="marche.md">Marche</a> <b class="perno">&bull;</b> <a href="molise.md">Molise</a> <b class="perno">&bull;</b> Piemonte <b class="perno">&bull;</b> <a href="puglia.md">Puglia</a> <b class="perno">&bull;</b> <a href="sardegna.md">Sardegna</a> <b class="perno">&bull;</b> Sicilia <b class="perno">&bull;</b> Toscana <b class="perno">&bull;</b> Trentino - Alto Adige <b class="perno">&bull;</b> <a href="umbria.md">Umbria</a> <b class="perno">&bull;</b> <a href="valle-daosta.md">Valle d'Aosta</a> <b class="perno">&bull;</b> Veneto</p>
+
+## Due regole sul conto delle pagine
+
 Il conto delle pagine segue due regole, dettate entrambe da come il fascicolo è fatto. La prima
 riguarda da dove comincia la numerazione, e dipende dalla copertina. Nei fascicoli a **copertina
 grossa** la pagina 1 è la prima che si incontra dopo prima e seconda di copertina; in quelli a
@@ -27,12 +38,3 @@ e che quindi eccedono il conteggio regolare. Uno scarto di una pagina riguarda l
 copertina; uno scarto di due dice che è impegnata anche la quarta, cosa che capita soltanto nei
 fascicoli con layout «TuttoCittà metà duemila». Entrambi i numeri sono nei csv di ciascuna regione,
 nelle colonne `pagine_totali` e `pagine_comprese_copertine`.
-
-Per ogni regione è inoltre presente una tabella riassuntiva dei layout utilizzati, una tabella
-espandibile con la lista dei comuni cartografati anno per anno e ordinati alfabeticamente, più una
-sezione dedicata ai titoli degli articoli degli anni novanta. Quando richiesto, sono anche presenti
-sezioni aggiuntive per segnalare eventuali anomalie di produzione.
-
-Chiude la pagina una sezione coi dati aggregati in formato csv.
-
-<p class="inriga"><a href="abruzzo.md">Abruzzo</a> <b class="perno">&bull;</b> <a href="basilicata.md">Basilicata</a> <b class="perno">&bull;</b> <a href="calabria.md">Calabria</a> <b class="perno">&bull;</b> <a href="campania.md">Campania</a> <b class="perno">&bull;</b> Emilia - Romagna <b class="perno">&bull;</b> <a href="friuli-venezia-giulia.md">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="lazio.md">Lazio</a> <b class="perno">&bull;</b> <a href="liguria.md">Liguria</a> <b class="perno">&bull;</b> Lombardia <b class="perno">&bull;</b> <a href="marche.md">Marche</a> <b class="perno">&bull;</b> <a href="molise.md">Molise</a> <b class="perno">&bull;</b> Piemonte <b class="perno">&bull;</b> <a href="puglia.md">Puglia</a> <b class="perno">&bull;</b> <a href="sardegna.md">Sardegna</a> <b class="perno">&bull;</b> Sicilia <b class="perno">&bull;</b> Toscana <b class="perno">&bull;</b> Trentino - Alto Adige <b class="perno">&bull;</b> <a href="umbria.md">Umbria</a> <b class="perno">&bull;</b> <a href="valle-daosta.md">Valle d'Aosta</a> <b class="perno">&bull;</b> Veneto</p>
