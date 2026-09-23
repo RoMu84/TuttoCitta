@@ -158,7 +158,7 @@ Il fascicolo delle province di **Rieti e Viterbo** dell'annata 83/84 porta in co
 
 Il fascicolo non comprende effettivamente Orvieto, ma solo Rieti e Viterbo. Nell'annata 81/82 il fascicolo «Rieti - Orvieto - Viterbo 82», l'unico dei due a tre nomi che sia in raccolta, cartografava invece tutte e tre le città, fra cui Orvieto, che è in provincia di Terni e compare contemporaneamente in due fascicoli, quello delle province di Rieti e Viterbo e quello delle province di Perugia e Terni. Il fascicolo di Rieti e Viterbo dell'annata 82/83 non è in raccolta, ma è stato osservato e consultato ed è stata constatata la presenza della cartografia di Orvieto anche lì. La copertina, stampata con il titolo vecchio, fu quindi corretta con un'etichetta anziché ristampata; è lecito ipotizzare che la decisione sia arrivata a lavorazione iniziata, quando non era più possibile apportare la correzione a stampa.
 
-Nel censimento la linea porta pertanto il nome «Rieti - Viterbo (Rieti - Orvieto - Viterbo 82 e 83)»: il nome identifica il fascicolo lungo tutta la sua storia, mentre il titolo in vigore in ciascuna annata è registrato a parte.
+Nel censimento la linea porta pertanto il nome «Rieti - Viterbo (Rieti - Orvieto - Viterbo 82, 83)»: il nome identifica il fascicolo lungo tutta la sua storia, mentre il titolo in vigore in ciascuna annata è registrato a parte.
 
 <figure class="figura larga">
 <img src="../immagini/RIVT84etichetta.jpg" alt="Dettaglio dell'etichetta «Rieti/Viterbo» applicata sul fascicolo Rieti - Viterbo 84, che copre l'originario «Rieti/Orvieto/Viterbo»" loading="lazy">

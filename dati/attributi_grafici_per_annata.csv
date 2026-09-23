@@ -1,8 +1,8 @@
 annata,attributo,valore,fascicoli
 81/82,sfondo mappe,Arancione,64
 81/82,cornice mappe,Grigia,23
-81/82,cornice mappe,Gialla,10
-81/82,foto stradario,Sì,15
+81/82,cornice mappe,Gialla,11
+81/82,foto stradario,Sì,16
 81/82,foto stradario,No,10
 81/82,foto stradario,In parte,8
 82/83,sfondo mappe,Arancione,64
@@ -33,7 +33,7 @@ annata,attributo,valore,fascicoli
 95/96,sfondo mappe,Grigio,87
 96/97,sfondo mappe,Grigio,87
 97/98,sfondo mappe,Grigio,87
-98/99,sfondo mappe,Grigio,42
+98/99,sfondo mappe,Grigio,44
 99/00,sfondo mappe,Grigio,39
 99/00,sfondo mappe,?,2
 00/01,sfondo mappe,Grigio,20
