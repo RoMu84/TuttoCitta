@@ -8,5 +8,5 @@ completate.
 A queste si affianca una pagina speciale dedicata non a una regione ma a una singola città, Roma, i
 cui fascicoli sono i più ricchi di cartografia dell'intera serie.
 
-- [Sardegna](sardegna.md)
+- [Sardegna](sardegna-completo.md)
 - [Speciale: Roma città](roma.md)

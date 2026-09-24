@@ -48,7 +48,7 @@ esclusivamente da una passione personale.
 
 ## Le regioni in dettaglio
 
-<p class="inriga"><a href="pagine/sardegna.md">Sardegna</a> <b class="perno">&bull;</b> <a href="pagine/roma.md">Speciale: Roma città</a></p>
+<p class="inriga"><a href="pagine/sardegna-completo.md">Sardegna</a> <b class="perno">&bull;</b> <a href="pagine/roma.md">Speciale: Roma città</a></p>
 
 ## Dati
 
