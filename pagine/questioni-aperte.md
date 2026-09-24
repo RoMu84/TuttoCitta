@@ -45,7 +45,7 @@ meno di 44; l'unica alternativa è che siano nati per scissione, come avvenne pe
 
 ## Fascicoli accertati di cui non è noto l'anno di copertina
 
-Sono 100 casi, elencati con `x` nelle tabelle regionali.
+Sono 92 casi, elencati con `x` nelle tabelle regionali.
 
 ## Il trentanovesimo fascicolo: risolta
 

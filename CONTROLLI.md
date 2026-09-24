@@ -12,7 +12,7 @@ Generati automaticamente dal foglio di lavoro. Ogni scostamento è un punto da v
 | 11/12 | 38 | 39 | +1 | no |
 | 12/13 | 38 | 39 | +1 | no |
 | 13/14 | 38 | 39 | +1 | no |
-| 14/15 | 38 | 39 | +1 | no |
+| 14/15 | 38 | 34 | -4 | no |
 
 Annate con scostamento: **7** su 34.
 
@@ -77,7 +77,7 @@ in quegli anni il cambio di copertina avveniva all'interno dell'annata e non fra
 
 ## Fascicoli accertati privi dell'anno di copertina
 
-Sono **100** celle: fascicolo la cui esistenza è accertata, ma di cui non è noto l'anno riportato in copertina.
+Sono **92** celle: fascicolo la cui esistenza è accertata, ma di cui non è noto l'anno riportato in copertina.
 
 ## Celle marcate come probabili non confermate
 
