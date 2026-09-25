@@ -64,8 +64,6 @@ La seguente tabella censisce i vari layout utilizzati per i fascicoli della regi
 </tbody>
 </table>
 
-Non compaiono le annate 98/99: il fascicolo non è in raccolta e il layout non è stato accertato.
-
 ## Le città cartografate
 
 La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli anni. I tre capoluoghi storici — CATANZARO, COSENZA, REGGIO CALABRIA — sono in maiuscolo, ma restano al loro posto nell'alfabeto. Crotone e Vibo Valentia, che diventano capoluoghi di provincia soltanto nel 1992, restano in minuscolo, perché nella cartografia sono comuni come gli altri, così come lo erano quando la serie cominciò.

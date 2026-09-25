@@ -87,8 +87,6 @@ La seguente tabella censisce i vari layout utilizzati per i fascicoli della regi
 </tbody>
 </table>
 
-Non compaiono le annate 81/82–83/84 e 98/99: il fascicolo non è in raccolta e il layout non è stato accertato.
-
 ## Le città cartografate
 
 La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli anni. I quattro capoluoghi storici — GENOVA, IMPERIA, LA SPEZIA, SAVONA — sono in maiuscolo, ma restano al loro posto nell'alfabeto.

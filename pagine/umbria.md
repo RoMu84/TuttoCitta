@@ -62,7 +62,7 @@ La seguente tabella censisce i vari layout utilizzati per i fascicoli della regi
 </tbody>
 </table>
 
-Non compaiono le annate 81/82: il fascicolo non è in raccolta e il layout non è stato accertato.
+Non compare l'annata 81/82: il fascicolo non è in raccolta e il layout non è stato accertato.
 
 ## Le città cartografate
 
