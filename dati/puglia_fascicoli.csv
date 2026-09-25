@@ -62,7 +62,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 94/95,Lecce,Lecce 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 94/95,Foggia,Foggia 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,dicembre 1994,,FG95.jpg,True,accertata
 94/95,Taranto,Taranto 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
-95/96,Bari,Bari 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+95/96,Bari,Bari 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,70,,novembre 1995,,BA96.jpg,True,accertata
 95/96,Brindisi,Brindisi 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 95/96,Lecce,Lecce 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 95/96,Foggia,Foggia 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
@@ -101,7 +101,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 08/09,Lecce,Lecce 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 09/10,Bari - Barletta Andria Trani,Bari - Barletta Andria Trani 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,226 x 274 mm,grossa,TuttoCittà anni dieci,80,,febbraio 2010,Riforma cartografica; nuovo formato,BA1011.jpg,True,accertata
 09/10,Lecce,Lecce 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
-10/11,Bari - Barletta Andria Trani,Bari - Barletta Andria Trani 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,80,,gennaio 2011,,BA1112.jpg,True,accertata
+10/11,Bari - Barletta Andria Trani,Bari - Barletta Andria Trani 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,80,,gennaio 2011,inserto Agenzia del Territorio,BA1112.jpg,True,accertata
 10/11,Lecce,Lecce 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 11/12,Bari - Barletta Andria Trani,Bari - Barletta Andria Trani 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,72,,gennaio 2012,,BA1213.jpg,True,accertata
 11/12,Lecce,Lecce 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
