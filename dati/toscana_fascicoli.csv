@@ -78,7 +78,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 92/93,Provincia di Firenze,Provincia di Firenze 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,,febbraio 1992,,PROVFI92.jpg,True,accertata
 92/93,Arezzo - Siena,Arezzo - Siena 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,,maggio 1992,,ARSI92.jpg,True,accertata
 92/93,Grosseto,Grosseto 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,24,,maggio 1992,,GR92.jpg,True,accertata
-92/93,Livorno,Livorno 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,aprile 1992,,SV92.jpg,True,accertata
+92/93,Livorno,Livorno 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,aprile 1992,,LI92.jpg,True,accertata
 92/93,Pisa,Pisa 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,24,,aprile 1992,,PI92.jpg,True,accertata
 92/93,Lucca - Massa - Carrara,Lucca - Massa - Carrara 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,48,,aprile 1992,,LUMS92.jpg,True,accertata
 92/93,Pistoia,Pistoia 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,24,,aprile 1992,,PT92.jpg,True,accertata
@@ -159,21 +159,21 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 08/09,Firenze e dintorni,Firenze e dintorni 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,56,,maggio 2008,,FI0809.jpg,True,accertata
 08/09,Pisa,Pisa 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 08/09,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Firenze e dintorni,Firenze e dintorni 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato1.jpg,False,accertata
-09/10,Pisa,Pisa 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato1.jpg,False,accertata
-09/10,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato1.jpg,False,accertata
-10/11,Firenze e dintorni,Firenze e dintorni 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-10/11,Pisa,Pisa 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-10/11,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
+09/10,Firenze e dintorni,Firenze e dintorni 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+09/10,Pisa,Pisa 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+09/10,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà anni dieci,,,,Riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+10/11,Firenze e dintorni,Firenze e dintorni 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+10/11,Pisa,Pisa 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+10/11,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 11/12,Firenze e dintorni,Firenze e dintorni 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,56,,maggio 2011,inserto Agenzia del Territorio,FI1112.jpg,True,accertata
-11/12,Pisa,Pisa 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-11/12,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
+11/12,Pisa,Pisa 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+11/12,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 12/13,Firenze e dintorni,Firenze 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,56,,marzo 2013,,FI1213.jpg,True,accertata
-12/13,Pisa,Pisa 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-12/13,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-13/14,Firenze e dintorni,Firenze 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-13/14,Pisa,Pisa 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-13/14,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
+12/13,Pisa,Pisa 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+12/13,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Firenze e dintorni,Firenze 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Pisa,Pisa 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 14/15,Firenze e dintorni,Firenze 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,72,,marzo 2014,,FI1415.jpg,True,accertata
-14/15,Pisa,Pisa 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
-14/15,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato1.jpg,False,accertata
+14/15,Pisa,Pisa 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
