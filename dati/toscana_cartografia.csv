@@ -329,6 +329,16 @@ annata,fascicolo,provincia,citta,indicizzata
 91/92,Livorno,Livorno,Isola d'Elba,sì
 91/92,Livorno,Livorno,Piombino,sì
 91/92,Livorno,Livorno,Rosignano Solvay,sì
+91/92,Lucca - Massa - Carrara,Lucca,Lucca,sì
+91/92,Lucca - Massa - Carrara,Lucca,Altopascio,sì
+91/92,Lucca - Massa - Carrara,Lucca,Forte dei Marmi,sì
+91/92,Lucca - Massa - Carrara,Lucca,Lido di camaiore,sì
+91/92,Lucca - Massa - Carrara,Lucca,Viareggio,sì
+91/92,Lucca - Massa - Carrara,Massa,Massa,sì
+91/92,Lucca - Massa - Carrara,Massa,Marina di Massa,sì
+91/92,Lucca - Massa - Carrara,Massa,CARRARA,sì
+91/92,Lucca - Massa - Carrara,Massa,Avenza,sì
+91/92,Lucca - Massa - Carrara,Massa,Marina di Carrara,sì
 91/92,Pisa,Pisa,Pisa,sì
 91/92,Pisa,Pisa,Cascina,sì
 91/92,Pisa,Pisa,Pontedera,sì
@@ -336,6 +346,16 @@ annata,fascicolo,provincia,citta,indicizzata
 91/92,Pistoia,Pistoia,Montale,sì
 91/92,Pistoia,Pistoia,Montecatini Terme,sì
 91/92,Pistoia,Pistoia,Quarrata,sì
+91/92,Arezzo - Siena,Arezzo,Arezzo,sì
+91/92,Arezzo - Siena,Arezzo,Cortona,sì
+91/92,Arezzo - Siena,Arezzo,Montevarchi,sì
+91/92,Arezzo - Siena,Arezzo,Terranuova Bracciolini,sì
+91/92,Arezzo - Siena,Siena,Siena,sì
+91/92,Arezzo - Siena,Siena,ChiancianoTerme,sì
+91/92,Arezzo - Siena,Siena,Chiusi,sì
+91/92,Arezzo - Siena,Siena,Colle di Val d'Elsa,sì
+91/92,Arezzo - Siena,Siena,Poggibonsi,sì
+91/92,Arezzo - Siena,Siena,San Gimignano,sì
 92/93,Firenze e dintorni,Firenze,Firenze,sì
 92/93,Firenze e dintorni,Firenze,Bagno a Ripoli,sì
 92/93,Firenze e dintorni,Firenze,Impruneta,sì
@@ -648,6 +668,31 @@ annata,fascicolo,provincia,citta,indicizzata
 98/99,Firenze e dintorni,Firenze,Impruneta,sì
 98/99,Firenze e dintorni,Firenze,Scandicci,sì
 98/99,Firenze e dintorni,Firenze,Sesto Fiorentino,sì
+98/99,Prato - Provincia di Firenze,Firenze,Prato,sì
+98/99,Prato - Provincia di Firenze,Prato,Montemurlo,sì
+98/99,Prato - Provincia di Firenze,Firenze,Poggio a Caiano,sì
+98/99,Prato - Provincia di Firenze,Pistoia,Agliana,sì
+98/99,Prato - Provincia di Firenze,Firenze,Calenzano,sì
+98/99,Prato - Provincia di Firenze,Firenze,Campi Bisenzio,sì
+98/99,Prato - Provincia di Firenze,Firenze,Castelfiorentino,sì
+98/99,Prato - Provincia di Firenze,Firenze,Certaldo,sì
+98/99,Prato - Provincia di Firenze,Firenze,Empoli,sì
+98/99,Prato - Provincia di Firenze,Firenze,Fucecchio,sì
+98/99,Prato - Provincia di Firenze,Firenze,Lastra a Signa,sì
+98/99,Prato - Provincia di Firenze,Firenze,Pontassieve,sì
+98/99,Prato - Provincia di Firenze,Firenze,San Casciano in Val di Pesa,sì
+98/99,Prato - Provincia di Firenze,Firenze,Signa,sì
+98/99,Pisa,Pisa,Pisa,sì
+98/99,Pisa,Pisa,Bientina,sì
+98/99,Pisa,Pisa,Cascina,sì
+98/99,Pisa,Pisa,Fornacette,sì
+98/99,Pisa,Pisa,Pontedera,sì
+98/99,Pisa,Pisa,Vicopisano,sì
+98/99,Pisa,Pisa,Volterra,sì
+98/99,Pistoia,Pistoia,Pistoia,sì
+98/99,Pistoia,Pistoia,Monsummanno Terme,sì
+98/99,Pistoia,Pistoia,Montecatini Terme,sì
+98/99,Pistoia,Pistoia,Quarrata,sì
 99/00,Firenze e dintorni,Firenze,Firenze,sì
 99/00,Firenze e dintorni,Firenze,Bagno a Ripoli,sì
 99/00,Firenze e dintorni,Firenze,Fiesole,sì

@@ -52,6 +52,7 @@ Aosta,Courmayeur,no,sì,,sì,,,
 Aosta,Saint-Vincent,no,sì,,sì,,,
 Arezzo - Siena,AREZZO,sì,sì,,sì,sì,,
 Arezzo - Siena,Chianciano Terme,no,in parte,SI,sì,sì,,
+Arezzo - Siena,ChiancianoTerme,no,sì,,,sì,,
 Arezzo - Siena,Chiusi,no,in parte,SI,sì,sì,,
 Arezzo - Siena,Colle di Val d'Elsa,no,sì,,sì,sì,,
 Arezzo - Siena,Cortona,no,sì,AR,sì,sì,,
@@ -74,7 +75,7 @@ Ascoli Piceno - Macerata,San Benedetto del Tronto,no,sì,,sì,,,
 Asti,ASTI,sì,sì,,sì,sì,,
 Asti,Asti,sì,sì,,,,,sì
 Asti,Canelli,no,sì,,sì,sì,,sì
-Asti,Moncalvo,no,sì,,,,,sì
+Asti,Moncalvo,no,sì,,,sì,,sì
 Asti,Nizza Monferrato,no,sì,,sì,sì,,sì
 Asti,San Damiano d'Asti,no,in parte,,sì,sì,,sì
 Asti,Villanova d'Asti,no,sì,,sì,sì,,sì
@@ -212,20 +213,20 @@ Brescia,Bedizzole,no,sì,,,,sì,sì
 Brescia,Botticino,no,sì,,,sì,sì,
 Brescia,Brescia,sì,sì,,,,sì,sì
 Brescia,Chiari,no,sì,,sì,sì,sì,
-Brescia,Clusane,no,sì,,,,sì,
+Brescia,Clusane,no,sì,,,sì,sì,
 Brescia,Clusane (frazione Iseo),no,sì,,,,sì,sì
-Brescia,Concesio,no,sì,,,,sì,sì
-Brescia,Darfo Boario Terme,no,sì,,,,sì,sì
+Brescia,Concesio,no,sì,,,sì,sì,sì
+Brescia,Darfo Boario Terme,no,sì,,,sì,sì,sì
 Brescia,Desenzano del Garda,no,sì,,sì,sì,sì,sì
 Brescia,Gardone Valtrompia,no,sì,,,,,sì
 Brescia,Ghedi,no,sì,,,sì,sì,
-Brescia,Gussago,no,sì,,,,sì,sì
-Brescia,Iseo,no,sì,,,,sì,sì
+Brescia,Gussago,no,sì,,,sì,sì,sì
+Brescia,Iseo,no,sì,,,sì,sì,sì
 Brescia,Lago d'Iseo,no,no,,sì,,,
 Brescia,Lago di Garda - Valtenesi,no,no,,sì,,,
 Brescia,Lumezzane,no,sì,,sì,sì,sì,sì
 Brescia,Manerbio,no,sì,,sì,sì,sì,sì
-Brescia,Mazzano,no,sì,,,,,sì
+Brescia,Mazzano,no,sì,,,sì,,sì
 Brescia,Montichiari,no,sì,,sì,sì,sì,sì
 Brescia,Nave,no,sì,,,,,sì
 Brescia,Nuvolento,no,sì,,,,,sì
@@ -233,9 +234,10 @@ Brescia,Nuvolera,no,sì,,,,,sì
 Brescia,Palazzolo sull'Oglio,no,sì,,sì,sì,sì,sì
 Brescia,Rezzato,no,sì,,,sì,sì,sì
 Brescia,Roncadelle,no,sì,,,,sì,
-Brescia,Rovato,no,sì,,,,sì,sì
+Brescia,Rovato,no,sì,,,sì,sì,sì
 Brescia,Salò,no,sì,,sì,sì,sì,sì
-Brescia,San Zeno Naviglio,no,sì,,,,sì,sì
+Brescia,San Zeno Naviglio,no,sì,,,sì,sì,sì
+Brescia,Sarezzo,no,sì,,,sì,,
 Brescia,Val Camonica,no,no,,sì,,,
 Brindisi,BRINDISI,sì,sì,,sì,sì,,
 Brindisi,Ceglie Messapica,no,in parte,,sì,sì,,
@@ -962,7 +964,7 @@ Palermo,Bagheria,no,sì,,sì,sì,sì,sì
 Palermo,Carini,no,sì,,,sì,sì,
 Palermo,Cefalù,no,sì,,sì,sì,sì,
 Palermo,Cinisi,no,sì,,,,,sì
-Palermo,Corleone,no,sì,,,,sì,sì
+Palermo,Corleone,no,sì,,,sì,sì,sì
 Palermo,Isola delle Femmine,no,sì,,,,,sì
 Palermo,Monreale,no,sì,,,sì,sì,
 Palermo,PALERMO,sì,sì,,sì,sì,sì,sì
@@ -1018,6 +1020,7 @@ Perugia - Terni,PERUGIA,sì,sì,,sì,,,
 Perugia - Terni,Spoleto,no,sì,,sì,,,
 Perugia - Terni,TERNI,sì,sì,,sì,,,
 Pesaro - Urbino,Fano,no,sì,,sì,sì,,
+Pesaro - Urbino,Marotta - Mondolfo,no,sì,,,sì,,
 Pesaro - Urbino,PESARO,sì,sì,,sì,sì,,
 Pesaro - Urbino,Sant'Angelo in Lizzola,no,sì,,,sì,,
 Pesaro - Urbino,URBINO,sì,sì,,sì,sì,,
@@ -1040,15 +1043,15 @@ Piacenza,Rivergaro,no,sì,,,sì,sì,
 Piacenza,Rottofreno,no,sì,,,sì,sì,
 Piacenza,Rottofreno - San Nicolò a Trebbia,no,sì,,,,,sì
 Piacenza,Vigolzone,no,sì,,,sì,sì,
-Pisa,Bientina,no,sì,,,,sì,sì
+Pisa,Bientina,no,sì,,,sì,sì,sì
 Pisa,Calcinaia,no,sì,,,,sì,sì
 Pisa,Cascina,no,sì,,,sì,sì,sì
-Pisa,Fornacette,no,sì,,,,sì,sì
+Pisa,Fornacette,no,sì,,,sì,sì,sì
 Pisa,PISA,sì,sì,,sì,sì,sì,
 Pisa,Pisa,sì,sì,,,,,sì
 Pisa,Ponsacco,no,sì,,,sì,sì,sì
 Pisa,Pontedera,no,sì,,sì,sì,sì,sì
-Pisa,Vicopisano,no,sì,,,,sì,sì
+Pisa,Vicopisano,no,sì,,,sì,sì,sì
 Pisa,Volterra,no,sì,,,sì,sì,sì
 Pistoia,Monsummanno Terme,no,sì,,,sì,,
 Pistoia,Montale,no,in parte,,sì,sì,,

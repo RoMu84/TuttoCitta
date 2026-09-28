@@ -28,7 +28,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 85/86,Livorno - Pisa,Livorno - Pisa 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,aprile 1985,,LIPI85.jpg,True,accertata
 85/86,Lucca - Massa - Carrara,Lucca - Massa - Carrara 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,aprile 1985,,LUMS85.jpg,True,accertata
 85/86,Pistoia,Pistoia 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
-86/87,Firenze,Firenze 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,80,,febbraio 1986,,FI86.jpg,True,accertata
+86/87,Firenze,Firenze 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,80,,febbraio 1986,riforma cartografica,FI86.jpg,True,accertata
 86/87,Provincia di Firenze,Provincia di Firenze 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,40,,febbraio 1986,,PROVFI86.jpg,True,accertata
 86/87,Arezzo - Siena,Arezzo - Siena 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,aprile 1986,,ARSI86.jpg,True,accertata
 86/87,Grosseto,Grosseto 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,aprile 1986,,GR86.jpg,True,accertata
@@ -68,11 +68,11 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 90/91,Pistoia,Pistoia 90/91,90/91,Copertina 90/91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,16,,aprile 1990,nota dell'editore,PT9091.jpg,True,accertata
 91/92,Firenze e dintorni,Firenze e dintorni 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,72,,febbraio 1991,,FI91.jpg,True,accertata
 91/92,Provincia di Firenze,Provincia di Firenze 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,febbraio 1991,,PROVFI91.jpg,True,accertata
-91/92,Arezzo - Siena,Arezzo - Siena 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,,,,,Ricercato1.jpg,False,accertata
+91/92,Arezzo - Siena,Arezzo - Siena 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,aprile 1991,,ARSI91.jpg,True,accertata
 91/92,Grosseto,Grosseto 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,16,,aprile 1991,,GR91.jpg,True,accertata
 91/92,Livorno,Livorno 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,aprile 1991,,LI91.jpg,True,accertata
 91/92,Pisa,Pisa 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,16,,aprile 1991,,PI91.jpg,True,accertata
-91/92,Lucca - Massa - Carrara,Lucca - Massa - Carrara 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,,,,,Ricercato1.jpg,False,accertata
+91/92,Lucca - Massa - Carrara,Lucca - Massa - Carrara 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,aprile 1991,,LUMS91.jpg,True,accertata
 91/92,Pistoia,Pistoia 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,16,,aprile 1991,,PT91.jpg,True,accertata
 92/93,Firenze e dintorni,Firenze e dintorni 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,72,,febbraio 1992,,FI92.jpg,True,accertata
 92/93,Provincia di Firenze,Provincia di Firenze 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,,febbraio 1992,,PROVFI92.jpg,True,accertata
@@ -123,10 +123,10 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 97/98,Lucca - Massa - Carrara,Lucca - Massa - Carrara 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
 97/98,Pistoia,Pistoia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,,maggio 1997,Cambio formato,PT97.jpg,True,accertata
 98/99,Firenze e dintorni,Firenze e dintorni (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,70,,marzo 1998,"""da utilizzare fino ad Agosto 1999""",FI98.jpg,True,accertata
-98/99,Prato - Provincia di Firenze,Prato - Provincia di Firenze (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino ad Agosto 1999""",Ricercato1.jpg,False,accertata
-98/99,Pisa,Pisa (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino ad Agosto 1999""",Ricercato1.jpg,False,accertata
+98/99,Prato - Provincia di Firenze,Prato - Provincia di Firenze (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,marzo 1998,"""da utilizzare fino ad Agosto 1999""",PROVFI98.jpg,True,accertata
+98/99,Pisa,Pisa (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,30,,maggio 1998,"""da utilizzare fino ad Agosto 1999""",PI98.jpg,True,accertata
 98/99,Lucca - Massa - Carrara,Lucca - Massa - Carrara (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino ad Agosto 1999""",Ricercato1.jpg,False,accertata
-98/99,Pistoia,Pistoia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino ad Agosto 1999""",Ricercato1.jpg,False,accertata
+98/99,Pistoia,Pistoia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,22,,maggio 1998,"""da utilizzare fino ad Agosto 1999""",PT98.jpg,True,accertata
 99/00,Firenze e dintorni,Firenze e dintorni 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,70,,marzo 1999,,FI9900.jpg,True,accertata
 99/00,Prato - Provincia di Firenze,Prato - Provincia di Firenze 1999/2000,99/00,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Pisa,Pisa 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata

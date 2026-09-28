@@ -69,6 +69,9 @@ annata,fascicolo,provincia,citta,indicizzata
 90/91,Ancona,Ancona,Jesi,sì
 90/91,Ancona,Ancona,Osimo,sì
 90/91,Ancona,Ancona,Senigallia,sì
+90/91,Ascoli Piceno,Ascoli Piceno,Ascoli Piceno,sì
+90/91,Ascoli Piceno,Ascoli Piceno,Fermo,sì
+90/91,Ascoli Piceno,Ascoli Piceno,San Benedetto del Tronto,sì
 90/91,Macerata,Macerata,Macerata,sì
 90/91,Macerata,Macerata,Civitanova Marche,sì
 90/91,Macerata,Macerata,Tolentino,sì
@@ -156,6 +159,17 @@ annata,fascicolo,provincia,citta,indicizzata
 96/97,Macerata,Macerata,Macerata,sì
 96/97,Macerata,Macerata,Civitanova Marche,sì
 96/97,Macerata,Macerata,Tolentino,sì
+98/99,Ancona,Ancona,Ancona,sì
+98/99,Ancona,Ancona,Fabriano,sì
+98/99,Ancona,Ancona,Falconara Marittima,sì
+98/99,Ancona,Ancona,Jesi,sì
+98/99,Ancona,Ancona,Osimo,sì
+98/99,Ancona,Macerata,Recanati,sì
+98/99,Ancona,Ancona,Senigallia,sì
+98/99,Pesaro - Urbino,Pesaro,Pesaro,sì
+98/99,Pesaro - Urbino,Pesaro,Fano,sì
+98/99,Pesaro - Urbino,Pesaro,Marotta - Mondolfo,sì
+98/99,Pesaro - Urbino,Pesaro,URBINO,sì
 00/01,Ancona,Ancona,Ancona,sì
 00/01,Ancona,Ancona,Fabriano,sì
 00/01,Ancona,Ancona,Falconara Marittima,sì

@@ -20,8 +20,8 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 84/85,Trapani,Trapani 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1984,Inserto Costituzione,ENRGSR85.jpg,True,accertata
 84/85,Messina,Messina 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
-85/86,Palermo,Palermo 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,72,,settembre 1985,,PA86.jpg,True,accertata
-85/86,Catania,Catania 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,56,,settembre 1985,,CT86.jpg,True,accertata
+85/86,Palermo,Palermo 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,72,,settembre 1985,riforma cartografica,PA86.jpg,True,accertata
+85/86,Catania,Catania 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,56,,settembre 1985,riforma cartografica,CT86.jpg,True,accertata
 85/86,Agrigento - Caltanissetta,Agrigento - Caltanissetta 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 85/86,Trapani,Trapani 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,16,,settembre 1985,,TP86.jpg,True,accertata
 85/86,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1985,,ENRGSR86.jpg,True,accertata
@@ -107,7 +107,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 97/98,Ragusa - Siracusa,Ragusa - Siracusa (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,38,,ottobre 1997,"""dicembre 1997 - novembre 1998""",RGSR97b.jpg,True,accertata
 97/98,Caltanissetta - Enna,Caltanissetta - Enna (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,30,,ottobre 1997,"""dicembre 1997 - novembre 1998""",CLEN97b.jpg,True,accertata
 97/98,Messina,Messina (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,38,,ottobre 1997,"""dicembre 1997 - novembre 1998""",ME97b.jpg,True,accertata
-98/99,Palermo,Palermo (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino a Gennaio 2000""",Ricercato1.jpg,False,accertata
+98/99,Palermo,Palermo (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,78,,ottobre 1998,"""da utilizzare fino a Gennaio 2000""",PA98.jpg,True,accertata
 98/99,Catania,Catania (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,62,,ottobre 1998,"""da utilizzare fino a Gennaio 2000""",CT98.jpg,True,accertata
 99/00,Palermo,Palermo 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata
 99/00,Catania,Catania 1999/2000,99/00,,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata

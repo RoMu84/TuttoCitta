@@ -15,7 +15,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 84/85,Brindisi - Lecce,Brindisi - Lecce 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Foggia,Foggia 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Taranto,Taranto 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
-85/86,Bari,Bari 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,65,novembre 1985,,BA86.jpg,True,accertata
+85/86,Bari,Bari 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,64,65,novembre 1985,riforma cartografica,BA86.jpg,True,accertata
 85/86,Brindisi - Lecce,Brindisi - Lecce 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 85/86,Foggia,Foggia 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 85/86,Taranto,Taranto 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
@@ -40,7 +40,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 90/91,Bari,Bari 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,72,,dicembre 1990,,BA91.jpg,True,accertata
 90/91,Brindisi,Brindisi 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,novembre 1990,,BR91.jpg,True,accertata
 90/91,Lecce,Lecce 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,novembre 1990,,LE91.jpg,True,accertata
-90/91,Foggia,Foggia 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,,,,,Ricercato1.jpg,False,accertata
+90/91,Foggia,Foggia 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,novembre 1990,,FG91.jpg,True,accertata
 90/91,Taranto,Taranto 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,32,,dicembre 1990,,TA91.jpg,True,accertata
 91/92,Bari,Bari 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,72,,novembre 1991,,BA92.jpg,True,accertata
 91/92,Brindisi,Brindisi 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,novembre 1991,,BR92.jpg,True,accertata
@@ -81,7 +81,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 98/99,Lecce,Lecce (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino a Luglio 1999""",Ricercato1.jpg,False,accertata
 99/00,Bari,Bari 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,62,,novembre 1999,,BA00.jpg,True,accertata
 99/00,Lecce,Lecce 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
-00/01,Bari,Bari ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,,,Ricercato1.jpg,False,accertata
+00/01,Bari,Bari ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 00/01,Lecce,Lecce ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 01/02,Bari,Bari 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 01/02,Lecce,Lecce 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata

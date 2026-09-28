@@ -44,7 +44,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 97/98,Udine,Udine 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,31,aprile 1997,Cambio formato,UD97.jpg,True,accertata
 97/98,Pordenone,Pordenone 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
 98/99,Gorizia - Trieste,Gorizia - Trieste (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,aprile 1998,"""da utilizzare fino a Luglio 1999"" * Grande aumento topografia Trieste",GOTS98.jpg,True,accertata
-98/99,Udine,Udine (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino a Luglio 1999""",Ricercato1.jpg,False,accertata
+98/99,Udine,Udine (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,30,31,aprile 1998,"""da utilizzare fino a Luglio 1999""",UD98.jpg,True,accertata
 99/00,Gorizia - Trieste,Gorizia - Trieste 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,54,,aprile 1999,,GOTS99.jpg,True,accertata
 99/00,Udine,Udine 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,30,31,aprile 1999,,UD99.jpg,True,accertata
 00/01,Gorizia - Trieste,Gorizia - Trieste 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,46,47,aprile 2000,,GOTS00.jpg,True,accertata
