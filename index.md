@@ -74,7 +74,7 @@ continuazione: documenta soltanto il prodotto editoriale a stampa pubblicato fra
 
 Dati e testi: **CC BY 4.0**. Attribuzione: Roberto Mura.
 
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.4.
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.5.
 Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
 
 **Le riproduzioni e le trascrizioni fanno eccezione.** Le fotografie di copertine e di cartografia e le

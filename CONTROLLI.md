@@ -6,15 +6,9 @@ Generati automaticamente dal foglio di lavoro. Ogni scostamento è un punto da v
 
 | annata | totale dichiarato | accertati in matrice | scostamento | totale marcato incerto |
 |---|---|---|---|---|
-| 98/99 | 43 | 44 | +1 | sì |
 | 99/00 | 42 | 39 | -3 | no |
-| 10/11 | 38 | 39 | +1 | no |
-| 11/12 | 38 | 39 | +1 | no |
-| 12/13 | 38 | 39 | +1 | no |
-| 13/14 | 38 | 39 | +1 | no |
-| 14/15 | 38 | 34 | -4 | no |
 
-Annate con scostamento: **7** su 34.
+Annate con scostamento: **1** su 34.
 
 Uno scostamento positivo significa che la matrice registra più fascicoli del totale dichiarato: possibile doppio conteggio fra una riga di raggruppamento e le righe delle sue componenti nella stessa annata. Uno scostamento negativo significa che il totale dichiarato è una stima superiore a quanto la matrice attesti.
 
@@ -22,7 +16,7 @@ Uno scostamento positivo significa che la matrice registra più fascicoli del to
 
 Il censimento identifica ogni fascicolo con un nome stabile lungo tutta la sua storia, perché un
 periodico che cambia titolo resta lo stesso periodico. Il campo `denominazione` del CSV lungo riporta
-invece **il titolo in vigore in quella singola annata**, e differisce dal nome di censimento in 234 celle
+invece **il titolo in vigore in quella singola annata**, e differisce dal nome di censimento in 261 celle
 su 1.990.
 
 Le variazioni sono di due tipi. Le **variazioni di raggruppamento** seguono le riforme amministrative:
