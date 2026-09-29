@@ -55,7 +55,8 @@ Uno scarto di una pagina riguarda dunque la sola terza di copertina. Uno scarto 
 invece che è impegnata anche la quarta di copertina; quest'ultimo fatto accade però soltanto nei
 fascicoli con layout *TuttoCittà metà duemila*, in uso nel biennio 2004/05–2005/06: `62 (64)` è un
 fascicolo di sessantadue pagine che occupa entrambe le facciate finali con contenuti propri,
-tipicamente l'elenco delle vie.
+tipicamente l'elenco delle vie. L'unica eccezione nota è *Trento 84*, di layout *TuttoCittà '80
+classico*, con foliazione `16 (18)`.
 
 Nei csv i due numeri stanno in colonne separate, `pagine_totali` e `pagine_comprese_copertine`, così
 che il conteggio regolare resti confrontabile fra fascicoli.
