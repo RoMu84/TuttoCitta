@@ -221,7 +221,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 <figcaption>Copertina del fascicolo Cuneo 90</figcaption>
 </figure>
 <figure class="figura">
-<img src="../immagini/NO91.jpg" alt="Copertina del fascicolo Novara 90" loading="lazy">
+<img src="../immagini/NO90.jpg" alt="Copertina del fascicolo Novara 90" loading="lazy">
 <figcaption>Copertina del fascicolo Novara 90</figcaption>
 </figure>
 <figure class="figura">
