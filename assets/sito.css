@@ -87,6 +87,8 @@ table.fascicoli-dettaglio td.tav { text-align:center; }
    stretta anche per le regioni con molti fascicoli sulla stessa riga. */
 .quadro-tavole { display:inline-block; width:22px; height:22px; border:1px solid #9aa3ab;
   border-radius:2px; }
+/* Nelle annate ibride le serie sono due, e i quadrati stanno uno sopra l'altro. */
+.quadro-tavole + br + .quadro-tavole { margin-top:3px; }
 table.fascicoli-dettaglio td.fasc { width:236px; text-align:center; }
 table.fascicoli-dettaglio td.fasc.vuota { border-left:0; }
 /* Colonna di un fascicolo non in raccolta: la copertina e un segnaposto. */
