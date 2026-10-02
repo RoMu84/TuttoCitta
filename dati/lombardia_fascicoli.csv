@@ -170,7 +170,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 98/99,Lodi - Provincia di Milano,Lodi - Provincia di Milano (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,110,,marzo 1998,"""aprile 1998 - marzo 1999""; copertina in due varianti",PROVMI98.jpg,True,accertata
 98/99,Bergamo,Bergamo (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,luglio 1998,"""da utilizzare fino a Ottobre 1999""",BG98.jpg,True,accertata
 98/99,Brescia,Brescia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,62,,maggio 1998,"""da utilizzare fino a Ottobre 1999""",BS98.jpg,True,accertata
-98/99,Como - Lecco,Como - Lecco (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,86,,maggio 1998,"""da utilizzare fino a Settembre 1999""",CO98.jpg,True,accertata
+98/99,Como - Lecco,Como - Lecco (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,86,,maggio 1998,"""da utilizzare fino a Settembre 1999""",COLC98.jpg,True,accertata
 98/99,Sondrio,Sondrio (98),98,,,,,,,,,Dubbio1.jpg,False,dubbia
 98/99,Cremona,Cremona (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,22,,giugno 1998,"""da utilizzare fino a Settembre 1999""",CR98.jpg,True,accertata
 98/99,Mantova,Mantova (98),98,,,,,,,,,Dubbio1.jpg,False,dubbia
@@ -181,7 +181,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 99/00,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 1999/2000,99/00,,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
 99/00,Bergamo,Bergamo 1999/2000,99/00,,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
 99/00,Brescia,Brescia 1999/2000,99/00,,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
-99/00,Como - Lecco,Como - Lecco 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,92,,maggio 1999,,CO9900.jpg,True,accertata
+99/00,Como - Lecco,Como - Lecco 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,92,,maggio 1999,,COLC9900.jpg,True,accertata
 99/00,Sondrio,Sondrio 1999/2000,99/00,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Cremona,Cremona 1999/2000,99/00,,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
 99/00,Mantova,Mantova 1999/2000,99/00,,,,,,,,,Dubbio1.jpg,False,dubbia
@@ -219,7 +219,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 03/04,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 03/04,Bergamo,Bergamo ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 03/04,Brescia,Brescia ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-03/04,Como - Lecco,Como - Lecco 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,78,79,luglio 2003,,CO0304.jpg,True,accertata
+03/04,Como - Lecco,Como - Lecco 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,78,79,luglio 2003,,COLC0304.jpg,True,accertata
 03/04,Cremona,Cremona ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 03/04,Pavia,Pavia 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,22,23,agosto 2003,,PV0304.jpg,True,accertata
 03/04,Varese,Varese ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
@@ -237,7 +237,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 05/06,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
 05/06,Bergamo,Bergamo 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
 05/06,Brescia,Brescia 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-05/06,Como - Lecco,Como - Lecco 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,70,71,luglio 2005,,CO05.jpg,True,accertata
+05/06,Como - Lecco,Como - Lecco 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,70,71,luglio 2005,,COLC05.jpg,True,accertata
 05/06,Cremona,Cremona 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
 05/06,Pavia,Pavia 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,22,24,agosto 2005,,PV05.jpg,True,accertata
 05/06,Varese,Varese 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
@@ -246,7 +246,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 06/07,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 06/07,Bergamo,Bergamo 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,40,,settembre 2006,,BG06.jpg,True,accertata
 06/07,Brescia,Brescia 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-06/07,Como - Lecco,Como - Lecco 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,72,,agosto 2006,,CO06.jpg,True,accertata
+06/07,Como - Lecco,Como - Lecco 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,72,,agosto 2006,,COLC06.jpg,True,accertata
 06/07,Cremona,Cremona 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 06/07,Pavia,Pavia 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,25,settembre 2006,,PV06.jpg,True,accertata
 06/07,Varese,Varese 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,56,,agosto 2006,,VA06.jpg,True,accertata
@@ -255,7 +255,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 07/08,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 07/08,Bergamo,Bergamo 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 07/08,Brescia,Brescia 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-07/08,Como - Lecco,Como - Lecco 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,64,65,luglio 2007,,CO07.jpg,True,accertata
+07/08,Como - Lecco,Como - Lecco 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,64,65,luglio 2007,,COLC07.jpg,True,accertata
 07/08,Cremona,Cremona 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 07/08,Pavia,Pavia 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,25,agosto 2007,,PV07.jpg,True,accertata
 07/08,Varese,Varese 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
@@ -264,7 +264,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 08/09,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,32,33,maggio 2008,,LOPROVMIS0809.jpg,True,accertata
 08/09,Bergamo,Bergamo 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 08/09,Brescia,Brescia 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,40,,luglio 2008,,BS0809.jpg,True,accertata
-08/09,Como - Lecco,Como - Lecco 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,64,65,luglio 2008,,CO0809.jpg,True,accertata
+08/09,Como - Lecco,Como - Lecco 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,64,65,luglio 2008,,COLC0809.jpg,True,accertata
 08/09,Cremona,Cremona 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 08/09,Pavia,Pavia 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 08/09,Varese,Varese 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
@@ -292,7 +292,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 11/12,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 11/12,Bergamo,Bergamo 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 11/12,Brescia,Brescia 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
-11/12,Como - Lecco,Como - Lecco 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,luglio 2011,,CO1112.jpg,True,accertata
+11/12,Como - Lecco,Como - Lecco 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,luglio 2011,,COLC1112.jpg,True,accertata
 11/12,Cremona,Cremona 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 11/12,Mantova,Mantova 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 11/12,Pavia,Pavia 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
@@ -302,7 +302,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 12/13,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 12/13,Bergamo,Bergamo 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 12/13,Brescia,Brescia 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
-12/13,Como - Lecco,Como - Lecco 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,giugno 2012,,CO1213.jpg,True,accertata
+12/13,Como - Lecco,Como - Lecco 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,giugno 2012,,COLC1213.jpg,True,accertata
 12/13,Cremona,Cremona 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 12/13,Mantova,Mantova 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 12/13,Pavia,Pavia 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
@@ -312,7 +312,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 13/14,Lodi - Provincia di Milano Sud,Lodi - Provincia di Milano Sud 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 13/14,Bergamo,Bergamo 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 13/14,Brescia,Brescia 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
-13/14,Como - Lecco,Como - Lecco 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,56,,giugno 2013,,CO1314.jpg,True,accertata
+13/14,Como - Lecco,Como - Lecco 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,56,,giugno 2013,,COLC1314.jpg,True,accertata
 13/14,Cremona,Cremona 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 13/14,Mantova,Mantova 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 13/14,Pavia,Pavia 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
