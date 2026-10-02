@@ -327,6 +327,9 @@ figure.figura figcaption { font-size:13px; line-height:1.45; margin-top:9px; max
 figure.figura.doppia figcaption { max-width:440px; }
 /* Due figure appaiate, come nella galleria delle copertine. */
 .coppia { display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start; margin:26px 0 32px; }
+/* Piu immagini con una didascalia sola: un confronto, non due figure. */
+figure.figura.gruppo .immagini { display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start; }
+figure.figura.gruppo figcaption { max-width:470px; }
 .coppia figure.figura { margin:0; }
 /* Blocchi richiudibili: le griglie e gli elenchi lunghi restano chiusi. */
 /* Chiuso il cassetto è una riga di testo, e sta nella misura del testo; aperto
