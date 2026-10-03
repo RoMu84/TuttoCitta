@@ -2,7 +2,7 @@
 
 Questa pagina fornisce le principali chiavi di lettura per comprendere l'organizzazione generale del
 prodotto editoriale, attraverso alcune regole di base. I dati derivano da una raccolta privata di
-oltre 1.300 esemplari, da dati incrociati con altre raccolte e immagini, nonché dalle regolarità
+**oltre 1.300 esemplari** (in continua crescita), da dati incrociati con altre raccolte e immagini, nonché dalle regolarità
 editoriali osservate nelle pubblicazioni.
 
 [TOC]
