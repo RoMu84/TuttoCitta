@@ -47,3 +47,11 @@ molto probabile che in casa ce ne sia qualcuno.
 Se hai fascicoli di cui vorresti liberarti, scrivimi prima di buttarli: anche un esemplare in
 condizioni non ottimali porta con sé un colophon, una copertina e un anno, e può chiudere una casella
 rimasta vuota per quarant'anni.
+
+## Lo stato attuale della raccolta
+
+In [questa pagina](raccolta.md) è possibile consultare per intero le copertine di tutti i fascicoli
+presenti attualmente nella raccolta. Per ogni regione è stata predisposta una pagina che include una
+descrizione delle annate, una tabella con le copertine dei fascicoli in raccolta, la tabella delle città
+cartografate anno per anno, un indice annuale di tutti gli articoli della rubrica degli anni '90 e,
+quando presenti, le anomalie di produzione; sono anche inclusi i file .csv dei dati di ogni fascicolo.

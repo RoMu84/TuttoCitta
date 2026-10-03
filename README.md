@@ -4,7 +4,7 @@ Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, sup
 Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014, poi confluito nel volume unico
 *Pagine Bianche Pagine Gialle Tuttocittà*.
 
-**1.995 fascicoli accertati** — 1.994 edizioni ordinarie più 1 straordinaria — su 34 annate,
+**1.990 fascicoli accertati** — 1.989 edizioni ordinarie più 1 straordinaria — su 34 annate,
 20 regioni e 115 raggruppamenti provinciali.
 
 Registrazione della testata: Tribunale di Torino n. 3026 del 1981. Stampatore: ILTE, Moncalieri.
@@ -31,17 +31,24 @@ dati/
   aggregati_per_annata.csv     calendario editoriale e foliazione
   attributi_grafici_per_annata.csv   sfondo delle mappe, cornice, foto dello stradario
   comuni_per_fascicolo.csv     indice delle località mappate, per decennio
-  sardegna_fascicoli.csv       censimento di dettaglio: un fascicolo per riga
-  sardegna_sezioni.csv         censimento di dettaglio: una sezione per riga
-  sardegna_contenuti.csv       censimento di dettaglio: un titolo per riga
-  sardegna_cartografia.csv     censimento di dettaglio: una città cartografata per riga
+  <regione>_fascicoli.csv      censimento di dettaglio: un fascicolo per riga
+  <regione>_cartografia.csv    censimento di dettaglio: una città cartografata per riga
+  <regione>_articoli.csv       censimento di dettaglio: un titolo della rubrica per riga
+                               — venti regioni; per la Sardegna il prefisso è sardegna-raccolta
+  roma_*.csv                   Speciale: Roma città — fascicoli, cartografia, articoli
+  sardegna_*.csv               la Sardegna completa: fascicoli, sezioni, contenuti, cartografia
 pagine/
-  index.md                     introduzione e convenzioni di lettura
+  index.md                     introduzione e chiavi di lettura: annate, foliazione, stati
+  raccolta.md                  la raccolta, e le pagine di dettaglio delle regioni
+  <regione>.md                 censimento di dettaglio di una regione
+  sardegna-completo.md         la Sardegna, unica regione di cui la raccolta ha tutti i fascicoli
+  roma.md                      Speciale: Roma città
   copertine.md                 galleria delle copertine, annata per annata
   sezioni.md                   la scaletta interna del fascicolo nelle tre serie classiche
   tavole.md                    l'evoluzione delle tavole cartografiche
+  tabella-layout.md            i quattordici layout di impaginazione
+  inserti.md, stradarioseat.md gli inserti staccabili e lo Stradario SEAT
   note-editore.md              le due note con cui l'editore presentò e riformò il prodotto
-  sardegna.md                  censimento di dettaglio di una regione a serie completa
   questioni-aperte.md          ciò che non sappiamo, con l'invito a segnalare
   come-contribuire.md          segnalare un fascicolo, cedere o donare fascicoli
   cerca-fascicoli.md           interrogazione del censimento dal browser
@@ -63,6 +70,8 @@ CONTROLLI.md                   rapporto di integrità generato dai dati
 | `tipo_copertina` | tipo di copertina, ricavato dall'incrocio fra annata e anno di copertina |
 | `tipo_edizione` | `ordinaria` oppure `straordinaria` per le edizioni commemorative fuori perimetro |
 | `colore_esadecimale` | colore con cui la cella è codificata nel foglio originale |
+| `ambito` | `intero`, `dintorni` o `provincia`: se il fascicolo copriva la provincia intera, i soli dintorni del capoluogo o la sola provincia senza il capoluogo; non dipende dal titolo |
+| `nota` | spiegazione della cella, quando serve — per esempio i fascicoli rilegati dentro le Pagine Gialle |
 
 ## Convenzioni di lettura
 
@@ -85,7 +94,7 @@ province allora esistenti.
 
 ## Metodo e limiti
 
-I dati derivano da una collezione privata di oltre 1.200 esemplari, da dati incrociati con altri
+I dati derivano da una collezione privata di oltre 1.300 esemplari, da dati incrociati con altri
 raccoglitori e dalle regolarità editoriali riscontrate nelle pubblicazioni dal 1981 al 1997, che in
 quel periodo sono sufficientemente stabili da permettere la ricostruzione delle annate mancanti.
 
@@ -97,12 +106,13 @@ esemplare comporta l'aggiornamento del dato, non una difesa della ricostruzione.
 
 **L'annata 1998/1999 resta la più incerta di tutto il ciclo.** Fra i 87 fascicoli del 1997/98 e i 42
 del 1999/2000 — questi ultimi documentati dal bilancio d'esercizio 1998 della SEAT Pagine Gialle — il numero
-intermedio non è determinabile: sta fra 42 e 70 — il massimo scende da 87 perché di diciassette
+intermedio non è determinabile: sta fra 44 e 70 — il minimo è il numero dei fascicoli accertati, il
+massimo scende da 87 perché di diciassette
 edizioni è accertato che non furono pubblicate — e le fonti d'epoca non lo dichiarano. Vedi
 `pagine/questioni-aperte.md`.
 
 **Resta un solo scostamento su trentaquattro annate, e non è un errore.** Nel 1999/2000 la matrice
-identifica 40 fascicoli contro i 42 documentati dal bilancio d'esercizio 1998 della SEAT Pagine Gialle: i due di
+identifica 39 fascicoli contro i 42 documentati dal bilancio d'esercizio 1998 della SEAT Pagine Gialle: i tre di
 differenza sono edizioni la cui esistenza è certa e la cui identità non è nota. Lo scostamento misura
 dunque ciò che ancora manca, e va letto come un'informazione.
 
@@ -122,22 +132,28 @@ copertina predefinita dall'editore.
 ## Il censimento di dettaglio
 
 Al censimento dei fascicoli si affianca un **censimento di dettaglio**, che descrive l'organizzazione
-interna dei fascicoli: rubriche, contenuti e cartografia, fascicolo per fascicolo e pagina per pagina.
-Per ora riguarda la sola **Sardegna**, unica regione di cui la raccolta possieda tutti i fascicoli
-accertati — 48 su 48 — perché il confronto fra un'annata e la successiva richiede una serie senza
-lacune.
+interna dei fascicoli regione per regione. Riguarda **sedici regioni** — Abruzzo, Basilicata, Calabria,
+Campania, Friuli - Venezia Giulia, Lazio, Liguria, Marche, Molise, Puglia, Sardegna, Sicilia, Toscana,
+Umbria, Valle d'Aosta e Veneto — più **Roma**, la città più riccamente cartografata della collana.
 
-I quattro file `sardegna_*.csv` registrano 48 fascicoli con foliazione, layout e formato; 872
-occorrenze di sezione riconducibili a 63 rubriche distinte; 1.839 titoli di contenuto; 463 righe di
-cartografia, una per città cartografata in ogni fascicolo, con il numero di tavole, le pagine occupate
-e la collocazione dell'elenco delle vie.
+Per ciascuna regione tre file registrano i fascicoli, con copertina, formato, layout, foliazione e mese
+di aggiornamento; le città cartografate, una riga per città e per fascicolo; i titoli degli articoli
+della rubrica dal 1990/91 al 1997/98. In tutto sono 2.011 fascicoli, 11.282 righe di cartografia e 5.850
+titoli. Le pagine delle regioni di cui la raccolta non possiede tutti i fascicoli lo dichiarano: le celle
+dei fascicoli mancanti sono segnate come lacune, non come assenze.
 
-Due avvertenze per chi riusa questi file. Il campo `nome_normalizzato` delle sezioni svolge per le
-rubriche la stessa funzione che il nome di censimento svolge per i fascicoli: l'editore rinominava le
-rubriche senza cambiarne il contenuto, e i titoli di copertina da soli farebbero morire e rinascere
-sezioni che invece duravano vent'anni. Il campo `origine` distingue inoltre le righe rilevate
-direttamente da quelle dedotte per regola: sessantacinque righe di elenco delle vie non hanno una
-sezione propria nel fascicolo e sono ricavate dalla descrizione della cartografia.
+La **Sardegna**, unica regione di cui la raccolta possieda tutti i fascicoli accertati, ha anche una
+descrizione più fine, pagina per pagina: i quattro file `sardegna_*.csv` registrano 48 fascicoli, 872
+occorrenze di sezione riconducibili a 63 rubriche, i titoli di contenuto e le righe di cartografia con
+numero di tavole, pagine occupate e collocazione dell'elenco delle vie.
+
+Tre avvertenze per chi riusa questi file. La **foliazione** è scritta nella forma `24 (25)` quando la
+terza di copertina — nel layout *metà duemila* anche la quarta — porta contenuto proprio del fascicolo:
+i due numeri stanno in `pagine_totali` e `pagine_comprese_copertine`, e la regola è spiegata
+nell'introduzione. Ogni comune ha nei file la **provincia della sua prima comparsa**, che per Crotone, Prato
+o Barletta è quella da cui la provincia nuova si è staccata. Nei file sardi, infine, il campo
+`nome_normalizzato` delle sezioni svolge per le rubriche la funzione che il nome di censimento svolge per
+i fascicoli, e il campo `origine` distingue le righe rilevate da quelle dedotte per regola.
 
 ## Riproducibilità
 
@@ -150,7 +166,7 @@ invece di propagarsi nei dati.
 
 ## Citazione
 
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.4.
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.5.
 Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
 
 ## Licenza

@@ -16,7 +16,7 @@ Uno scostamento positivo significa che la matrice registra più fascicoli del to
 
 Il censimento identifica ogni fascicolo con un nome stabile lungo tutta la sua storia, perché un
 periodico che cambia titolo resta lo stesso periodico. Il campo `denominazione` del CSV lungo riporta
-invece **il titolo in vigore in quella singola annata**, e differisce dal nome di censimento in 261 celle
+invece **il titolo in vigore in quella singola annata**, e differisce dal nome di censimento in 258 celle
 su 1.990.
 
 Le variazioni sono di due tipi. Le **variazioni di raggruppamento** seguono le riforme amministrative:

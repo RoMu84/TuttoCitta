@@ -191,8 +191,7 @@ Bologna e dintorni,Calderara di Reno,no,sì,,,sì,sì,sì
 Bologna e dintorni,Casalecchio di Reno,no,sì,,,sì,sì,sì
 Bologna e dintorni,Castel Maggiore,no,sì,,,sì,sì,sì
 Bologna e dintorni,Castenaso,no,sì,,,sì,sì,sì
-Bologna e dintorni,Granarolo dell'Emilia,no,sì,,,sì,sì,
-Bologna e dintorni,Granarolo nell'Emilia,no,sì,,,,sì,sì
+Bologna e dintorni,Granarolo dell'Emilia,no,sì,,,sì,sì,sì
 Bologna e dintorni,San Lazzaro di Savena,no,sì,,,sì,sì,sì
 Bologna e dintorni,Villanova,no,sì,,,sì,sì,sì
 Bologna e dintorni,Zola Predosa,no,sì,,,sì,sì,sì
@@ -486,16 +485,14 @@ Ferrara,Copparo,no,sì,,,sì,sì,sì
 Ferrara,FERRARA,sì,sì,,sì,sì,sì,sì
 Ferrara,Le Valli di Comacchio,no,no,,sì,,,
 Ferrara,Lidi Comacchiesi,no,sì,,sì,,,
-Ferrara,Lidi di Pomposa,no,sì,,,sì,sì,
 Ferrara,Lido degli Estensi,no,sì,,,sì,sì,sì
+Ferrara,Lido degli Scacchi,no,sì,,,sì,sì,
 Ferrara,Lido delle Nazioni,no,sì,,,sì,sì,sì
 Ferrara,Lido di Pomposa,no,sì,,,sì,sì,
 Ferrara,Lido di Spina,no,sì,,,sì,sì,
 Ferrara,Lido di Volano,no,sì,,,sì,sì,sì
 Ferrara,Porto Garibaldi,no,sì,,,sì,sì,
 Ferrara,Portomaggiore,no,sì,,sì,sì,sì,
-Ferrara,Scacchi,no,sì,,,sì,sì,
-Ferrara,degli Scacchi,no,sì,,,sì,sì,
 Firenze,Bagno a Ripoli,no,sì,,,,,sì
 Firenze,Empoli,no,sì,,sì,,,
 Firenze,FIRENZE,sì,sì,,sì,,,sì
@@ -524,8 +521,17 @@ Forlì - Cesena - Rimini - San Marino,Cesena,no,sì,,,sì,,
 Forlì - Cesena - Rimini - San Marino,Cesenatico,no,sì,,,sì,,
 Forlì - Cesena - Rimini - San Marino,FORLÌ,sì,sì,,,sì,,
 Forlì - Cesena - Rimini - San Marino,REPUBBLICA DI SAN MARINO,sì,sì,,,sì,,
-Forlì - Cesena - Rimini - San Marino,RICCIONE,sì,sì,,,sì,,
 Forlì - Cesena - Rimini - San Marino,RIMINI,sì,sì,,,sì,,
+Forlì - Cesena - Rimini - San Marino,Riccione,no,sì,,,sì,,
+Forlì - Ravenna - San Marino,Cervia,no,sì,,sì,,,
+Forlì - Ravenna - San Marino,Cesena,no,sì,,sì,,,
+Forlì - Ravenna - San Marino,Cesenatico,no,sì,,sì,,,
+Forlì - Ravenna - San Marino,FORLÌ,sì,sì,,sì,,,
+Forlì - Ravenna - San Marino,Faenza,no,sì,,sì,,,
+Forlì - Ravenna - San Marino,RAVENNA,sì,sì,,sì,,,
+Forlì - Ravenna - San Marino,REPUBBLICA DI SAN MARINO,sì,sì,,sì,,,
+Forlì - Ravenna - San Marino,Riccione,no,sì,,sì,,,
+Forlì - Ravenna - San Marino,Rimini,no,sì,,sì,,,
 Forlì - San Marino,Cesena,no,sì,,sì,sì,,
 Forlì - San Marino,Cesenatico,no,in parte,,sì,sì,,
 Forlì - San Marino,FORLÌ,sì,sì,,sì,sì,,
@@ -865,8 +871,7 @@ Modena,Maranello,no,in parte,,sì,sì,sì,sì
 Modena,Mirandola,no,in parte,,sì,sì,sì,sì
 Modena,Modena,sì,sì,,,,,sì
 Modena,Nonantola,no,sì,,,,sì,sì
-Modena,Pavullo,no,no,,sì,,,
-Modena,Pavullo nel Frignano,no,sì,,,sì,sì,sì
+Modena,Pavullo nel Frignano,no,in parte,,sì,sì,sì,sì
 Modena,Sassuolo,no,sì,,sì,sì,sì,sì
 Modena,Soliera,no,in parte,,sì,sì,sì,sì
 Modena,Spilamberto,no,sì,,sì,sì,sì,sì
@@ -1024,16 +1029,16 @@ Pesaro - Urbino,PESARO,sì,sì,,sì,sì,,
 Pesaro - Urbino,Sant'Angelo in Lizzola,no,sì,,,sì,,
 Pesaro - Urbino,URBINO,sì,sì,,sì,sì,,
 Piacenza,Bobbio,no,sì,,,,,sì
-Piacenza,Borgonova Val Tidone,no,sì,,,sì,,
-Piacenza,Borgonovo Val Tidone,no,sì,,,,sì,
+Piacenza,Borgonovo Val Tidone,no,sì,,,sì,sì,
 Piacenza,Cadeo,no,sì,,,sì,sì,
 Piacenza,Caorso,no,sì,,,sì,sì,
 Piacenza,Carpaneto Piacentino,no,sì,,,sì,sì,sì
 Piacenza,Castel San Giovanni,no,sì,,sì,sì,sì,
 Piacenza,Castell'Arquato,no,sì,,,sì,sì,
-Piacenza,Fiorenzuola D'Arda,no,sì,,,sì,sì,sì
+Piacenza,Fiorenzuola D'Arda,no,sì,,,,sì,sì
 Piacenza,Fiorenzuola d'Arda,no,sì,,sì,sì,,
-Piacenza,Monticelli D'Ongina,no,sì,,,sì,sì,
+Piacenza,Monticelli D'Ongina,no,sì,,,,sì,
+Piacenza,Monticelli d'Ongina,no,sì,,,sì,,
 Piacenza,PIACENZA,sì,sì,,sì,sì,,
 Piacenza,Piacenza,sì,sì,,,,sì,sì
 Piacenza,Podenzano,no,sì,,,sì,sì,sì
@@ -1274,18 +1279,8 @@ Ragusa - Siracusa,RAGUSA,sì,sì,,sì,sì,,
 Ragusa - Siracusa,SIRACUSA,sì,sì,,sì,sì,,
 Ravenna,Cervia,no,sì,,sì,sì,,
 Ravenna,Faenza,no,sì,,sì,sì,,
-Ravenna,Lugo,no,sì,,,sì,,
-Ravenna,Lugo di Romagna,no,in parte,,sì,sì,,
+Ravenna,Lugo,no,in parte,,sì,sì,,
 Ravenna,RAVENNA,sì,sì,,sì,sì,,
-Ravenna - Forlì - San Marino,Cervia,no,sì,,sì,,,
-Ravenna - Forlì - San Marino,Cesena,no,sì,,sì,,,
-Ravenna - Forlì - San Marino,Cesenatico,no,sì,,sì,,,
-Ravenna - Forlì - San Marino,FORLÌ,sì,sì,,sì,,,
-Ravenna - Forlì - San Marino,Faenza,no,sì,,sì,,,
-Ravenna - Forlì - San Marino,RAVENNA,sì,sì,,sì,,,
-Ravenna - Forlì - San Marino,REPUBBLICA DI SAN MARINO,sì,sì,,sì,,,
-Ravenna - Forlì - San Marino,Riccione,no,sì,,sì,,,
-Ravenna - Forlì - San Marino,Rimini,no,sì,,sì,,,
 Reggio Calabria,Gioia Tauro,no,sì,,,sì,,
 Reggio Calabria,Palmi,no,sì,,sì,sì,,
 Reggio Calabria,Polistena,no,sì,,sì,sì,,

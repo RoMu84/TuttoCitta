@@ -1,0 +1,251 @@
+annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,pagine_comprese_copertine,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
+81/82,Bologna,Bologna 81,81,Copertina 81 verde,246 x 280 mm,grossa,Stradario SEAT,88,,luglio 1981,nota dell'editore,BO81.jpg,True,accertata
+81/82,Ferrara,Ferrara 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Forlì - Ravenna - San Marino,Forlì - Ravenna - San Marino 81,81,Copertina 81 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Modena,Modena 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,33,ottobre 1981,nota dell'editore,MO82.jpg,True,accertata
+81/82,Parma,Parma 82,82,Copertina 82 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Piacenza,Piacenza 82,82,Copertina 82 verde,246 x 280 mm,grossa,Stradario SEAT,24,,ottobre 1981,nota dell'editore,PC82.jpg,True,accertata
+81/82,Reggio Emilia,Reggio Emilia 82,82,Copertina 82 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+82/83,Bologna,Bologna 82,82,Copertina 82 rossa,246 x 280 mm,grossa,Stradario SEAT senza foto,88,,luglio 1982,,BO82.jpg,True,accertata
+82/83,Ferrara,Ferrara 82,82,Copertina 82 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,aprile 1982,,FE82.jpg,True,accertata
+82/83,Forlì - Ravenna - San Marino,Forlì - Ravenna - San Marino 82,82,Copertina 82 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+82/83,Modena,Modena 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,settembre 1982,,MO83.jpg,True,accertata
+82/83,Parma,Parma 83,83,Copertina 83 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+82/83,Piacenza,Piacenza 83,83,Copertina 83 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+82/83,Reggio Emilia,Reggio Emilia 83,83,Copertina 83 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+83/84,Bologna,Bologna 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,Stradario SEAT senza foto,88,,luglio 1983,,BO83.jpg,True,accertata
+83/84,Ferrara,Ferrara 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+83/84,Forlì - Ravenna - San Marino,Forlì - Ravenna - San Marino 83,83,Copertina 83 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,56,57,aprile 1983,,FORA83.jpg,True,accertata
+83/84,Modena,Modena 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,settembre 1983,,MO84.jpg,True,accertata
+83/84,Parma,Parma 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+83/84,Piacenza,Piacenza 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,settembre 1983,,PC84.jpg,True,accertata
+83/84,Reggio Emilia,Reggio Emilia 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+84/85,Bologna,Bologna 84,84,Copertina 84 verde,246 x 280 mm,grossa,Stradario SEAT senza foto,88,,luglio 1984,Inserto Costituzione,BO84.jpg,True,accertata
+84/85,Ferrara,Ferrara 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,aprile 1984,Inserto Costituzione,FE84.jpg,True,accertata
+84/85,Forlì - San Marino,Forlì - San Marino 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,aprile 1984,Inserto Costituzione,FO84.jpg,True,accertata
+84/85,Ravenna,Ravenna 84,84,Copertina 84 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,aprile 1984,Inserto Costituzione,RA84.jpg,True,accertata
+84/85,Modena,Modena 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,settembre 1984,Inserto Costituzione,MO85.jpg,True,accertata
+84/85,Parma,Parma 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
+84/85,Piacenza,Piacenza 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,settembre 1984,Inserto Costituzione,PC85.jpg,True,accertata
+84/85,Reggio Emilia,Reggio Emilia 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
+85/86,Bologna,Bologna 86,86,Copertina 86 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,80,,settembre 1985,riforma cartografica,BO86.jpg,True,accertata
+85/86,Provincia di Bologna,Provincia di Bologna 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+85/86,Ferrara,Ferrara 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,aprile 1985,,FE85.jpg,True,accertata
+85/86,Forlì - San Marino,Forlì - San Marino 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,aprile 1985,,FO85.jpg,True,accertata
+85/86,Ravenna,Ravenna 85,85,Copertina 85 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,aprile 1985,,RA85.jpg,True,accertata
+85/86,Modena,Modena 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,settembre 1985,,MO86.jpg,True,accertata
+85/86,Parma,Parma 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,settembre 1985,,PR86.jpg,True,accertata
+85/86,Piacenza,Piacenza 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+85/86,Reggio Emilia,Reggio Emilia 86,86,Copertina 86 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+86/87,Bologna,Bologna 87,87,Copertina 87 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,72,,luglio 1986,,BO87.jpg,True,accertata
+86/87,Provincia di Bologna,Provincia di Bologna 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,luglio 1986,,PROVBO87.jpg,True,accertata
+86/87,Ferrara,Ferrara 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,aprile 1986,,FE86.jpg,True,accertata
+86/87,Forlì - San Marino,Forlì - San Marino 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,aprile 1986,,FO86.jpg,True,accertata
+86/87,Ravenna,Ravenna 86,86,Copertina 86 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,aprile 1986,,RA86.jpg,True,accertata
+86/87,Modena,Modena 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,settembre 1986,,MO87.jpg,True,accertata
+86/87,Parma,Parma 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,settembre 1986,,PR87.jpg,True,accertata
+86/87,Piacenza,Piacenza 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,settembre 1986,,PC87.jpg,True,accertata
+86/87,Reggio Emilia,Reggio Emilia 87,87,Copertina 87 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,settembre 1986,,RE87.jpg,True,accertata
+87/88,Bologna,Bologna 88,88,Copertina 88 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,72,,giugno 1987,,BO88.jpg,True,accertata
+87/88,Provincia di Bologna,Provincia di Bologna 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,luglio 1987,,PROVBO88.jpg,True,accertata
+87/88,Ferrara,Ferrara 87,87,Copertina 87 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+87/88,Forlì - San Marino,Forlì - San Marino 87,87,Copertina 87 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,aprile 1987,,FO87.jpg,True,accertata
+87/88,Ravenna,Ravenna 87,87,Copertina 87 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,aprile 1987,,RA87.jpg,True,accertata
+87/88,Modena,Modena 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,ottobre 1987,,MO88.jpg,True,accertata
+87/88,Parma,Parma 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,ottobre 1987,,PR88.jpg,True,accertata
+87/88,Piacenza,Piacenza 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,ottobre 1987,,PC88.jpg,True,accertata
+87/88,Reggio Emilia,Reggio Emilia 88,88,Copertina 88 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,ottobre 1987,,RE88.jpg,True,accertata
+88/89,Bologna,Bologna 89,89,Copertina 89 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,72,,luglio 1988,,BO89.jpg,True,accertata
+88/89,Provincia di Bologna,Provincia di Bologna 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,luglio 1988,,PROVBO89.jpg,True,accertata
+88/89,Ferrara,Ferrara 88,88,Copertina 88 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+88/89,Forlì - San Marino,Forlì - San Marino 88,88,Copertina 88 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,aprile 1988,,FO88.jpg,True,accertata
+88/89,Ravenna,Ravenna 88,88,Copertina 88 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,aprile 1988,,RA88.jpg,True,accertata
+88/89,Modena,Modena 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,ottobre 1988,,MO89.jpg,True,accertata
+88/89,Parma,Parma 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,ottobre 1988,,PR89.jpg,True,accertata
+88/89,Piacenza,Piacenza 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,ottobre 1988,,PC89.jpg,True,accertata
+88/89,Reggio Emilia,Reggio Emilia 89,89,Copertina 89 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,ottobre 1988,,RE89.jpg,True,accertata
+89/90,Bologna,Bologna 90,90,Copertina 90 edifici,246 x 280 mm,grossa,TuttoCittà '80 edifici,72,,luglio 1989,,BO90.jpg,True,accertata
+89/90,Provincia di Bologna,Provincia di Bologna 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,agosto 1989,,PROVBO90.jpg,True,accertata
+89/90,Ferrara,Ferrara 89,89,Copertina 89 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,aprile 1989,,FE89.jpg,True,accertata
+89/90,Forlì - San Marino,Forlì - San Marino 89,89,Copertina 89 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,aprile 1989,,FO89.jpg,True,accertata
+89/90,Ravenna,Ravenna 89,89,Copertina 89 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,aprile 1989,,RA89.jpg,True,accertata
+89/90,Modena,Modena 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,33,ottobre 1989,,MO90.jpg,True,accertata
+89/90,Parma,Parma 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,25,ottobre 1989,,PR90.jpg,True,accertata
+89/90,Piacenza,Piacenza 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,16,17,ottobre 1989,,PC90.jpg,True,accertata
+89/90,Reggio Emilia,Reggio Emilia 90,90,Copertina 90 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,ottobre 1989,,RE90.jpg,True,accertata
+90/91,Bologna e dintorni,Bologna e dintorni 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,64,,agosto 1990,nota dell'editore,BO91.jpg,True,accertata
+90/91,Provincia di Bologna,Provincia di Bologna 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,16,,agosto 1990,nota dell'editore,PROVBO91.jpg,True,accertata
+90/91,Ferrara,Ferrara 90/91,90/91,Copertina 90/91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,32,,aprile 1990,nota dell'editore,FE9091.jpg,True,accertata
+90/91,Forlì - San Marino,Forlì - San Marino 90/91,90/91,Copertina 90/91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,32,,aprile 1990,nota dell'editore,FO9091.jpg,True,accertata
+90/91,Ravenna,Ravenna 90/91,90/91,Copertina 90/91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,aprile 1990,nota dell'editore,RA9091.jpg,True,accertata
+90/91,Modena,Modena 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,ottobre 1990,nota dell'editore,MO91.jpg,True,accertata
+90/91,Parma,Parma 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,ottobre 1990,nota dell'editore,PR91.jpg,True,accertata
+90/91,Piacenza,Piacenza 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,ottobre 1990,nota dell'editore,PC91.jpg,True,accertata
+90/91,Reggio Emilia,Reggio Emilia 91,91,Copertina 1991 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,ottobre 1990,nota dell'editore,RE91.jpg,True,accertata
+91/92,Bologna e dintorni,Bologna e dintorni 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,72,,luglio 1991,,BO92.jpg,True,accertata
+91/92,Provincia di Bologna,Provincia di Bologna 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,24,,luglio 1991,,PROVBO92.jpg,True,accertata
+91/92,Ferrara,Ferrara 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,32,,aprile 1991,,FE91.jpg,True,accertata
+91/92,Forlì - San Marino,Forlì - San Marino 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,40,,aprile 1991,,FO91.jpg,True,accertata
+91/92,Ravenna,Ravenna 91,91,Copertina 91 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,32,,aprile 1991,,RA91.jpg,True,accertata
+91/92,Modena,Modena 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,48,,ottobre 1991,,MO92.jpg,True,accertata
+91/92,Parma,Parma 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,32,,ottobre 1991,,PR92.jpg,True,accertata
+91/92,Piacenza,Piacenza 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,,,,,Ricercato1.jpg,False,accertata
+91/92,Reggio Emilia,Reggio Emilia 92,92,Copertina 92 blu,246 x 280 mm,grossa,TuttoCittà '90 classico iniziale,32,,ottobre 1991,,RE92.jpg,True,accertata
+92/93,Bologna e dintorni,Bologna e dintorni 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,72,,agosto 1992,,BO93.jpg,True,accertata
+92/93,Provincia di Bologna,Provincia di Bologna 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,24,,agosto 1992,,PROVBO93.jpg,True,accertata
+92/93,Ferrara,Ferrara 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,aprile 1992,,FE92.jpg,True,accertata
+92/93,Forlì - San Marino,Forlì - San Marino 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,,aprile 1992,,FO92.jpg,True,accertata
+92/93,Ravenna,Ravenna 92,92,Copertina 92 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,,aprile 1992,,RA92.jpg,True,accertata
+92/93,Modena,Modena 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,48,,ottobre 1992,,MO93.jpg,True,accertata
+92/93,Parma,Parma 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,ottobre 1992,,PR93.jpg,True,accertata
+92/93,Piacenza,Piacenza 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,ottobre 1992,,PC93.jpg,True,accertata
+92/93,Reggio Emilia,Reggio Emilia 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,ottobre 1992,,RE93.jpg,True,accertata
+93/94,Bologna e dintorni,Bologna e dintorni 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,78,,agosto 1993,,BO94.jpg,True,accertata
+93/94,Provincia di Bologna,Provincia di Bologna 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,agosto 1993,,PROVBO94.jpg,True,accertata
+93/94,Ferrara,Ferrara 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,aprile 1993,,FE93.jpg,True,accertata
+93/94,Forlì - San Marino,Forlì - San Marino 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,40,,aprile 1993,,FO93.jpg,True,accertata
+93/94,Ravenna,Ravenna 93,93,Copertina 93 beige,246 x 280 mm,grossa,TuttoCittà '90 classico,32,,aprile 1993,,RA93.jpg,True,accertata
+93/94,Modena,Modena 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,,ottobre 1993,,MO94.jpg,True,accertata
+93/94,Parma,Parma 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,ottobre 1993,,PR94.jpg,True,accertata
+93/94,Piacenza,Piacenza 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+93/94,Reggio Emilia,Reggio Emilia 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,ottobre 1993,,RE94.jpg,True,accertata
+94/95,Bologna e dintorni,Bologna e dintorni 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,78,,agosto 1994,,BO95.jpg,True,accertata
+94/95,Provincia di Bologna,Provincia di Bologna 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,agosto 1994,,PROVBO95.jpg,True,accertata
+94/95,Ferrara,Ferrara 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,aprile 1994,,FE94.jpg,True,accertata
+94/95,Forlì - San Marino,Forlì - San Marino 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,,aprile 1994,,FO94.jpg,True,accertata
+94/95,Ravenna,Ravenna 94,94,Copertina 94 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,aprile 1994,,RA94.jpg,True,accertata
+94/95,Modena,Modena 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,62,,ottobre 1994,,MO95.jpg,True,accertata
+94/95,Parma,Parma 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,ottobre 1994,,PR95.jpg,True,accertata
+94/95,Piacenza,Piacenza 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+94/95,Reggio Emilia,Reggio Emilia 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+95/96,Bologna e dintorni,Bologna e dintorni 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,78,,luglio 1995,,BO96.jpg,True,accertata
+95/96,Provincia di Bologna,Provincia di Bologna 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,agosto 1995,,PROVBO96.jpg,True,accertata
+95/96,Ferrara,Ferrara 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,aprile 1995,,FE95.jpg,True,accertata
+95/96,Forlì - Cesena - Rimini - San Marino,Forlì - Cesena - Rimini - San Marino 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,54,,aprile 1995,,FO95.jpg,True,accertata
+95/96,Ravenna,Ravenna 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,aprile 1995,,RA95.jpg,True,accertata
+95/96,Modena,Modena 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,54,,ottobre 1995,,MO96.jpg,True,accertata
+95/96,Parma,Parma 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+95/96,Piacenza,Piacenza 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+95/96,Reggio Emilia,Reggio Emilia 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+96/97,Bologna e dintorni,Bologna e dintorni 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,70,,agosto 1996,Cambio formato,BO97.jpg,True,accertata
+96/97,Provincia di Bologna,Provincia di Bologna 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+96/97,Ferrara,Ferrara 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,30,,aprile 1996,,FE96.jpg,True,accertata
+96/97,Forlì - Cesena - Rimini - San Marino,Forlì - Cesena - Rimini - San Marino 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+96/97,Ravenna,Ravenna 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,aprile 1996,,RA96.jpg,True,accertata
+96/97,Modena,Modena 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,54,,ottobre 1996,Cambio formato,MO97.jpg,True,accertata
+96/97,Parma,Parma 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+96/97,Piacenza,Piacenza 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+96/97,Reggio Emilia,Reggio Emilia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+97/98,Bologna e dintorni,Bologna e dintorni (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,78,,agosto 1997,"""novembre 1997 - ottobre 1998""",BO97b.jpg,True,accertata
+97/98,Provincia di Bologna,Provincia di Bologna (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1.jpg,False,accertata
+97/98,Ferrara,Ferrara 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,aprile 1997,Cambio formato,FE97.jpg,True,accertata
+97/98,Forlì - Cesena - Rimini - San Marino,Forlì - Cesena - Rimini - San Marino 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+97/98,Ravenna,Ravenna 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,aprile 1997,Cambio formato,RA97.jpg,True,accertata
+97/98,Modena,Modena (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,62,,ottobre 1997,"""dicembre 1997 - novembre 1998""",MO97b.jpg,True,accertata
+97/98,Parma,Parma (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,ottobre 1997,"""dicembre 1997 - novembre 1998""",PR97b.jpg,True,accertata
+97/98,Piacenza,Piacenza (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1.jpg,False,accertata
+97/98,Reggio Emilia,Reggio Emilia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,38,,ottobre 1997,"""dicembre 1997 - novembre 1998""",RE97b.jpg,True,accertata
+98/99,Bologna e dintorni,Bologna e dintorni (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,70,,agosto 1998,"""da utilizzare fino a Novembre 1999""",BO98.jpg,True,accertata
+98/99,Provincia di Bologna,Provincia di Bologna (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,30,,agosto 1998,"""da utilizzare fino a Novembre 1999""",PROVBO98.jpg,True,accertata
+98/99,Ferrara,Ferrara (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,30,,aprile 1998,"""da utilizzare fino a Novembre 1999""",FE98.jpg,True,accertata
+98/99,Modena,Modena (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,ottobre 1998,"""da utilizzare fino a Gennaio 2000""",MO98.jpg,True,accertata
+98/99,Parma,Parma (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,ottobre 1998,"""da utilizzare fino a Gennaio 2000""",PR98.jpg,True,accertata
+98/99,Piacenza,Piacenza (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1.jpg,False,accertata
+98/99,Reggio Emilia,Reggio Emilia (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,38,,ottobre 1998,"""da utilizzare fino a Gennaio 2000""",RE98.jpg,True,accertata
+99/00,Bologna e dintorni,Bologna e dintorni 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,62,,agosto 1999,,BO9900.jpg,True,accertata
+99/00,Provincia di Bologna,Provincia di Bologna 1999/2000,99/00,,,,,,,,,Dubbio1.jpg,False,dubbia
+99/00,Ferrara,Ferrara 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,30,,aprile 1999,,FE9900.jpg,True,accertata
+99/00,Modena,Modena 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,54,,ottobre 1999,,MO9900.jpg,True,accertata
+99/00,Parma,Parma 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,38,,ottobre 1999,,PR9900.jpg,True,accertata
+99/00,Piacenza,Piacenza 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,38,,ottobre 1999,,PC9900.jpg,True,accertata
+99/00,Reggio Emilia,Reggio Emilia 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
+00/01,Bologna e dintorni,Bologna e dintorni 2001,01,Copertina 2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,62,,luglio 2000,,BO01.jpg,True,accertata
+00/01,Ferrara,Ferrara 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,30,,maggio 2000,,FE0001.jpg,True,accertata
+00/01,Modena,Modena 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,,ottobre 2000,,MO0001.jpg,True,accertata
+00/01,Parma,Parma ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+00/01,Piacenza,Piacenza ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+00/01,Reggio Emilia,Reggio Emilia ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+01/02,Bologna e dintorni,Bologna e dintorni 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,62,,luglio 2001,,BO0102.jpg,True,accertata
+01/02,Ferrara,Ferrara 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,30,31,maggio 2001,,FE0102.jpg,True,accertata
+01/02,Modena,Modena 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,55,luglio 2001,,MO02.jpg,True,accertata
+01/02,Parma,Parma ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+01/02,Piacenza,Piacenza ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+01/02,Reggio Emilia,Reggio Emilia 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,30,31,luglio 2001,,RE02.jpg,True,accertata
+02/03,Bologna e dintorni,Bologna e dintorni 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,,ottobre 2002,,BO0203.jpg,True,accertata
+02/03,Ferrara,Ferrara 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,22,23,giugno 2002,,FE0203.jpg,True,accertata
+02/03,Modena,Modena 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,dicembre 2002,,MO03.jpg,True,accertata
+02/03,Parma,Parma ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+02/03,Piacenza,Piacenza ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+02/03,Reggio Emilia,Reggio Emilia ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+03/04,Bologna e dintorni,Bologna e dintorni 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,,ottobre 2003,,BO0304.jpg,True,accertata
+03/04,Ferrara,Ferrara 2003/2004,03/04,Copertina 2003/2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,22,23,giugno 2003,,FE0304.jpg,True,accertata
+03/04,Modena,Modena 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,dicembre 2003,,MO04.jpg,True,accertata
+03/04,Parma,Parma ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+03/04,Piacenza,Piacenza ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+03/04,Reggio Emilia,Reggio Emilia 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,22,23,dicembre 2003,,RE04.jpg,True,accertata
+04/05,Bologna e dintorni,Bologna 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,54,55,ottobre 2004,,BO04.jpg,True,accertata
+04/05,Ferrara,Ferrara 2004/2005,04/05,Copertina 2004/2005 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,22,23,giugno 2004,,FE0405.jpg,True,accertata
+04/05,Modena,Modena 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,46,,dicembre 2004,,MO05.jpg,True,accertata
+04/05,Parma,Parma 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+04/05,Piacenza,Piacenza 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+04/05,Reggio Emilia,Reggio Emilia 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,22,23,dicembre 2004,,RE05.jpg,True,accertata
+05/06,Bologna e dintorni,Bologna 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,54,55,ottobre 2005,,BO05.jpg,True,accertata
+05/06,Ferrara,Ferrara 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+05/06,Modena,Modena 2006,06,Copertina 2006 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,46,,dicembre 2005,,MO06.jpg,True,accertata
+05/06,Parma,Parma 2006,06,Copertina 2006 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+05/06,Piacenza,Piacenza 2006,06,Copertina 2006 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+05/06,Reggio Emilia,Reggio Emilia 2006,06,Copertina 2006 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,22,24,dicembre 2005,,RE06.jpg,True,accertata
+06/07,Bologna e dintorni,Bologna e dintorni 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,56,,settembre 2006,,BO06.jpg,True,accertata
+06/07,Ferrara,Ferrara 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+06/07,Modena,Modena 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,40,,dicembre 2006,,MO07.jpg,True,accertata
+06/07,Parma,Parma 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+06/07,Piacenza,Piacenza 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+06/07,Reggio Emilia,Reggio Emilia 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+07/08,Bologna e dintorni,Bologna e dintorni 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,56,,settembre 2007,,BO07.jpg,True,accertata
+07/08,Ferrara,Ferrara 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,,luglio 2007,,FE07.jpg,True,accertata
+07/08,Modena,Modena 2008,08,Copertina 2008 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,40,,dicembre 2007,,MO08.jpg,True,accertata
+07/08,Parma,Parma 2008,08,Copertina 2008 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+07/08,Piacenza,Piacenza 2008,08,Copertina 2008 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+07/08,Reggio Emilia,Reggio Emilia 2008,08,Copertina 2008 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,,dicembre 2007,,RE08.jpg,True,accertata
+08/09,Bologna e dintorni,Bologna e dintorni 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,56,,ottobre 2008,,BO0809.jpg,True,accertata
+08/09,Ferrara,Ferrara 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,,giugno 2008,,FE0809.jpg,True,accertata
+08/09,Modena,Modena 2009,09,Copertina 2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+08/09,Parma,Parma 2009,09,Copertina 2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,32,,dicembre 2008,,PR09.jpg,True,accertata
+08/09,Piacenza,Piacenza 2009,09,Copertina 2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+08/09,Reggio Emilia,Reggio Emilia 2009,09,Copertina 2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,22,,dicembre 2008,,RE09.jpg,True,accertata
+09/10,Bologna e dintorni,Bologna e dintorni 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,56,,settembre 2009,riforma cartografica; nuovo formato,BO0910.jpg,True,accertata
+09/10,Ferrara,Ferrara 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+09/10,Modena,Modena 2010,10,Copertina 2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+09/10,Parma,Parma 2010,10,Copertina 2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+09/10,Piacenza,Piacenza 2010,10,Copertina 2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+09/10,Reggio Emilia,Reggio Emilia 2010,10,Copertina 2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,48,,dicembre 2009,riforma cartografica; nuovo formato,RE10.jpg,True,accertata
+10/11,Bologna e dintorni,Bologna e dintorni 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+10/11,Ferrara,Ferrara 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+10/11,Modena,Modena ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+10/11,Parma,Parma ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+10/11,Piacenza,Piacenza ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+10/11,Reggio Emilia,Reggio Emilia ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+11/12,Bologna e dintorni,Bologna 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,inserto Agenzia del Territorio,Ricercato2.jpg,False,accertata
+11/12,Ferrara,Ferrara 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,inserto Agenzia del Territorio,Ricercato2.jpg,False,accertata
+11/12,Modena,Modena ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,inserto Agenzia del Territorio,Ricercato2.jpg,False,accertata
+11/12,Parma,Parma ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,inserto Agenzia del Territorio,Ricercato2.jpg,False,accertata
+11/12,Piacenza,Piacenza ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,inserto Agenzia del Territorio,Ricercato2.jpg,False,accertata
+11/12,Reggio Emilia,Reggio Emilia ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,inserto Agenzia del Territorio,Ricercato2.jpg,False,accertata
+12/13,Bologna e dintorni,Bologna 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,48,,luglio 2012,,BO1213.jpg,True,accertata
+12/13,Ferrara,Ferrara 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,24,,maggio 2012,,FE1213.jpg,True,accertata
+12/13,Modena,Modena ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+12/13,Parma,Parma ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+12/13,Piacenza,Piacenza ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+12/13,Reggio Emilia,Reggio Emilia ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Bologna e dintorni,Bologna 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,48,,luglio 2013,,BO1314.jpg,True,accertata
+13/14,Ferrara,Ferrara 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,24,,maggio 2013,,FE1314.jpg,True,accertata
+13/14,Modena,Modena ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Parma,Parma ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Piacenza,Piacenza ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Reggio Emilia,Reggio Emilia ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Bologna e dintorni,Bologna 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,48,,luglio 2014,,BO1415.jpg,True,accertata
+14/15,Ferrara,Ferrara 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Modena,Modena ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Parma,Parma ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Piacenza,Piacenza ?,,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Reggio Emilia,Reggio Emilia 2015,15,Copertina 2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,32,,novembre 2014,,RE15.jpg,True,accertata
