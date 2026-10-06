@@ -10,3 +10,8 @@ cui fascicoli sono i più ricchi di cartografia dell'intera serie.
 
 - [Sardegna](sardegna-completo.md)
 - [Speciale: Roma città](roma.md)
+
+Le tabelle riassuntive per regione di tutti i fascicoli inclusi in raccolta sono invece raggiungibili
+[a questa pagina](raccolta.md); sono indicizzate tutte le foto di copertina, i dati di base dei fascicoli
+come numero di pagine e mese di aggiornamento, i comuni cartografati, i titoli della rubrica degli anni
+'90 ed eventuali anomalie di produzione.
