@@ -1,6 +1,6 @@
 # La raccolta
 
-Questa pagina indicizza tutti i **1.308** fascicoli ad oggi in raccolta, suddivisi regione per regione, su cui
+Questa pagina indicizza tutti i **1.310** fascicoli ad oggi in raccolta, suddivisi regione per regione, su cui
 si basano i dati del presente censimento.
 
 Una visione d'insieme la si può avere consultando la tabella al link qui sotto, coi fascicoli ordinati

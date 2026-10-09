@@ -50,7 +50,7 @@ rimasta vuota per quarant'anni.
 
 ## Lo stato attuale della raccolta
 
-In [questa pagina](raccolta.md) è possibile consultare per intero le copertine di tutti i **1.308** fascicoli
+In [questa pagina](raccolta.md) è possibile consultare per intero le copertine di tutti i **1.310** fascicoli
 presenti attualmente nella raccolta. Per ogni regione è stata predisposta una pagina che include una
 descrizione delle annate, una tabella con le copertine dei fascicoli in raccolta, la tabella delle città
 cartografate anno per anno, un indice annuale di tutti gli articoli della rubrica degli anni '90 e,
