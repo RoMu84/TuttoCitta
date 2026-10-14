@@ -132,14 +132,14 @@ copertina predefinita dall'editore.
 ## Il censimento di dettaglio
 
 Al censimento dei fascicoli si affianca un **censimento di dettaglio**, che descrive l'organizzazione
-interna dei fascicoli regione per regione. Riguarda **sedici regioni** — Abruzzo, Basilicata, Calabria,
-Campania, Friuli - Venezia Giulia, Lazio, Liguria, Marche, Molise, Puglia, Sardegna, Sicilia, Toscana,
-Umbria, Valle d'Aosta e Veneto — più **Roma**, la città più riccamente cartografata della collana.
+interna dei fascicoli regione per regione. Riguarda **tutte e venti le regioni**, più **Roma**, la città
+più riccamente cartografata della collana.
 
 Per ciascuna regione tre file registrano i fascicoli, con copertina, formato, layout, foliazione e mese
 di aggiornamento; le città cartografate, una riga per città e per fascicolo; i titoli degli articoli
-della rubrica dal 1990/91 al 1997/98. In tutto sono 2.011 fascicoli, 11.282 righe di cartografia e 5.850
-titoli. Le pagine delle regioni di cui la raccolta non possiede tutti i fascicoli lo dichiarano: le celle
+della rubrica dal 1990/91 al 1997/98. In tutto sono 2.011 fascicoli, 11.316 righe di cartografia e 5.789
+titoli; i titoli di Bolzano e di Aosta hanno una riga anche per la traduzione tedesca o francese, e il
+campo `lingua` le distingue. Le pagine delle regioni di cui la raccolta non possiede tutti i fascicoli lo dichiarano: le celle
 dei fascicoli mancanti sono segnate come lacune, non come assenze.
 
 La **Sardegna**, unica regione di cui la raccolta possieda tutti i fascicoli accertati, ha anche una
@@ -166,7 +166,7 @@ invece di propagarsi nei dati.
 
 ## Citazione
 
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.5.
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.6.
 Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
 
 ## Licenza

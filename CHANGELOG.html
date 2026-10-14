@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Registro delle versioni — TuttoCittà</title>
-<meta name="description" content="1.4 — agosto 2026 Il trentanovesimo fascicolo ha un nome. È La Spezia , che rientra nel perimetro dall'annata 2010/2011 dopo esserne uscito con la…">
+<meta name="description" content="1.6 — ottobre 2026 Tutte e venti le regioni in dettaglio. Alle sedici della 1.5 si aggiungono Trentino - Alto Adige, Piemonte, Lombardia ed Emilia -…">
 <link rel="canonical" href="https://romu84.github.io/TuttoCitta/CHANGELOG.html">
 <link rel="icon" type="image/png" sizes="32x32" href="Favicon.png">
 <link rel="stylesheet" href="assets/sito.css">
@@ -29,7 +29,7 @@
       <div class="voce">
         <a href="pagine/regioni-in-dettaglio.html">Le regioni in dettaglio</a>
         <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-3" aria-label="Mostra le pagine di Le regioni in dettaglio"><i class="freccia"></i></button>
-        <ul class="tendina" id="tendina-3"><li><a href="pagine/sardegna.html">Sardegna</a></li><li><a href="pagine/roma.html">Speciale: Roma città</a></li></ul>
+        <ul class="tendina" id="tendina-3"><li><a href="pagine/sardegna-completo.html">Sardegna</a></li><li><a href="pagine/roma.html">Speciale: Roma città</a></li></ul>
       </div>
       <a href="pagine/questioni-aperte.html">Questioni aperte</a>
       <a href="pagine/come-contribuire.html">Come contribuire</a>
@@ -44,6 +44,100 @@
 </header>
 <main>
 <h1 id="registro-delle-versioni">Registro delle versioni</h1>
+<h2 id="16-ottobre-2026">1.6 — ottobre 2026</h2>
+<p><strong>Tutte e venti le regioni in dettaglio.</strong> Alle sedici della 1.5 si aggiungono Trentino - Alto Adige,
+Piemonte, Lombardia ed Emilia - Romagna, con lo stesso modello di pagina e gli stessi tre file di dati.
+Il censimento di dettaglio conta ora 2.011 fascicoli, 11.316 righe di cartografia e 5.789 titoli di
+articoli: 5.850 righe, perché i titoli di Bolzano e di Aosta compaiono anche nella traduzione tedesca o
+francese. Nella 1.5 i 29 titoli francesi della Valle d'Aosta erano stati contati due volte: i titoli
+erano 3.958, non 3.987.</p>
+<p><strong>Quattro regioni con qualcosa di proprio.</strong> Il Trentino - Alto Adige è bilingue solo in parte: Bolzano ha
+rubriche in italiano e tedesco, Trento soltanto in italiano, e il file degli articoli porta la lingua di
+ogni titolo. Il Piemonte ha l'unica edizione straordinaria del censimento, Torino 2010 per l'ostensione
+della Sindone, descritta in una tabella accanto all'edizione regolare della stessa annata. Piemonte e
+Lombardia hanno rubriche che si dividono in due quando il fascicolo copre una provincia nuova: Novara e
+Verbano Cusio Ossola, Biella e Vercelli, Como e Lecco, Lodi e la provincia di Milano. L'Emilia - Romagna ha la Repubblica di San Marino fra le località cartografate.</p>
+<p><strong>Tutte le pagine sono annunciate.</strong> Le pagine delle regioni di cui la raccolta non possiede tutti i
+fascicoli restano incomplete e lo dichiarano in apertura, ma entrano ora nella mappa del sito e sono
+aperte ai motori di ricerca, insieme alla pagina «La raccolta» che le elenca. A «La raccolta» rimandano
+«Le regioni in dettaglio» e «Come contribuire».</p>
+<p><strong>Il numero dei fascicoli in raccolta si conta da sé.</strong> È il numero dei fascicoli delle pagine regionali
+che hanno una copertina e sono spogliati, oggi <strong>1.312</strong>: «Come contribuire» e «La raccolta» lo danno
+esatto, l'introduzione e il PDF in forma arrotondata, «oltre 1.300». Si ricalcola a ogni rigenerazione, e
+non è più scritto a mano in nessuna pagina. «Come contribuire» ha una sezione nuova sullo stato della
+raccolta.</p>
+<p><strong>Annate di transizione.</strong> Quando in un'annata convivono due serie di copertine o due layout, la tabella
+dei fascicoli mostra un quadrato di colore per ciascuno, nella colonna dell'annata e in quella delle
+tavole. Ne guadagnano anche pagine già pubblicate: la Liguria nel 1993/94, la Toscana nel 2004/05; e
+nell'85/86 e nell'88/89 di Campania, Lazio, Puglia e Sicilia il colore dell'annata è ora quello della
+serie ordinaria e non quello delle copertine «edifici».</p>
+<p><strong>Il formato del 2009/10.</strong> Il layout <em>anni dieci</em> va sempre col formato ridotto, 140 × 212 mm, e
+viceversa. Sei fogli regionali davano in 226 × 274 mm alcuni fascicoli 2009/10 di quel layout, e sono
+corretti: Napoli, Roma e dintorni, Genova, Ancona, Bari - BAT, Lecce, Palermo e Catania. In Veneto,
+Toscana ed Emilia - Romagna era invece sbagliato il layout: Venezia, Treviso, Verona, Vicenza, Firenze e
+dintorni, Pisa, Lucca - Massa - Carrara e Ferrara sono, nel 2009/10, ancora <em>fine duemila</em> nel formato
+grande, come dicono lo sfondo delle mappe e la copertina; la riforma cartografica arriva per loro col
+2010/11. Le pagine verificano ora queste regole su ogni fascicolo.</p>
+<p><strong>Trento 84 ha foliazione <code>16 (18)</code>.</strong> Terza e quarta di copertina portano entrambe contenuto, cosa che
+altrove accade solo nel layout <em>metà duemila</em>. L'introduzione ne dà conto come unica eccezione nota.</p>
+<p><strong>Nomi e note.</strong> Il titolo stampato del fascicolo di Forlì delle annate 1981-1983 è <em>Forlì - Ravenna - San
+Marino</em>, e non <em>Ravenna - Forlì - San Marino</em>: cambia la colonna <code>denominazione</code> di <code>fascicoli_lungo.csv</code>,
+e le celle in cui la denominazione differisce dal nome di censimento scendono da 261 a 258. Il fascicolo
+<em>Lodi - Provincia di Milano</em> del 1998/99 ha una nota sulle due varianti di copertina, identiche
+all'interno, che differiscono solo nel sommario. Nell'indice delle località diverse grafie dello stesso
+luogo sono uniformate — Cherasco, San Mauro Torinese, Venaria Reale, Borgonovo Val Tidone, Fiorenzuola
+d'Arda, Monticelli d'Ongina, Granarolo dell'Emilia, Lugo, Pavullo nel Frignano, e i due lidi di Comacchio,
+Lido di Pomposa e Lido degli Scacchi — e <code>comuni_per_fascicolo.csv</code> scende da 1.506 a 1.497 righe.</p>
+<p><strong>Nuovi fascicoli in raccolta.</strong> Fra gli altri Trento 91 e 94, Cuneo 86 e Vercelli 86, Parma 2005 e
+2008, Napoli 2012/13 e 2013/14. Le loro pagine e il mese di aggiornamento entrano anche in
+<code>aggregati_per_annata.csv</code>, che cambia nella colonna <code>pagine_totali</code> di quattro annate.</p>
+<p>Il censimento dei fascicoli resta invariato: 1.990 fascicoli accertati, con la sola correzione della
+denominazione di Forlì.</p>
+<h2 id="15-settembre-2026">1.5 — settembre 2026</h2>
+<p><strong>Sedici regioni in dettaglio.</strong> Abruzzo, Basilicata, Calabria, Campania, Friuli - Venezia Giulia, Lazio,
+Liguria, Marche, Molise, Puglia, Sardegna, Sicilia, Toscana, Umbria, Valle d'Aosta e Veneto hanno ora una
+pagina ciascuna, costruita sullo stesso modello: la tabella dei fascicoli con copertina, formato, layout,
+foliazione, mese di aggiornamento e note; i layout della regione con i loro anni di copertina; la griglia
+delle città cartografate annata per annata; l'indice degli articoli della rubrica dal 1990/91 al
+1997/98. Sono 1.231 fascicoli, 5.627 righe di cartografia e 3.987 titoli, in tre file di dati per
+regione. Le pagine delle regioni di cui la raccolta non possiede tutti i fascicoli lo dichiarano in
+apertura e rimandano a «Come contribuire».</p>
+<p><strong>La Sardegna ha due pagine.</strong> Quella della 1.3, con rubriche, contenuti e cartografia tavola per tavola,
+si chiama ora <em>Sardegna - la raccolta completa in dettaglio</em> e sta fra «Le regioni in dettaglio»; accanto
+a lei c'è la pagina sul modello delle altre regioni, raggiunta dalla pagina «La raccolta». I suoi file di
+dati hanno il prefisso <code>sardegna-raccolta</code>, perché i nomi <code>sardegna_*.csv</code> restano quelli della 1.3. I
+titoli degli articoli sardi hanno ora una fonte sola, con l'occhiello di rubrica davanti al titolo e due
+titoli che mancavano.</p>
+<p><strong>1.990 fascicoli accertati.</strong> Il totale scende di cinque rispetto alla 1.4 per tre scoperte. Il fascicolo
+<em>Pesaro - Urbino</em> dell'annata 1998/99, di cui non si sospettava l'esistenza, è accertato. Le cinque linee
+di Piemonte e Puglia arrivate al 2014 — Asti, Cuneo, Torino, Bari e Lecce — hanno 33 fascicoli e non 34:
+nel 2014/15 la loro cartografia è inclusa nelle Pagine Gialle, e l'ultimo fascicolo, del 2013/14, porta
+già in copertina la data 14/15. Allo stesso modo, nel 1999/2000 il TuttoCittà di Biella e Vercelli è
+rilegato dentro le Pagine Gialle, e la cella che lo dava per fascicolo accertato è corretta. Nel
+1999/2000 la matrice identifica quindi 39 fascicoli contro i 42 del bilancio SEAT, e i totali dichiarati
+del 1998/99 e delle ultime cinque annate sono riallineati: resta un solo scostamento su trentaquattro
+annate.</p>
+<p><strong>Due colonne nuove in <code>fascicoli_lungo.csv</code>.</strong> <code>ambito</code> dice se il fascicolo copriva la provincia
+intera, i soli dintorni del capoluogo o la sola provincia senza il capoluogo, indipendentemente dal
+titolo, che per le grandi città non è un indizio affidabile. <code>nota</code> porta la spiegazione di una cella
+quando serve: l'etichetta del Rieti - Viterbo del 1984, i fascicoli rilegati nelle Pagine Gialle.</p>
+<p><strong>Due regole sul conto delle pagine.</strong> Nei fascicoli a copertina grossa la pagina 1 è la prima dopo la
+seconda di copertina; in quelli a copertina sottile la copertina stessa è la pagina 1. Un numero fra
+parentesi accanto alla foliazione — <code>24 (25)</code> — segnala che la terza di copertina, e nel layout <em>metà
+duemila</em> anche la quarta, porta contenuto proprio del fascicolo. Le tabelle mostrano ora la forma
+completa, i file di dati la separano nelle colonne <code>pagine_totali</code> e <code>pagine_comprese_copertine</code>, e
+l'introduzione le spiega in una sezione propria.</p>
+<p><strong>Nomi di linea cambiati.</strong> <code>Bari</code> è ora <code>Bari (Bari - Barletta Andria Trani dal 2009/2010)</code> e la linea di
+Rieti è <code>Rieti - Viterbo (Rieti - Orvieto - Viterbo 82, 83)</code>. Il nome di linea è la chiave della colonna
+<code>fascicolo</code>: chi incrocia i dati con la 1.4 deve tenerne conto.</p>
+<p><strong>Correzioni.</strong> L'indice delle località non spezza più i nomi con una virgola fra parentesi, che
+producevano due luoghi inesistenti, «VENEZIA (Marghera» e «Mestre)». La nota sotto la tabella dei layout
+dichiarava assenti annate che nella tabella ci sono, in Calabria, Campania e Liguria. Diverse grafie dello
+stesso comune sono uniformate — Genzano di Roma, Civita Castellana, Castellammare di Stabia, Marina di
+Massa, Chianciano Terme — e ai comuni cartografati fuori dalla provincia del loro fascicolo è stata
+aggiunta la sigla.</p>
+<p><strong>Il sito.</strong> L'introduzione si intitola ora «Introduzione» e si apre con un sommario; le tabelle più larghe
+della pagina si possono trascinare col mouse. La raccolta dell'autore supera ora i 1.300 esemplari.</p>
 <h2 id="14-agosto-2026">1.4 — agosto 2026</h2>
 <p><strong>Il trentanovesimo fascicolo ha un nome.</strong> È <strong>La Spezia</strong>, che rientra nel perimetro dall'annata
 2010/2011 dopo esserne uscito con la 1998/1999, e resta fino alla fine. La scoperta chiude una delle
