@@ -136,6 +136,69 @@ La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe p
 
 Le città cartografate almeno una volta sono 28. Il minimo è nell'annata 10/11, con 6 città; il massimo nelle annate 95/96–97/98 e 06/07–09/10, con 18.
 
+### Comuni cartografati per fascicolo
+
+Scegli un'annata e uno dei fascicoli della regione usciti in quell'annata: sotto compare l'elenco
+dei comuni cartografati, nell'ordine e con i capoluoghi in maiuscolo come nelle note di spoglio.
+
+<div class="cerca comuni-fascicolo">
+  <label class="campo"><span>Annata</span>
+    <select id="cf-annata"><option value="">Scegli l'annata</option><option value="81/82">1981/82</option><option value="82/83">1982/83</option><option value="83/84">1983/84</option><option value="84/85">1984/85</option><option value="85/86">1985/86</option><option value="86/87">1986/87</option><option value="87/88">1987/88</option><option value="88/89">1988/89</option><option value="89/90">1989/90</option><option value="90/91">1990/91</option><option value="91/92">1991/92</option><option value="92/93">1992/93</option><option value="93/94">1993/94</option><option value="94/95">1994/95</option><option value="95/96">1995/96</option><option value="96/97">1996/97</option><option value="97/98">1997/98</option><option value="98/99">1998/99</option><option value="99/00">1999/00</option><option value="00/01">2000/01</option><option value="01/02">2001/02</option><option value="02/03">2002/03</option><option value="03/04">2003/04</option><option value="04/05">2004/05</option><option value="05/06">2005/06</option><option value="06/07">2006/07</option><option value="07/08">2007/08</option><option value="08/09">2008/09</option><option value="09/10">2009/10</option><option value="10/11">2010/11</option><option value="11/12">2011/12</option><option value="12/13">2012/13</option><option value="13/14">2013/14</option><option value="14/15">2014/15</option></select></label>
+  <label class="campo"><span>Fascicolo</span>
+    <select id="cf-fascicolo" disabled><option value="">Prima scegli l'annata</option></select></label>
+</div>
+<div id="cf-esito" class="esito-comuni" aria-live="polite"><p class="vuoto">Nessun fascicolo selezionato.</p></div>
+<noscript><p class="stato-ricerca">La ricerca richiede JavaScript; gli stessi dati sono nel file della
+cartografia elencato nella sezione «I dati».</p></noscript>
+
+<script>
+(function(){
+var D={"81/82":[{"t":"Cagliari - Nuoro - Oristano - Sassari 81","s":"r","c":["CAGLIARI","Quartu Sant'Elena","NUORO","ORISTANO","SASSARI","Alghero","Olbia"]}],"82/83":[{"t":"Cagliari - Nuoro - Oristano - Sassari 82","s":"r","c":["CAGLIARI","Carbonia","Quartu Sant'Elena","NUORO","ORISTANO","SASSARI","Alghero","Olbia","Porto Torres"]}],"83/84":[{"t":"Cagliari - Nuoro - Oristano - Sassari 83","s":"r","c":["CAGLIARI","Carbonia","Quartu Sant'Elena","NUORO","ORISTANO","SASSARI","Alghero","Olbia","Porto Torres"]}],"84/85":[{"t":"Cagliari - Oristano 84","s":"r","c":["CAGLIARI","Carbonia","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 84","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres"]}],"85/86":[{"t":"Cagliari - Oristano 85","s":"r","c":["CAGLIARI","Carbonia","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 85","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres"]}],"86/87":[{"t":"Cagliari - Oristano 86","s":"r","c":["CAGLIARI","Carbonia","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 86","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres"]}],"87/88":[{"t":"Cagliari - Oristano 87","s":"r","c":["CAGLIARI","Carbonia","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 87","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres"]}],"88/89":[{"t":"Cagliari - Oristano 88","s":"r","c":["CAGLIARI","Carbonia","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 88","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres"]}],"89/90":[{"t":"Cagliari - Oristano 89","s":"r","c":["CAGLIARI","Carbonia","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 89","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres"]}],"90/91":[{"t":"Cagliari - Oristano 90/91","s":"r","c":["CAGLIARI","Carbonia","Guspini","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 90/91","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres","Tempio Pausania"]}],"91/92":[{"t":"Cagliari - Oristano 91","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 91","s":"r","c":["NUORO","SASSARI","Alghero","Olbia","Porto Torres","Tempio Pausania"]}],"92/93":[{"t":"Cagliari - Oristano 92","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Pula","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 92","s":"r","c":["NUORO","Macomer","SASSARI","Alghero","Olbia","Porto Torres","Tempio Pausania"]}],"93/94":[{"t":"Cagliari - Oristano 93","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Pula","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 93","s":"r","c":["NUORO","Macomer","SASSARI","Alghero","Olbia","Porto Torres","Tempio Pausania"]}],"94/95":[{"t":"Cagliari - Oristano 94","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Pula","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 94","s":"r","c":["NUORO","Macomer","SASSARI","Alghero","Olbia","Porto Torres","Tempio Pausania"]}],"95/96":[{"t":"Cagliari - Oristano 95","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Monserrato","Pula","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 95","s":"r","c":["NUORO","Macomer","SASSARI","Alghero","La Maddalena","Olbia","Porto Torres","Tempio Pausania"]}],"96/97":[{"t":"Cagliari - Oristano 96","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Monserrato","Pula","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 96","s":"r","c":["NUORO","Macomer","SASSARI","Alghero","La Maddalena","Olbia","Porto Torres","Tempio Pausania"]}],"97/98":[{"t":"Cagliari - Oristano 97","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Monserrato","Pula","Quartu Sant'Elena","ORISTANO"]},{"t":"Nuoro - Sassari 97","s":"r","c":["NUORO","Macomer","SASSARI","Alghero","La Maddalena","Olbia","Porto Torres","Tempio Pausania"]}],"98/99":[{"t":"Cagliari (98)","s":"r","c":["CAGLIARI","Assemini","Carbonia","Elmas","Guspini","Iglesias","Monserrato","Pula","Quartu Sant'Elena"]}],"99/00":[{"t":"Cagliari 1999/2000","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Pula","Quartu Sant'Elena","Sanluri","Selargius","Sestu"]}],"00/01":[{"t":"Cagliari 2000/2001","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","San Sperate","Sanluri","Sarroch","Selargius","Senorbì","Sestu"]}],"01/02":[{"t":"Cagliari 2001/2002","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","San Sperate","Sanluri","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"02/03":[{"t":"Cagliari 2002/2003","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"03/04":[{"t":"Cagliari 2003/2004","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"04/05":[{"t":"Cagliari 2004","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"05/06":[{"t":"Cagliari 2005","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"06/07":[{"t":"Cagliari 2006","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sant'Antioco","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"07/08":[{"t":"Cagliari 2007","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sant'Antioco","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"08/09":[{"t":"Cagliari 2008/2009","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sant'Antioco","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"09/10":[{"t":"Cagliari - Carbonia Iglesias - Medio Campidano 2009/2010","s":"r","c":["CAGLIARI","Assemini","Capoterra","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","San Sperate","Sant'Antioco","Sarroch","Selargius","Senorbì","Sestu","Villacidro"]}],"10/11":[{"t":"Cagliari - Carbonia Iglesias - Medio Campidano 2010/2011","s":"r","c":["CAGLIARI","Carbonia","Iglesias","Sanluri","Selargius","Villacidro"]}],"11/12":[{"t":"Cagliari - Carbonia Iglesias - Medio Campidano 2011/2012","s":"r","c":["CAGLIARI","Carbonia","Elmas","Iglesias","Quartu Sant'Elena","Sanluri","Selargius","Villacidro"]}],"12/13":[{"t":"Cagliari - Carbonia Iglesias - Medio Campidano 2012/2013","s":"r","c":["CAGLIARI","Carbonia","Elmas","Iglesias","Muravera","Pula","Quartu Sant'Elena","Sanluri","Sestu","Villacidro"]}],"13/14":[{"t":"Cagliari - Carbonia Iglesias - Medio Campidano 2013/2014","s":"r","c":["CAGLIARI","Carbonia","Elmas","Iglesias","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sanluri","Sestu","Selargius","Villacidro"]}],"14/15":[{"t":"Cagliari - Carbonia Iglesias - Medio Campidano 2014/2015","s":"r","c":["CAGLIARI","Elmas","Monserrato","Muravera","Pula","Quartu Sant'Elena","Sestu","Selargius","Iglesias","Carbonia","Sanluri","Villacidro"]}]};
+var MSG={n:"Elenco dei comuni non disponibile: il fascicolo non è in raccolta.",
+  d:"Elenco dei comuni non disponibile: non è accertato che il fascicolo sia mai esistito.",
+  t:"Il fascicolo è in raccolta, ma l'elenco dei comuni non è ancora stato trascritto.",
+  c:"Il fascicolo non è in raccolta: l'elenco viene da un esemplare consultato."};
+var SUF={n:" (non in raccolta)",d:" (esistenza non accertata)",c:" (non in raccolta)"};
+var an=document.getElementById('cf-annata'), fa=document.getElementById('cf-fascicolo'),
+    es=document.getElementById('cf-esito');
+function testo(tag,cl,t){var e=document.createElement(tag); if(cl) e.className=cl; e.textContent=t; return e;}
+function vuoto(t){es.innerHTML=''; es.appendChild(testo('p','vuoto',t));}
+function mostra(){
+  var l=D[an.value]||[], v=l[+fa.value];
+  if(fa.value===''||!v){ vuoto('Nessun fascicolo selezionato.'); return; }
+  es.innerHTML='';
+  es.appendChild(testo('p','titolo-esito',v.t));
+  if(v.s==='r'||v.s==='c'){
+    if(v.s==='c') es.appendChild(testo('p','nota-esito',MSG.c));
+    var n=v.c.length+(v.ni?v.ni.length:0);
+    es.appendChild(testo('p','conto-esito',n+(n===1?' comune cartografato':' comuni cartografati')));
+    var ul=document.createElement('ul'); ul.className='lista-comuni';
+    v.c.forEach(function(c){ ul.appendChild(testo('li','',c)); });
+    es.appendChild(ul);
+    if(v.ni){
+      es.appendChild(testo('p','nota-esito','Cartografati ma assenti dall\u2019elenco delle vie:'));
+      var u2=document.createElement('ul'); u2.className='lista-comuni';
+      v.ni.forEach(function(c){ u2.appendChild(testo('li','',c)); });
+      es.appendChild(u2);
+    }
+  } else es.appendChild(testo('p','nota-esito',MSG[v.s]));
+}
+an.addEventListener('change',function(){
+  var l=D[an.value]||[];
+  fa.innerHTML='';
+  if(!an.value){ fa.appendChild(new Option("Prima scegli l'annata","")); fa.disabled=true; }
+  else if(!l.length){ fa.appendChild(new Option('Nessun fascicolo della regione in quest\u2019annata','')); fa.disabled=true; }
+  else {
+    if(l.length>1) fa.appendChild(new Option('Scegli il fascicolo',''));
+    l.forEach(function(v,i){ fa.appendChild(new Option(v.t+(SUF[v.s]||''),String(i))); });
+    fa.disabled=false;
+  }
+  mostra();
+});
+fa.addEventListener('change',mostra);
+})();
+</script>
+
 ## L'indice degli articoli, 1990-1997
 
 Dall'annata 1990/91 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1997/98. Sono 232 titoli in 8 annate, mai indicizzati altrove: un piccolo corpus di giornalismo locale distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza lasciare traccia in alcuna risorsa online.

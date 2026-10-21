@@ -255,7 +255,7 @@ annata,fascicolo,provincia,citta,indicizzata
 90/91,Venezia,Venezia,Venezia,sì
 90/91,Venezia,Venezia,Marghera,sì
 90/91,Venezia,Venezia,Mestre,sì
-90/91,Venezia,Venezia,Chioggia/Sottomarina,sì
+90/91,Venezia,Venezia,Chioggia,sì
 90/91,Venezia,Venezia,Jesolo,sì
 90/91,Venezia,Venezia,Mirano,sì
 90/91,Venezia,Venezia,Portogruaro,sì
@@ -312,7 +312,7 @@ annata,fascicolo,provincia,citta,indicizzata
 91/92,Venezia,Venezia,Venezia,sì
 91/92,Venezia,Venezia,Marghera,sì
 91/92,Venezia,Venezia,Mestre,sì
-91/92,Venezia,Venezia,Chioggia/Sottomarina,sì
+91/92,Venezia,Venezia,Chioggia,sì
 91/92,Venezia,Venezia,Jesolo,sì
 91/92,Venezia,Venezia,Mirano,sì
 91/92,Venezia,Treviso,Mogliano Veneto,sì
@@ -373,7 +373,7 @@ annata,fascicolo,provincia,citta,indicizzata
 92/93,Venezia,Venezia,Venezia,sì
 92/93,Venezia,Venezia,Marghera,sì
 92/93,Venezia,Venezia,Mestre,sì
-92/93,Venezia,Venezia,Chioggia/Sottomarina,sì
+92/93,Venezia,Venezia,Chioggia,sì
 92/93,Venezia,Venezia,Jesolo,sì
 92/93,Venezia,Venezia,Mirano,sì
 92/93,Venezia,Treviso,Mogliano Veneto,sì
@@ -430,7 +430,7 @@ annata,fascicolo,provincia,citta,indicizzata
 93/94,Venezia,Venezia,Venezia,sì
 93/94,Venezia,Venezia,Marghera,sì
 93/94,Venezia,Venezia,Mestre,sì
-93/94,Venezia,Venezia,Chioggia/Sottomarina,sì
+93/94,Venezia,Venezia,Chioggia,sì
 93/94,Venezia,Venezia,Jesolo,sì
 93/94,Venezia,Venezia,Mirano,sì
 93/94,Venezia,Treviso,Mogliano Veneto,sì
@@ -488,7 +488,7 @@ annata,fascicolo,provincia,citta,indicizzata
 94/95,Venezia,Venezia,Venezia,sì
 94/95,Venezia,Venezia,Marghera,sì
 94/95,Venezia,Venezia,Mestre,sì
-94/95,Venezia,Venezia,Chioggia/Sottomarina,sì
+94/95,Venezia,Venezia,Chioggia,sì
 94/95,Venezia,Venezia,Jesolo,sì
 94/95,Venezia,Venezia,Mirano,sì
 94/95,Venezia,Treviso,Mogliano Veneto,sì
@@ -557,7 +557,7 @@ annata,fascicolo,provincia,citta,indicizzata
 95/96,Venezia,Venezia,Venezia,sì
 95/96,Venezia,Venezia,Marghera,sì
 95/96,Venezia,Venezia,Mestre,sì
-95/96,Venezia,Venezia,Chioggia/Sottomarina,sì
+95/96,Venezia,Venezia,Chioggia,sì
 95/96,Venezia,Venezia,Jesolo,sì
 95/96,Venezia,Venezia,Mirano,sì
 95/96,Venezia,Treviso,Mogliano Veneto,sì
@@ -617,7 +617,7 @@ annata,fascicolo,provincia,citta,indicizzata
 96/97,Venezia,Venezia,Marghera,sì
 96/97,Venezia,Venezia,Mestre,sì
 96/97,Venezia,Venezia,Favaro Veneto,sì
-96/97,Venezia,Venezia,Chioggia/Sottomarina,sì
+96/97,Venezia,Venezia,Chioggia,sì
 96/97,Venezia,Venezia,Jesolo,sì
 96/97,Venezia,Venezia,Mirano,sì
 96/97,Venezia,Treviso,Mogliano Veneto,sì
@@ -650,7 +650,7 @@ annata,fascicolo,provincia,citta,indicizzata
 97/98,Venezia,Venezia,Marghera,sì
 97/98,Venezia,Venezia,Mestre,sì
 97/98,Venezia,Venezia,Favaro Veneto,sì
-97/98,Venezia,Venezia,Chioggia/Sottomarina,sì
+97/98,Venezia,Venezia,Chioggia,sì
 97/98,Venezia,Venezia,Jesolo,sì
 97/98,Venezia,Venezia,Mirano,sì
 97/98,Venezia,Treviso,Mogliano Veneto,sì
@@ -712,7 +712,7 @@ annata,fascicolo,provincia,citta,indicizzata
 98/99,Venezia,Venezia,Marghera,sì
 98/99,Venezia,Venezia,Mestre,sì
 98/99,Venezia,Venezia,Favaro Veneto,sì
-98/99,Venezia,Venezia,Chioggia/Sottomarina,sì
+98/99,Venezia,Venezia,Chioggia,sì
 98/99,Venezia,Venezia,Jesolo,sì
 98/99,Venezia,Venezia,Mirano,sì
 98/99,Venezia,Treviso,Mogliano Veneto,sì
@@ -734,7 +734,7 @@ annata,fascicolo,provincia,citta,indicizzata
 99/00,Venezia,Venezia,Marghera,sì
 99/00,Venezia,Venezia,Mestre,sì
 99/00,Venezia,Venezia,Favaro Veneto,sì
-99/00,Venezia,Venezia,Chioggia/Sottomarina,sì
+99/00,Venezia,Venezia,Chioggia,sì
 99/00,Venezia,Venezia,Jesolo,sì
 99/00,Venezia,Venezia,Mirano,sì
 99/00,Venezia,Treviso,Mogliano Veneto,sì
@@ -746,7 +746,7 @@ annata,fascicolo,provincia,citta,indicizzata
 00/01,Venezia,Venezia,Marghera,sì
 00/01,Venezia,Venezia,Mestre,sì
 00/01,Venezia,Venezia,Favaro Veneto,sì
-00/01,Venezia,Venezia,Chioggia/Sottomarina,sì
+00/01,Venezia,Venezia,Chioggia,sì
 00/01,Venezia,Venezia,Jesolo,sì
 00/01,Venezia,Venezia,Mirano,sì
 00/01,Venezia,Treviso,Mogliano Veneto,sì
@@ -758,7 +758,7 @@ annata,fascicolo,provincia,citta,indicizzata
 02/03,Venezia,Venezia,Marghera,sì
 02/03,Venezia,Venezia,Mestre,sì
 02/03,Venezia,Venezia,Favaro Veneto,sì
-02/03,Venezia,Venezia,Chioggia/Sottomarina,sì
+02/03,Venezia,Venezia,Chioggia,sì
 02/03,Venezia,Venezia,Jesolo,sì
 02/03,Venezia,Venezia,Mirano,sì
 02/03,Venezia,Treviso,Mogliano Veneto,sì
@@ -770,7 +770,7 @@ annata,fascicolo,provincia,citta,indicizzata
 03/04,Venezia,Venezia,Marghera,sì
 03/04,Venezia,Venezia,Mestre,sì
 03/04,Venezia,Venezia,Favaro Veneto,sì
-03/04,Venezia,Venezia,Chioggia/Sottomarina,sì
+03/04,Venezia,Venezia,Chioggia,sì
 03/04,Venezia,Venezia,Jesolo,sì
 03/04,Venezia,Venezia,Mirano,sì
 03/04,Venezia,Treviso,Mogliano Veneto,sì
@@ -792,7 +792,7 @@ annata,fascicolo,provincia,citta,indicizzata
 07/08,Vicenza,Vicenza,Thiene,sì
 07/08,Vicenza,Vicenza,Valdagno,sì
 07/08,Venezia,Venezia,Venezia,sì
-07/08,Venezia,Venezia,Chioggia/Sottomarina,sì
+07/08,Venezia,Venezia,Chioggia,sì
 07/08,Venezia,Venezia,Favaro Veneto,sì
 07/08,Venezia,Venezia,Jesolo,sì
 07/08,Venezia,Venezia,Marghera,sì
