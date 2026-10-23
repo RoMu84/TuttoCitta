@@ -1,6 +1,11 @@
 # Il Friuli - Venezia Giulia in dettaglio
 
-<em><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 23 dei 78 fascicoli accertati della regione — <strong>Trieste, annata 83/84; Pordenone, annate 92/93, 94/95, 96/97 e 97/98; Udine, annate 96/97, 00/01–07/08, 09/10 e 11/12–14/15; Gorizia - Trieste, annate 06/07, 07/08, 12/13 e 13/14</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati</em> <span class="sospeso">in sospeso</span><em>. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia.</em>
+<em><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 23 dei 78 fascicoli accertati della regione. Espandi la nota per ulteriori dettagli.</em>
+
+<details class="cassetto nota-pagina">
+<summary>La nota per intero</summary>
+<p><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 23 dei 78 fascicoli accertati della regione — <strong>Trieste, annata 83/84; Pordenone, annate 92/93, 94/95, 96/97 e 97/98; Udine, annate 96/97, 00/01–07/08, 09/10 e 11/12–14/15; Gorizia - Trieste, annate 06/07, 07/08, 12/13 e 13/14</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati <span class="sospeso">in sospeso</span>. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia.</p>
+</details>
 
 Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli
 dell'intera regione Friuli - Venezia Giulia.
@@ -32,7 +37,8 @@ pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
 <table class="fascicoli-dettaglio">
-<thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="3">Copertine</th></tr></thead>
+<thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="3">Copertine</th></tr>
+<tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true">Collassa</button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true">Collassa</button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true">Collassa</button></th></tr></thead>
 <tbody>
 <tr><td class="ann"><span class="pastiglia" style="background:#92D050"></span><br>81/82</td><td class="tav"><span class="quadro-tavole" style="background:#FF9900"></span></td><td class="fasc"><a href="../immagini/TS81.jpg"><img class="copertina" src="../immagini/TS81.jpg" alt="Copertina del fascicolo Trieste 81" loading="lazy"></a><p class="nome">Trieste 81</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> Stradario SEAT</li><li><b>Pagine:</b> 32</li><li><b>Mese aggiornamento:</b> aprile 1981</li><li><b>Note:</b> nota dell'editore</li></ul></td><td class="fasc"><a href="../immagini/GOPNUD81.jpg"><img class="copertina" src="../immagini/GOPNUD81.jpg" alt="Copertina del fascicolo Gorizia - Pordenone - Udine 81" loading="lazy"></a><p class="nome">Gorizia - Pordenone -<br>Udine 81</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> TuttoCittà '80 classico</li><li><b>Pagine:</b> 48</li><li><b>Mese aggiornamento:</b> aprile 1981</li><li><b>Note:</b> nota dell'editore</li></ul></td><td class="fasc vuota"></td></tr>
 <tr><td class="ann"><span class="pastiglia" style="background:#FF0000"></span><br>82/83</td><td class="tav"><span class="quadro-tavole" style="background:#FF9900"></span></td><td class="fasc"><a href="../immagini/TS82.jpg"><img class="copertina" src="../immagini/TS82.jpg" alt="Copertina del fascicolo Trieste 82" loading="lazy"></a><p class="nome">Trieste 82</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> TuttoCittà '80 classico</li><li><b>Pagine:</b> 32</li><li><b>Mese aggiornamento:</b> aprile 1982</li></ul></td><td class="fasc"><a href="../immagini/GOPNUD82.jpg"><img class="copertina" src="../immagini/GOPNUD82.jpg" alt="Copertina del fascicolo Gorizia - Pordenone - Udine 82" loading="lazy"></a><p class="nome">Gorizia - Pordenone -<br>Udine 82</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> TuttoCittà '80 classico</li><li><b>Pagine:</b> 48</li><li><b>Mese aggiornamento:</b> aprile 1982</li></ul></td><td class="fasc vuota"></td></tr>
@@ -168,6 +174,7 @@ nell'annata 08/09, con 26.
 Scegli un'annata e uno dei fascicoli della regione usciti in quell'annata: sotto compare l'elenco
 dei comuni cartografati, nell'ordine e con i capoluoghi in maiuscolo come nelle note di spoglio.
 
+<div class="riquadro-ricerca">
 <div class="cerca comuni-fascicolo">
   <label class="campo"><span>Annata</span>
     <select id="cf-annata"><option value="">Scegli l'annata</option><option value="81/82">1981/82</option><option value="82/83">1982/83</option><option value="83/84">1983/84</option><option value="84/85">1984/85</option><option value="85/86">1985/86</option><option value="86/87">1986/87</option><option value="87/88">1987/88</option><option value="88/89">1988/89</option><option value="89/90">1989/90</option><option value="90/91">1990/91</option><option value="91/92">1991/92</option><option value="92/93">1992/93</option><option value="93/94">1993/94</option><option value="94/95">1994/95</option><option value="95/96">1995/96</option><option value="96/97">1996/97</option><option value="97/98">1997/98</option><option value="98/99">1998/99</option><option value="99/00">1999/00</option><option value="00/01">2000/01</option><option value="01/02">2001/02</option><option value="02/03">2002/03</option><option value="03/04">2003/04</option><option value="04/05">2004/05</option><option value="05/06">2005/06</option><option value="06/07">2006/07</option><option value="07/08">2007/08</option><option value="08/09">2008/09</option><option value="09/10">2009/10</option><option value="10/11">2010/11</option><option value="11/12">2011/12</option><option value="12/13">2012/13</option><option value="13/14">2013/14</option><option value="14/15">2014/15</option></select></label>
@@ -175,6 +182,7 @@ dei comuni cartografati, nell'ordine e con i capoluoghi in maiuscolo come nelle 
     <select id="cf-fascicolo" disabled><option value="">Prima scegli l'annata</option></select></label>
 </div>
 <div id="cf-esito" class="esito-comuni" aria-live="polite"><p class="vuoto">Nessun fascicolo selezionato.</p></div>
+</div>
 <noscript><p class="stato-ricerca">La ricerca richiede JavaScript; gli stessi dati sono nel file della
 cartografia elencato nella sezione «I dati».</p></noscript>
 

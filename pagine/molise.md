@@ -1,6 +1,11 @@
 # Il Molise in dettaglio
 
-<em><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 7 dei 17 fascicoli accertati della regione — <strong>Campobasso - Isernia, annate 81/82–83/84, 87/88, 88/89, 96/97 e 97/98</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati</em> <span class="sospeso">in sospeso</span><em>. Mancano i fascicoli di 7 annate su 17, quindi buona parte della griglia è occupata da croci. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia.</em>
+<em><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 7 dei 17 fascicoli accertati della regione. Espandi la nota per ulteriori dettagli.</em>
+
+<details class="cassetto nota-pagina">
+<summary>La nota per intero</summary>
+<p><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 7 dei 17 fascicoli accertati della regione — <strong>Campobasso - Isernia, annate 81/82–83/84, 87/88, 88/89, 96/97 e 97/98</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati <span class="sospeso">in sospeso</span>. Mancano i fascicoli di 7 annate su 17, quindi buona parte della griglia è occupata da croci. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia.</p>
+</details>
 
 Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli
 dell'intera regione Molise.
@@ -27,7 +32,8 @@ numero totale di pagine, anno per anno.
 
 <div class="scorri">
 <table class="fascicoli-dettaglio">
-<thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="1">Copertine</th></tr></thead>
+<thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="1">Copertine</th></tr>
+<tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true">Collassa</button></th></tr></thead>
 <tbody>
 <tr><td class="ann"><span class="pastiglia" style="background:#92D050"></span><br>81/82</td><td class="tav"><span class="quadro-tavole" style="background:#FF9900"></span></td><td class="fasc sospesa"><a href="../immagini/Ricercato1.jpg"><img class="copertina" src="../immagini/Ricercato1.jpg" alt="Copertina non reperita del fascicolo Campobasso - Isernia 81" loading="lazy"></a><p class="nome">Campobasso - Isernia 81</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><b>Note:</b> nota dell'editore</li><li><span class="sospeso">non in raccolta</span></li></ul></td></tr>
 <tr><td class="ann"><span class="pastiglia" style="background:#FF0000"></span><br>82/83</td><td class="tav"><span class="quadro-tavole" style="background:#FF9900"></span></td><td class="fasc sospesa"><a href="../immagini/Ricercato1.jpg"><img class="copertina" src="../immagini/Ricercato1.jpg" alt="Copertina non reperita del fascicolo Campobasso - Isernia 82" loading="lazy"></a><p class="nome">Campobasso - Isernia 82</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><span class="sospeso">non in raccolta</span></li></ul></td></tr>
@@ -118,6 +124,7 @@ nelle annate 89/90 e 94/95, con 7.
 Scegli un'annata e uno dei fascicoli della regione usciti in quell'annata: sotto compare l'elenco
 dei comuni cartografati, nell'ordine e con i capoluoghi in maiuscolo come nelle note di spoglio.
 
+<div class="riquadro-ricerca">
 <div class="cerca comuni-fascicolo">
   <label class="campo"><span>Annata</span>
     <select id="cf-annata"><option value="">Scegli l'annata</option><option value="81/82">1981/82</option><option value="82/83">1982/83</option><option value="83/84">1983/84</option><option value="84/85">1984/85</option><option value="85/86">1985/86</option><option value="86/87">1986/87</option><option value="87/88">1987/88</option><option value="88/89">1988/89</option><option value="89/90">1989/90</option><option value="90/91">1990/91</option><option value="91/92">1991/92</option><option value="92/93">1992/93</option><option value="93/94">1993/94</option><option value="94/95">1994/95</option><option value="95/96">1995/96</option><option value="96/97">1996/97</option><option value="97/98">1997/98</option><option value="98/99">1998/99</option><option value="99/00">1999/00</option><option value="00/01">2000/01</option><option value="01/02">2001/02</option><option value="02/03">2002/03</option><option value="03/04">2003/04</option><option value="04/05">2004/05</option><option value="05/06">2005/06</option><option value="06/07">2006/07</option><option value="07/08">2007/08</option><option value="08/09">2008/09</option><option value="09/10">2009/10</option><option value="10/11">2010/11</option><option value="11/12">2011/12</option><option value="12/13">2012/13</option><option value="13/14">2013/14</option><option value="14/15">2014/15</option></select></label>
@@ -125,6 +132,7 @@ dei comuni cartografati, nell'ordine e con i capoluoghi in maiuscolo come nelle 
     <select id="cf-fascicolo" disabled><option value="">Prima scegli l'annata</option></select></label>
 </div>
 <div id="cf-esito" class="esito-comuni" aria-live="polite"><p class="vuoto">Nessun fascicolo selezionato.</p></div>
+</div>
 <noscript><p class="stato-ricerca">La ricerca richiede JavaScript; gli stessi dati sono nel file della
 cartografia elencato nella sezione «I dati».</p></noscript>
 
