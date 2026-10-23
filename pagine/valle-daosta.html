@@ -76,7 +76,7 @@
 <div class="scorri">
 <table class="fascicoli-dettaglio">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="1">Copertine</th></tr>
-<tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true">Collassa</button></th></tr></thead>
+<tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AO"><span class="sig-base"><span class="nobr">AO</span></span></button></th></tr></thead>
 <tbody>
 <tr><td class="ann"><span class="pastiglia" style="background:#92D050"></span><br>81/82</td><td class="tav"><span class="quadro-tavole" style="background:#FF9900"></span></td><td class="fasc sospesa"><a href="../immagini/Ricercato1.jpg"><img class="copertina" src="../immagini/Ricercato1.jpg" alt="Copertina non reperita del fascicolo Aosta 81" loading="lazy"></a><p class="nome">Aosta 81</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><b>Note:</b> nota dell'editore</li><li><span class="sospeso">non in raccolta</span></li></ul></td></tr>
 <tr><td class="ann"><span class="pastiglia" style="background:#FF0000"></span><br>82/83</td><td class="tav"><span class="quadro-tavole" style="background:#FF9900"></span></td><td class="fasc sospesa"><a href="../immagini/Ricercato1.jpg"><img class="copertina" src="../immagini/Ricercato1.jpg" alt="Copertina non reperita del fascicolo Aosta 82" loading="lazy"></a><p class="nome">Aosta 82</p><ul class="scheda"><li><b>Formato:</b> 246 x 280 mm</li><li><b>Copertina:</b> grossa</li><li><span class="sospeso">non in raccolta</span></li></ul></td></tr>
@@ -516,8 +516,7 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
   function imposta(tab, i, aperta){
     var b = tab.querySelectorAll('tr.comandi button.comprimi')[i];
     b.setAttribute('aria-expanded', aperta ? 'true' : 'false');
-    b.textContent = aperta ? 'Collassa' : 'Espandi';
-    b.title = aperta ? 'Stringi questa colonna' : 'Riapri questa colonna';
+    b.title = (aperta ? 'Stringi la colonna ' : 'Riapri la colonna ') + b.textContent.trim();
     b.parentNode.classList.toggle('stretta', !aperta);
     Array.prototype.forEach.call(tab.tBodies[0].rows, function(r){
       var c = r.cells[2 + i]; if (c) c.classList.toggle('stretta', !aperta);
