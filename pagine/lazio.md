@@ -31,7 +31,7 @@ Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le prov
 La seguente tabella censisce i dati fondamentali dei fascicoli del Lazio, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="6">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna RM"><span class="sig-base"><span class="nobr">RM</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna Pr. RM"><span class="sig-base"><span class="nobr">Pr.</span> <span class="nobr">RM</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna FR-LT"><span class="sig-base"><span class="nobr">FR-LT</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna FR"><span class="sig-base"><span class="nobr">FR</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna LT"><span class="sig-base"><span class="nobr">LT</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna RI-VT"><span class="sig-base"><span class="nobr">RI-VT</span></span></button></th></tr></thead>
 <tbody>

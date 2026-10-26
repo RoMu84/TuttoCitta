@@ -31,7 +31,7 @@ copertine e indicandone il formato, il layout così come definito in [questa
 pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="3">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CH-AQ-PE-TE"><span class="sig-base"><span class="nobr">CH-AQ-PE-TE</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CH-PE"><span class="sig-base"><span class="nobr">CH-PE</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AQ-TE"><span class="sig-base"><span class="nobr">AQ-TE</span></span></button></th></tr></thead>
 <tbody>

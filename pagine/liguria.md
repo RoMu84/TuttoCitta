@@ -29,7 +29,7 @@ Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le prov
 La seguente tabella censisce i dati fondamentali dei fascicoli della Liguria, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="5">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna GE"><span class="sig-base"><span class="nobr">GE</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna SP"><span class="sig-base"><span class="nobr">SP</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna IM-SV"><span class="sig-base"><span class="nobr">IM-SV</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna IM"><span class="sig-base"><span class="nobr">IM</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna SV"><span class="sig-base"><span class="nobr">SV</span></span></button></th></tr></thead>
 <tbody>

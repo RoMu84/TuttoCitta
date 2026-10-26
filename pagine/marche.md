@@ -29,7 +29,7 @@ Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le prov
 La seguente tabella censisce i dati fondamentali dei fascicoli delle Marche, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="6">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AN-PU"><span class="sig-base"><span class="nobr">AN-PU</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AN"><span class="sig-base"><span class="nobr">AN</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna PU"><span class="sig-base"><span class="nobr">PU</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AP-MC"><span class="sig-base"><span class="nobr">AP-MC</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AP"><span class="sig-base"><span class="nobr">AP</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna MC"><span class="sig-base"><span class="nobr">MC</span></span></button></th></tr></thead>
 <tbody>

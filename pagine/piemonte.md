@@ -33,7 +33,7 @@ Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le prov
 La seguente tabella censisce i dati fondamentali dei fascicoli del Piemonte, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="8">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna TO"><span class="sig-base"><span class="nobr">TO</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna Pr. TO"><span class="sig-base"><span class="nobr">Pr.</span> <span class="nobr">TO</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AL-AT"><span class="sig-base"><span class="nobr">AL-AT</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AL"><span class="sig-base"><span class="nobr">AL</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AT"><span class="sig-base"><span class="nobr">AT</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CN"><span class="sig-base"><span class="nobr">CN</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna NO (NO-VB)"><span class="sig-base"><span class="nobr">NO</span></span><span class="sig-ext"> <span class="nobr">(NO-VB)</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna VC (BI-VC)"><span class="sig-base"><span class="nobr">VC</span></span><span class="sig-ext"> <span class="nobr">(BI-VC)</span></span></button></th></tr></thead>
 <tbody>
@@ -449,7 +449,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 All'inizio del 2010, assieme all'edizione regolare, venne pubblicato un fascicolo speciale dedicato all'ostensione della sindone; questo fascicolo mantiene il formato ridotto appena introdotto e presenta una copertina diversa, con un tema bianco e azzurro. L'organizzazione interna è simile a quella dell'edizione regolare, coi medesimi comuni cartografati, ma contiene alcune pagine in meno (104 invece di 128) e non è presente l'inserto Agenzia del Territorio, mentre include alcune informazioni sull'ostensione della Sindone.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="2">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna TO"><span class="sig-base"><span class="nobr">TO</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna TO"><span class="sig-base"><span class="nobr">TO</span></span></button></th></tr></thead>
 <tbody>

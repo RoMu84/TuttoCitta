@@ -29,7 +29,7 @@ Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le prov
 La seguente tabella censisce i dati fondamentali dei fascicoli della Calabria, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="4">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CZ-CS-RC"><span class="sig-base"><span class="nobr">CZ-CS-RC</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CZ (CZ-KR-VV)"><span class="sig-base"><span class="nobr">CZ</span></span><span class="sig-ext"> <span class="nobr">(CZ-KR-VV)</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CS"><span class="sig-base"><span class="nobr">CS</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna RC"><span class="sig-base"><span class="nobr">RC</span></span></button></th></tr></thead>
 <tbody>

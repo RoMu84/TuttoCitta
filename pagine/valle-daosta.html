@@ -74,7 +74,7 @@
 <p>Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per tutte le province.</p>
 <p>La seguente tabella censisce i dati fondamentali dei fascicoli della Valle d'Aosta, mostrandone le copertine e indicandone il formato, il layout così come definito in <a href="tabella-layout.html">questa pagina</a>, e il numero totale di pagine, anno per anno.</p>
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="1">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna AO"><span class="sig-base"><span class="nobr">AO</span></span></button></th></tr></thead>
 <tbody>
@@ -530,8 +530,110 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
       if (stretto) imposta(tab, i, false);
       b.addEventListener('click', function(){
         imposta(tab, i, b.getAttribute('aria-expanded') !== 'true');
+        adatta(tab);
       });
     });
+    vista(tab);
+  });
+
+  /* Vista d'insieme, sul computer: la tabella si rimpicciolisce fino a stare tutta
+     nella larghezza della pagina, colonne aperte comprese, e un secondo clic la
+     riporta alla misura normale. Si usa «zoom», che a differenza di una
+     trasformazione ridimensiona anche lo spazio occupato, quindi niente scorrimento
+     e niente vuoti sotto; i browser che non lo conoscono non vedono il pulsante.
+     Il pulsante compare solo se la tabella e piu larga della pagina. */
+  function adatta(tab){
+    var scatola = tab.closest('.scorri'); if (!scatola || !tab._intera) return;
+    tab.style.zoom = 1;
+    var spazio = scatola.clientWidth - 2, z = Math.min(1, spazio / tab.offsetWidth);
+    tab.style.zoom = z;
+    /* bordi e larghezze minime non scalano in proporzione esatta: si ritocca */
+    for (var k = 0; k < 4 && tab.getBoundingClientRect().width > spazio; k++) {
+      z = z * spazio / tab.getBoundingClientRect().width * 0.995;
+      tab.style.zoom = z;
+    }
+  }
+  function vista(tab){
+    if (!(window.CSS && CSS.supports && CSS.supports('zoom', '0.5'))) return;
+    var scatola = tab.closest('.scorri'); if (!scatola) return;
+    var barra = document.createElement('div'); barra.className = 'barra-tabella';
+    var b = document.createElement('button'); b.type = 'button'; b.className = 'vista-intera';
+    b.setAttribute('aria-pressed', 'false');
+    function etichetta(){
+      var on = tab._intera;
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+      b.textContent = on ? 'Torna alla vista normale' : 'Vedi la tabella intera';
+      b.title = on ? 'Copertine e testo alla misura normale'
+                   : 'Rimpicciolisce la tabella perché stia tutta nella pagina';
+    }
+    function serve(){
+      if (tab._intera) { barra.hidden = false; return; }
+      barra.hidden = tab.offsetWidth <= scatola.clientWidth + 1;
+    }
+    b.addEventListener('click', function(){
+      tab._intera = !tab._intera;
+      if (tab._intera) adatta(tab); else tab.style.zoom = '';
+      scatola.classList.toggle('intera', !!tab._intera);
+      etichetta(); serve();
+    });
+    etichetta();
+    barra.appendChild(b);
+    scatola.parentNode.insertBefore(barra, scatola);
+    serve();
+    window.addEventListener('load', serve);
+    window.addEventListener('resize', function(){ adatta(tab); serve(); });
+    Array.prototype.forEach.call(tab.querySelectorAll('button.comprimi'), function(c){
+      c.addEventListener('click', serve);
+    });
+  }
+})();
+
+
+
+/* Tablet e telefono: la tabella dei fascicoli diventa un elenco di schede chiuse, una
+   per raggruppamento provinciale, con le sole annate in cui la linea esiste. Le schede
+   si costruiscono qui dalla tabella, che resta nella pagina: senza JavaScript, o sopra
+   i 1000 pixel, si vede la tabella; sotto, le schede. Le copertine di una scheda chiusa
+   non si scaricano finche non la si apre. */
+(function(){
+  var tabelle = document.querySelectorAll('table.fascicoli-dettaglio.con-schede');
+  Array.prototype.forEach.call(tabelle, function(tab){
+    var bottoni = tab.querySelectorAll('tr.comandi button.comprimi');
+    var righe = tab.tBodies[0].rows;
+    var elenco = document.createElement('div');
+    elenco.className = 'schede-province';
+    Array.prototype.forEach.call(bottoni, function(b, i){
+      var voci = [];
+      Array.prototype.forEach.call(righe, function(r){
+        var c = r.cells[2 + i];
+        if (c && !c.classList.contains('vuota')) voci.push([r, c]);
+      });
+      if (!voci.length) return;
+      var d = document.createElement('details');
+      d.className = 'scheda-provincia';
+      var s = document.createElement('summary');
+      var t = document.createElement('span'); t.className = 'sigla';
+      t.textContent = b.textContent.replace(/\s+/g, ' ').trim();
+      var n = document.createElement('span'); n.className = 'conto';
+      var a0 = voci[0][0].cells[0].textContent.trim(), a1 = voci[voci.length - 1][0].cells[0].textContent.trim();
+      n.textContent = voci.length + (voci.length === 1 ? ' fascicolo' : ' fascicoli') + ' · ' + (a0 === a1 ? a0 : a0 + ' – ' + a1);
+      s.appendChild(t); s.appendChild(n); d.appendChild(s);
+      voci.forEach(function(v){
+        var riga = document.createElement('div');
+        riga.className = 'riga-scheda';
+        var ann = document.createElement('div'); ann.className = 'ann-scheda';
+        ann.innerHTML = v[0].cells[0].innerHTML + '<br>' + v[0].cells[1].innerHTML;
+        var f = document.createElement('div');
+        f.className = 'fasc-scheda' + (v[1].classList.contains('sospesa') ? ' sospesa' : '')
+                    + (v[1].classList.contains('dubbia') ? ' dubbia' : '');
+        f.innerHTML = v[1].innerHTML;
+        riga.appendChild(ann); riga.appendChild(f); d.appendChild(riga);
+      });
+      elenco.appendChild(d);
+    });
+    var scatola = tab.closest('.scorri') || tab;
+    scatola.classList.add('ha-schede');
+    scatola.parentNode.insertBefore(elenco, scatola);
   });
 })();
 

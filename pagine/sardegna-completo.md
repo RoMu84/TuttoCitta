@@ -30,7 +30,7 @@ copertine e indicandone il formato, il layout così come definito in [questa
 pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="4">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CA-NU-OR-SS"><span class="sig-base"><span class="nobr">CA-NU-OR-SS</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CA-OR"><span class="sig-base"><span class="nobr">CA-OR</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CA (CA-CI-VS)"><span class="sig-base"><span class="nobr">CA</span></span><span class="sig-ext"> <span class="nobr">(CA-CI-VS)</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna NU-SS"><span class="sig-base"><span class="nobr">NU-SS</span></span></button></th></tr></thead>
 <tbody>

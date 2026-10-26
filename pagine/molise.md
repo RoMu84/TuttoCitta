@@ -31,7 +31,7 @@ indicandone il formato, il layout così come definito in [questa pagina](tabella
 numero totale di pagine, anno per anno.
 
 <div class="scorri">
-<table class="fascicoli-dettaglio">
+<table class="fascicoli-dettaglio con-schede">
 <thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="1">Copertine</th></tr>
 <tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna CB-IS"><span class="sig-base"><span class="nobr">CB-IS</span></span></button></th></tr></thead>
 <tbody>
