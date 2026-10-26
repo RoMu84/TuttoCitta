@@ -78,7 +78,7 @@ Un dettaglio che vale la pena notare: le province di Crotone e Vibo Valentia nas
 
 La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è in raccolta, perché non è accertato che sia mai esistito, o perché il suo contenuto non è ancora stato spogliato.
 
-Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80.
+Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80. È il caso di Soverato, che entra nella cartografia un'annata prima di entrare nell'indice.
 
 <details class="cassetto" markdown="1">
 <summary>Espandi la griglia delle città — 16 città su 18 annate</summary>

@@ -7,28 +7,26 @@
 <p><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 7 dei 17 fascicoli accertati della regione — <strong>Campobasso - Isernia, annate 81/82–83/84, 87/88, 88/89, 96/97 e 97/98</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati <span class="sospeso">in sospeso</span>. Mancano i fascicoli di 7 annate su 17, quindi buona parte della griglia è occupata da croci. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia.</p>
 </details>
 
-Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli
-dell'intera regione Molise.
+Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli dell'intera regione Molise.
 
 Il censimento registra un totale di 17 fascicoli e 10 comuni cartografati.
 
 <figure class="figura">
-<img src="../immagini/Ricercato1.jpg" alt="Segnaposto della copertina non reperita del fascicolo Campobasso - Isernia 81" loading="lazy">
+<img src="../immagini/Ricercato1.jpg" alt="Segnaposto per il fascicolo Campobasso - Isernia 81" loading="lazy">
 <figcaption>Il fascicolo Campobasso - Isernia 81 non è in raccolta: la copertina non è stata reperita</figcaption>
 </figure>
+
+In questa pagina
 
 [TOC]
 
 ## Tabella dei fascicoli
 
-I fascicoli del Molise appartenevano in principio alla serie iniziale: il primo fascicolo, edito a
-maggio del 1981, era infatti intitolato *TuttoCittà 81*.
+I fascicoli del Molise appartenevano in principio alla serie iniziale: il primo fascicolo, edito a maggio del 1981, era infatti intitolato TuttoCittà 81.
 
 Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per entrambe le province.
 
-La seguente tabella censisce i dati fondamentali dei fascicoli del Molise, mostrandone le copertine e
-indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il
-numero totale di pagine, anno per anno.
+La seguente tabella censisce i dati fondamentali dei fascicoli del Molise, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
 <table class="fascicoli-dettaglio con-schede">
@@ -58,11 +56,7 @@ numero totale di pagine, anno per anno.
 
 ## Tre layout in diciassette anni
 
-La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il
-sistema definito durante il censimento osservando l'impaginazione; le loro caratteristiche sono
-descritte in [questa pagina](tabella-layout.md). Come descritto anche lì, i cambi di layout non
-rispettano i cambi delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo
-sito.
+La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il sistema definito durante il censimento osservando l'impaginazione; le loro caratteristiche sono descritte in [questa pagina](tabella-layout.md). Come descritto anche lì, i cambi di layout non rispettano i cambi delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo sito.
 
 <table class="layout-dettaglio">
 <thead><tr><th>Layout</th><th>Annate</th><th>Anni di copertina</th></tr></thead>
@@ -77,19 +71,11 @@ Non compaiono le annate 81/82 e 82/83: il fascicolo non è in raccolta e il layo
 
 ## Le città cartografate
 
-La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per
-quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo
-è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso
-degli anni. I due capoluoghi — CAMPOBASSO, ISERNIA — sono in maiuscolo, ma restano al loro posto
-nell'alfabeto. La croce segna le annate in cui il fascicolo non è in raccolta: non sappiamo se il
-comune fosse cartografato.
+La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli anni. I due capoluoghi — CAMPOBASSO, ISERNIA — sono in maiuscolo, ma restano al loro posto nell'alfabeto.
 
-Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva il relativo
-elenco delle vie, un fenomeno questo relativamente comune soprattutto nei fascicoli degli anni '80.
-Nel Molise è la regola: nelle annate anteriori al 90/91 di cui la raccolta ha il fascicolo —
-84/85–86/87 e 89/90 — nessun comune oltre ai due capoluoghi compare nell'elenco delle vie, e solo dal 90/91
-cartografia e indice tornano a coincidere. Delle altre 5 annate di quel periodo non
-sappiamo nulla, perché i fascicoli non sono in raccolta.
+La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è in raccolta, perché non è accertato che sia mai esistito, o perché il suo contenuto non è ancora stato spogliato.
+
+Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80.
 
 <details class="cassetto" markdown="1">
 <summary>Espandi la griglia delle città — 10 città su 17 annate</summary>
@@ -115,9 +101,9 @@ sappiamo nulla, perché i fascicoli non sono in raccolta.
 </details>
 
 
-Le città cartografate almeno una volta sono 10. Sulle 10 annate di cui
-la raccolta ha il fascicolo, il minimo è nelle annate 84/85–86/87, con 5 città; il massimo
-nelle annate 89/90 e 94/95, con 7.
+Le città cartografate almeno una volta sono 10. Il minimo è nelle annate 84/85–86/87, con 5 città; il massimo nelle annate 89/90 e 94/95, con 7.
+
+I conteggi valgono sulle 10 annate di cui la raccolta ha tutti i fascicoli: altrove sarebbero un minimo spacciato per un totale.
 
 ### Comuni cartografati per fascicolo
 
@@ -184,17 +170,13 @@ fa.addEventListener('change',mostra);
 })();
 </script>
 
-## L'indice degli articoli, 1990-1997
+## L'indice degli articoli, 1991-1998
 
-Dall'annata 1990/91 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia
-locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1997/98.
-Sono 68 titoli, mai indicizzati altrove: un piccolo corpus di giornalismo locale
-distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza lasciare traccia in
-alcuna risorsa online. Per le annate 96/97 e 97/98 il fascicolo non è in raccolta e l'indice resta in
-sospeso.
+Dall'annata 1990/91 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1997/98. Sono 68 titoli in 8 annate, mai indicizzati altrove: un piccolo corpus di giornalismo locale distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza lasciare traccia in alcuna risorsa online.
 
-I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i
-diritti appartengono all'editore.
+Per le annate 96/97 e 97/98 i fascicoli non sono in raccolta e l'indice resta in sospeso.
+
+I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i diritti appartengono all'editore.
 
 <figure class="figura">
 <img src="../immagini/CBIS9091.jpg" alt="Copertina del fascicolo Campobasso - Isernia 90/91" loading="lazy">
@@ -260,9 +242,8 @@ diritti appartengono all'editore.
 
 ## I dati
 
-- [`molise_fascicoli.csv`](../dati/molise_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta
+- [`molise_fascicoli.csv`](../dati/molise_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`molise_cartografia.csv`](../dati/molise_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`molise_articoli.csv`](../dati/molise_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in
-[questa pagina](come-contribuire.md) come contribuire.
+Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.

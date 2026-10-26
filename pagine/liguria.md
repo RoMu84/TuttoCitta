@@ -99,7 +99,7 @@ La seguente tabella censisce tutti i comuni che sono stati cartografati nel cors
 
 La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è in raccolta, perché non è accertato che sia mai esistito, o perché il suo contenuto non è ancora stato spogliato.
 
-Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80.
+Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80. È il caso di Cairo Montenotte, Pietra Ligure e Vado Ligure, che entrano nella cartografia due annate prima di entrare nell'indice, e di Varazze, sei annate prima.
 
 <details class="cassetto" markdown="1">
 <summary>Espandi la griglia delle città — 35 città su 34 annate</summary>

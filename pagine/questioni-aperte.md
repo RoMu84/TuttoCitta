@@ -46,7 +46,7 @@ per scissione, come avvenne per Milano.
 
 ## Fascicoli accertati di cui non è noto l'anno di copertina
 
-Sono 91 casi, elencati con `x` nelle tabelle regionali.
+Sono 85 casi, elencati con `x` nelle tabelle regionali.
 
 ## Il trentanovesimo fascicolo: risolta
 

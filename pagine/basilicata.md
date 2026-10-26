@@ -7,32 +7,26 @@
 <p><strong>NOTA: questa pagina è incompleta.</strong> Alla raccolta mancano 5 dei 17 fascicoli accertati della regione — <strong>Matera - Potenza, annate 81/82–83/84, 85/86 e 96/97</strong> — e i dati che dipendono dall'esame diretto dell'esemplare sono segnati <span class="sospeso">in sospeso</span>. Le copertine non reperite sono sostituite da un segnaposto; nella griglia dei comuni le annate scoperte portano una croce e non una casella vuota, per non confonderle con la reale assenza del corrispondente comune in cartografia.</p>
 </details>
 
-Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli
-dell'intera regione Basilicata.
+Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli dell'intera regione Basilicata.
 
 Il censimento registra un totale di 17 fascicoli e 3 comuni cartografati.
 
 <figure class="figura">
-<img src="../immagini/Ricercato1.jpg" alt="Segnaposto della copertina non reperita del fascicolo Matera - Potenza 81" loading="lazy">
+<img src="../immagini/Ricercato1.jpg" alt="Segnaposto per il fascicolo Matera - Potenza 81" loading="lazy">
 <figcaption>Il fascicolo Matera - Potenza 81 non è in raccolta: la copertina non è stata reperita</figcaption>
 </figure>
+
+In questa pagina
 
 [TOC]
 
 ## Tabella dei fascicoli
 
-I fascicoli della Basilicata appartenevano in principio alla serie iniziale: il primo fascicolo,
-edito a maggio del 1981, era infatti intitolato *TuttoCittà 81*. Tuttavia nell'annata 1985/86 la
-serie lucana fa il salto dalla serie iniziale a quella tardiva: il fascicolo edito nel 1985 riporta
-infatti in copertina il titolo *TuttoCittà 86* con copertina rossa, saltando quindi il titolo
-*TuttoCittà 85*. La serie lucana è anche una delle sole due — l'altra è quella campana — ad avere un
-fascicolo con layout *TuttoCittà '90 classico* dal titolo *TuttoCittà 98*.
+I fascicoli della Basilicata appartenevano in principio alla serie iniziale: il primo fascicolo, edito a maggio del 1981, era infatti intitolato TuttoCittà 81. Tuttavia nell'annata 1985/86 la serie lucana fa il salto dalla serie iniziale a quella tardiva: il fascicolo edito nel 1985 infatti riporta in copertina il titolo TuttoCittà 86 con copertina rossa, saltando quindi il titolo TuttoCittà 85. La serie lucana è anche una delle sole due (l'altra è quella campana) ad avere un fascicolo con layout TuttoCittà '90 classico dal titolo TuttoCittà 98.
 
 Alla fine degli anni '90 la pubblicazione dei fascicoli cessò per entrambe le province.
 
-La seguente tabella censisce i dati fondamentali dei fascicoli della Basilicata, mostrandone le
-copertine e indicandone il formato, il layout così come definito in [questa
-pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
+La seguente tabella censisce i dati fondamentali dei fascicoli della Basilicata, mostrandone le copertine e indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 <div class="scorri">
 <table class="fascicoli-dettaglio con-schede">
@@ -62,11 +56,7 @@ pagina](tabella-layout.md), e il numero totale di pagine, anno per anno.
 
 ## Tre layout in diciassette anni
 
-La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il
-sistema definito durante il censimento osservando l'impaginazione; le loro caratteristiche sono
-descritte in [questa pagina](tabella-layout.md). Come descritto anche lì, i cambi di layout non
-rispettano i cambi delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo
-sito.
+La seguente tabella censisce i vari layout utilizzati per i fascicoli della regione, secondo il sistema definito durante il censimento osservando l'impaginazione; le loro caratteristiche sono descritte in [questa pagina](tabella-layout.md). Come descritto anche lì, i cambi di layout non rispettano i cambi delle serie di copertina descritte nell'[apposita pagina](copertine.md) di questo sito.
 
 <table class="layout-dettaglio">
 <thead><tr><th>Layout</th><th>Annate</th><th>Anni di copertina</th></tr></thead>
@@ -81,17 +71,11 @@ Non compaiono le annate 81/82 e 82/83: il fascicolo non è in raccolta e il layo
 
 ## Le città cartografate
 
-La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per
-quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo
-scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel
-corso degli anni. I due capoluoghi — MATERA, POTENZA — sono in maiuscolo, ma restano al loro posto
-nell'alfabeto. La croce segna le annate in cui il fascicolo non è in raccolta: non sappiamo se il
-comune fosse cartografato.
+La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli anni. I due capoluoghi — MATERA, POTENZA — sono in maiuscolo, ma restano al loro posto nell'alfabeto.
 
-Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva il relativo
-elenco delle vie, un fenomeno questo relativamente comune soprattutto nei fascicoli degli anni '80. È
-il caso di Policoro, che entra nella cartografia due annate prima di entrare
-nell'indice.
+La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è in raccolta, perché non è accertato che sia mai esistito, o perché il suo contenuto non è ancora stato spogliato.
+
+Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80. È il caso di Policoro, che entra nella cartografia due annate prima di entrare nell'indice.
 
 <details class="cassetto" markdown="1">
 <summary>Espandi la griglia delle città — 3 città su 17 annate</summary>
@@ -110,9 +94,9 @@ nell'indice.
 </details>
 
 
-Le città cartografate almeno una volta sono 3. Sulle 12 annate di cui
-la raccolta ha tutti i fascicoli, il minimo è nelle annate 84/85, 86/87 e 87/88, con 2 città; il massimo
-nelle annate 88/89–95/96 e 97/98, con 3.
+Le città cartografate almeno una volta sono 3. Il minimo è nelle annate 84/85, 86/87 e 87/88, con 2 città; il massimo nelle annate 88/89–95/96 e 97/98, con 3.
+
+I conteggi valgono sulle 12 annate di cui la raccolta ha tutti i fascicoli: altrove sarebbero un minimo spacciato per un totale.
 
 ### Comuni cartografati per fascicolo
 
@@ -181,14 +165,11 @@ fa.addEventListener('change',mostra);
 
 ## L'indice degli articoli, 1991-1998
 
-Dall'annata 1990/91 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia
-locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1997/98.
-Sono 65 titoli in otto annate, mai indicizzati altrove: un piccolo corpus di giornalismo
-locale distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza lasciare
-traccia in alcuna risorsa online.
+Dall'annata 1990/91 ciascuna provincia ha una rubrica di articoli su storia, ambiente ed economia locale — in molti fascicoli sottotitolata «Vivere la città» — che perdura fino all'annata 1997/98.  Sono 65 titoli in 8 annate, mai indicizzati altrove: un piccolo corpus di giornalismo locale distribuito gratuitamente in centinaia di migliaia di copie e poi scomparso senza lasciare traccia in alcuna risorsa online.
 
-I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i
-diritti appartengono all'editore.
+Per l'annata 96/97 il fascicolo non è in raccolta e l'indice resta in sospeso.
+
+I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli non è riprodotto: i diritti appartengono all'editore.
 
 <figure class="figura">
 <img src="../immagini/MTPT91.jpg" alt="Copertina del fascicolo Matera - Potenza 91" loading="lazy">
@@ -254,9 +235,8 @@ diritti appartengono all'editore.
 
 ## I dati
 
-- [`basilicata_fascicoli.csv`](../dati/basilicata_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta
+- [`basilicata_fascicoli.csv`](../dati/basilicata_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`basilicata_cartografia.csv`](../dati/basilicata_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`basilicata_articoli.csv`](../dati/basilicata_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in
-[questa pagina](come-contribuire.md) come contribuire.
+Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.

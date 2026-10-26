@@ -71,7 +71,7 @@ in quegli anni il cambio di copertina avveniva all'interno dell'annata e non fra
 
 ## Fascicoli accertati privi dell'anno di copertina
 
-Sono **91** celle: fascicolo la cui esistenza è accertata, ma di cui non è noto l'anno riportato in copertina.
+Sono **85** celle: fascicolo la cui esistenza è accertata, ma di cui non è noto l'anno riportato in copertina.
 
 ## Celle marcate come probabili non confermate
 
