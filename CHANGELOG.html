@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Registro delle versioni — TuttoCittà</title>
-<meta name="description" content="1.6 — ottobre 2026 Tutte e venti le regioni in dettaglio. Alle sedici della 1.5 si aggiungono Trentino - Alto Adige, Piemonte, Lombardia ed Emilia -…">
+<meta name="description" content="1.7 — ottobre 2026 Una variante che non esiste. La 1.6 attribuiva al fascicolo Lodi - Provincia di Milano del 1998/99 due varianti di copertina, identiche…">
 <link rel="canonical" href="https://romu84.github.io/TuttoCitta/CHANGELOG.html">
 <link rel="icon" type="image/png" sizes="32x32" href="Favicon.png">
 <link rel="stylesheet" href="assets/sito.css">
@@ -44,6 +44,41 @@
 </header>
 <main>
 <h1 id="registro-delle-versioni">Registro delle versioni</h1>
+<h2 id="17-ottobre-2026">1.7 — ottobre 2026</h2>
+<p><strong>Una variante che non esiste.</strong> La 1.6 attribuiva al fascicolo <em>Lodi - Provincia di Milano</em> del 1998/99 due
+varianti di copertina, identiche all'interno e diverse nel sommario ridotto. Non è così: l'esemplare
+ritenuto la variante errata, proveniente da un'altra raccolta, era privo di copertina, e i rimandi
+sbagliati (pagine 57 e 119) stanno nella miniatura della copertina stampata a pagina 3, che li porta in
+tutti gli esemplari, anche in quelli con la copertina giusta. La copertina è una sola. Sono tolte la
+sezione che ne parlava nella pagina della Lombardia, la nota del fascicolo in <code>fascicoli_lungo.csv</code> e quella
+in <code>lombardia_fascicoli.csv</code>.</p>
+<p><strong>Nomi e dati.</strong> Chioggia ha una sola grafia: la tavola comprende sempre Sottomarina ed è indicizzata come
+Chioggia, quindi la dicitura «Chioggia/Sottomarina» dei fascicoli di Venezia dal 1990/91 non è un comune
+nuovo. Francavilla nel fascicolo Chieti - Pescara del 1990/91 è la stessa tavola di Francavilla al Mare.
+Corsico compariva due volte nel fascicolo milanese del 1983/84. <code>comuni_per_fascicolo.csv</code> scende da 1.497
+a 1.495 righe. Di <em>Rieti - Orvieto - Viterbo 83</em>, non in raccolta ma consultato, sono ora registrate le tre
+città cartografate. Catania 2008/09 ha l'anno di copertina, 2009, come Palermo; e lo hanno sei fascicoli
+del 1999/2000 — Genova, Bergamo, Brescia, Cremona, Lodi - Provincia di Milano Sud, Ancona — riconosciuti
+ora come copertina gialla del 1999/2000: i fascicoli accertati di cui non si conosce l'anno in copertina
+scendono da 92 a 85. La copertina di Vicenza 2007 rimandava a un'immagine inesistente e non si vedeva. In
+<code>roma_fascicoli.csv</code> Roma 2013/14 ha ora anche il secondo numero della foliazione, 184 (185), come la pagina.</p>
+<p><strong>Le pagine regionali.</strong> Ogni pagina ha in fondo a «Le città cartografate» una ricerca dei comuni per
+fascicolo: si sceglie l'annata, poi il fascicolo, e si leggono i comuni cartografati con i capoluoghi in
+maiuscolo; per un fascicolo che non è in raccolta la pagina lo dice invece di mostrare un elenco vuoto. La
+tabella dei fascicoli segue ora i raggruppamenti provinciali della matrice, una colonna per
+raggruppamento, con la sigla in testa (MN, CO-SO, CO (CO-LC), Pr. MI Nord (MB - Pr. MI Nord)…); ogni
+colonna si stringe e si riapre con un clic, e sul computer un pulsante rimpicciolisce la tabella fino a
+mostrarla per intero. Su tablet e telefono la tabella diventa un elenco di schede, una per raggruppamento,
+e nessuna pagina regionale richiede più lo scorrimento laterale. La nota delle pagine incomplete si
+riduce in testa alla prima frase, con la nota intera in un riquadro che si apre a richiesta. La pagina
+completa della Sardegna ha le stesse sigle, le schede e la ricerca.</p>
+<p><strong>Una sola regola per tutte.</strong> Le venti pagine regionali prendono ora il testo dal foglio di lavoro della
+regione, comprese Abruzzo, Basilicata, Friuli - Venezia Giulia e Molise che lo tenevano altrove. I comuni che
+entrano nella cartografia prima di entrare nell'elenco delle vie sono indicati regione per regione, con il
+numero di annate di anticipo, solo dove il dato è certo: era una frase scritta a mano per Policoro, ora la
+si ricava dai dati, e compare in tredici regioni.</p>
+<p>Il censimento di dettaglio conta 2.011 fascicoli, 11.318 righe di cartografia e 5.789 titoli (5.850 righe
+con le traduzioni). Il censimento dei fascicoli resta invariato: 1.990 fascicoli accertati.</p>
 <h2 id="16-ottobre-2026">1.6 — ottobre 2026</h2>
 <p><strong>Tutte e venti le regioni in dettaglio.</strong> Alle sedici della 1.5 si aggiungono Trentino - Alto Adige,
 Piemonte, Lombardia ed Emilia - Romagna, con lo stesso modello di pagina e gli stessi tre file di dati.
