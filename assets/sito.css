@@ -45,6 +45,19 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
 .tendina a { display:block; color:var(--testo); text-transform:none; letter-spacing:0;
   font-size:14px; padding:6px 18px; border-bottom:0; }
 .tendina a:hover { color:var(--scuro); background:var(--testa); border-bottom:0; }
+/* Pagine della raccolta: intestazione a colori invertiti, fascia oro e filetto
+   blu. Testi in blu scuro, che sull'oro tengono un contrasto di 4,8 per il titolo
+   e di 5,8 per le voci del menu; il segno dorato fra i gruppi diventa blu. */
+.testata.raccolta { background:var(--oro); border-bottom-color:var(--scuro); }
+.testata.raccolta .marchio { color:var(--scuro); }
+.testata.raccolta .marchio span { color:#0f2238; }
+.testata.raccolta .menu a, .testata.raccolta .menu .apri { color:#0f2238; }
+.testata.raccolta .menu a:hover, .testata.raccolta .menu .apri:hover { color:#000; border-bottom-color:var(--scuro); }
+.testata.raccolta .menu .apri:focus-visible { outline-color:var(--scuro); }
+.testata.raccolta .menu .stacco::before { background:var(--scuro); }
+.testata.raccolta .tendina { border-top-color:var(--scuro); }
+.testata.raccolta .tendina a { color:var(--testo); }
+.testata.raccolta .tendina a:hover { color:var(--scuro); }
 /* Elenchi puntati con il segno dorato, usati nella tabella dei layout. */
 ul.punti { list-style:none; margin:0; padding:0; }
 ul.punti li { position:relative; padding-left:15px; margin:0 0 5px; }
@@ -491,6 +504,9 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
     border:0; border-left:3px solid var(--oro); background:none; box-shadow:none; }
   .tendina a { color:#dce6f2; padding:7px 14px; font-size:14.5px; }
   .tendina a:hover { color:#fff; background:none; }
+  .testata.raccolta .tendina { border-left-color:var(--scuro); }
+  .testata.raccolta .tendina a { color:#0f2238; }
+  .testata.raccolta .tendina a:hover { color:#000; }
 }
 @media (max-width:1000px){ table.layout { table-layout:auto; }
   table.layout col.c-nome, table.layout col.c-ann, table.layout col.c-car, table.layout col.c-note { width:auto; } }

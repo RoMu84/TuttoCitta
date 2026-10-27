@@ -50,6 +50,10 @@ esclusivamente da una passione personale.
 
 <p class="inriga"><a href="pagine/sardegna-completo.md">Sardegna</a> <b class="perno">&bull;</b> <a href="pagine/roma.md">Speciale: Roma città</a></p>
 
+## Esplora la raccolta
+
+I dati di questo censimento derivano in larga parte dalla raccolta dell'autore; **[in questa pagina](pagine/raccolta.md)** è possibile raggiungere le pagine regionali che includono le copertine di tutti i fascicoli presenti in raccolta, i dati dei singoli fascicoli, una casella di ricerca per conoscere esattamente quali comuni sono cartografati in ogni fascicolo incluso e i titoli degli articoli della rubrica degli anni novanta. Il tutto in costante aggiornamento.
+
 ## Dati
 
 - [`fascicoli_lungo.csv`](dati/fascicoli_lungo.csv) — una riga per fascicolo e annata: la forma adatta al riuso, con l'ambito coperto — l'intero territorio, i soli dintorni del capoluogo, la sola provincia — e una nota per i pochi fascicoli che hanno una particolarità da segnalare

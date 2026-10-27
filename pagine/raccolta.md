@@ -8,7 +8,11 @@ per annate e divisi per regione e l'anno di copertina riportato nelle caselle.
 
 [Tabella aggiornata in tempo reale con lo stato attuale della raccolta](tabella-raccolta.md)
 
-Di seguito invece la lista delle regioni. Per ciascuna regione è presente una grande tabella con in
+Di seguito invece la lista delle regioni.
+
+<p class="inriga"><a href="abruzzo.md">Abruzzo</a> <b class="perno">&bull;</b> <a href="basilicata.md">Basilicata</a> <b class="perno">&bull;</b> <a href="calabria.md">Calabria</a> <b class="perno">&bull;</b> <a href="campania.md">Campania</a> <b class="perno">&bull;</b> <a href="emilia-romagna.md">Emilia - Romagna</a> <b class="perno">&bull;</b> <a href="friuli-venezia-giulia.md">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="lazio.md">Lazio</a> <b class="perno">&bull;</b> <a href="liguria.md">Liguria</a> <b class="perno">&bull;</b> <a href="lombardia.md">Lombardia</a> <b class="perno">&bull;</b> <a href="marche.md">Marche</a> <b class="perno">&bull;</b> <a href="molise.md">Molise</a> <b class="perno">&bull;</b> <a href="piemonte.md">Piemonte</a> <b class="perno">&bull;</b> <a href="puglia.md">Puglia</a> <b class="perno">&bull;</b> <a href="sardegna.md">Sardegna</a> <b class="perno">&bull;</b> <a href="sicilia.md">Sicilia</a> <b class="perno">&bull;</b> <a href="toscana.md">Toscana</a> <b class="perno">&bull;</b> <a href="trentino-alto-adige.md">Trentino - Alto Adige</a> <b class="perno">&bull;</b> <a href="umbria.md">Umbria</a> <b class="perno">&bull;</b> <a href="valle-daosta.md">Valle d'Aosta</a> <b class="perno">&bull;</b> <a href="veneto.md">Veneto</a></p>
+
+Per ciascuna regione è presente una grande tabella con in
 mostra tutte le copertine dei fascicoli in raccolta, assieme a vari dati come il layout, l'anno di
 copertina, il numero di pagine e il mese di aggiornamento.
 
@@ -18,8 +22,6 @@ sezione dedicata ai titoli degli articoli degli anni novanta. Quando richiesto, 
 sezioni aggiuntive per segnalare eventuali anomalie di produzione.
 
 Chiude la pagina una sezione coi dati aggregati in formato csv.
-
-<p class="inriga"><a href="abruzzo.md">Abruzzo</a> <b class="perno">&bull;</b> <a href="basilicata.md">Basilicata</a> <b class="perno">&bull;</b> <a href="calabria.md">Calabria</a> <b class="perno">&bull;</b> <a href="campania.md">Campania</a> <b class="perno">&bull;</b> <a href="emilia-romagna.md">Emilia - Romagna</a> <b class="perno">&bull;</b> <a href="friuli-venezia-giulia.md">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="lazio.md">Lazio</a> <b class="perno">&bull;</b> <a href="liguria.md">Liguria</a> <b class="perno">&bull;</b> <a href="lombardia.md">Lombardia</a> <b class="perno">&bull;</b> <a href="marche.md">Marche</a> <b class="perno">&bull;</b> <a href="molise.md">Molise</a> <b class="perno">&bull;</b> <a href="piemonte.md">Piemonte</a> <b class="perno">&bull;</b> <a href="puglia.md">Puglia</a> <b class="perno">&bull;</b> <a href="sardegna.md">Sardegna</a> <b class="perno">&bull;</b> <a href="sicilia.md">Sicilia</a> <b class="perno">&bull;</b> <a href="toscana.md">Toscana</a> <b class="perno">&bull;</b> <a href="trentino-alto-adige.md">Trentino - Alto Adige</a> <b class="perno">&bull;</b> <a href="umbria.md">Umbria</a> <b class="perno">&bull;</b> <a href="valle-daosta.md">Valle d'Aosta</a> <b class="perno">&bull;</b> <a href="veneto.md">Veneto</a></p>
 
 ## Due regole sul conto delle pagine
 
