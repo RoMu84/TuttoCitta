@@ -611,3 +611,46 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
     background:#fff; padding-right:8px; }
   table.griglia td { min-width:15px; }
 }
+/* Griglia delle citta compatta (SCRIPT_GRIGLIA), sotto i 1000 pixel: niente
+   scorrimento laterale, le colonne si dividono la larghezza che resta dopo i nomi. */
+.chiave-griglia, tr.dettaglio-citta { display:none; }
+/* La casella per trovare un comune c'e a ogni larghezza; chiave e dettaglio solo sotto i 1000. */
+.cerca-griglia { display:flex; align-items:center; gap:10px; max-width:24rem; margin:14px 0 0; }
+.cerca-griglia input { flex:1 1 auto; min-width:0; font-size:15px; padding:6px 10px;
+  border:1px solid #c9dcef; border-radius:5px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
+.cerca-griglia .esito { font-size:12.5px; color:var(--tenue); white-space:nowrap;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
+@media (max-width:1000px){
+  details.cassetto:has(table.griglia.compatta) > *:not(summary) { margin-left:8px; margin-right:8px; }
+  .scorri.con-compatta { overflow:visible; }
+  .chiave-griglia { display:flex; flex-wrap:wrap; gap:4px 14px; margin:12px 0 0; font-size:12.5px;
+    color:var(--tenue); font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .chiave-griglia .nota-tocco { flex-basis:100%; }
+  .chiave-griglia i, tr.dettaglio-citta i { display:inline-block; width:11px; height:11px;
+    border-radius:2px; margin-right:5px; vertical-align:-1px; }
+  .chiave-griglia i.si, tr.dettaglio-citta i.si { background:var(--scuro); }
+  .chiave-griglia i.ni, tr.dettaglio-citta i.ni { background:#4da3d9; }
+  .chiave-griglia i.ig, tr.dettaglio-citta i.ig { background:#f0dca0; }
+  .chiave-griglia i.no { background:#eef1f4; box-shadow:inset 0 0 0 1px #dde3ea; }
+  .cerca-griglia { max-width:none; margin-top:12px; }
+  .cerca-griglia input { font-size:16px; padding:7px 10px; }   /* 16: iOS non ingrandisce */
+  table.griglia.compatta { table-layout:fixed; width:100%; margin-top:10px; }
+  table.griglia.compatta thead { position:sticky; top:0; z-index:3; background:#fff; }
+  table.griglia.compatta thead th { position:relative; width:auto; height:22px; background:none; }
+  table.griglia.compatta thead th:first-child { width:clamp(100px, 30vw, 200px); }
+  table.griglia.compatta thead th span { display:none; }
+  table.griglia.compatta thead th[data-breve]::after { content:attr(data-breve); position:absolute;
+    left:3px; bottom:4px; font-size:10.5px; color:var(--tenue); white-space:nowrap; }
+  table.griglia.compatta th[scope=row] { position:static; min-width:0; max-width:none; width:auto;
+    font-size:11.5px; padding-right:6px; cursor:pointer; }
+  table.griglia.compatta td { min-width:0; width:auto; height:16px; cursor:pointer; }
+  table.griglia.compatta td.ig { font-size:0; background:#f0dca0; }
+  table.griglia.compatta tr.aperta th[scope=row] { font-weight:600; color:var(--scuro); }
+  table.griglia.compatta tr.dettaglio-citta { display:table-row; }
+  table.griglia.compatta tr.dettaglio-citta td { height:auto; cursor:auto; background:#eef5fc;
+    border:1px solid #c9dcef; border-radius:5px; padding:8px 10px 4px; font-size:13px; line-height:1.45;
+    color:var(--scuro); white-space:normal; }
+  tr.dettaglio-citta p { margin:0 0 5px; }
+  tr.dettaglio-citta p.nome-citta { font-weight:600; }
+  tr.dettaglio-citta p.nome-citta span { font-weight:400; color:var(--tenue); }
+}

@@ -113,16 +113,16 @@
 <p>Non compare l'annata 81/82: il fascicolo non è in raccolta e il layout non è stato accertato.</p>
 <h2 id="le-citta-cartografate">Le città cartografate</h2>
 <p>La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli anni. I due capoluoghi — PERUGIA, TERNI — sono in maiuscolo, ma restano al loro posto nell'alfabeto.</p>
-<p>La croce segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è in raccolta, perché non è accertato che sia mai esistito, o perché il suo contenuto non è ancora stato spogliato.</p>
+<p>La croce (o la casella ocra da dispositivi mobili) segna le annate in cui non sappiamo: perché il fascicolo che avrebbe portato quel comune non è in raccolta, perché non è accertato che sia mai esistito, o perché il suo contenuto non è ancora stato spogliato.</p>
 <p>Le caselle azzurre indicano invece che il comune era cartografato, ma non compariva nel relativo elenco delle vie, un fenomeno relativamente comune soprattutto nei fascicoli degli anni '80. È il caso di Amelia e Narni, che entrano nella cartografia un'annata prima di entrare nell'indice.</p>
 <details class="cassetto">
 <summary>Espandi la griglia delle città — 18 città su 17 annate</summary>
 <div class="scorri">
-<table class="griglia">
+<table class="griglia citta compatta">
 <thead>
 <tr>
 <th scope="col">Città</th>
-<th class="ann dec" scope="col"><span>81/82</span></th>
+<th class="ann dec" data-breve="81" scope="col"><span>81/82</span></th>
 <th class="ann" scope="col"><span>82/83</span></th>
 <th class="ann" scope="col"><span>83/84</span></th>
 <th class="ann" scope="col"><span>84/85</span></th>
@@ -131,7 +131,7 @@
 <th class="ann" scope="col"><span>87/88</span></th>
 <th class="ann" scope="col"><span>88/89</span></th>
 <th class="ann" scope="col"><span>89/90</span></th>
-<th class="ann dec" scope="col"><span>90/91</span></th>
+<th class="ann dec" data-breve="90" scope="col"><span>90/91</span></th>
 <th class="ann" scope="col"><span>91/92</span></th>
 <th class="ann" scope="col"><span>92/93</span></th>
 <th class="ann" scope="col"><span>93/94</span></th>
@@ -909,6 +909,105 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     var scatola = tab.closest('.scorri') || tab;
     scatola.classList.add('ha-schede');
     scatola.parentNode.insertBefore(elenco, scatola);
+  });
+})();
+
+
+
+/* La griglia delle citta, su tablet e telefono: invece di scorrere di lato si stringe
+   fino a stare nello schermo, una riga per comune e una colonna sottile per annata,
+   con i soli decenni in testa. Qui si aggiungono la chiave dei colori, la casella per
+   trovare un comune (dalle trenta righe in su) e il dettaglio che si apre toccando una
+   riga, con le annate scritte per esteso. Sopra i 1000 pixel resta la griglia di
+   sempre, con la sola casella di ricerca. */
+(function(){
+  var stretto = window.matchMedia('(max-width:1000px)');
+  var STATI = [['si', 'Cartografato'], ['ni', 'Cartografato, ma assente dall\u2019elenco delle vie'],
+               ['ig', 'Non accertato, fascicolo mancante']];
+  function norm(t){ return t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase(); }
+  function tratti(indici, annate){
+    var out = [], i = 0;
+    while (i < indici.length) {
+      var j = i;
+      while (j + 1 < indici.length && indici[j + 1] === indici[j] + 1) j++;
+      out.push(i === j ? annate[indici[i]] : annate[indici[i]] + ' \u2013 ' + annate[indici[j]]);
+      i = j + 1;
+    }
+    return out.join(', ');
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('table.griglia.compatta'), function(tab){
+    var annate = Array.prototype.map.call(tab.tHead.rows[0].cells, function(c){
+      return c.textContent.trim(); }).slice(1);
+    var righe = Array.prototype.slice.call(tab.tBodies[0].rows);
+    var scatola = tab.closest('.scorri') || tab;
+    scatola.classList.add('con-compatta');
+    function chiudi(){
+      Array.prototype.forEach.call(tab.querySelectorAll('tr.dettaglio-citta'), function(d){
+        d.previousElementSibling.classList.remove('aperta'); d.remove(); });
+    }
+    var chiave = document.createElement('p'); chiave.className = 'chiave-griglia';
+    [['si', 'cartografato'], ['ni', 'non nell\u2019elenco delle vie'], ['ig', 'non accertato'],
+     ['no', 'non cartografato']].forEach(function(v){
+      if (v[0] !== 'si' && v[0] !== 'no' && !tab.querySelector('td.' + v[0])) return;
+      var g = document.createElement('span');
+      g.innerHTML = '<i class="' + v[0] + '"></i>' + v[1];
+      chiave.appendChild(g);
+    });
+    var nota = document.createElement('span'); nota.className = 'nota-tocco';
+    nota.textContent = 'Tocca un comune per le annate in chiaro.';
+    chiave.appendChild(nota);
+    scatola.parentNode.insertBefore(chiave, scatola);
+    if (righe.length >= 30) {
+      var cerca = document.createElement('div'); cerca.className = 'cerca-griglia';
+      var campo = document.createElement('input');
+      campo.type = 'search'; campo.placeholder = 'Trova un comune';
+      campo.setAttribute('aria-label', 'Trova un comune nella griglia');
+      var esito = document.createElement('span'); esito.className = 'esito';
+      esito.setAttribute('aria-live', 'polite');
+      cerca.appendChild(campo); cerca.appendChild(esito);
+      scatola.parentNode.insertBefore(cerca, scatola);
+      campo.addEventListener('input', function(){
+        chiudi();
+        var q = norm(campo.value.trim()), n = 0;
+        righe.forEach(function(r){
+          var si = !q || norm(r.cells[0].textContent).indexOf(q) >= 0;
+          r.hidden = !si; if (si) n++;
+        });
+        esito.textContent = q ? (n === 1 ? '1 comune' : n + ' comuni') : '';
+      });
+    }
+    tab.tBodies[0].addEventListener('click', function(e){
+      if (!stretto.matches) return;
+      var tr = e.target.closest('tr');
+      if (!tr || tr.classList.contains('dettaglio-citta')) return;
+      var dopo = tr.nextElementSibling;
+      if (dopo && dopo.classList.contains('dettaglio-citta')) {
+        dopo.remove(); tr.classList.remove('aperta'); return;
+      }
+      var per = {si: [], ni: [], ig: []};
+      Array.prototype.forEach.call(tr.cells, function(c, i){
+        if (i === 0) return;
+        STATI.forEach(function(s){ if (c.classList.contains(s[0])) per[s[0]].push(i - 1); });
+      });
+      var d = document.createElement('tr'); d.className = 'dettaglio-citta';
+      var td = document.createElement('td'); td.colSpan = annate.length + 1;
+      var n = per.si.length + per.ni.length;
+      var h = document.createElement('p'); h.className = 'nome-citta';
+      h.textContent = tr.cells[0].textContent.trim();
+      var c = document.createElement('span');
+      c.textContent = ' \u00b7 ' + (n === 1 ? '1 annata' : n + ' annate');
+      h.appendChild(c); td.appendChild(h);
+      STATI.forEach(function(s){
+        if (!per[s[0]].length) return;
+        var p = document.createElement('p');
+        p.innerHTML = '<i class="' + s[0] + '"></i>';
+        p.appendChild(document.createTextNode(s[1] + ': ' + tratti(per[s[0]], annate)));
+        td.appendChild(p);
+      });
+      d.appendChild(td);
+      tr.classList.add('aperta');
+      tr.parentNode.insertBefore(d, tr.nextSibling);
+    });
   });
 })();
 
