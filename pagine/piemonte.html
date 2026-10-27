@@ -51,6 +51,7 @@
 </details>
 
 <p>Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli dell'intera regione Piemonte.</p>
+<p><a href="raccolta.html">Vedi la raccolta per le altre regioni</a></p>
 <p>Il censimento registra un totale di 146 fascicoli e 79 comuni cartografati.</p>
 <figure class="figura">
 <img src="../immagini/TO82.jpg" alt="Copertina del fascicolo Torino 82" loading="lazy">
@@ -3290,6 +3291,10 @@ fa.addEventListener('change',mostra);
 <li><a href="../dati/piemonte_articoli.csv"><code>piemonte_articoli.csv</code></a> — un titolo per riga: l'indice delle rubriche provinciali</li>
 </ul>
 <p>Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in <a href="come-contribuire.html">questa pagina</a> come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.</p>
+<div class="altre-regioni">
+<p><b>Le altre regioni</b></p>
+<p><a href="abruzzo.html">Abruzzo</a> · <a href="basilicata.html">Basilicata</a> · <a href="calabria.html">Calabria</a> · <a href="campania.html">Campania</a> · <a href="emilia-romagna.html">Emilia - Romagna</a> · <a href="friuli-venezia-giulia.html">Friuli - Venezia Giulia</a> · <a href="lazio.html">Lazio</a> · <a href="liguria.html">Liguria</a> · <a href="lombardia.html">Lombardia</a> · <a href="marche.html">Marche</a> · <a href="molise.html">Molise</a> · <a href="puglia.html">Puglia</a> · <a href="sardegna.html">Sardegna</a> · <a href="sicilia.html">Sicilia</a> · <a href="toscana.html">Toscana</a> · <a href="trentino-alto-adige.html">Trentino - Alto Adige</a> · <a href="umbria.html">Umbria</a> · <a href="valle-daosta.html">Valle d'Aosta</a> · <a href="veneto.html">Veneto</a></p>
+</div>
 </main>
 <footer class="pie">
 <div class="fascia">
@@ -3545,6 +3550,38 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     var scatola = tab.closest('.scorri') || tab;
     scatola.classList.add('ha-schede');
     scatola.parentNode.insertBefore(elenco, scatola);
+  });
+})();
+
+
+
+/* Pagine regionali della raccolta: un piccolo pulsante in basso a destra, che compare
+   quando si arriva alla fine della tabella dei fascicoli (o delle schede, su tablet e
+   telefono) e resta da li in giu; riporta in cima alla pagina. */
+(function(){
+  var tab = document.querySelector('table.fascicoli-dettaglio');
+  if (!tab) return;
+  var scatola = tab.closest('.scorri') || tab;
+  var b = document.createElement('button');
+  b.type = 'button'; b.className = 'torna-su'; b.title = 'Torna in cima alla pagina';
+  b.setAttribute('aria-label', 'Torna in cima alla pagina');
+  b.innerHTML = '<span aria-hidden="true">↑</span>';
+  b.hidden = true;
+  document.body.appendChild(b);
+  function fine(){
+    var schede = scatola.previousElementSibling;
+    var el = (schede && schede.classList.contains('schede-province') && schede.offsetHeight) ? schede : scatola;
+    return el.getBoundingClientRect().bottom;
+  }
+  var attesa = false;
+  function guarda(){ attesa = false; b.hidden = fine() > window.innerHeight; }
+  window.addEventListener('scroll', function(){ if (!attesa) { attesa = true; requestAnimationFrame(guarda); } }, {passive:true});
+  window.addEventListener('resize', guarda);
+  window.addEventListener('load', guarda);
+  guarda();
+  b.addEventListener('click', function(){
+    window.scrollTo({top: 0, behavior: 'smooth'});
+    b.blur();
   });
 })();
 

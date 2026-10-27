@@ -9,6 +9,8 @@
 
 Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli dell'intera regione Basilicata.
 
+[Vedi la raccolta per le altre regioni](raccolta.md)
+
 Il censimento registra un totale di 17 fascicoli e 3 comuni cartografati.
 
 <figure class="figura">
@@ -240,3 +242,9 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`basilicata_articoli.csv`](../dati/basilicata_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
 Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
+
+<div class="altre-regioni" markdown="1">
+<b>Le altre regioni</b>
+
+[Abruzzo](abruzzo.md) · [Calabria](calabria.md) · [Campania](campania.md) · [Emilia - Romagna](emilia-romagna.md) · [Friuli - Venezia Giulia](friuli-venezia-giulia.md) · [Lazio](lazio.md) · [Liguria](liguria.md) · [Lombardia](lombardia.md) · [Marche](marche.md) · [Molise](molise.md) · [Piemonte](piemonte.md) · [Puglia](puglia.md) · [Sardegna](sardegna.md) · [Sicilia](sicilia.md) · [Toscana](toscana.md) · [Trentino - Alto Adige](trentino-alto-adige.md) · [Umbria](umbria.md) · [Valle d'Aosta](valle-daosta.md) · [Veneto](veneto.md)
+</div>

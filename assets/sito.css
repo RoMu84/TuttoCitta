@@ -67,6 +67,17 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
    un'altra pagina resta senza effetto. */
 .testata.raccolta .marchio, .testata.raccolta .menu a { -webkit-text-stroke:.35px currentColor; }
 .testata.raccolta .tendina a { -webkit-text-stroke:.25px currentColor; }
+/* Il pulsante per tornare in cima, nelle pagine regionali della raccolta: piccolo, in
+   basso a destra, oro col bordo blu come la loro intestazione. */
+button.torna-su { position:fixed; right:22px; bottom:22px; z-index:30; width:42px; height:42px;
+  border-radius:50%; border:2px solid var(--scuro); background:var(--oro); color:var(--scuro);
+  font:700 20px/1 system-ui,-apple-system,"Segoe UI",sans-serif; cursor:pointer; opacity:.85;
+  box-shadow:0 3px 10px rgba(12,30,55,.25); display:flex; align-items:center; justify-content:center;
+  padding:0; }
+button.torna-su[hidden] { display:none; }
+button.torna-su:hover { opacity:1; }
+button.torna-su:focus-visible { outline:2px solid var(--scuro); outline-offset:2px; }
+@media (max-width:700px){ button.torna-su { right:14px; bottom:14px; width:38px; height:38px; } }
 /* Lo stesso per i collegamenti principali della pagina «La raccolta». */
 body.raccolta .marcato a, body.raccolta a.marcato { -webkit-text-stroke:.35px currentColor; }
 /* Elenchi puntati con il segno dorato, usati nella tabella dei layout. */

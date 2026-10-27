@@ -2,6 +2,8 @@
 
 Questa pagina si occupa di definire con estrema precisione l'organizzazione interna dei fascicoli dell'intera regione Sardegna.
 
+[Vedi la raccolta per le altre regioni](raccolta.md)
+
 Il censimento registra un totale di 48 fascicoli e 28 comuni cartografati.
 
 <figure class="figura">
@@ -311,3 +313,9 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`sardegna-raccolta_fascicoli.csv`](../dati/sardegna-raccolta_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`sardegna-raccolta_cartografia.csv`](../dati/sardegna-raccolta_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`sardegna-raccolta_articoli.csv`](../dati/sardegna-raccolta_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+
+<div class="altre-regioni" markdown="1">
+<b>Le altre regioni</b>
+
+[Abruzzo](abruzzo.md) · [Basilicata](basilicata.md) · [Calabria](calabria.md) · [Campania](campania.md) · [Emilia - Romagna](emilia-romagna.md) · [Friuli - Venezia Giulia](friuli-venezia-giulia.md) · [Lazio](lazio.md) · [Liguria](liguria.md) · [Lombardia](lombardia.md) · [Marche](marche.md) · [Molise](molise.md) · [Piemonte](piemonte.md) · [Puglia](puglia.md) · [Sicilia](sicilia.md) · [Toscana](toscana.md) · [Trentino - Alto Adige](trentino-alto-adige.md) · [Umbria](umbria.md) · [Valle d'Aosta](valle-daosta.md) · [Veneto](veneto.md)
+</div>
