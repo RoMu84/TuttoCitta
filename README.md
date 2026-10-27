@@ -7,6 +7,9 @@ Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014, poi confluito n
 **1.990 fascicoli accertati** — 1.989 edizioni ordinarie più 1 straordinaria — su 34 annate,
 20 regioni e 115 raggruppamenti provinciali.
 
+La stima complessiva, che include le edizioni del 1998/99 e del 1999/2000 non ancora identificate,
+supera di poco i 2.000 fascicoli: **fra 2.003 e 2.006** (il calcolo è in `pagine/questioni-aperte.md`).
+
 Registrazione della testata: Tribunale di Torino n. 3026 del 1981. Stampatore: ILTE, Moncalieri.
 
 ---
