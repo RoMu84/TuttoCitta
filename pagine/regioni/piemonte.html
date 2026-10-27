@@ -51,7 +51,7 @@ Le copertine dei fascicoli piemontesi presenti in raccolta e altri dati possono 
 x indica che sebbene sia accertata l'esistenza del fascicolo, l'anno di copertina non è noto con precisione.<br />
 ? indica che la pubblicazione è probabile ma non è confermata.<br />
 Le celle vuote indicano che il fascicolo non è pubblicato.</p>
-<div class="scorri"><table class="matrice">
+<div class="scorri"><table class="matrice a-schede">
 <thead><tr><th>fascicolo</th><th>81/82</th><th>82/83</th><th>83/84</th><th>84/85</th><th>85/86</th><th>86/87</th><th>87/88</th><th>88/89</th><th>89/90</th><th>90/91</th><th>91/92</th><th>92/93</th><th>93/94</th><th>94/95</th><th>95/96</th><th>96/97</th><th>97/98</th><th>98/99</th><th>99/00</th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th></tr></thead>
 <tbody>
 <tr><td class="nome">Alessandria - Asti</td><td style="background:#92D050">82</td><td style="background:#FF0000;color:#fff">83</td><td style="background:#00B0F0">84</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -65,7 +65,7 @@ Le celle vuote indicano che il fascicolo non è pubblicato.</p>
 <tr><td class="nome">Torino edizione speciale Sindone</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td style="background:#E9F2FE">10</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td class="nome"><b>Totale accertati</b></td><td><b>6</b></td><td><b>6</b></td><td><b>6</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>7</b></td><td><b>4</b></td><td><b>3</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b>3</b></td><td><b></b></td></tr>
 </tbody>
-</table>
+</table></div>
 
 <p><strong>Numero totale dei fascicoli accertati: 146</strong></p>
 <div class="altre-regioni">
@@ -197,6 +197,106 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     });
   });
 })();
+
+
+/* Censimento per regione, su tablet e telefono: ogni riga della matrice diventa una
+   scheda chiusa, con il nome del raggruppamento, il numero di fascicoli e l'intervallo
+   di annate, e sotto una striscia sottile di un segmento per annata, col colore della
+   copertina. Aperta, la scheda mostra le caselle complete con la loro annata. La riga
+   «Totale accertati» diventa in fondo «Fascicoli accertati per annata». Tutto si
+   costruisce qui dalla tabella, che resta nella pagina: senza JavaScript, o sopra i
+   1000 pixel, si vede la tabella; sotto, le schede. */
+(function(){
+  var tabelle = document.querySelectorAll('table.matrice.a-schede');
+  function casella(c, testo){
+    var k = document.createElement('span');
+    k.className = 'casella' + (testo === '?' ? ' forse' : '');
+    k.textContent = testo;
+    if (c) { k.style.background = c.style.background; k.style.color = c.style.color; }
+    return k;
+  }
+  function voce(k, annata){
+    var v = document.createElement('div'); v.className = 'voce-matrice';
+    var e = document.createElement('span'); e.className = 'annata'; e.textContent = annata;
+    v.appendChild(k); v.appendChild(e);
+    return v;
+  }
+  Array.prototype.forEach.call(tabelle, function(tab){
+    var annate = Array.prototype.map.call(tab.tHead.rows[0].cells, function(c){
+      return c.textContent.trim(); }).slice(1);
+    var righe = Array.prototype.slice.call(tab.tBodies[0].rows);
+    var totale = null;
+    if (righe.length && /^Totale/.test(righe[righe.length - 1].cells[0].textContent.trim()))
+      totale = righe.pop();
+    var elenco = document.createElement('div');
+    elenco.className = 'schede-matrice';
+    var chiave = document.createElement('p'); chiave.className = 'chiave-matrice';
+    [['94', 'anno di copertina'], ['x', 'anno non noto'], ['?', 'probabile'], ['', 'non pubblicato']]
+      .forEach(function(p){
+        var g = document.createElement('span'); g.className = 'voce-chiave';
+        var k;
+        if (p[0]) k = casella(null, p[0]);
+        else {   /* gli anni senza fascicolo si vedono solo nella striscia: un filo */
+          k = document.createElement('span'); k.className = 'striscia-scheda';
+          k.appendChild(document.createElement('i')).className = 'vuoto';
+        }
+        g.appendChild(k); g.appendChild(document.createTextNode(p[1]));
+        chiave.appendChild(g);
+      });
+    elenco.appendChild(chiave);
+    righe.forEach(function(r){
+      var accertati = 0, probabili = 0, primo = -1, ultimo = -1;
+      var striscia = document.createElement('span'); striscia.className = 'striscia-scheda';
+      striscia.setAttribute('aria-hidden', 'true');
+      var griglia = document.createElement('div'); griglia.className = 'griglia-matrice';
+      Array.prototype.forEach.call(r.cells, function(c, i){
+        if (i === 0) return;
+        var t = c.textContent.trim(), seg = document.createElement('i');
+        if (!t) seg.className = 'vuoto';
+        else {
+          if (t === '?') { probabili++; seg.className = 'forse'; }
+          else { accertati++; seg.style.background = c.style.background; }
+          if (primo < 0) primo = i - 1;
+          ultimo = i - 1;
+          griglia.appendChild(voce(casella(c, t), annate[i - 1]));
+        }
+        striscia.appendChild(seg);
+      });
+      var d = document.createElement('details');
+      d.className = 'scheda-provincia scheda-matrice';
+      var s = document.createElement('summary');
+      var nome = document.createElement('span'); nome.className = 'sigla';
+      nome.innerHTML = r.cells[0].innerHTML;
+      var n = document.createElement('span'); n.className = 'conto';
+      var parti = [accertati === 1 ? '1 fascicolo' : accertati + ' fascicoli'];
+      if (probabili) parti.push(probabili === 1 ? '1 probabile' : probabili + ' probabili');
+      if (primo >= 0) parti.push(primo === ultimo ? annate[primo] : annate[primo] + ' \u2013 ' + annate[ultimo]);
+      n.textContent = parti.join(' \u00b7 ');
+      s.appendChild(nome); s.appendChild(n); s.appendChild(striscia);
+      d.appendChild(s); d.appendChild(griglia);
+      elenco.appendChild(d);
+    });
+    /* con un solo raggruppamento i totali ripeterebbero la sua scheda */
+    if (totale && righe.length > 1) {
+      var b = document.createElement('div'); b.className = 'totali-matrice';
+      var h = document.createElement('p'); h.className = 'titolo-totali';
+      h.textContent = 'Fascicoli accertati per annata';
+      var g = document.createElement('div'); g.className = 'griglia-matrice';
+      Array.prototype.forEach.call(totale.cells, function(c, i){
+        var t = c.textContent.trim();
+        if (i === 0 || !t) return;
+        var k = casella(null, t); k.className += ' numero';
+        g.appendChild(voce(k, annate[i - 1]));
+      });
+      b.appendChild(h); b.appendChild(g);
+      elenco.appendChild(b);
+    }
+    var scatola = tab.closest('.scorri') || tab;
+    scatola.classList.add('ha-schede');
+    scatola.parentNode.insertBefore(elenco, scatola);
+  });
+})();
+
 </script>
 <script>
 /* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori

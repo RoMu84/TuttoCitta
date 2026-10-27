@@ -188,8 +188,43 @@ details.scheda-provincia .conto { color:var(--tenue); font-size:13px; }
 .fasc-scheda.sospesa { background:#fdf7e6; margin:-12px -14px -12px 0; padding:12px 14px 12px 0; }
 .fasc-scheda.dubbia { background:#fdeaea; margin:-12px -14px -12px 0; padding:12px 14px 12px 0; }
 .fasc-scheda.sospesa img.copertina, .fasc-scheda.dubbia img.copertina { opacity:.85; }
+/* Schede del censimento per regione, sotto i 1000 pixel (SCRIPT_MATRICE). */
+.schede-matrice { display:none; max-width:44rem; margin:18px 0 24px; }
+p.chiave-matrice { display:flex; flex-wrap:wrap; gap:6px 16px; margin:0 0 14px; font-size:13px;
+  color:var(--tenue); font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
+.voce-chiave { display:inline-flex; align-items:center; gap:6px; }
+.voce-chiave .casella { width:28px; height:20px; line-height:18px; font-size:11.5px;
+  background:#f1f1ee; color:var(--scuro); }
+details.scheda-matrice > summary { display:grid; grid-template-columns:17px 1fr; column-gap:10px;
+  row-gap:3px; align-items:center; }
+details.scheda-matrice > summary::before { grid-row:1; }
+details.scheda-matrice .sigla { font-size:14.5px; line-height:1.3; }
+details.scheda-matrice .conto { grid-column:2; }
+details.scheda-matrice .striscia-scheda { grid-column:2; margin-top:5px; }
+.striscia-scheda { display:flex; gap:1px; height:9px; }
+.striscia-scheda i { flex:1 1 0; min-width:0; border-radius:1px;
+  box-shadow:inset 0 0 0 1px rgba(0,0,0,.07); }
+.striscia-scheda i.vuoto { box-shadow:none;
+  background:linear-gradient(#cfd8e2,#cfd8e2) center / 100% 1px no-repeat; }
+.striscia-scheda i.forse { box-shadow:inset 0 0 0 1px #9aa5b1;
+  background:repeating-linear-gradient(135deg,#9aa5b1 0 1.5px,#fff 1.5px 4px); }
+.griglia-matrice { display:grid; grid-template-columns:repeat(auto-fill, minmax(44px, 1fr));
+  gap:10px 6px; padding:12px 14px 14px; }
+.voce-matrice { text-align:center; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
+.casella { display:block; height:30px; line-height:28px; text-align:center; border-radius:4px;
+  border:1px solid rgba(0,0,0,.12); font-size:13px; font-variant-numeric:tabular-nums;
+  box-sizing:border-box; }
+.casella.forse { background:#fff; border:1px dashed #8593a1; color:var(--tenue); }
+.voce-chiave .striscia-scheda { width:28px; }
+.casella.numero { background:#f3f8fd; border-color:#c9dcef; color:var(--scuro); font-weight:600; }
+.voce-matrice .annata { display:block; margin-top:3px; font-size:11px; color:var(--tenue);
+  font-variant-numeric:tabular-nums; }
+.totali-matrice { border:1px solid #c9dcef; border-radius:6px; margin:16px 0 0; background:#fff; }
+.totali-matrice p.titolo-totali { margin:0; padding:10px 14px; background:#eef5fc;
+  border-bottom:1px solid #c9dcef; font-weight:600; color:var(--scuro); font-size:14.5px;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 @media (max-width:1000px){
-  .schede-province { display:block; }
+  .schede-province, .schede-matrice { display:block; }
   .scorri.ha-schede { display:none; }
   .barra-tabella { display:none; }
 }
