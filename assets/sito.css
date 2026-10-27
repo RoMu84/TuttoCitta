@@ -58,6 +58,17 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
 .testata.raccolta .tendina { border-top-color:var(--scuro); }
 .testata.raccolta .tendina a { color:var(--testo); }
 .testata.raccolta .tendina a:hover { color:var(--scuro); }
+/* Un filo di grassetto per staccare i testi dall'oro, senza allargarli: un tratto
+   sottile attorno alle lettere invece di un peso maggiore, che cambierebbe la
+   larghezza delle voci e manderebbe a capo il menu. Vale solo per le 21 pagine
+   della raccolta, quelle con la fascia oro (Roberto, 27 ottobre 2026): ogni regola
+   comincia da «.testata.raccolta» o da «body.raccolta», che `sito.py` mette alle
+   sole pagine di PAGINE_RACCOLTA, cosi una classe «marcato» finita per sbaglio in
+   un'altra pagina resta senza effetto. */
+.testata.raccolta .marchio, .testata.raccolta .menu a { -webkit-text-stroke:.35px currentColor; }
+.testata.raccolta .tendina a { -webkit-text-stroke:.25px currentColor; }
+/* Lo stesso per i collegamenti principali della pagina «La raccolta». */
+body.raccolta .marcato a, body.raccolta a.marcato { -webkit-text-stroke:.35px currentColor; }
 /* Elenchi puntati con il segno dorato, usati nella tabella dei layout. */
 ul.punti { list-style:none; margin:0; padding:0; }
 ul.punti li { position:relative; padding-left:15px; margin:0 0 5px; }
