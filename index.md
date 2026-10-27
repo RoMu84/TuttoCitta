@@ -60,6 +60,7 @@ I dati di questo censimento derivano in larga parte dalla raccolta dell'autore; 
 - [`fascicoli_matrice.csv`](dati/fascicoli_matrice.csv) — la matrice come nel foglio originale
 - [`copertine_per_annata.csv`](dati/copertine_per_annata.csv) — tipi di copertina, conteggi, colore delle tavole
 - [`totali_per_annata.csv`](dati/totali_per_annata.csv) — totali per annata e note editoriali
+- [`pagine_gialle_casa.csv`](dati/pagine_gialle_casa.csv) — i volumi delle Pagine Gialle Casa del 1998/99 e del 1999/2000, col fascicolo TuttoCittà che li accompagnava o li avrebbe accompagnati
 - [`aggregati_per_annata.csv`](dati/aggregati_per_annata.csv) — calendario editoriale e foliazione, dati aggregati
 - [`attributi_grafici_per_annata.csv`](dati/attributi_grafici_per_annata.csv) — sfondo mappe, cornice, foto stradario
 - [`comuni_per_fascicolo.csv`](dati/comuni_per_fascicolo.csv) — indice delle località mappate, per decennio

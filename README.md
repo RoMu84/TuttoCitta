@@ -28,6 +28,7 @@ dati/
   fascicoli_matrice.csv        la matrice come nel foglio originale
   copertine_per_annata.csv     tipi di copertina, conteggi, colore delle tavole
   totali_per_annata.csv        totali per annata e note editoriali
+  pagine_gialle_casa.csv       i volumi delle Pagine Gialle Casa 1998/99 e 1999/2000, col loro fascicolo
   aggregati_per_annata.csv     calendario editoriale e foliazione
   attributi_grafici_per_annata.csv   sfondo delle mappe, cornice, foto dello stradario
   comuni_per_fascicolo.csv     indice delle località mappate, per decennio
@@ -104,17 +105,22 @@ Tre limiti vanno dichiarati.
 ricostruzione basata sulle regolarità editoriali. È una posizione falsificabile: il ritrovamento di un
 esemplare comporta l'aggiornamento del dato, non una difesa della ricostruzione.
 
-**L'annata 1998/1999 resta la più incerta di tutto il ciclo.** Fra i 87 fascicoli del 1997/98 e i 42
-del 1999/2000 — questi ultimi documentati dal bilancio d'esercizio 1998 della SEAT Pagine Gialle — il numero
-intermedio non è determinabile: sta fra 44 e 70 — il minimo è il numero dei fascicoli accertati, il
-massimo scende da 87 perché di diciassette
-edizioni è accertato che non furono pubblicate — e le fonti d'epoca non lo dichiarano. Vedi
+**L'annata 1998/1999 non ha un numero dichiarato, ma si può stimare: circa 55 fascicoli.** Fra gli 87
+del 1997/98 e i 42 del 1999/2000 — questi ultimi dichiarati dalla SEAT Pagine Gialle nel bilancio
+d'esercizio 1998 e nel prospetto di quotazione delle azioni Seat del 1999 (p. 34) — l'editore non
+dichiara il numero dei fascicoli, ma lo stesso prospetto (p. 31) dichiara che «dal 1998» la cartografia
+è inserita in 45 edizioni delle Pagine Gialle Casa. I volumi delle Pagine Gialle Casa delle aree che il
+censimento dà per non pubblicate nel 1998/1999 sono esattamente 45 (`dati/pagine_gialle_casa.csv`):
+il confine tracciato dal censimento coincide con quello dell'editore, e gli 11 fascicoli probabili di
+quell'annata erano con ogni verosimiglianza tutti pubblicati. Il totale sta fra 54 e 56 per il caso di
+Oristano, la cui cartografia passa nelle Pagine Gialle proprio quell'anno. Vedi
 `pagine/questioni-aperte.md`.
 
 **Resta un solo scostamento su trentaquattro annate, e non è un errore.** Nel 1999/2000 la matrice
-identifica 39 fascicoli contro i 42 documentati dal bilancio d'esercizio 1998 della SEAT Pagine Gialle: i tre di
-differenza sono edizioni la cui esistenza è certa e la cui identità non è nota. Lo scostamento misura
-dunque ciò che ancora manca, e va letto come un'informazione.
+identifica 39 fascicoli contro i 42 dichiarati dall'editore: i tre di differenza sono edizioni la cui
+esistenza è certa e la cui identità non è nota. Lo scostamento misura dunque ciò che ancora manca, e va
+letto come un'informazione. Lo stesso confronto con le Pagine Gialle Casa indica dove cercare: con ogni
+probabilità sono tre delle quattro edizioni provinciali di Bologna, Firenze, Napoli e Torino.
 
 **L'incertezza residua è quasi tutta concentrata in due annate.** Delle 21 celle marcate come
 pubblicazione probabile non confermata, 11 stanno nell'annata 1998/1999 e 10 nella 1999/2000.
