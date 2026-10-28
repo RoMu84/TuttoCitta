@@ -96,6 +96,20 @@ La seguente tabella censisce i vari layout utilizzati per i fascicoli della regi
 </tbody>
 </table>
 
+## Un esemplare speciale: Torino edizione speciale per l'ostensione della Sindone 2010
+
+All'inizio del 2010, assieme all'edizione regolare, venne pubblicato un fascicolo speciale dedicato all'ostensione della sindone; questo fascicolo mantiene il formato ridotto appena introdotto e presenta una copertina diversa, con un tema bianco e azzurro. L'organizzazione interna è simile a quella dell'edizione regolare, coi medesimi comuni cartografati, ma contiene alcune pagine in meno (104 invece di 128) e non è presente l'inserto Agenzia del Territorio, mentre include alcune informazioni sull'ostensione della Sindone.
+
+<div class="scorri">
+<table class="fascicoli-dettaglio con-schede">
+<thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="2">Copertine</th></tr>
+<tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna TO"><span class="sig-base"><span class="nobr">TO</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna TO"><span class="sig-base"><span class="nobr">TO</span></span></button></th></tr></thead>
+<tbody>
+<tr><td class="ann"><span class="pastiglia" style="background:#F9CB9C"></span><br><span class="pastiglia" style="background:#E9F2FE"></span><br>09/10</td><td class="tav"><span class="quadro-tavole" style="background:#FCE5CD"></span></td><td class="fasc"><a href="../immagini/TO1011.jpg"><img class="copertina ridotta" src="../immagini/TO1011.jpg" alt="Copertina del fascicolo Torino e dintorni 2010/2011" loading="lazy"></a><p class="nome">Torino e<br>dintorni 2010/2011</p><ul class="scheda"><li><b>Formato:</b> 140 x 212 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> TuttoCittà anni dieci</li><li><b>Pagine:</b> 128</li><li><b>Mese aggiornamento:</b> marzo 2010</li><li><b>Note:</b> inserto Agenzia del Territorio</li></ul></td><td class="fasc"><a href="../immagini/TO10S.jpg"><img class="copertina ridotta" src="../immagini/TO10S.jpg" alt="Copertina del fascicolo Torino 2010" loading="lazy"></a><p class="nome">Torino 2010</p><ul class="scheda"><li><b>Formato:</b> 140 x 212 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> TuttoCittà anni dieci</li><li><b>Pagine:</b> 104</li><li><b>Mese aggiornamento:</b> marzo 2010</li><li><b>Note:</b> edizione speciale ostensione della Sindone</li></ul></td></tr>
+</tbody>
+</table>
+</div>
+
 ## Le città cartografate
 
 La seguente tabella censisce tutti i comuni che sono stati cartografati nel corso del tempo e per quante annate. Ad ogni riga corrisponde un comune, in ordine alfabetico e non per provincia: lo scopo è infatti identificare a colpo d'occhio quali comuni entrano ed escono dalla cartografia nel corso degli anni. I sei capoluoghi storici — ALESSANDRIA, ASTI, CUNEO, NOVARA, TORINO, VERCELLI — sono in maiuscolo, ma restano al loro posto nell'alfabeto.
@@ -445,20 +459,6 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dt>Vercelli</dt>
   <dd>Tempo libero. Con "Arturo" a spasso per Vercelli <b class="perno">&bull;</b> Le virtù diplomatiche della beata Bicchieri <b class="perno">&bull;</b> Le quaglie di Babette e le capre dei signori Golovlëv</dd>
 </dl>
-
-## Un esemplare speciale: Torino edizione speciale per l'ostensione della Sindone 2010
-
-All'inizio del 2010, assieme all'edizione regolare, venne pubblicato un fascicolo speciale dedicato all'ostensione della sindone; questo fascicolo mantiene il formato ridotto appena introdotto e presenta una copertina diversa, con un tema bianco e azzurro. L'organizzazione interna è simile a quella dell'edizione regolare, coi medesimi comuni cartografati, ma contiene alcune pagine in meno (104 invece di 128) e non è presente l'inserto Agenzia del Territorio, mentre include alcune informazioni sull'ostensione della Sindone.
-
-<div class="scorri">
-<table class="fascicoli-dettaglio con-schede">
-<thead><tr><th>Annata</th><th>Colore<br>tavole</th><th colspan="2">Copertine</th></tr>
-<tr class="comandi" hidden><th></th><th></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna TO"><span class="sig-base"><span class="nobr">TO</span></span></button></th><th class="comando"><button type="button" class="comprimi" aria-expanded="true" title="Stringi la colonna TO"><span class="sig-base"><span class="nobr">TO</span></span></button></th></tr></thead>
-<tbody>
-<tr><td class="ann"><span class="pastiglia" style="background:#F9CB9C"></span><br><span class="pastiglia" style="background:#E9F2FE"></span><br>09/10</td><td class="tav"><span class="quadro-tavole" style="background:#FCE5CD"></span></td><td class="fasc"><a href="../immagini/TO1011.jpg"><img class="copertina ridotta" src="../immagini/TO1011.jpg" alt="Copertina del fascicolo Torino e dintorni 2010/2011" loading="lazy"></a><p class="nome">Torino e<br>dintorni 2010/2011</p><ul class="scheda"><li><b>Formato:</b> 140 x 212 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> TuttoCittà anni dieci</li><li><b>Pagine:</b> 128</li><li><b>Mese aggiornamento:</b> marzo 2010</li><li><b>Note:</b> inserto Agenzia del Territorio</li></ul></td><td class="fasc"><a href="../immagini/TO10S.jpg"><img class="copertina ridotta" src="../immagini/TO10S.jpg" alt="Copertina del fascicolo Torino 2010" loading="lazy"></a><p class="nome">Torino 2010</p><ul class="scheda"><li><b>Formato:</b> 140 x 212 mm</li><li><b>Copertina:</b> grossa</li><li><b>Layout:</b> TuttoCittà anni dieci</li><li><b>Pagine:</b> 104</li><li><b>Mese aggiornamento:</b> marzo 2010</li><li><b>Note:</b> edizione speciale ostensione della Sindone</li></ul></td></tr>
-</tbody>
-</table>
-</div>
 
 ## I dati
 
