@@ -392,6 +392,11 @@ table.griglia td.dec, table.griglia th.dec { border-left:2px solid var(--scuro);
 .incorniciato { position:relative; width:100%; padding-bottom:70%; margin:18px 0;
   border:1px solid var(--bordo); background:#fff; }
 .incorniciato iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:0; }
+.incorniciato.foglio-intero { overflow:hidden; }
+.incorniciato.foglio-intero iframe { transform-origin:0 0; }
+/* Il pulsante della vista intera del foglio incorporato: a ogni larghezza, anche su telefono. */
+.barra-foglio { display:flex; justify-content:flex-end; margin:14px 0 -8px; }
+.barra-foglio[hidden] { display:none; }
 @media (max-width:700px) { .incorniciato { padding-bottom:120%; } }
 .legenda-griglia { font-size:13px; color:var(--tenue); max-width:44rem; margin:2px 0 34px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }

@@ -8,7 +8,7 @@ ragione non fa parte del pacchetto dati scaricabile, e per vederla serve una con
 I dati consolidati del censimento sono invece nelle [pagine di dettaglio regionali](raccolta.md) e nei
 CSV che ogni pagina mette a disposizione.
 
-<div class="incorniciato">
+<div class="incorniciato foglio-intero" data-larghezza="1760">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRAef6iyK-jS_wQFT-6FY3cgPdtguxc6TRFhV2v97Q-hw0e_Cp5Y7CzUKwLCy_ccsH_w-EbNDktRWUK/pubhtml?widget=true&amp;headers=false" title="Stato della raccolta dei fascicoli TuttoCittà" loading="lazy"></iframe>
 </div>
 

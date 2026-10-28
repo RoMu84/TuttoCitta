@@ -51,7 +51,7 @@ incorporato, e si aggiorna da sé man mano che nuovi fascicoli si rendono dispon
 ragione non fa parte del pacchetto dati scaricabile, e per vederla serve una connessione.</p>
 <p>I dati consolidati del censimento sono invece nelle <a href="raccolta.html">pagine di dettaglio regionali</a> e nei
 CSV che ogni pagina mette a disposizione.</p>
-<div class="incorniciato">
+<div class="incorniciato foglio-intero" data-larghezza="1760">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRAef6iyK-jS_wQFT-6FY3cgPdtguxc6TRFhV2v97Q-hw0e_Cp5Y7CzUKwLCy_ccsH_w-EbNDktRWUK/pubhtml?widget=true&amp;headers=false" title="Stato della raccolta dei fascicoli TuttoCittà" loading="lazy"></iframe>
 </div>
 
@@ -125,6 +125,39 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     if (b) b.focus();
   });
 })();
+
+
+/* La tabella della raccolta e un foglio di Google incorporato: non si puo misurare da qui,
+   perche sta su un altro dominio. Il pulsante «Vedi la tabella intera» allarga la cornice
+   alla larghezza naturale del foglio, scritta nella pagina (data-larghezza), e la rimpicciolisce
+   con una trasformazione finche sta tutta nella colonna; l'altezza visibile resta quella della
+   cornice, e dentro il foglio si scorre come prima. Un secondo clic riporta alla vista normale. */
+(function(){
+  if (!(window.CSS && CSS.supports && CSS.supports('transform', 'scale(0.5)'))) return;
+  Array.prototype.forEach.call(document.querySelectorAll('.incorniciato.foglio-intero'), function(box){
+    var f = box.querySelector('iframe'); if (!f) return;
+    var W = +box.getAttribute('data-larghezza') || 1760, on = false;
+    var barra = document.createElement('div'); barra.className = 'barra-foglio';
+    var b = document.createElement('button'); b.type = 'button'; b.className = 'vista-intera';
+    function adatta(){
+      var s = box.clientWidth / W;
+      barra.hidden = s >= 1;
+      if (!on || s >= 1) { f.style.width = ''; f.style.height = ''; f.style.transform = ''; return; }
+      f.style.width = W + 'px';
+      f.style.height = Math.round(box.clientHeight / s) + 'px';
+      f.style.transform = 'scale(' + s + ')';
+    }
+    function etichetta(){
+      b.textContent = on ? 'Torna alla vista normale' : 'Vedi la tabella intera';
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    }
+    b.addEventListener('click', function(){ on = !on; etichetta(); adatta(); });
+    etichetta(); barra.appendChild(b); box.parentNode.insertBefore(barra, box);
+    window.addEventListener('resize', adatta);
+    adatta();
+  });
+})();
+
 </script>
 <script>
 /* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
