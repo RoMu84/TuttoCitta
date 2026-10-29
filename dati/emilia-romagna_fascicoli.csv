@@ -124,7 +124,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 95/96,Forlì - Cesena - Rimini - San Marino,Forlì - Cesena - Rimini - San Marino 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,54,,aprile 1995,,FO95.jpg,True,accertata
 95/96,Ravenna,Ravenna 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,aprile 1995,,RA95.jpg,True,accertata
 95/96,Modena,Modena 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,54,,ottobre 1995,,MO96.jpg,True,accertata
-95/96,Parma,Parma 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+95/96,Parma,Parma 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,ottobre 1995,,PR96.jpg,True,accertata
 95/96,Piacenza,Piacenza 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 95/96,Reggio Emilia,Reggio Emilia 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 96/97,Bologna e dintorni,Bologna e dintorni 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,70,,agosto 1996,Cambio formato,BO97.jpg,True,accertata
@@ -133,7 +133,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 96/97,Forlì - Cesena - Rimini - San Marino,Forlì - Cesena - Rimini - San Marino 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 96/97,Ravenna,Ravenna 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,38,,aprile 1996,,RA96.jpg,True,accertata
 96/97,Modena,Modena 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,54,,ottobre 1996,Cambio formato,MO97.jpg,True,accertata
-96/97,Parma,Parma 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+96/97,Parma,Parma 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,,ottobre 1996,Cambio formato,PR97.jpg,True,accertata
 96/97,Piacenza,Piacenza 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
 96/97,Reggio Emilia,Reggio Emilia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
 97/98,Bologna e dintorni,Bologna e dintorni (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,78,,agosto 1997,"""novembre 1997 - ottobre 1998""",BO97b.jpg,True,accertata
