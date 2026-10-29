@@ -6,7 +6,7 @@ si basano i dati del presente censimento.
 Una visione d'insieme la si può avere consultando la tabella al link qui sotto, coi fascicoli ordinati
 per annate e divisi per regione e l'anno di copertina riportato nelle caselle.
 
-[Tabella aggiornata in tempo reale con lo stato attuale della raccolta](tabella-raccolta.md){: .marcato}
+[Tabella con lo stato attuale della raccolta, annata per annata](tabella-raccolta.md){: .marcato}
 
 Di seguito invece la lista delle regioni.
 

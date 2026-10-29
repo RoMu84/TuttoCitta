@@ -206,6 +206,20 @@ details.scheda-matrice .striscia-scheda { grid-column:2; margin-top:5px; }
   box-shadow:inset 0 0 0 1px rgba(0,0,0,.07); }
 .striscia-scheda i.vuoto { box-shadow:none;
   background:linear-gradient(#cfd8e2,#cfd8e2) center / 100% 1px no-repeat; }
+/* Tabella della raccolta: pubblicato ma non in raccolta (bianco col bordo) e non pubblicato (grigio). */
+.striscia-scheda i.manca { background:#fff; box-shadow:inset 0 0 0 1px #8593a1; }
+.casella.manca { background:#fff; border:1px solid #8593a1; }
+table.matrice.possesso td.np { background:#efefef; }
+table.matrice.possesso td.manca { background:#fff; }
+p.legenda-possesso { display:flex; flex-wrap:wrap; gap:6px 18px; font-size:14px; color:var(--tenue);
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; max-width:44rem; }
+p.legenda-possesso span { display:inline-flex; align-items:center; gap:7px; }
+p.legenda-possesso i.campione { display:inline-block; min-width:26px; height:20px; line-height:18px;
+  text-align:center; font-style:normal; font-size:11.5px; color:var(--scuro); border-radius:3px;
+  border:1px solid rgba(0,0,0,.15); box-sizing:border-box; flex:none; }
+p.legenda-possesso i.campione.manca { background:#fff; border-color:#8593a1; }
+p.legenda-possesso i.campione.np { background:#efefef; }
+p.legenda-possesso i.campione.forse { background:#fff; border-style:dashed; }
 .striscia-scheda i.forse { box-shadow:inset 0 0 0 1px #9aa5b1;
   background:repeating-linear-gradient(135deg,#9aa5b1 0 1.5px,#fff 1.5px 4px); }
 .griglia-matrice { display:grid; grid-template-columns:repeat(auto-fill, minmax(44px, 1fr));
@@ -392,11 +406,6 @@ table.griglia td.dec, table.griglia th.dec { border-left:2px solid var(--scuro);
 .incorniciato { position:relative; width:100%; padding-bottom:70%; margin:18px 0;
   border:1px solid var(--bordo); background:#fff; }
 .incorniciato iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:0; }
-.incorniciato.foglio-intero { overflow:hidden; }
-.incorniciato.foglio-intero iframe { transform-origin:0 0; }
-/* Il pulsante della vista intera del foglio incorporato: a ogni larghezza, anche su telefono. */
-.barra-foglio { display:flex; justify-content:flex-end; margin:14px 0 -8px; }
-.barra-foglio[hidden] { display:none; }
 @media (max-width:700px) { .incorniciato { padding-bottom:120%; } }
 .legenda-griglia { font-size:13px; color:var(--tenue); max-width:44rem; margin:2px 0 34px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }

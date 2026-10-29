@@ -212,9 +212,13 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
    1000 pixel, si vede la tabella; sotto, le schede. */
 (function(){
   var tabelle = document.querySelectorAll('table.matrice.a-schede');
-  function casella(c, testo){
+  /* La tabella della raccolta (classe «possesso») ha uno stato in piu: fascicolo pubblicato ma
+     non in raccolta, casella bianca con la classe «manca». La chiave sta solo sopra la prima
+     tabella della pagina, che di tabelle regionali ne ha venti. */
+  var chiaveFatta = false;
+  function casella(c, testo, manca){
     var k = document.createElement('span');
-    k.className = 'casella' + (testo === '?' ? ' forse' : '');
+    k.className = 'casella' + (testo === '?' ? ' forse' : '') + (manca ? ' manca' : '');
     k.textContent = testo;
     if (c) { k.style.background = c.style.background; k.style.color = c.style.color; }
     return k;
@@ -229,17 +233,20 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     var annate = Array.prototype.map.call(tab.tHead.rows[0].cells, function(c){
       return c.textContent.trim(); }).slice(1);
     var righe = Array.prototype.slice.call(tab.tBodies[0].rows);
+    var poss = tab.classList.contains('possesso');
     var totale = null;
     if (righe.length && /^Totale/.test(righe[righe.length - 1].cells[0].textContent.trim()))
       totale = righe.pop();
     var elenco = document.createElement('div');
     elenco.className = 'schede-matrice';
     var chiave = document.createElement('p'); chiave.className = 'chiave-matrice';
-    [['94', 'anno di copertina'], ['x', 'anno non noto'], ['?', 'probabile'], ['', 'non pubblicato']]
+    (poss ? [['94', 'in raccolta'], ['manca', 'non in raccolta'], ['?', 'probabile'], ['', 'non pubblicato']]
+          : [['94', 'anno di copertina'], ['x', 'anno non noto'], ['?', 'probabile'], ['', 'non pubblicato']])
       .forEach(function(p){
         var g = document.createElement('span'); g.className = 'voce-chiave';
         var k;
-        if (p[0]) k = casella(null, p[0]);
+        if (p[0] === 'manca') k = casella(null, '', true);
+        else if (p[0]) k = casella(null, p[0]);
         else {   /* gli anni senza fascicolo si vedono solo nella striscia: un filo */
           k = document.createElement('span'); k.className = 'striscia-scheda';
           k.appendChild(document.createElement('i')).className = 'vuoto';
@@ -247,16 +254,23 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
         g.appendChild(k); g.appendChild(document.createTextNode(p[1]));
         chiave.appendChild(g);
       });
-    elenco.appendChild(chiave);
+    if (!chiaveFatta) elenco.appendChild(chiave);
+    chiaveFatta = true;
     righe.forEach(function(r){
-      var accertati = 0, probabili = 0, primo = -1, ultimo = -1;
+      var accertati = 0, probabili = 0, mancanti = 0, primo = -1, ultimo = -1;
       var striscia = document.createElement('span'); striscia.className = 'striscia-scheda';
       striscia.setAttribute('aria-hidden', 'true');
       var griglia = document.createElement('div'); griglia.className = 'griglia-matrice';
       Array.prototype.forEach.call(r.cells, function(c, i){
         if (i === 0) return;
         var t = c.textContent.trim(), seg = document.createElement('i');
-        if (!t) seg.className = 'vuoto';
+        if (c.classList.contains('manca')) {
+          accertati++; mancanti++; seg.className = 'manca';
+          if (primo < 0) primo = i - 1;
+          ultimo = i - 1;
+          griglia.appendChild(voce(casella(null, '', true), annate[i - 1]));
+        }
+        else if (!t) seg.className = 'vuoto';
         else {
           if (t === '?') { probabili++; seg.className = 'forse'; }
           else { accertati++; seg.style.background = c.style.background; }
@@ -272,7 +286,8 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
       var nome = document.createElement('span'); nome.className = 'sigla';
       nome.innerHTML = r.cells[0].innerHTML;
       var n = document.createElement('span'); n.className = 'conto';
-      var parti = [accertati === 1 ? '1 fascicolo' : accertati + ' fascicoli'];
+      var parti = [poss ? (accertati - mancanti) + ' in raccolta su ' + accertati
+                        : (accertati === 1 ? '1 fascicolo' : accertati + ' fascicoli')];
       if (probabili) parti.push(probabili === 1 ? '1 probabile' : probabili + ' probabili');
       if (primo >= 0) parti.push(primo === ultimo ? annate[primo] : annate[primo] + ' \u2013 ' + annate[ultimo]);
       n.textContent = parti.join(' \u00b7 ');
@@ -284,7 +299,7 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     if (totale && righe.length > 1) {
       var b = document.createElement('div'); b.className = 'totali-matrice';
       var h = document.createElement('p'); h.className = 'titolo-totali';
-      h.textContent = 'Fascicoli accertati per annata';
+      h.textContent = poss ? 'Fascicoli in raccolta per annata' : 'Fascicoli accertati per annata';
       var g = document.createElement('div'); g.className = 'griglia-matrice';
       Array.prototype.forEach.call(totale.cells, function(c, i){
         var t = c.textContent.trim();
