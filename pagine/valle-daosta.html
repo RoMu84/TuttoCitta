@@ -666,6 +666,15 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     return out.join(', ');
   }
   Array.prototype.forEach.call(document.querySelectorAll('table.griglia.compatta'), function(tab){
+    // La griglia delle rubriche (Sardegna completo) ha gli stessi comandi di quella delle
+    // citta, con le sue parole; nel dettaglio le annate si raggruppano per fascicolo, come
+    // dice il title delle celle («Rubrica — 84/85: Cagliari»).
+    var rubr = tab.classList.contains('rubriche');
+    var T = rubr ? {chiave: [['si', 'presente'], ['no', 'assente']], tocca: 'Tocca una rubrica per le annate in chiaro.',
+                    trova: 'Trova una rubrica', una: '1 rubrica', piu: ' rubriche'}
+                 : {chiave: [['si', 'cartografato'], ['ni', 'non nell\u2019elenco delle vie'], ['ig', 'non accertato'],
+                    ['no', 'non cartografato']], tocca: 'Tocca un comune per le annate in chiaro.',
+                    trova: 'Trova un comune', una: '1 comune', piu: ' comuni'};
     var annate = Array.prototype.map.call(tab.tHead.rows[0].cells, function(c){
       return c.textContent.trim(); }).slice(1);
     var righe = Array.prototype.slice.call(tab.tBodies[0].rows);
@@ -676,22 +685,21 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
         d.previousElementSibling.classList.remove('aperta'); d.remove(); });
     }
     var chiave = document.createElement('p'); chiave.className = 'chiave-griglia';
-    [['si', 'cartografato'], ['ni', 'non nell\u2019elenco delle vie'], ['ig', 'non accertato'],
-     ['no', 'non cartografato']].forEach(function(v){
+    T.chiave.forEach(function(v){
       if (v[0] !== 'si' && v[0] !== 'no' && !tab.querySelector('td.' + v[0])) return;
       var g = document.createElement('span');
       g.innerHTML = '<i class="' + v[0] + '"></i>' + v[1];
       chiave.appendChild(g);
     });
     var nota = document.createElement('span'); nota.className = 'nota-tocco';
-    nota.textContent = 'Tocca un comune per le annate in chiaro.';
+    nota.textContent = T.tocca;
     chiave.appendChild(nota);
     scatola.parentNode.insertBefore(chiave, scatola);
     if (righe.length >= 30) {
       var cerca = document.createElement('div'); cerca.className = 'cerca-griglia';
       var campo = document.createElement('input');
-      campo.type = 'search'; campo.placeholder = 'Trova un comune';
-      campo.setAttribute('aria-label', 'Trova un comune nella griglia');
+      campo.type = 'search'; campo.placeholder = T.trova;
+      campo.setAttribute('aria-label', T.trova + ' nella griglia');
       var esito = document.createElement('span'); esito.className = 'esito';
       esito.setAttribute('aria-live', 'polite');
       cerca.appendChild(campo); cerca.appendChild(esito);
@@ -703,7 +711,7 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
           var si = !q || norm(r.cells[0].textContent).indexOf(q) >= 0;
           r.hidden = !si; if (si) n++;
         });
-        esito.textContent = q ? (n === 1 ? '1 comune' : n + ' comuni') : '';
+        esito.textContent = q ? (n === 1 ? T.una : n + T.piu) : '';
       });
     }
     tab.tBodies[0].addEventListener('click', function(e){
@@ -714,10 +722,15 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
       if (dopo && dopo.classList.contains('dettaglio-citta')) {
         dopo.remove(); tr.classList.remove('aperta'); return;
       }
-      var per = {si: [], ni: [], ig: []};
+      var per = {si: [], ni: [], ig: []}, dove = {}, ordine = [];
       Array.prototype.forEach.call(tr.cells, function(c, i){
         if (i === 0) return;
         STATI.forEach(function(s){ if (c.classList.contains(s[0])) per[s[0]].push(i - 1); });
+        if (rubr && c.classList.contains('si')) {
+          var k = (c.title || '').split(': ').slice(1).join(': ') || 'presente';
+          if (!dove[k]) { dove[k] = []; ordine.push(k); }
+          dove[k].push(i - 1);
+        }
       });
       var d = document.createElement('tr'); d.className = 'dettaglio-citta';
       var td = document.createElement('td'); td.colSpan = annate.length + 1;
@@ -727,7 +740,13 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
       var c = document.createElement('span');
       c.textContent = ' \u00b7 ' + (n === 1 ? '1 annata' : n + ' annate');
       h.appendChild(c); td.appendChild(h);
-      STATI.forEach(function(s){
+      if (rubr) ordine.forEach(function(k){
+        var p = document.createElement('p');
+        p.innerHTML = '<i class="si"></i>';
+        p.appendChild(document.createTextNode(k + ': ' + tratti(dove[k], annate)));
+        td.appendChild(p);
+      });
+      else STATI.forEach(function(s){
         if (!per[s[0]].length) return;
         var p = document.createElement('p');
         p.innerHTML = '<i class="' + s[0] + '"></i>';

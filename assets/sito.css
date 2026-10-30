@@ -679,6 +679,30 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
   table.roma-cartografia td:nth-child(7) { grid-area:n; }
   table.roma-cartografia td:nth-child(7)::before { content:"Note"; }
 }
+/* Telefono: la tabella dei layout diventa una scheda per layout (nome e annate in testa,
+   poi caratteristiche e note con la loro etichetta); nei cambiamenti della cartografia
+   il nome del comune va a capo, cosi le tre colonne stanno nello schermo. */
+@media (max-width:700px){
+  table.layout, table.layout tbody { display:block; width:100%; border:0; }
+  table.layout colgroup, table.layout thead { display:none; }
+  table.layout tr { display:grid; grid-template-columns:1fr auto; column-gap:12px; row-gap:8px;
+    grid-template-areas:"nome ann" "car car" "note note"; border:1px solid var(--bordo);
+    border-radius:8px; padding:12px; margin:0 0 12px; background:#fff; }
+  table.layout td { display:block; border:0; padding:0; font-size:14px; }
+  table.layout td:empty { display:none; }
+  table.layout td.nome { grid-area:nome; font-size:16px; }
+  table.layout td.ann { grid-area:ann; color:var(--tenue); }
+  table.layout td:nth-child(3) { grid-area:car; }
+  table.layout td:nth-child(4) { grid-area:note; }
+  table.layout td:nth-child(3)::before, table.layout td:nth-child(4)::before { display:block;
+    font:600 11px/1.3 system-ui,-apple-system,"Segoe UI",sans-serif; letter-spacing:.04em;
+    text-transform:uppercase; color:var(--tenue); margin-bottom:2px; }
+  table.layout td:nth-child(3)::before { content:"Caratteristiche"; }
+  table.layout td:nth-child(4)::before { content:"Note"; }
+  table.layout ul.punti { margin:0; }
+  table.cambiamenti td { white-space:normal; padding:4px 10px 4px 0; font-size:13.5px; }
+  table.cambiamenti td:first-child { white-space:nowrap; }
+}
 /* Griglia delle citta compatta (SCRIPT_GRIGLIA), sotto i 1000 pixel: niente
    scorrimento laterale, le colonne si dividono la larghezza che resta dopo i nomi. */
 .chiave-griglia, tr.dettaglio-citta { display:none; }
