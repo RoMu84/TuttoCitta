@@ -38,7 +38,7 @@ La seguente tabella censisce i dati fondamentali dei fascicoli di Roma, mostrand
 indicandone il formato, il layout così come definito in [questa pagina](tabella-layout.md), e il
 numero totale di pagine, anno per anno.
 
-<div class="scorri">
+<div class="scorri roma-schede">
 <table class="roma-fascicoli">
 <thead><tr><th>Annata</th><th>Anno di copertina</th><th>Copertina</th><th>Formato</th><th>Layout</th><th>Pagine</th><th>Note</th></tr></thead>
 <tbody>
@@ -92,7 +92,7 @@ Si riporta il numero di tavole, l'immagine del quadro d'unione delle tavole topo
 presentato in ciascun fascicolo, il colore di sfondo delle mappe, un sunto delle modifiche
 cartografiche e infine eventuali note a margine, quando necessarie.
 
-<div class="scorri">
+<div class="scorri roma-schede">
 <table class="roma-cartografia">
 <thead><tr><th>Annata</th><th>Anno di copertina</th><th>Tavole</th><th>Quadro di unione<br>delle tavole topografiche</th><th>Sfondo mappe</th><th>Modifiche cartografiche</th><th>Note</th></tr></thead>
 <tbody>

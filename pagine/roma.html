@@ -83,7 +83,7 @@ Roma era inoltre fra le città che avevano sei fascicoli in formato ridotto.</p>
 <p>La seguente tabella censisce i dati fondamentali dei fascicoli di Roma, mostrandone le copertine e
 indicandone il formato, il layout così come definito in <a href="tabella-layout.html">questa pagina</a>, e il
 numero totale di pagine, anno per anno.</p>
-<div class="scorri">
+<div class="scorri roma-schede">
 <table class="roma-fascicoli">
 <thead><tr><th>Annata</th><th>Anno di copertina</th><th>Copertina</th><th>Formato</th><th>Layout</th><th>Pagine</th><th>Note</th></tr></thead>
 <tbody>
@@ -134,7 +134,7 @@ concomitanza con l'introduzione del formato ridotto.</p>
 Si riporta il numero di tavole, l'immagine del quadro d'unione delle tavole topografiche così com'era
 presentato in ciascun fascicolo, il colore di sfondo delle mappe, un sunto delle modifiche
 cartografiche e infine eventuali note a margine, quando necessarie.</p>
-<div class="scorri">
+<div class="scorri roma-schede">
 <table class="roma-cartografia">
 <thead><tr><th>Annata</th><th>Anno di copertina</th><th>Tavole</th><th>Quadro di unione<br>delle tavole topografiche</th><th>Sfondo mappe</th><th>Modifiche cartografiche</th><th>Note</th></tr></thead>
 <tbody>
@@ -312,63 +312,6 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     stato(aperta, false);
     var b = aperta.querySelector('.apri');   /* il fuoco torna dove si era */
     if (b) b.focus();
-  });
-})();
-
-/* Trascinare col mouse le tabelle più larghe della pagina. Un clic senza movimento
-   resta un clic, quindi i collegamenti nelle celle funzionano come prima; il tocco
-   non è toccato, perché col dito lo scorrimento laterale c'è già. */
-(function(){
-  if (!window.PointerEvent) return;
-  var SOGLIA = 5;   /* pixel di movimento prima che una pressione diventi trascinamento */
-  var scatole = Array.prototype.slice.call(document.querySelectorAll('.scorri'));
-  function misura(s){ s.classList.toggle('trascinabile', s.scrollWidth > s.clientWidth + 1); }
-  function misuraTutte(){ scatole.forEach(misura); }
-  misuraTutte();
-  window.addEventListener('resize', misuraTutte);
-  window.addEventListener('load', misuraTutte);   /* le copertine cambiano la larghezza */
-
-  scatole.forEach(function(s){
-    var x0 = 0, sx0 = 0, premuto = false, trascinato = false, id = null;
-    /* la tabella della ricerca si riempie dopo il caricamento: si rimisura al passaggio */
-    s.addEventListener('mouseenter', function(){ misura(s); });
-    s.addEventListener('pointerdown', function(e){
-      if (e.pointerType !== 'mouse' || e.button !== 0) return;
-      misura(s);
-      if (!s.classList.contains('trascinabile')) return;
-      premuto = true; trascinato = false; id = e.pointerId;
-      x0 = e.clientX; sx0 = s.scrollLeft;
-    });
-    s.addEventListener('pointermove', function(e){
-      if (!premuto || e.pointerId !== id) return;
-      var dx = e.clientX - x0;
-      if (!trascinato) {
-        if (Math.abs(dx) < SOGLIA) return;
-        trascinato = true;
-        s.classList.add('trascinando');
-        if (window.getSelection) window.getSelection().removeAllRanges();
-        try { s.setPointerCapture(id); } catch (err) {}
-      }
-      s.scrollLeft = sx0 - dx;
-      e.preventDefault();
-    });
-    function fine(e){
-      if (!premuto || e.pointerId !== id) return;
-      premuto = false;
-      s.classList.remove('trascinando');
-      try { s.releasePointerCapture(id); } catch (err) {}
-      if (!trascinato) return;
-      /* il rilascio dopo un trascinamento non deve aprire il collegamento sotto il mouse */
-      function blocca(ev){ ev.preventDefault(); ev.stopPropagation(); }
-      s.addEventListener('click', blocca, true);
-      setTimeout(function(){ s.removeEventListener('click', blocca, true); }, 0);
-    }
-    s.addEventListener('pointerup', fine);
-    s.addEventListener('pointercancel', fine);
-    /* le immagini delle copertine, altrimenti, si trascinerebbero via come file */
-    s.addEventListener('dragstart', function(e){
-      if (s.classList.contains('trascinabile')) e.preventDefault();
-    });
   });
 })();
 </script>
