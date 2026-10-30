@@ -650,7 +650,10 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
   table.roma-fascicoli tr { grid-template-columns:118px auto 1fr; align-items:start;
     grid-template-areas:"img ann anno" "img f f" "img l l" "img p p" "img n n"; }
   table.roma-fascicoli td.img { grid-area:img; }
-  table.roma-fascicoli td.img img { width:118px; height:auto; }
+  table.roma-fascicoli td.img img { width:118px; height:auto; margin:0; }
+  /* Il formato ridotto (dal 2009/10) resta piu stretto, nella stessa proporzione delle
+     schede delle pagine regionali (80 su 110 pixel). */
+  table.roma-fascicoli td.img img.copertina.ridotta { width:86px; }
   table.roma-fascicoli td.ann { grid-area:ann; }
   table.roma-fascicoli td.anno { grid-area:anno; }
   table.roma-fascicoli td:nth-child(4) { grid-area:f; }
