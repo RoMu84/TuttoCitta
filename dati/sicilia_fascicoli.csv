@@ -1,21 +1,21 @@
 annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,copertina,layout,pagine_totali,pagine_comprese_copertine,mese_aggiornamento,note,copertina_immagine,in_raccolta,esistenza
-81/82,Palermo,Palermo 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,80,,settembre 1981,nota dell'editore,PA82.jpg,True,accertata
-81/82,Catania,Catania 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,nota dell'editore,Ricercato1.jpg,False,accertata
-81/82,Agrigento - Caltanissetta - Trapani,Agrigento - Caltanissetta - Trapani 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,,,,nota dell'editore,Ricercato1.jpg,False,accertata
-81/82,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,,settembre 1981,nota dell'editore,ENRGSR82.jpg,True,accertata
-81/82,Messina,Messina 82,82,Copertina 82 verde,246 x 280 mm,grossa,TuttoCittà '80 con foto,32,,settembre 1981,nota dell'editore,ME82.jpg,True,accertata
-82/83,Palermo,Palermo 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,80,,settembre 1982,,PA83.jpg,True,accertata
-82/83,Catania,Catania 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+81/82,Palermo,Palermo 82,82,Copertina 82 verde,246 x 280 mm,grossa,Stradario SEAT a cornici grigie,80,,settembre 1981,nota dell'editore,PA82.jpg,True,accertata
+81/82,Catania,Catania 82,82,Copertina 82 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Agrigento - Caltanissetta - Trapani,Agrigento - Caltanissetta - Trapani 82,82,Copertina 82 verde,246 x 280 mm,grossa,,,,,nota dell'editore,Ricercato1.jpg,False,accertata
+81/82,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 82,82,Copertina 82 verde,246 x 280 mm,grossa,Stradario SEAT a cornici grigie,32,,settembre 1981,nota dell'editore,ENRGSR82.jpg,True,accertata
+81/82,Messina,Messina 82,82,Copertina 82 verde,246 x 280 mm,grossa,Stradario SEAT a cornici grigie,32,,settembre 1981,nota dell'editore,ME82.jpg,True,accertata
+82/83,Palermo,Palermo 83,83,Copertina 83 rossa,246 x 280 mm,grossa,Stradario SEAT a cornici grigie senza foto,80,,settembre 1982,,PA83.jpg,True,accertata
+82/83,Catania,Catania 83,83,Copertina 83 rossa,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
 82/83,Agrigento - Caltanissetta - Trapani,Agrigento - Caltanissetta - Trapani 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1982,,AGCLTP83.jpg,True,accertata
 82/83,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1982,,ENRGSR83.jpg,True,accertata
 82/83,Messina,Messina 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
-83/84,Palermo,Palermo 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
-83/84,Catania,Catania 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
+83/84,Palermo,Palermo 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+83/84,Catania,Catania 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
 83/84,Agrigento - Caltanissetta - Trapani,Agrigento - Caltanissetta - Trapani 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 83/84,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1983,,ENRGSR84.jpg,True,accertata
 83/84,Messina,Messina 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,24,,settembre 1983,,ME84.jpg,True,accertata
-84/85,Palermo,Palermo 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,80,,settembre 1984,Inserto Costituzione,PA85.jpg,True,accertata
-84/85,Catania,Catania 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
+84/85,Palermo,Palermo 85,85,Copertina 85 verde,246 x 280 mm,grossa,Stradario SEAT a cornici grigie senza foto,80,,settembre 1984,Inserto Costituzione,PA85.jpg,True,accertata
+84/85,Catania,Catania 85,85,Copertina 85 verde,246 x 280 mm,grossa,,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Agrigento - Caltanissetta,Agrigento - Caltanissetta 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Trapani,Trapani 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,Inserto Costituzione,Ricercato1.jpg,False,accertata
 84/85,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 85,85,Copertina 85 verde,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1984,Inserto Costituzione,ENRGSR85.jpg,True,accertata

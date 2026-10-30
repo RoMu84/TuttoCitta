@@ -50,7 +50,7 @@ pagine/
   copertine.md                 galleria delle copertine, annata per annata
   sezioni.md                   la scaletta interna del fascicolo nelle tre serie classiche
   tavole.md                    l'evoluzione delle tavole cartografiche
-  tabella-layout.md            i quattordici layout di impaginazione
+  tabella-layout.md            i sedici layout di impaginazione
   inserti.md, stradarioseat.md gli inserti staccabili e lo Stradario SEAT
   note-editore.md              le due note con cui l'editore presentò e riformò il prodotto
   questioni-aperte.md          ciò che non sappiamo, con l'invito a segnalare
