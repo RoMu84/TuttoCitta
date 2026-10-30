@@ -23,7 +23,7 @@ esclusivamente da una passione personale.
 <ul>
 <li><strong><a href="pagine/index.md">Introduzione e convenzioni di lettura</a></strong> — come sono indicizzate le annate, cosa significano i simboli, come è organizzato il censimento</li>
 <li><strong><a href="pagine/copertine.md">Le copertine, annata per annata</a></strong> — la galleria delle copertine con formati e conteggi</li>
-<li><strong><a href="pagine/sezioni.md">Le sezioni dei fascicoli</a></strong> — la scaletta interna del fascicolo nelle tre serie classiche degli anni ottanta e novanta</li>
+<li><strong><a href="pagine/sezioni.md">Le sezioni dei fascicoli</a></strong> — la scaletta interna del fascicolo nelle quattro serie degli anni ottanta e novanta</li>
 <li><strong><a href="pagine/tabella-layout.md">Tabella dei layout</a></strong> — descrizione dei layout che si sono susseguiti nel tempo</li>
 <li><strong><a href="pagine/note-editore.md">Le note dell'editore</a></strong> — le due note con cui SEAT Pagine Gialle presentò il prodotto e ne annunciò la riforma</li>
 <li><strong><a href="pagine/tavole.md">L'evoluzione della cartografia</a></strong> — la stessa città attraverso le quattro fasi cromatiche</li>

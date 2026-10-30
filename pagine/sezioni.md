@@ -85,8 +85,9 @@ punti d'interesse specifici della relativa sezione.
 I fascicoli appartenenti alla serie classica degli anni novanta vennero pubblicati fra la fine del 1989
 e la metà circa dell'annata 1997/98; questi fascicoli comprendevano le seguenti sezioni.
 
-- **Sommario** — il fascicolo si apriva col sommario dei contenuti di entrambe le province; fa
-  eccezione solo la prima annata, quando i sommari erano ancora divisi per provincia.
+- **Sommario** — il fascicolo si apriva col sommario dei contenuti di tutto il fascicolo; fa eccezione
+  solo la prima annata, quando i sommari erano ancora divisi per provincia qualora il fascicolo
+  coprisse più province.
 - **Città e provincia** — comprendeva una serie di articoli su storia, eventi, cultura e curiosità
   sulla città e sulla sua provincia. La sezione aveva come sottotitolo «Vivere la città».
 - **Gli appuntamenti di un anno** — questa sezione, organizzata per mesi e sottotitolata «Vademecum»,
@@ -100,5 +101,31 @@ e la metà circa dell'annata 1997/98; questi fascicoli comprendevano le seguenti
   aeroporti, fino ai taxi e alle autolinee di collegamento fra i centri della provincia.
 - **Tavole topografiche** — questa era la parte fondamentale del fascicolo, che includeva la cartografia
   del capoluogo e dei centri principali della provincia.
+- **Elenco delle vie** — sezione dedicata alle vie dei comuni cartografati, dove si fornivano le
+  coordinate per rintracciare una via sulle tavole topografiche.
+
+## Serie degli anni novanta riformata
+
+<figure class="figura">
+<img src="../immagini/SommarioFineNovanta.jpg" alt="Sommario di un'edizione di fine anni novanta" loading="lazy">
+<figcaption>Sommario di un'edizione di fine anni novanta</figcaption>
+</figure>
+
+I fascicoli appartenenti alla serie degli anni novanta riformata (quando già per molte province non
+veniva più pubblicato il fascicolo) vennero pubblicati fra la seconda metà del 1997 e la fine
+dell'annata 1998/99; questi fascicoli comprendevano le seguenti sezioni.
+
+- **Sommario** — il fascicolo si apriva col sommario dei contenuti di tutto il fascicolo.
+- **Mappa della provincia** — una carta stradale con la provincia in evidenza.
+- **Tavole topografiche** — questa era la parte fondamentale del fascicolo, che includeva la cartografia
+  del capoluogo e dei centri principali della provincia.
+- **Emergenze & documenti** — una sezione simile alle sezioni degli anni ottanta ma più riassunta, dove
+  erano raccolti numeri utili sulla sicurezza, la sanità, le farmacie e gli uffici preposti al rilascio
+  di documenti.
+- **Trasporti & parcheggi** — questa sezione era dedicata ai servizi di trasporto pubblico urbano,
+  extraurbano, alle ferrovie, ai porti e agli aeroporti, fino ai taxi e alle autolinee di collegamento
+  fra i centri della provincia.
+- Una o più sezioni con titoli diversi a seconda del fascicolo, riguardanti gli eventi culturali;
+  talvolta è presente anche una sezione sui parchi e i giardini.
 - **Elenco delle vie** — sezione dedicata alle vie dei comuni cartografati, dove si fornivano le
   coordinate per rintracciare una via sulle tavole topografiche.
