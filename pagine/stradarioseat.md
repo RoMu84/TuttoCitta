@@ -5,6 +5,11 @@ questo era una rubrica posta alla fine delle Pagine Gialle e presente nella form
 provincia fin dal 1979. In precedenza, le tavole topografiche erano presenti solo per le dieci città
 maggiori d'Italia ed erano stampate in bianco e nero.
 
+<figure class="figura larga">
+<img src="../immagini/StradarioSEATRoma.jpg" alt="Lo stradario SEAT di Roma incluso nelle Pagine Gialle" loading="lazy">
+<figcaption>Lo stradario SEAT di Roma così come appariva incluso nelle Pagine Gialle.</figcaption>
+</figure>
+
 Dal 1979 lo Stradario SEAT aveva un layout sostanzialmente identico ai primissimi TuttoCittà — nello
 specifico, appunto, quelli appartenenti al layout «Stradario SEAT» — per quanto riguarda la sezione
 cartografica, ma non raccoglieva tutte le informazioni sulla città che sarebbero state invece incluse
@@ -13,8 +18,8 @@ nell'edizione del 1980/81 già avevano le mappe di quasi tutte le città incluse
 primi TuttoCittà.
 
 <figure class="figura larga">
-<img src="../immagini/StradarioSEATRoma.jpg" alt="Lo stradario SEAT di Roma incluso nelle Pagine Gialle" loading="lazy">
-<figcaption>Lo stradario SEAT di Roma così come appariva incluso nelle Pagine Gialle.</figcaption>
+<img src="../immagini/StradarioTuttoCitta.jpg" alt="La tavola di Poggibonsi nello stradario SEAT del 1980 e nel TuttoCittà 81" loading="lazy">
+<figcaption>Confronto fra la tavola di Poggibonsi dello stradario SEAT del 1980 (in alto) e la medesima tavola del TuttoCittà 81 con layout «Stradario SEAT» (in basso).</figcaption>
 </figure>
 
 Lo Stradario SEAT non esisteva solo come rubrica delle Pagine Gialle, ma era anche acquistabile presso
