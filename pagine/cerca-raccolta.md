@@ -51,13 +51,14 @@ uscito.
     var f = D.F[i];
     if (!f.r) return '<div class="cr-scheda cr-assente"><p><b>' + esc(f.t) + '</b>: non in raccolta.</p></div>';
     var rid = f.dim.indexOf('140 x 212') >= 0 ? ' ridotta' : '';
-    var h = '<div class="cr-scheda"><div class="cr-testa">'
-      + '<a class="cr-cop" href="../immagini/' + esc(f.img) + '"><img class="copertina' + rid + '" src="../immagini/'
-      + esc(f.img) + '" alt="Copertina del fascicolo ' + esc(f.t) + '"></a><div class="cr-dati">'
-      + '<h3>' + esc(f.t) + '</h3><dl>'
+    var h = '<div class="cr-scheda"><div class="cr-testa"><div class="cr-cop">'
+      + '<a href="../immagini/' + esc(f.img) + '"><img class="copertina' + rid + '" src="../immagini/'
+      + esc(f.img) + '" alt="Copertina del fascicolo ' + esc(f.t) + '"></a>'
+      + '<h3>' + esc(f.t) + '</h3></div><div class="cr-dati"><dl>'
       + voce('Annata', D.annate.filter(function(a){ return a[0] === f.a; })[0][1])
-      + voce('Anno in copertina', f.anno) + voce('Copertina', f.tipo.replace(/^Copertina /, ''))
+      + voce('Anno in copertina', f.anno)
       + voce('Formato', f.dim + (f.cop ? ', copertina ' + f.cop : '')) + voce('Layout', f.lay)
+      + voce('Sfondo mappe', f.sf)
       + voce('Pagine', f.pag) + voce('Aggiornamento', f.mese) + voce('Note', f.note)
       + '</dl></div></div>';
     if (f.c.length) {
