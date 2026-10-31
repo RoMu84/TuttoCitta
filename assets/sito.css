@@ -730,11 +730,11 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 /* Cerca nella raccolta: tre menu in fila (in colonna sul telefono) e la scheda del fascicolo,
    con la copertina accanto ai dati come nella tabella della raccolta. */
 .cerca-raccolta { display:flex; flex-wrap:wrap; gap:12px 18px; margin:18px 0 22px; padding:14px 16px;
-  background:#f5f8fb; border:1px solid var(--bordo); border-radius:8px;
-  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:13px; color:var(--tenue); }
-.cerca-raccolta label { display:flex; flex-direction:column; gap:4px; flex:1 1 180px; }
-.cerca-raccolta select { font-size:15px; padding:6px 8px; border:1px solid #c9dcef; border-radius:5px;
-  background:#fff; color:var(--scuro); font-family:inherit; }
+  background:#d9e9f7; border:1px solid #a9c8e6; border-radius:8px;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:13px; color:var(--scuro); }
+.cerca-raccolta label { display:flex; flex-direction:column; gap:4px; flex:1 1 180px; font-weight:600; }
+.cerca-raccolta select { font-size:15px; padding:6px 8px; border:1px solid #a9c8e6; border-radius:5px;
+  background:#fff; color:var(--scuro); font-family:inherit; font-weight:400; }
 .cerca-raccolta select:disabled { opacity:.55; }
 .cr-scheda { border:1px solid var(--bordo); border-radius:8px; padding:16px 18px; margin:0 0 16px; background:#fff; }
 .cr-scheda.cr-assente { background:#f7f9fb; color:var(--tenue); }
@@ -742,14 +742,23 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cr-cop { flex:none; }
 .cr-cop img.copertina { width:150px; margin:0; }
 .cr-cop img.copertina.ridotta { width:104px; }
+.cr-dati { flex:1 1 auto; min-width:0; }
 .cr-dati h3 { margin:0 0 8px; }
-.cr-dati dl { display:grid; grid-template-columns:auto 1fr; gap:3px 14px; margin:0; font-size:14px; }
+/* I dati in un riquadro celeste, con un filetto dorato fra etichette e valori. */
+.cr-dati dl { display:grid; grid-template-columns:auto 1fr; margin:0; font-size:14px; padding:8px 14px;
+  background:#f5f8fb; border:1px solid var(--bordo); border-radius:6px; }
 .cr-dati dt { color:var(--tenue); font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:12px;
-  text-transform:uppercase; letter-spacing:.04em; padding-top:2px; }
-.cr-dati dd { margin:0; }
-.cr-scheda h4 { margin:18px 0 6px; font-size:15px; }
-.cr-scheda h4 span { font-weight:400; color:var(--tenue); }
-.cr-comuni { line-height:1.75; margin:0; }
+  text-transform:uppercase; letter-spacing:.04em; padding:4px 12px 3px 0; }
+.cr-dati dd { margin:0; padding:2px 0 2px 12px; border-left:2px solid var(--oro); }
+/* I titoli delle sezioni in maiuscoletto, come le etichette dei dati ma piu marcati; liste in riquadro. */
+.cr-scheda h4 { margin:20px 0 8px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:13.5px;
+  font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--scuro); }
+.cr-scheda h4 span { font-weight:400; text-transform:none; letter-spacing:0; color:var(--tenue); font-size:13.5px; }
+.cr-riquadro { background:#f5f8fb; border:1px solid var(--bordo); border-radius:6px; padding:8px 14px; }
+.cr-riquadro ul.punti { margin:0; }
+.cr-comuni p { line-height:1.75; margin:0; }
+.cr-comuni p + p { margin-top:12px; }
+.cr-comuni .perno { color:var(--oro); font-weight:400; padding:0 2px; }
 .cr-nota { font-size:13px; color:var(--tenue); margin:6px 0; }
 .cr-anche, .cr-rimando { font-size:14px; }
 @media (max-width:700px){

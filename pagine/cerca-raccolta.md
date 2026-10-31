@@ -62,10 +62,17 @@ uscito.
       + '</dl></div></div>';
     if (f.c.length) {
       var ni = false;
-      h += '<h4>Comuni cartografati <span>· ' + f.c.length + '</span></h4><p class="cr-comuni">'
-        + f.c.map(function(c){
+      // un gruppo per provincia, nell'ordine in cui compaiono: ognuno va a capo
+      var gruppi = [], dove = {};
+      f.c.forEach(function(c){
+        if (!(c[1] in dove)) { dove[c[1]] = gruppi.length; gruppi.push([]); }
+        gruppi[dove[c[1]]].push(c);
+      });
+      h += '<h4>Comuni cartografati <span>· ' + f.c.length + '</span></h4><div class="cr-riquadro cr-comuni">'
+        + gruppi.map(function(g){ return '<p>' + g.map(function(c){
             var t = esc(c[0]) + (c[2] ? '<sup>*</sup>' : ''); if (c[2]) ni = true;
-            return c[1] === prov ? '<b>' + t + '</b>' : t; }).join(' <b class="perno">&bull;</b> ') + '</p>'
+            return c[1] === prov ? '<b>' + t + '</b>' : t; }).join(' <b class="perno">&bull;</b> ') + '</p>'; }).join('')
+        + '</div>'
         + '<p class="cr-nota">In grassetto i comuni della provincia di ' + esc(prov) + '.'
         + (ni ? ' Con l\'asterisco i comuni cartografati ma assenti dall\'elenco delle vie.' : '') + '</p>';
     } else {
@@ -74,9 +81,9 @@ uscito.
     (art || []).forEach(function(r){
       var t = (f.art || {})[r[0]] || [];
       if (!t.length) return;
-      h += '<h4>Articoli · rubrica ' + (/^Provincia di /.test(r[0]) ? 'della ' : 'di ') + esc(r[0]) + '</h4>'
+      h += '<h4>Articoli <span>· rubrica ' + (/^Provincia di /.test(r[0]) ? 'della ' : 'di ') + esc(r[0]) + '</span></h4>'
         + (r[1] ? '<p class="cr-nota">' + esc(r[1]) + ': la rubrica è quella.</p>' : '')
-        + '<ul class="punti">' + t.map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
+        + '<div class="cr-riquadro"><ul class="punti">' + t.map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>';
     });
     return h + '</div>';
   }
