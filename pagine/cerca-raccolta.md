@@ -8,7 +8,7 @@ comuni. Le annate in grigio non sono selezionabili, perché il fascicolo non è 
 uscito.
 
 <div class="cerca-raccolta">
-<label>Regione <select id="cr-regione"><option value="">scegli…</option><option value="abruzzo">Abruzzo</option><option disabled>Basilicata (in preparazione)</option><option disabled>Calabria (in preparazione)</option><option disabled>Campania (in preparazione)</option><option disabled>Emilia - Romagna (in preparazione)</option><option disabled>Friuli - Venezia Giulia (in preparazione)</option><option disabled>Lazio (in preparazione)</option><option disabled>Liguria (in preparazione)</option><option disabled>Lombardia (in preparazione)</option><option disabled>Marche (in preparazione)</option><option disabled>Molise (in preparazione)</option><option disabled>Piemonte (in preparazione)</option><option disabled>Puglia (in preparazione)</option><option disabled>Sardegna (in preparazione)</option><option disabled>Sicilia (in preparazione)</option><option value="toscana">Toscana</option><option disabled>Trentino - Alto Adige (in preparazione)</option><option disabled>Umbria (in preparazione)</option><option disabled>Valle d'Aosta (in preparazione)</option><option disabled>Veneto (in preparazione)</option></select></label>
+<label>Regione <select id="cr-regione"><option value="">scegli…</option><option value="abruzzo">Abruzzo</option><option value="basilicata">Basilicata</option><option value="calabria">Calabria</option><option value="campania">Campania</option><option value="emilia-romagna">Emilia - Romagna</option><option value="friuli-venezia-giulia">Friuli - Venezia Giulia</option><option value="lazio">Lazio</option><option value="liguria">Liguria</option><option value="lombardia">Lombardia</option><option value="marche">Marche</option><option value="molise">Molise</option><option value="piemonte">Piemonte</option><option value="puglia">Puglia</option><option value="sardegna">Sardegna</option><option value="sicilia">Sicilia</option><option value="toscana">Toscana</option><option value="trentino-alto-adige">Trentino - Alto Adige</option><option value="umbria">Umbria</option><option value="valle-daosta">Valle d'Aosta</option><option value="veneto">Veneto</option></select></label>
 <label>Provincia <select id="cr-provincia" disabled><option value="">—</option></select></label>
 <label>Annata <select id="cr-annata" disabled><option value="">—</option></select></label>
 </div>
@@ -39,7 +39,8 @@ uscito.
     var per = D.P[P.value] || {};
     A.innerHTML = '<option value="">scegli…</option>' + D.annate.map(function(a){
       var v = per[a[0]];
-      if (!v) return '<option disabled>' + a[1] + ' — nessun fascicolo</option>';
+      if (!v) return '<option disabled>' + a[1] + (D.F.some(function(f){ return f.a === a[0]; })
+        ? ' — nessun comune cartografato' : ' — nessun fascicolo') + '</option>';
       var ok = v.p.some(function(i){ return D.F[i].r; });
       return ok ? '<option value="' + a[0] + '">' + a[1] + '</option>'
                 : '<option disabled>' + a[1] + ' — non in raccolta</option>';
@@ -72,18 +73,21 @@ uscito.
       h += '<h4>Comuni cartografati <span>· ' + f.c.length + '</span></h4><div class="cr-riquadro cr-comuni">'
         + gruppi.map(function(g){ return '<p>' + g.map(function(c){
             var t = esc(c[0]) + (c[2] ? '<sup>*</sup>' : ''); if (c[2]) ni = true;
-            return c[1] === prov ? '<b>' + t + '</b>' : t; }).join(' <b class="perno">&bull;</b> ') + '</p>'; }).join('')
+            return t; }).join(' <b class="perno">&bull;</b> ') + '</p>'; }).join('')
         + '</div>'
-        + '<p class="cr-nota">In grassetto i comuni della provincia di ' + esc(prov) + '.'
+        + (gruppi.length > 1 ? '<p class="cr-nota">Una riga per provincia.' : '<p class="cr-nota">')
         + (ni ? ' Con l\'asterisco i comuni cartografati ma assenti dall\'elenco delle vie.' : '') + '</p>';
     } else {
       h += '<p class="cr-nota">I comuni cartografati di questo fascicolo non sono ancora stati trascritti.</p>';
     }
+    if (D.slug === 'lazio' && /^Roma( |$)/.test(f.l))
+      h += '<p class="cr-nota">Per Roma città c\'è anche lo <a href="roma.html">Speciale Roma</a>, con la '
+        + 'cartografia annata per annata.</p>';
     (art || []).forEach(function(r){
       var t = (f.art || {})[r[0]] || [];
       if (!t.length) return;
       h += '<h4>Articoli <span>· rubrica ' + (/^Provincia di /.test(r[0]) ? 'della ' : 'di ') + esc(r[0]) + '</span></h4>'
-        + (r[1] ? '<p class="cr-nota">' + esc(r[1]) + ': la rubrica è quella.</p>' : '')
+        + (r[1] ? '<p class="cr-nota">' + esc(r[1]) + '</p>' : '')
         + '<div class="cr-riquadro"><ul class="punti">' + t.map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>';
     });
     return h + '</div>';

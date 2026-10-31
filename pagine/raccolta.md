@@ -8,6 +8,8 @@ per annate e divisi per regione e l'anno di copertina riportato nelle caselle.
 
 [Tabella con lo stato attuale della raccolta, annata per annata](tabella-raccolta.md){: .marcato}
 
+[Cerca un fascicolo per provincia e annata](cerca-raccolta.md){: .marcato}
+
 [Elenco dei fascicoli ricercati, provincia per provincia](fascicoli-ricercati.md){: .marcato}
 
 Di seguito invece la lista delle regioni.

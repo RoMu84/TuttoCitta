@@ -56,6 +56,7 @@ pagine/
   questioni-aperte.md          ciò che non sappiamo, con l'invito a segnalare
   come-contribuire.md          segnalare un fascicolo, cedere o donare fascicoli
   fascicoli-ricercati.md       i fascicoli pubblicati che mancano alla raccolta, per provincia
+  cerca-raccolta.md            la ricerca di un fascicolo per regione, provincia e annata
   cerca-fascicoli.md           interrogazione del censimento dal browser
   cerca-localita.md            interrogazione dell'indice delle località
   regioni/<regione>.md         una tabella per regione
