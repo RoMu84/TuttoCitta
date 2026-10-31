@@ -67,10 +67,6 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
    un'altra pagina resta senza effetto. */
 .testata.raccolta .marchio, .testata.raccolta .menu a { -webkit-text-stroke:.35px currentColor; }
 .testata.raccolta .tendina a { -webkit-text-stroke:.25px currentColor; }
-/* La ricerca nella raccolta, sempre in vista nel menu della raccolta: una pastiglia blu. */
-.testata.raccolta .menu a.in-evidenza { background:var(--scuro); color:#f6e3b4; border-radius:4px;
-  padding:3px 9px; -webkit-text-stroke:0; }
-.testata.raccolta .menu a.in-evidenza:hover { background:#0e2440; color:#fff; border-bottom:0; }
 /* Le linee dorate che separano i rimandi nella pagina «La raccolta». */
 body.raccolta hr.oro { border:0; border-top:2px solid var(--oro); margin:26px 0; max-width:44rem; }
 /* Il pulsante per tornare in cima, nelle pagine regionali della raccolta: piccolo, in

@@ -10,7 +10,7 @@ per annate e divisi per regione e l'anno di copertina riportato nelle caselle.
 
 <hr class="oro">
 
-Nel link qui sotto si può invece consultare la lista dei fascicoli ancora mancanti, quindi ricercati.
+Nel link qui sotto si può invece consultare la lista dei fascicoli ancora mancanti.
 
 [Elenco dei fascicoli ricercati, provincia per provincia](fascicoli-ricercati.md){: .marcato}
 
