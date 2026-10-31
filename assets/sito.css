@@ -708,8 +708,14 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
 }
 /* Fascicoli ricercati: per ogni raggruppamento provinciale le annate mancanti in fila, come
    piccole etichette con il colore della copertina; vanno a capo da sole, anche sul telefono. */
-p.linea-ricercata { margin:16px 0 6px; font-weight:600; color:var(--scuro); font-size:15px; }
-ul.ricercati { list-style:none; padding:0; margin:0 0 8px; display:flex; flex-wrap:wrap; gap:6px 8px; }
+/* Ogni regione e un riquadro a fondo chiaro, ogni raggruppamento provinciale e separato dal
+   precedente da un filetto: le etichette bianche risaltano sul fondo. */
+div.ricercati { background:#f5f8fb; border:1px solid var(--bordo); border-radius:8px;
+  padding:2px 16px 4px; margin:10px 0 34px; }
+div.provincia-ricercata { padding:12px 0 10px; }
+div.provincia-ricercata + div.provincia-ricercata { border-top:1px solid #d5dde6; }
+p.linea-ricercata { margin:0 0 8px; font-weight:600; color:var(--scuro); font-size:15px; }
+ul.ricercati { list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:6px 8px; }
 ul.ricercati li { display:inline-flex; align-items:center; gap:6px; margin:0; padding:3px 9px 3px 7px;
   border:1px solid var(--bordo); border-radius:5px; background:#fff; font-size:13.5px; line-height:1.4; }
 ul.ricercati li::before { content:none; }
@@ -717,6 +723,10 @@ ul.ricercati li b { font-weight:600; color:var(--scuro); font-variant-numeric:ta
 ul.ricercati li .pastiglia { margin:0; flex:none; }
 ul.ricercati li.forse { border-style:dashed; color:var(--tenue); }
 ul.ricercati li.forse i { font-style:normal; font-weight:600; }
+ul.ricercati li.incompleto { border-color:#d9b86c; }
+ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spacing:.03em; color:#8a6d1f;
+  background:#fbf1d6; border-radius:3px; padding:0 5px; }
+@media (max-width:700px){ div.ricercati { padding:2px 12px 4px; } }
 /* Griglia delle citta compatta (SCRIPT_GRIGLIA), sotto i 1000 pixel: niente
    scorrimento laterale, le colonne si dividono la larghezza che resta dopo i nomi. */
 .chiave-griglia, tr.dettaglio-citta { display:none; }
