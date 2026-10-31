@@ -35,6 +35,8 @@ del censimento, e i fascicoli **anteriori al 1990**, sui quali le informazioni d
 complete perché quasi nessuna biblioteca li ha conservati. Ma permangono lacune anche in tutte le altre
 annate.
 
+[Elenco dei fascicoli ricercati, provincia per provincia](fascicoli-ricercati.md){: .marcato}
+
 Non si tratta però di oggetti rari. TuttoCittà arrivava gratuitamente a ogni abbonato al telefono, con
 una diffusione capillare su tutto il territorio, e moltissime copie sono semplicemente rimaste dove
 erano state posate: in un cassetto, in cantina, in soffitta. Infatti a differenza degli ingombranti

@@ -706,6 +706,17 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
   table.cambiamenti td { white-space:normal; padding:4px 10px 4px 0; font-size:13.5px; }
   table.cambiamenti td:first-child { white-space:nowrap; }
 }
+/* Fascicoli ricercati: per ogni raggruppamento provinciale le annate mancanti in fila, come
+   piccole etichette con il colore della copertina; vanno a capo da sole, anche sul telefono. */
+p.linea-ricercata { margin:16px 0 6px; font-weight:600; color:var(--scuro); font-size:15px; }
+ul.ricercati { list-style:none; padding:0; margin:0 0 8px; display:flex; flex-wrap:wrap; gap:6px 8px; }
+ul.ricercati li { display:inline-flex; align-items:center; gap:6px; margin:0; padding:3px 9px 3px 7px;
+  border:1px solid var(--bordo); border-radius:5px; background:#fff; font-size:13.5px; line-height:1.4; }
+ul.ricercati li::before { content:none; }
+ul.ricercati li b { font-weight:600; color:var(--scuro); font-variant-numeric:tabular-nums; }
+ul.ricercati li .pastiglia { margin:0; flex:none; }
+ul.ricercati li.forse { border-style:dashed; color:var(--tenue); }
+ul.ricercati li.forse i { font-style:normal; font-weight:600; }
 /* Griglia delle citta compatta (SCRIPT_GRIGLIA), sotto i 1000 pixel: niente
    scorrimento laterale, le colonne si dividono la larghezza che resta dopo i nomi. */
 .chiave-griglia, tr.dettaglio-citta { display:none; }

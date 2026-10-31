@@ -3,7 +3,8 @@
 Lo stato della raccolta, fascicolo per fascicolo e annata per annata: in raccolta ci sono
 **1.315 dei 1.990 fascicoli accertati**. La tabella si genera dal censimento e
 dal database della raccolta, come il resto del sito, e si aggiorna a ogni nuova versione. Le copertine e
-i dati dei fascicoli in raccolta sono nelle [pagine di dettaglio regionali](raccolta.md).
+i dati dei fascicoli in raccolta sono nelle [pagine di dettaglio regionali](raccolta.md); quelli che
+mancano sono elencati fra i [fascicoli ricercati](fascicoli-ricercati.md).
 
 <p class="legenda-possesso"><span><i class="campione" style="background:#C4BC96">94</i>in raccolta: il colore è
 il tipo di copertina, come nella <a href="copertine.md">pagina Copertine</a>, e il numero l'anno in

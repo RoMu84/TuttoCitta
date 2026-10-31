@@ -16,7 +16,7 @@ esclusivamente da una passione personale.
 > **Hai un TuttoCittà?** La raccolta da cui nasce questo censimento è in continuo ampliamento: accolgo
 > donazioni di fascicoli singoli o in blocco e sono anche aperto all'acquisto di fascicoli, a prezzi
 > ragionevoli. Anche la sola segnalazione di un esemplare aiuta.
-> Vedi [come contribuire](pagine/come-contribuire.md).
+> Vedi [come contribuire](pagine/come-contribuire.md) e l'elenco dei [fascicoli ricercati](pagine/fascicoli-ricercati.md).
 
 ## Sommario
 

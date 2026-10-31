@@ -341,7 +341,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`liguria_cartografia.csv`](../dati/liguria_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`liguria_articoli.csv`](../dati/liguria_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
+I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#liguria). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
 
 <div class="altre-regioni" markdown="1">
 <b>Le altre regioni</b>

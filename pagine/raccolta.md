@@ -8,6 +8,8 @@ per annate e divisi per regione e l'anno di copertina riportato nelle caselle.
 
 [Tabella con lo stato attuale della raccolta, annata per annata](tabella-raccolta.md){: .marcato}
 
+[Elenco dei fascicoli ricercati, provincia per provincia](fascicoli-ricercati.md){: .marcato}
+
 Di seguito invece la lista delle regioni.
 
 <p class="inriga marcato"><a href="abruzzo.md">Abruzzo</a> <b class="perno">&bull;</b> <a href="basilicata.md">Basilicata</a> <b class="perno">&bull;</b> <a href="calabria.md">Calabria</a> <b class="perno">&bull;</b> <a href="campania.md">Campania</a> <b class="perno">&bull;</b> <a href="emilia-romagna.md">Emilia - Romagna</a> <b class="perno">&bull;</b> <a href="friuli-venezia-giulia.md">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="lazio.md">Lazio</a> <b class="perno">&bull;</b> <a href="liguria.md">Liguria</a> <b class="perno">&bull;</b> <a href="lombardia.md">Lombardia</a> <b class="perno">&bull;</b> <a href="marche.md">Marche</a> <b class="perno">&bull;</b> <a href="molise.md">Molise</a> <b class="perno">&bull;</b> <a href="piemonte.md">Piemonte</a> <b class="perno">&bull;</b> <a href="puglia.md">Puglia</a> <b class="perno">&bull;</b> <a href="sardegna.md">Sardegna</a> <b class="perno">&bull;</b> <a href="sicilia.md">Sicilia</a> <b class="perno">&bull;</b> <a href="toscana.md">Toscana</a> <b class="perno">&bull;</b> <a href="trentino-alto-adige.md">Trentino - Alto Adige</a> <b class="perno">&bull;</b> <a href="umbria.md">Umbria</a> <b class="perno">&bull;</b> <a href="valle-daosta.md">Valle d'Aosta</a> <b class="perno">&bull;</b> <a href="veneto.md">Veneto</a></p>

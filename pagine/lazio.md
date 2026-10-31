@@ -379,7 +379,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`lazio_cartografia.csv`](../dati/lazio_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`lazio_articoli.csv`](../dati/lazio_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
+I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#lazio). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
 
 <div class="altre-regioni" markdown="1">
 <b>Le altre regioni</b>

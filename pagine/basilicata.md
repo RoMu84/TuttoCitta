@@ -241,7 +241,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 - [`basilicata_cartografia.csv`](../dati/basilicata_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
 - [`basilicata_articoli.csv`](../dati/basilicata_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
 
-Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
+I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#basilicata). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
 
 <div class="altre-regioni" markdown="1">
 <b>Le altre regioni</b>
