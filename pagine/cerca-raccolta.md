@@ -39,11 +39,12 @@ uscito.
     var per = D.P[P.value] || {};
     A.innerHTML = '<option value="">scegli…</option>' + D.annate.map(function(a){
       var v = per[a[0]];
-      if (!v) return '<option disabled>' + a[1] + (D.F.some(function(f){ return f.a === a[0]; })
-        ? ' — nessun comune cartografato' : ' — nessun fascicolo') + '</option>';
+      if (!v || v.z) return '<option disabled>' + a[1] + (v && v.z === 'nc'
+        ? ' — nessun comune cartografato' : ' — fascicolo non pubblicato') + '</option>';
       var ok = v.p.some(function(i){ return D.F[i].r; });
+      var dubbia = v.p.every(function(i){ return D.F[i].prob; });
       return ok ? '<option value="' + a[0] + '">' + a[1] + '</option>'
-                : '<option disabled>' + a[1] + ' — non in raccolta</option>';
+                : '<option disabled>' + a[1] + ' — non in raccolta' + (dubbia ? ' - esistenza dubbia' : '') + '</option>';
     }).join('');
     A.disabled = false;
   });
@@ -67,8 +68,8 @@ uscito.
       // un gruppo per provincia, nell'ordine in cui compaiono: ognuno va a capo
       var gruppi = [], dove = {};
       f.c.forEach(function(c){
-        if (!(c[1] in dove)) { dove[c[1]] = gruppi.length; gruppi.push([]); }
-        gruppi[dove[c[1]]].push(c);
+        if (!(c[3] in dove)) { dove[c[3]] = gruppi.length; gruppi.push([]); }
+        gruppi[dove[c[3]]].push(c);
       });
       h += '<h4>Comuni cartografati <span>· ' + f.c.length + '</span></h4><div class="cr-riquadro cr-comuni">'
         + gruppi.map(function(g){ return '<p>' + g.map(function(c){
