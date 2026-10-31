@@ -727,6 +727,37 @@ ul.ricercati li.incompleto { border-color:#d9b86c; }
 ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spacing:.03em; color:#8a6d1f;
   background:#fbf1d6; border-radius:3px; padding:0 5px; }
 @media (max-width:700px){ div.ricercati { padding:2px 12px 4px; } }
+/* Cerca nella raccolta: tre menu in fila (in colonna sul telefono) e la scheda del fascicolo,
+   con la copertina accanto ai dati come nella tabella della raccolta. */
+.cerca-raccolta { display:flex; flex-wrap:wrap; gap:12px 18px; margin:18px 0 22px; padding:14px 16px;
+  background:#f5f8fb; border:1px solid var(--bordo); border-radius:8px;
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:13px; color:var(--tenue); }
+.cerca-raccolta label { display:flex; flex-direction:column; gap:4px; flex:1 1 180px; }
+.cerca-raccolta select { font-size:15px; padding:6px 8px; border:1px solid #c9dcef; border-radius:5px;
+  background:#fff; color:var(--scuro); font-family:inherit; }
+.cerca-raccolta select:disabled { opacity:.55; }
+.cr-scheda { border:1px solid var(--bordo); border-radius:8px; padding:16px 18px; margin:0 0 16px; background:#fff; }
+.cr-scheda.cr-assente { background:#f7f9fb; color:var(--tenue); }
+.cr-testa { display:flex; gap:20px; align-items:flex-start; }
+.cr-cop { flex:none; }
+.cr-cop img.copertina { width:150px; margin:0; }
+.cr-cop img.copertina.ridotta { width:104px; }
+.cr-dati h3 { margin:0 0 8px; }
+.cr-dati dl { display:grid; grid-template-columns:auto 1fr; gap:3px 14px; margin:0; font-size:14px; }
+.cr-dati dt { color:var(--tenue); font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:12px;
+  text-transform:uppercase; letter-spacing:.04em; padding-top:2px; }
+.cr-dati dd { margin:0; }
+.cr-scheda h4 { margin:18px 0 6px; font-size:15px; }
+.cr-scheda h4 span { font-weight:400; color:var(--tenue); }
+.cr-comuni { line-height:1.75; margin:0; }
+.cr-nota { font-size:13px; color:var(--tenue); margin:6px 0; }
+.cr-anche, .cr-rimando { font-size:14px; }
+@media (max-width:700px){
+  .cerca-raccolta { flex-direction:column; }
+  .cerca-raccolta label { flex:none; }
+  .cr-scheda { padding:14px; }
+  .cr-testa { flex-direction:column; gap:12px; }
+}
 /* Griglia delle citta compatta (SCRIPT_GRIGLIA), sotto i 1000 pixel: niente
    scorrimento laterale, le colonne si dividono la larghezza che resta dopo i nomi. */
 .chiave-griglia, tr.dettaglio-citta { display:none; }
