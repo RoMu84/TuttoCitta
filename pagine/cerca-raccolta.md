@@ -48,7 +48,7 @@ uscito.
     A.disabled = false;
   });
   function voce(et, val){ return val ? '<dt>' + et + '</dt><dd>' + esc(val) + '</dd>' : ''; }
-  function scheda(i, prov, art){
+  function scheda(i, prov){
     var f = D.F[i];
     if (!f.r) return '<div class="cr-scheda cr-assente"><p><b>' + esc(f.t) + '</b>: non in raccolta.</p></div>';
     var rid = f.dim.indexOf('140 x 212') >= 0 ? ' ridotta' : '';
@@ -83,12 +83,10 @@ uscito.
     if (D.slug === 'lazio' && /^Roma( |$)/.test(f.l))
       h += '<p class="cr-nota">Per Roma città c\'è anche lo <a href="roma.html">Speciale Roma</a>, con la '
         + 'cartografia annata per annata.</p>';
-    (art || []).forEach(function(r){
-      var t = (f.art || {})[r[0]] || [];
-      if (!t.length) return;
-      h += '<h4>Articoli <span>· rubrica ' + (/^Provincia di /.test(r[0]) ? 'della ' : 'di ') + esc(r[0]) + '</span></h4>'
-        + (r[1] ? '<p class="cr-nota">' + esc(r[1]) + '</p>' : '')
-        + '<div class="cr-riquadro"><ul class="punti">' + t.map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>';
+    (f.art || []).forEach(function(r){
+      h += '<h4>Articoli <b class="perno">&bull;</b> Rubrica ' + (/^Provincia di /.test(r[0]) ? 'della ' : 'di ')
+        + esc(r[0]) + '</h4>'
+        + '<div class="cr-riquadro"><ul class="punti">' + r[1].map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>';
     });
     return h + '</div>';
   }
@@ -98,7 +96,7 @@ uscito.
     var v = D.P[P.value][A.value], prov = P.value;
     var h = v.p.length > 1 ? '<p class="cr-nota">In questa annata la provincia era divisa fra ' + v.p.length
       + ' fascicoli.</p>' : '';
-    v.p.forEach(function(i){ h += scheda(i, prov, (v.art || {})[i]); });
+    v.p.forEach(function(i){ h += scheda(i, prov); });
     if (v.x.length) {
       h += '<p class="cr-anche">Comuni della provincia di ' + esc(prov) + ' compaiono anche in: '
         + v.x.map(function(i){

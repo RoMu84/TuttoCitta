@@ -67,6 +67,12 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
    un'altra pagina resta senza effetto. */
 .testata.raccolta .marchio, .testata.raccolta .menu a { -webkit-text-stroke:.35px currentColor; }
 .testata.raccolta .tendina a { -webkit-text-stroke:.25px currentColor; }
+/* La ricerca nella raccolta, sempre in vista nel menu della raccolta: una pastiglia blu. */
+.testata.raccolta .menu a.in-evidenza { background:var(--scuro); color:#f6e3b4; border-radius:4px;
+  padding:3px 9px; -webkit-text-stroke:0; }
+.testata.raccolta .menu a.in-evidenza:hover { background:#0e2440; color:#fff; border-bottom:0; }
+/* Le linee dorate che separano i rimandi nella pagina «La raccolta». */
+body.raccolta hr.oro { border:0; border-top:2px solid var(--oro); margin:26px 0; max-width:44rem; }
 /* Il pulsante per tornare in cima, nelle pagine regionali della raccolta: piccolo, in
    basso a destra, oro col bordo blu come la loro intestazione. */
 button.torna-su { position:fixed; right:22px; bottom:22px; z-index:30; width:42px; height:42px;
@@ -756,6 +762,7 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cr-scheda h4 { margin:20px 0 8px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:13.5px;
   font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--scuro); }
 .cr-scheda h4 span { font-weight:400; text-transform:none; letter-spacing:0; color:var(--tenue); font-size:13.5px; }
+.cr-scheda h4 .perno { color:var(--oro); padding:0 3px; }
 .cr-riquadro { background:#f5f8fb; border:1px solid var(--bordo); border-radius:6px; padding:8px 14px; }
 .cr-riquadro ul.punti { margin:0; }
 .cr-comuni p { line-height:1.75; margin:0; }

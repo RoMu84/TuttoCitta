@@ -8,9 +8,20 @@ per annate e divisi per regione e l'anno di copertina riportato nelle caselle.
 
 [Tabella con lo stato attuale della raccolta, annata per annata](tabella-raccolta.md){: .marcato}
 
-[Cerca un fascicolo per provincia e annata](cerca-raccolta.md){: .marcato}
+<hr class="oro">
+
+Nel link qui sotto si può invece consultare la lista dei fascicoli ancora mancanti, quindi ricercati.
 
 [Elenco dei fascicoli ricercati, provincia per provincia](fascicoli-ricercati.md){: .marcato}
+
+<hr class="oro">
+
+Nella pagina consultabile al seguente link è possibile cercare uno a uno tutti i fascicoli in raccolta,
+visualizzarne le copertine, la lista dei comuni cartografati e vari altri dati.
+
+[Cerca un fascicolo per provincia e annata](cerca-raccolta.md){: .marcato}
+
+<hr class="oro">
 
 Di seguito invece la lista delle regioni.
 
