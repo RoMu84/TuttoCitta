@@ -3,7 +3,8 @@
 body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
   font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif; font-size:17px; }
 .fascia { max-width:1460px; margin:0 auto; padding:0 28px; }
-.testata { background:var(--scuro); color:#fff; padding:18px 0 0; border-bottom:3px solid var(--oro); }
+/* Lo spazio sopra «TuttoCittà» e quello fra la scritta e il sottotitolo sono uguali (1 novembre 2026). */
+.testata { background:var(--scuro); color:#fff; padding:11.5px 0 0; border-bottom:3px solid var(--oro); }
 .marchio { display:block; color:#fff; text-decoration:none; font-size:27px; letter-spacing:.3px; }
 .marchio span { display:block; font-size:13px; letter-spacing:.14em; text-transform:uppercase;
   color:#a9bdd4; margin-top:5px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
@@ -367,7 +368,9 @@ table.dati tbody tr:nth-child(even) { background:#fafbfc; }
 .galleria figcaption { font-size:13px; line-height:1.45; margin-top:9px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 .galleria .dim { color:var(--tenue); }
-.striscia { display:flex; height:46px; margin:26px 0 8px; border:1px solid var(--bordo); overflow:hidden; }
+/* La striscia dei colori in homepage: larga quanto il testo, un terzo più bassa (1 novembre 2026). */
+.striscia { display:flex; height:31px; margin:26px 0 8px; border:1px solid var(--bordo); overflow:hidden;
+  max-width:44rem; box-sizing:border-box; }
 .striscia span { flex:1; }
 .didascalia-striscia { font-size:13px; color:var(--tenue); margin-bottom:34px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
@@ -583,7 +586,7 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
 }
 @media (max-width:1000px){ table.layout { table-layout:auto; }
   table.layout col.c-nome, table.layout col.c-ann, table.layout col.c-car, table.layout col.c-note { width:auto; } }
-@media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px} .marchio{font-size:22px}
+@media (max-width:1000px){ body{font-size:16px} main{padding:26px 18px} .marchio{font-size:22px} .testata{padding-top:10.5px}
   /* La matrice non si adatta allo schermo: si scorre. Le colonne hanno larghezza
      imposta, quindi la tabella e larga quanto serve e le righe restano tutte
      uguali, invece di alzarsi dove il nome del fascicolo va a capo. */

@@ -4,23 +4,4 @@ Nelle seguenti sottopagine sono riportate delle tabelle che mostrano quali fasci
 pubblicati in ciascuna annata per ciascuna provincia, assieme al colore identificativo delle
 copertine così come riportato in [questa pagina](copertine.md).
 
-- [Abruzzo](regioni/abruzzo.md)
-- [Basilicata](regioni/basilicata.md)
-- [Calabria](regioni/calabria.md)
-- [Campania](regioni/campania.md)
-- [Emilia - Romagna](regioni/emilia-romagna.md)
-- [Friuli - Venezia Giulia](regioni/friuli-venezia-giulia.md)
-- [Lazio](regioni/lazio.md)
-- [Liguria](regioni/liguria.md)
-- [Lombardia](regioni/lombardia.md)
-- [Marche](regioni/marche.md)
-- [Molise](regioni/molise.md)
-- [Piemonte](regioni/piemonte.md)
-- [Puglia](regioni/puglia.md)
-- [Sardegna](regioni/sardegna.md)
-- [Sicilia](regioni/sicilia.md)
-- [Toscana](regioni/toscana.md)
-- [Trentino - Alto Adige](regioni/trentino-alto-adige.md)
-- [Umbria](regioni/umbria.md)
-- [Valle d'Aosta](regioni/valle-daosta.md)
-- [Veneto](regioni/veneto.md)
+<p class="inriga marcato"><a href="regioni/abruzzo.md">Abruzzo</a> <b class="perno">&bull;</b> <a href="regioni/basilicata.md">Basilicata</a> <b class="perno">&bull;</b> <a href="regioni/calabria.md">Calabria</a> <b class="perno">&bull;</b> <a href="regioni/campania.md">Campania</a> <b class="perno">&bull;</b> <a href="regioni/emilia-romagna.md">Emilia - Romagna</a> <b class="perno">&bull;</b> <a href="regioni/friuli-venezia-giulia.md">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="regioni/lazio.md">Lazio</a> <b class="perno">&bull;</b> <a href="regioni/liguria.md">Liguria</a> <b class="perno">&bull;</b> <a href="regioni/lombardia.md">Lombardia</a> <b class="perno">&bull;</b> <a href="regioni/marche.md">Marche</a> <b class="perno">&bull;</b> <a href="regioni/molise.md">Molise</a> <b class="perno">&bull;</b> <a href="regioni/piemonte.md">Piemonte</a> <b class="perno">&bull;</b> <a href="regioni/puglia.md">Puglia</a> <b class="perno">&bull;</b> <a href="regioni/sardegna.md">Sardegna</a> <b class="perno">&bull;</b> <a href="regioni/sicilia.md">Sicilia</a> <b class="perno">&bull;</b> <a href="regioni/toscana.md">Toscana</a> <b class="perno">&bull;</b> <a href="regioni/trentino-alto-adige.md">Trentino - Alto Adige</a> <b class="perno">&bull;</b> <a href="regioni/umbria.md">Umbria</a> <b class="perno">&bull;</b> <a href="regioni/valle-daosta.md">Valle d'Aosta</a> <b class="perno">&bull;</b> <a href="regioni/veneto.md">Veneto</a></p>
