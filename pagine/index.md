@@ -1,5 +1,9 @@
 # Introduzione
 
+**TuttoCittà** è il nome dato ai fascicoli cartografici indipendenti che venivano distribuiti
+gratuitamente assieme alle Pagine Gialle; questi fascicoli erano editi dalla società SEAT Pagine Gialle
+per tutte le province italiane fra il 1981 e il 1997 e, per circa una metà di queste, fino al 2014.
+
 Questa pagina fornisce le principali chiavi di lettura per comprendere l'organizzazione generale del
 prodotto editoriale, attraverso alcune regole di base. I dati derivano da una raccolta privata di
 **oltre 1.300 esemplari** (in continua crescita), da dati incrociati con altre raccolte e immagini, nonché dalle regolarità
