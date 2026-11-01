@@ -88,9 +88,10 @@ uscito.</p>
       + '<h3>' + esc(f.t) + '</h3></div><div class="cr-dati"><dl>'
       + voce('Annata', D.annate.filter(function(a){ return a[0] === f.a; })[0][1])
       + voce('Anno in copertina', f.anno)
-      + voce('Formato', f.dim + (f.cop ? ', copertina ' + f.cop : '')) + voce('Layout', f.lay)
+      + voce('Spessore copertina', f.cop ? f.cop.charAt(0).toUpperCase() + f.cop.slice(1) : '')
+      + voce('Formato', f.dim) + voce('Layout', f.lay)
       + voce('Sfondo mappe', f.sf)
-      + voce('Pagine', f.pag) + voce('Aggiornamento', f.mese) + voce('Note', f.note)
+      + voce('Pagine', f.pag) + voce('Aggiornamento', f.mese ? f.mese.charAt(0).toUpperCase() + f.mese.slice(1) : '') + voce('Note', f.note)
       + '</dl></div></div>';
     if (f.c.length) {
       var ni = false;
@@ -102,10 +103,11 @@ uscito.</p>
       });
       h += '<h4>Comuni cartografati <span>· ' + f.c.length + '</span></h4><div class="cr-riquadro cr-comuni">'
         + gruppi.map(function(g){ return '<p>' + g.map(function(c){
-            var t = esc(c[0]) + (c[2] ? '<sup>*</sup>' : ''); if (c[2]) ni = true;
+            var t = esc(c[0]) + (c[4] ? ' (' + esc(c[4]) + ')' : '') + (c[2] ? '<sup>*</sup>' : ''); if (c[2]) ni = true;
             return t; }).join(' <b class="perno">&bull;</b> ') + '</p>'; }).join('')
         + '</div>'
-        + (gruppi.length > 1 ? '<p class="cr-nota">Una riga per provincia.' : '<p class="cr-nota">')
+        + '<p class="cr-nota">' + (gruppi.length > 1 ? 'Una riga per provincia.' : '')
+        + (f.c.some(function(c){ return c[4]; }) ? ' Fra parentesi la sigla dei comuni di altre province.' : '')
         + (ni ? ' Con l\'asterisco i comuni cartografati ma assenti dall\'elenco delle vie.' : '') + '</p>';
     } else {
       h += '<p class="cr-nota">I comuni cartografati di questo fascicolo non sono ancora stati trascritti.</p>';

@@ -745,9 +745,9 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cr-scheda.cr-assente { background:#f7f9fb; color:var(--tenue); }
 .cr-testa { display:flex; gap:20px; align-items:flex-start; }
 /* La copertina con il titolo del fascicolo sotto, in maiuscolo, nella colonna di sinistra. */
-.cr-cop { flex:none; width:170px; text-align:center; }
-.cr-cop img.copertina { width:150px; margin:0 auto; }
-.cr-cop img.copertina.ridotta { width:104px; }
+.cr-cop { flex:none; width:190px; text-align:center; }
+.cr-cop img.copertina { width:172px; margin:0 auto; }
+.cr-cop img.copertina.ridotta { width:119px; }
 .cr-cop h3 { margin:10px 0 0; font-size:15px; line-height:1.3; text-transform:uppercase; letter-spacing:.02em;
   overflow-wrap:anywhere; }
 .cr-dati { flex:1 1 auto; min-width:0; }
