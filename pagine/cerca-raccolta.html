@@ -91,7 +91,7 @@ uscito.</p>
       + voce('Spessore copertina', f.cop ? f.cop.charAt(0).toUpperCase() + f.cop.slice(1) : '')
       + voce('Formato', f.dim) + voce('Layout', f.lay)
       + voce('Sfondo mappe', f.sf)
-      + voce('Pagine', f.pag) + voce('Aggiornamento', f.mese ? f.mese.charAt(0).toUpperCase() + f.mese.slice(1) : '') + voce('Note', f.note)
+      + voce('Pagine', f.pag) + voce('Aggiornamento', f.mese ? f.mese.charAt(0).toUpperCase() + f.mese.slice(1) : '') + voce('Note', f.note ? f.note.charAt(0).toUpperCase() + f.note.slice(1) : '')
       + '</dl></div></div>';
     if (f.c.length) {
       var ni = false;
