@@ -154,7 +154,7 @@ annata,fascicolo,provincia,citta,indicizzata
 88/89,Belluno,Belluno,Belluno,sì
 88/89,Belluno,Belluno,Cortina d'Ampezzo,sì
 88/89,Belluno,Belluno,Feltre,sì
-88/89,Belluno,Belluno,San Martino di Castrozza,no
+88/89,Belluno,Trento,San Martino di Castrozza,no
 88/89,Treviso,Treviso,Treviso,sì
 88/89,Treviso,Treviso,Castelfranco Veneto,sì
 88/89,Treviso,Treviso,Conegliano,sì
@@ -183,7 +183,7 @@ annata,fascicolo,provincia,citta,indicizzata
 89/90,Belluno,Belluno,Belluno,sì
 89/90,Belluno,Belluno,Cortina d'Ampezzo,sì
 89/90,Belluno,Belluno,Feltre,sì
-89/90,Belluno,Belluno,San Martino di Castrozza/Primiero,sì
+89/90,Belluno,Trento,San Martino di Castrozza,sì
 89/90,Treviso,Treviso,Treviso,sì
 89/90,Treviso,Treviso,Asolo,sì
 89/90,Treviso,Treviso,Castelfranco Veneto,sì
@@ -320,7 +320,7 @@ annata,fascicolo,provincia,citta,indicizzata
 91/92,Venezia,Venezia,San Donà di Piave,sì
 91/92,Venezia,Venezia,Spinea,sì
 92/93,Verona,Verona,Verona,sì
-92/93,Verona,Verona,Bovorone,sì
+92/93,Verona,Verona,Bovolone,sì
 92/93,Verona,Verona,Legnago,sì
 92/93,Verona,Verona,San Bonifacio,sì
 92/93,Verona,Verona,San Giovanni Lupatoto,sì
@@ -381,7 +381,7 @@ annata,fascicolo,provincia,citta,indicizzata
 92/93,Venezia,Venezia,San Donà di Piave,sì
 92/93,Venezia,Venezia,Spinea,sì
 93/94,Verona,Verona,Verona,sì
-93/94,Verona,Verona,Bovorone,sì
+93/94,Verona,Verona,Bovolone,sì
 93/94,Verona,Verona,Grezzana,sì
 93/94,Verona,Verona,Isola della Scala,sì
 93/94,Verona,Verona,Legnago,sì
@@ -438,7 +438,7 @@ annata,fascicolo,provincia,citta,indicizzata
 93/94,Venezia,Venezia,San Donà di Piave,sì
 93/94,Venezia,Venezia,Spinea,sì
 94/95,Verona,Verona,Verona,sì
-94/95,Verona,Verona,Bovorone,sì
+94/95,Verona,Verona,Bovolone,sì
 94/95,Verona,Verona,Grezzana,sì
 94/95,Verona,Verona,Isola della Scala,sì
 94/95,Verona,Verona,Legnago,sì
@@ -658,7 +658,7 @@ annata,fascicolo,provincia,citta,indicizzata
 97/98,Venezia,Venezia,San Donà di Piave,sì
 97/98,Venezia,Venezia,Spinea,sì
 98/99,Verona,Verona,Verona,sì
-98/99,Verona,Verona,Bovorone,sì
+98/99,Verona,Verona,Bovolone,sì
 98/99,Verona,Verona,Bussolengo,sì
 98/99,Verona,Verona,Castel d'Azzano,sì
 98/99,Verona,Verona,Cerea,sì
@@ -721,7 +721,7 @@ annata,fascicolo,provincia,citta,indicizzata
 98/99,Venezia,Venezia,San Donà di Piave,sì
 98/99,Venezia,Venezia,Spinea,sì
 99/00,Verona,Verona,Verona,sì
-99/00,Verona,Verona,Bovorone,sì
+99/00,Verona,Verona,Bovolone,sì
 99/00,Verona,Verona,Bussolengo,sì
 99/00,Verona,Verona,Cerea,sì
 99/00,Verona,Verona,Grezzana,sì

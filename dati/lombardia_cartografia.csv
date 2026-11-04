@@ -91,7 +91,7 @@ annata,fascicolo,provincia,citta,indicizzata
 83/84,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 83/84,Provincia di Milano,Milano,Cesano Maderno,sì
 83/84,Provincia di Milano,Milano,Desio,sì
-83/84,Provincia di Milano,Milano,Garbagnate,sì
+83/84,Provincia di Milano,Milano,Garbagnate Milanese,sì
 83/84,Provincia di Milano,Milano,Giussano,sì
 83/84,Provincia di Milano,Milano,Lainate,sì
 83/84,Provincia di Milano,Milano,Legnano,sì
@@ -153,7 +153,7 @@ annata,fascicolo,provincia,citta,indicizzata
 84/85,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 84/85,Provincia di Milano,Milano,Cesano Maderno,sì
 84/85,Provincia di Milano,Milano,Desio,sì
-84/85,Provincia di Milano,Milano,Garbagnate,sì
+84/85,Provincia di Milano,Milano,Garbagnate Milanese,sì
 84/85,Provincia di Milano,Milano,Giussano,sì
 84/85,Provincia di Milano,Milano,Lainate,sì
 84/85,Provincia di Milano,Milano,Legnano,sì
@@ -227,7 +227,7 @@ annata,fascicolo,provincia,citta,indicizzata
 85/86,Provincia di Milano,Milano,Cesano Maderno,sì
 85/86,Provincia di Milano,Milano,Corbetta,sì
 85/86,Provincia di Milano,Milano,Desio,sì
-85/86,Provincia di Milano,Milano,Garbagnate,sì
+85/86,Provincia di Milano,Milano,Garbagnate Milanese,sì
 85/86,Provincia di Milano,Milano,Giussano,sì
 85/86,Provincia di Milano,Milano,Lainate,sì
 85/86,Provincia di Milano,Milano,Legnano,sì
@@ -299,7 +299,7 @@ annata,fascicolo,provincia,citta,indicizzata
 86/87,Provincia di Milano,Milano,Cesano Maderno,sì
 86/87,Provincia di Milano,Milano,Corbetta,sì
 86/87,Provincia di Milano,Milano,Desio,sì
-86/87,Provincia di Milano,Milano,Garbagnate,sì
+86/87,Provincia di Milano,Milano,Garbagnate Milanese,sì
 86/87,Provincia di Milano,Milano,Giussano,sì
 86/87,Provincia di Milano,Milano,Lainate,sì
 86/87,Provincia di Milano,Milano,Legnano,sì
@@ -409,7 +409,7 @@ annata,fascicolo,provincia,citta,indicizzata
 87/88,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 87/88,Provincia di Milano,Milano,Cesano Maderno,sì
 87/88,Provincia di Milano,Milano,Desio,sì
-87/88,Provincia di Milano,Milano,Garbagnate,sì
+87/88,Provincia di Milano,Milano,Garbagnate Milanese,sì
 87/88,Provincia di Milano,Milano,Giussano,sì
 87/88,Provincia di Milano,Milano,Lainate,sì
 87/88,Provincia di Milano,Milano,Legnano,sì
@@ -486,7 +486,7 @@ annata,fascicolo,provincia,citta,indicizzata
 88/89,Provincia di Milano,Milano,Concorezzo,sì
 88/89,Provincia di Milano,Milano,Corbetta,sì
 88/89,Provincia di Milano,Milano,Desio,sì
-88/89,Provincia di Milano,Milano,Garbagnate,sì
+88/89,Provincia di Milano,Milano,Garbagnate Milanese,sì
 88/89,Provincia di Milano,Milano,Giussano,sì
 88/89,Provincia di Milano,Milano,Gorgonzola,sì
 88/89,Provincia di Milano,Milano,Lainate,sì
@@ -604,7 +604,7 @@ annata,fascicolo,provincia,citta,indicizzata
 89/90,Provincia di Milano,Milano,Concorezzo,sì
 89/90,Provincia di Milano,Milano,Corbetta,sì
 89/90,Provincia di Milano,Milano,Desio,sì
-89/90,Provincia di Milano,Milano,Garbagnate,sì
+89/90,Provincia di Milano,Milano,Garbagnate Milanese,sì
 89/90,Provincia di Milano,Milano,Giussano,sì
 89/90,Provincia di Milano,Milano,Gorgonzola,sì
 89/90,Provincia di Milano,Milano,Lainate,sì
@@ -680,7 +680,7 @@ annata,fascicolo,provincia,citta,indicizzata
 89/90,Varese,Varese,Somma Lombardo,sì
 89/90,Varese,Varese,Tradate,sì
 89/90,Varese,Varese,Gavirate,no
-89/90,Varese,Varese,Laveno,no
+89/90,Varese,Varese,Laveno Mombello,no
 89/90,Bergamo,Bergamo,Bergamo,sì
 89/90,Bergamo,Bergamo,Romano di Lombardia,sì
 89/90,Bergamo,Bergamo,Seriate,sì
@@ -723,13 +723,13 @@ annata,fascicolo,provincia,citta,indicizzata
 90/91,Provincia di Milano,Milano,Arese,sì
 90/91,Provincia di Milano,Milano,Brugherio,sì
 90/91,Provincia di Milano,Milano,Carugate,sì
-90/91,Provincia di Milano,Milano,Cassina De' Pecchi,sì
+90/91,Provincia di Milano,Milano,Cassina de' Pecchi,sì
 90/91,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 90/91,Provincia di Milano,Milano,Cesano Maderno,sì
 90/91,Provincia di Milano,Milano,Concorezzo,sì
 90/91,Provincia di Milano,Milano,Corbetta,sì
 90/91,Provincia di Milano,Milano,Desio,sì
-90/91,Provincia di Milano,Milano,Garbagnate,sì
+90/91,Provincia di Milano,Milano,Garbagnate Milanese,sì
 90/91,Provincia di Milano,Milano,Giussano,sì
 90/91,Provincia di Milano,Milano,Gorgonzola,sì
 90/91,Provincia di Milano,Milano,Inzago,sì
@@ -854,14 +854,14 @@ annata,fascicolo,provincia,citta,indicizzata
 91/92,Provincia di Milano,Milano,Brugherio,sì
 91/92,Provincia di Milano,Milano,Carate Brianza,sì
 91/92,Provincia di Milano,Milano,Carugate,sì
-91/92,Provincia di Milano,Milano,Cassina De' Pecchi,sì
+91/92,Provincia di Milano,Milano,Cassina de' Pecchi,sì
 91/92,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 91/92,Provincia di Milano,Milano,Cesano Maderno,sì
 91/92,Provincia di Milano,Milano,Codogno,sì
 91/92,Provincia di Milano,Milano,Concorezzo,sì
 91/92,Provincia di Milano,Milano,Corbetta,sì
 91/92,Provincia di Milano,Milano,Desio,sì
-91/92,Provincia di Milano,Milano,Garbagnate,sì
+91/92,Provincia di Milano,Milano,Garbagnate Milanese,sì
 91/92,Provincia di Milano,Milano,Giussano,sì
 91/92,Provincia di Milano,Milano,Gorgonzola,sì
 91/92,Provincia di Milano,Milano,Inzago,sì
@@ -966,7 +966,7 @@ annata,fascicolo,provincia,citta,indicizzata
 92/93,Provincia di Milano,Milano,Carate Brianza,sì
 92/93,Provincia di Milano,Milano,Carugate,sì
 92/93,Provincia di Milano,Milano,Casalpusterlengo,sì
-92/93,Provincia di Milano,Milano,Cassina De' Pecchi,sì
+92/93,Provincia di Milano,Milano,Cassina de' Pecchi,sì
 92/93,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 92/93,Provincia di Milano,Milano,Cesano Maderno,sì
 92/93,Provincia di Milano,Milano,Codogno,sì
@@ -975,7 +975,7 @@ annata,fascicolo,provincia,citta,indicizzata
 92/93,Provincia di Milano,Milano,Cornaredo,sì
 92/93,Provincia di Milano,Milano,Cusago,sì
 92/93,Provincia di Milano,Milano,Desio,sì
-92/93,Provincia di Milano,Milano,Garbagnate,sì
+92/93,Provincia di Milano,Milano,Garbagnate Milanese,sì
 92/93,Provincia di Milano,Milano,Giussano,sì
 92/93,Provincia di Milano,Milano,Gorgonzola,sì
 92/93,Provincia di Milano,Milano,Inzago,sì
@@ -1033,7 +1033,7 @@ annata,fascicolo,provincia,citta,indicizzata
 92/93,Cremona,Cremona,Soncino,sì
 92/93,Cremona,Cremona,Soresina,sì
 92/93,Mantova,Mantova,Mantova,sì
-92/93,Mantova,Mantova,Castelgoffredo,sì
+92/93,Mantova,Mantova,Castel Goffredo,sì
 92/93,Mantova,Mantova,Castiglione delle Stiviere,sì
 92/93,Mantova,Mantova,Suzzara,sì
 92/93,Mantova,Mantova,Viadana,sì
@@ -1108,7 +1108,7 @@ annata,fascicolo,provincia,citta,indicizzata
 93/94,Provincia di Milano,Milano,Carate Brianza,sì
 93/94,Provincia di Milano,Milano,Carugate,sì
 93/94,Provincia di Milano,Milano,Casalpusterlengo,sì
-93/94,Provincia di Milano,Milano,Cassina De' Pecchi,sì
+93/94,Provincia di Milano,Milano,Cassina de' Pecchi,sì
 93/94,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 93/94,Provincia di Milano,Milano,Cesano Maderno,sì
 93/94,Provincia di Milano,Milano,Codogno,sì
@@ -1117,7 +1117,7 @@ annata,fascicolo,provincia,citta,indicizzata
 93/94,Provincia di Milano,Milano,Cornaredo,sì
 93/94,Provincia di Milano,Milano,Cusago,sì
 93/94,Provincia di Milano,Milano,Desio,sì
-93/94,Provincia di Milano,Milano,Garbagnate,sì
+93/94,Provincia di Milano,Milano,Garbagnate Milanese,sì
 93/94,Provincia di Milano,Milano,Giussano,sì
 93/94,Provincia di Milano,Milano,Gorgonzola,sì
 93/94,Provincia di Milano,Milano,Inzago,sì
@@ -1241,7 +1241,7 @@ annata,fascicolo,provincia,citta,indicizzata
 94/95,Provincia di Milano,Milano,Carate Brianza,sì
 94/95,Provincia di Milano,Milano,Carugate,sì
 94/95,Provincia di Milano,Milano,Casalpusterlengo,sì
-94/95,Provincia di Milano,Milano,Cassina De' Pecchi,sì
+94/95,Provincia di Milano,Milano,Cassina de' Pecchi,sì
 94/95,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 94/95,Provincia di Milano,Milano,Cesano Maderno,sì
 94/95,Provincia di Milano,Milano,Codogno,sì
@@ -1250,7 +1250,7 @@ annata,fascicolo,provincia,citta,indicizzata
 94/95,Provincia di Milano,Milano,Cornaredo,sì
 94/95,Provincia di Milano,Milano,Cusago,sì
 94/95,Provincia di Milano,Milano,Desio,sì
-94/95,Provincia di Milano,Milano,Garbagnate,sì
+94/95,Provincia di Milano,Milano,Garbagnate Milanese,sì
 94/95,Provincia di Milano,Milano,Giussano,sì
 94/95,Provincia di Milano,Milano,Gorgonzola,sì
 94/95,Provincia di Milano,Milano,Inzago,sì
@@ -1302,7 +1302,7 @@ annata,fascicolo,provincia,citta,indicizzata
 94/95,Varese,Varese,Somma Lombardo,sì
 94/95,Varese,Varese,Tradate,sì
 94/95,Mantova,Mantova,Mantova,sì
-94/95,Mantova,Mantova,Castelgoffredo,sì
+94/95,Mantova,Mantova,Castel Goffredo,sì
 94/95,Mantova,Mantova,Castiglione delle Stiviere,sì
 94/95,Mantova,Mantova,Suzzara,sì
 94/95,Mantova,Mantova,Viadana,sì
@@ -1340,7 +1340,7 @@ annata,fascicolo,provincia,citta,indicizzata
 95/96,Provincia di Milano,Milano,Carate Brianza,sì
 95/96,Provincia di Milano,Milano,Carugate,sì
 95/96,Provincia di Milano,Milano,Casalpusterlengo,sì
-95/96,Provincia di Milano,Milano,Cassina De' Pecchi,sì
+95/96,Provincia di Milano,Milano,Cassina de' Pecchi,sì
 95/96,Provincia di Milano,Milano,Castano Primo,sì
 95/96,Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 95/96,Provincia di Milano,Milano,Cesano Maderno,sì
@@ -1350,7 +1350,7 @@ annata,fascicolo,provincia,citta,indicizzata
 95/96,Provincia di Milano,Milano,Cornaredo,sì
 95/96,Provincia di Milano,Milano,Cusago,sì
 95/96,Provincia di Milano,Milano,Desio,sì
-95/96,Provincia di Milano,Milano,Garbagnate,sì
+95/96,Provincia di Milano,Milano,Garbagnate Milanese,sì
 95/96,Provincia di Milano,Milano,Giussano,sì
 95/96,Provincia di Milano,Milano,Gorgonzola,sì
 95/96,Provincia di Milano,Milano,Inzago,sì
@@ -1439,7 +1439,7 @@ annata,fascicolo,provincia,citta,indicizzata
 95/96,Cremona,Cremona,Soncino,sì
 95/96,Cremona,Cremona,Soresina,sì
 95/96,Mantova,Mantova,Mantova,sì
-95/96,Mantova,Mantova,Castelgoffredo,sì
+95/96,Mantova,Mantova,Castel Goffredo,sì
 95/96,Mantova,Mantova,Castiglione delle Stiviere,sì
 95/96,Mantova,Mantova,Suzzara,sì
 95/96,Mantova,Mantova,Viadana,sì
@@ -1501,7 +1501,7 @@ annata,fascicolo,provincia,citta,indicizzata
 96/97,Lodi - Provincia di Milano,Milano,Brugherio,sì
 96/97,Lodi - Provincia di Milano,Milano,Carate Brianza,sì
 96/97,Lodi - Provincia di Milano,Milano,Carugate,sì
-96/97,Lodi - Provincia di Milano,Milano,Cassina De' Pecchi,sì
+96/97,Lodi - Provincia di Milano,Milano,Cassina de' Pecchi,sì
 96/97,Lodi - Provincia di Milano,Milano,Castano Primo,sì
 96/97,Lodi - Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 96/97,Lodi - Provincia di Milano,Milano,Cesano Maderno,sì
@@ -1510,7 +1510,7 @@ annata,fascicolo,provincia,citta,indicizzata
 96/97,Lodi - Provincia di Milano,Milano,Cornaredo,sì
 96/97,Lodi - Provincia di Milano,Milano,Cusago,sì
 96/97,Lodi - Provincia di Milano,Milano,Desio,sì
-96/97,Lodi - Provincia di Milano,Milano,Garbagnate,sì
+96/97,Lodi - Provincia di Milano,Milano,Garbagnate Milanese,sì
 96/97,Lodi - Provincia di Milano,Milano,Giussano,sì
 96/97,Lodi - Provincia di Milano,Milano,Gorgonzola,sì
 96/97,Lodi - Provincia di Milano,Milano,Inzago,sì
@@ -1573,7 +1573,7 @@ annata,fascicolo,provincia,citta,indicizzata
 96/97,Cremona,Cremona,Soncino,sì
 96/97,Cremona,Cremona,Soresina,sì
 96/97,Mantova,Mantova,Mantova,sì
-96/97,Mantova,Mantova,Castelgoffredo,sì
+96/97,Mantova,Mantova,Castel Goffredo,sì
 96/97,Mantova,Mantova,Castiglione delle Stiviere,sì
 96/97,Mantova,Mantova,Suzzara,sì
 96/97,Mantova,Mantova,Viadana,sì
@@ -1651,7 +1651,7 @@ annata,fascicolo,provincia,citta,indicizzata
 97/98,Lodi - Provincia di Milano,Milano,Brugherio,sì
 97/98,Lodi - Provincia di Milano,Milano,Carate Brianza,sì
 97/98,Lodi - Provincia di Milano,Milano,Carugate,sì
-97/98,Lodi - Provincia di Milano,Milano,Cassina De' Pecchi,sì
+97/98,Lodi - Provincia di Milano,Milano,Cassina de' Pecchi,sì
 97/98,Lodi - Provincia di Milano,Milano,Castano Primo,sì
 97/98,Lodi - Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 97/98,Lodi - Provincia di Milano,Milano,Cesano Maderno,sì
@@ -1660,7 +1660,7 @@ annata,fascicolo,provincia,citta,indicizzata
 97/98,Lodi - Provincia di Milano,Milano,Cornaredo,sì
 97/98,Lodi - Provincia di Milano,Milano,Cusago,sì
 97/98,Lodi - Provincia di Milano,Milano,Desio,sì
-97/98,Lodi - Provincia di Milano,Milano,Garbagnate,sì
+97/98,Lodi - Provincia di Milano,Milano,Garbagnate Milanese,sì
 97/98,Lodi - Provincia di Milano,Milano,Giussano,sì
 97/98,Lodi - Provincia di Milano,Milano,Gorgonzola,sì
 97/98,Lodi - Provincia di Milano,Milano,Inzago,sì
@@ -1698,7 +1698,7 @@ annata,fascicolo,provincia,citta,indicizzata
 97/98,Sondrio,Sondrio,Morbegno,sì
 97/98,Sondrio,Sondrio,Tirano,sì
 97/98,Mantova,Mantova,Mantova,sì
-97/98,Mantova,Mantova,Castelgoffredo,sì
+97/98,Mantova,Mantova,Castel Goffredo,sì
 97/98,Mantova,Mantova,Castiglione delle Stiviere,sì
 97/98,Mantova,Mantova,Suzzara,sì
 97/98,Mantova,Mantova,Viadana,sì
@@ -1778,7 +1778,7 @@ annata,fascicolo,provincia,citta,indicizzata
 98/99,Lodi - Provincia di Milano,Milano,Brugherio,sì
 98/99,Lodi - Provincia di Milano,Milano,Carate Brianza,sì
 98/99,Lodi - Provincia di Milano,Milano,Carugate,sì
-98/99,Lodi - Provincia di Milano,Milano,Cassina De' Pecchi,sì
+98/99,Lodi - Provincia di Milano,Milano,Cassina de' Pecchi,sì
 98/99,Lodi - Provincia di Milano,Milano,Castano Primo,sì
 98/99,Lodi - Provincia di Milano,Milano,Cernusco sul Naviglio,sì
 98/99,Lodi - Provincia di Milano,Milano,Cesano Maderno,sì
@@ -1828,7 +1828,7 @@ annata,fascicolo,provincia,citta,indicizzata
 98/99,Como - Lecco,Como,Erba,sì
 98/99,Como - Lecco,Como,Fino Mornasco,sì
 98/99,Como - Lecco,Como,Inverigo,sì
-98/99,Como - Lecco,Como,Lambrusco,sì
+98/99,Como - Lecco,Como,Lambrugo,sì
 98/99,Como - Lecco,Como,Lurago d'Erba,sì
 98/99,Como - Lecco,Como,Lurate Caccivio,sì
 98/99,Como - Lecco,Como,Mariano Comense,sì
@@ -1996,7 +1996,7 @@ annata,fascicolo,provincia,citta,indicizzata
 99/00,Como - Lecco,Como,Erba,sì
 99/00,Como - Lecco,Como,Fino Mornasco,sì
 99/00,Como - Lecco,Como,Inverigo,sì
-99/00,Como - Lecco,Como,Lambrusco,sì
+99/00,Como - Lecco,Como,Lambrugo,sì
 99/00,Como - Lecco,Como,Lurago d'Erba,sì
 99/00,Como - Lecco,Como,Lurate Caccivio,sì
 99/00,Como - Lecco,Como,Mariano Comense,sì
@@ -2605,7 +2605,7 @@ annata,fascicolo,provincia,citta,indicizzata
 06/07,Provincia di Milano Nord,Milano,Lainate,sì
 06/07,Provincia di Milano Nord,Milano,Legnano,sì
 06/07,Provincia di Milano Nord,Milano,Lentate sul Seveso,sì
-06/07,Provincia di Milano Nord,Milano,Bovisio,sì
+06/07,Provincia di Milano Nord,Milano,Bovisio Masciago,sì
 06/07,Provincia di Milano Nord,Milano,Lissone,sì
 06/07,Provincia di Milano Nord,Milano,Limbiate,sì
 06/07,Provincia di Milano Nord,Milano,Macherio,sì
@@ -2762,7 +2762,7 @@ annata,fascicolo,provincia,citta,indicizzata
 07/08,Provincia di Milano Nord,Milano,Lainate,sì
 07/08,Provincia di Milano Nord,Milano,Legnano,sì
 07/08,Provincia di Milano Nord,Milano,Lentate sul Seveso,sì
-07/08,Provincia di Milano Nord,Milano,Bovisio,sì
+07/08,Provincia di Milano Nord,Milano,Bovisio Masciago,sì
 07/08,Provincia di Milano Nord,Milano,Lissone,sì
 07/08,Provincia di Milano Nord,Milano,Limbiate,sì
 07/08,Provincia di Milano Nord,Milano,Macherio,sì
@@ -2877,7 +2877,7 @@ annata,fascicolo,provincia,citta,indicizzata
 08/09,Provincia di Milano Nord,Milano,Lainate,sì
 08/09,Provincia di Milano Nord,Milano,Legnano,sì
 08/09,Provincia di Milano Nord,Milano,Lentate sul Seveso,sì
-08/09,Provincia di Milano Nord,Milano,Bovisio,sì
+08/09,Provincia di Milano Nord,Milano,Bovisio Masciago,sì
 08/09,Provincia di Milano Nord,Milano,Lissone,sì
 08/09,Provincia di Milano Nord,Milano,Limbiate,sì
 08/09,Provincia di Milano Nord,Milano,Macherio,sì
@@ -3027,7 +3027,7 @@ annata,fascicolo,provincia,citta,indicizzata
 09/10,Provincia di Milano Nord,Milano,Lainate,sì
 09/10,Provincia di Milano Nord,Milano,Legnano,sì
 09/10,Provincia di Milano Nord,Milano,Lentate sul Seveso,sì
-09/10,Provincia di Milano Nord,Milano,Bovisio,sì
+09/10,Provincia di Milano Nord,Milano,Bovisio Masciago,sì
 09/10,Provincia di Milano Nord,Milano,Lissone,sì
 09/10,Provincia di Milano Nord,Milano,Limbiate,sì
 09/10,Provincia di Milano Nord,Milano,Macherio,sì
@@ -3081,7 +3081,7 @@ annata,fascicolo,provincia,citta,indicizzata
 11/12,Como - Lecco,Como,Erba,sì
 11/12,Como - Lecco,Como,Fino Mornasco,sì
 11/12,Como - Lecco,Como,Inverigo,sì
-11/12,Como - Lecco,Como,Lurano d'Erba,sì
+11/12,Como - Lecco,Como,Lurago d'Erba,sì
 11/12,Como - Lecco,Como,Lurate Caccivio,sì
 11/12,Como - Lecco,Como,Mariano Comense,sì
 11/12,Como - Lecco,Como,Menaggio,sì
@@ -3101,7 +3101,7 @@ annata,fascicolo,provincia,citta,indicizzata
 12/13,Como - Lecco,Como,Erba,sì
 12/13,Como - Lecco,Como,Fino Mornasco,sì
 12/13,Como - Lecco,Como,Inverigo,sì
-12/13,Como - Lecco,Como,Lurano d'Erba,sì
+12/13,Como - Lecco,Como,Lurago d'Erba,sì
 12/13,Como - Lecco,Como,Lurate Caccivio,sì
 12/13,Como - Lecco,Como,Mariano Comense,sì
 12/13,Como - Lecco,Como,Menaggio,sì
@@ -3122,7 +3122,7 @@ annata,fascicolo,provincia,citta,indicizzata
 13/14,Como - Lecco,Como,Cernobbio,sì
 13/14,Como - Lecco,Como,Erba,sì
 13/14,Como - Lecco,Como,Fino Mornasco,sì
-13/14,Como - Lecco,Como,Lurano d'Erba,sì
+13/14,Como - Lecco,Como,Lurago d'Erba,sì
 13/14,Como - Lecco,Como,Mariano Comense,sì
 13/14,Como - Lecco,Como,Olgiate Comasco,sì
 13/14,Como - Lecco,Como,Lecco,sì
