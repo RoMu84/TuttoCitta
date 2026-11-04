@@ -204,7 +204,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 <h3 id="articoli-93-94">Annata 93/94</h3>
 <dl class="articoli">
   <dt>Aosta — italiano</dt>
-  <dd>Italia domani. Aosta, voglia di altruismo <b class="perno">&bull;</b> Arte in tavola. Scrittoti, poeti e carbonada</dd>
+  <dd>Italia domani. Aosta, voglia di altruismo <b class="perno">&bull;</b> Arte in tavola. Scrittori, poeti e carbonada</dd>
   <dt>Aosta — francese</dt>
   <dd>Italie du futur. Aoste, une envie d'altruisme <b class="perno">&bull;</b> L'art à table. Les écrivains, les poètes et la carbonada</dd>
 </dl>

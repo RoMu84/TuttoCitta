@@ -206,7 +206,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 <h3 id="articoli-90-91">Annata 90/91</h3>
 <dl class="articoli">
   <dt>Chieti</dt>
-  <dd>Anni 90. Il salto dell'Ifdam <b class="perno">&bull;</b> Identikit di una provincia <b class="perno">&bull;</b> Il Castello di Biancaneve nelle viscere della Maiella <b class="perno">&bull;</b> Anno 1900. Il deputato più giovane <b class="perno">&bull;</b> Quel misterioro Guerriero di Capestrano <b class="perno">&bull;</b> Il segreto degli spaghetti? Semplice come l'acqua di Fara <b class="perno">&bull;</b> La ricetta della nonna</dd>
+  <dd>Anni 90. Il salto dell'Ifdam <b class="perno">&bull;</b> Identikit di una provincia <b class="perno">&bull;</b> Il Castello di Biancaneve nelle viscere della Maiella <b class="perno">&bull;</b> Anno 1900. Il deputato più giovane <b class="perno">&bull;</b> Quel misterioso Guerriero di Capestrano <b class="perno">&bull;</b> Il segreto degli spaghetti? Semplice come l'acqua di Fara <b class="perno">&bull;</b> La ricetta della nonna</dd>
   <dt>L'Aquila</dt>
   <dd>Anni 90. Dallo spazio in diretta <b class="perno">&bull;</b> I maestri della mischia <b class="perno">&bull;</b> Anno 1900. I convitti e le educande <b class="perno">&bull;</b> Il grande orto del Fucino <b class="perno">&bull;</b> Identikit di una provincia <b class="perno">&bull;</b> A caccia di neutrini nelle viscere del Gran Sasso <b class="perno">&bull;</b> Date storiche <b class="perno">&bull;</b> Il lupo? Prudente, riservato, ottimo papà <b class="perno">&bull;</b> Civitella. Qui il futuro è verde <b class="perno">&bull;</b> Quel cuoco galeotto... <b class="perno">&bull;</b> La ricetta della nonna</dd>
   <dt>Pescara</dt>
@@ -217,7 +217,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 <h3 id="articoli-91-92">Annata 91/92</h3>
 <dl class="articoli">
   <dt>Chieti</dt>
-  <dd>Cerso il '92. Una provincia in salute aspetta l'Europa <b class="perno">&bull;</b> Reteotto: obiettivo sui fatti <b class="perno">&bull;</b> Il convento degli artisti dove nacque "il piacere" <b class="perno">&bull;</b> Chieti, città della cultura <b class="perno">&bull;</b> Itinerari per il week-end. Nella valle del fiume Alento tra calanchi e chiese romaniche <b class="perno">&bull;</b> Vini e gastronomia. Un paese di cuochi ha conquistato il mondo</dd>
+  <dd>Verso il '92. Una provincia in salute aspetta l'Europa <b class="perno">&bull;</b> Reteotto: obiettivo sui fatti <b class="perno">&bull;</b> Il convento degli artisti dove nacque "il piacere" <b class="perno">&bull;</b> Chieti, città della cultura <b class="perno">&bull;</b> Itinerari per il week-end. Nella valle del fiume Alento tra calanchi e chiese romaniche <b class="perno">&bull;</b> Vini e gastronomia. Un paese di cuochi ha conquistato il mondo</dd>
   <dt>L'Aquila</dt>
   <dd>Verso il '92. Fuori dall'isolamento <b class="perno">&bull;</b> La stampa locale. Ju Zirè: il valore delle radici <b class="perno">&bull;</b> Dai fossili all'arte sacra, i tesori del museo <b class="perno">&bull;</b> Vini e gastronomia. Le ricette dei pastori <b class="perno">&bull;</b> Le dolci anime di Sulmona</dd>
   <dt>Pescara</dt>
@@ -250,7 +250,7 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
 <h3 id="articoli-94-95">Annata 94/95</h3>
 <dl class="articoli">
   <dt>Chieti</dt>
-  <dd>Il nuovo che emerge. Un esercito di volontari in aiuto di chi soffre <b class="perno">&bull;</b> Dai marrucini alla ferrovie alettrica <b class="perno">&bull;</b> I nuovi talenti del sottobosco rock <b class="perno">&bull;</b> L'eremita vescovo patrono di Chieti <b class="perno">&bull;</b> La provincia verde. Sulla Maiella con lo zaino in spalla <b class="perno">&bull;</b> Antiche ricette. Scapece, capra e il centerbe del mago <b class="perno">&bull;</b> Le donne di Roccascalegna contro i tiranni</dd>
+  <dd>Il nuovo che emerge. Un esercito di volontari in aiuto di chi soffre <b class="perno">&bull;</b> Dai marrucini alla ferrovia elettrica <b class="perno">&bull;</b> I nuovi talenti del sottobosco rock <b class="perno">&bull;</b> L'eremita vescovo patrono di Chieti <b class="perno">&bull;</b> La provincia verde. Sulla Maiella con lo zaino in spalla <b class="perno">&bull;</b> Antiche ricette. Scapece, capra e il centerbe del mago <b class="perno">&bull;</b> Le donne di Roccascalegna contro i tiranni</dd>
   <dt>L'Aquila</dt>
   <dd>Il nuovo che emerge. La biblioteca del Duemila <b class="perno">&bull;</b> Miti, leggende. Giuseppe Ciufolo, il morto e la reginella</dd>
   <dt>Pescara</dt>
