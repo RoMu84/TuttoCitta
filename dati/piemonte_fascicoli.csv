@@ -129,8 +129,8 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 99/00,Cuneo,Cuneo 2000,00,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Novara - Verbano Cusio Ossola,Novara - Verbano Cusio Ossola 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,46,,novembre 1999,,NO00.jpg,True,accertata
 00/01,Torino e dintorni,Torino ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-01/02,Torino e dintorni,Torino e dintorni 2002,02,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-02/03,Torino e dintorni,Torino ?,,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,,febbraio 2003,,TO03.jpg,True,accertata
+01/02,Torino e dintorni,Torino e dintorni 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+02/03,Torino e dintorni,Torino e dintorni 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,,febbraio 2003,,TO03.jpg,True,accertata
 03/04,Torino e dintorni,Torino e dintorni 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,87,febbraio 2004,,TO04.jpg,True,accertata
 04/05,Torino e dintorni,Torino e dintorni 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,86,88,marzo 2005,,TO05.jpg,True,accertata
 05/06,Torino e dintorni,Torino e dintorni 2006,06,Copertina 2005 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,88,,marzo 2006,,TO06.jpg,True,accertata
@@ -139,15 +139,15 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 08/09,Torino e dintorni,Torino e dintorni 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,80,,marzo 2009,,TO0910.jpg,True,accertata
 09/10,Torino e dintorni,Torino e dintorni 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,128,,marzo 2010,riforma cartografica; nuovo formato; inserto Agenzia del Territorio; presente un'edizione parallela speciale per l'ostensione della Sindone,TO1011.jpg,True,accertata
 10/11,Torino e dintorni,Torino e dintorni 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,120,,marzo 2011,,TO1112.jpg,True,accertata
-10/11,Asti,Asti 2011/2012,11/12,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
+10/11,Asti,Asti 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
 10/11,Cuneo,Cuneo 2011/2012,11/12,Copertina 2011/2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,48,,dicembre 2010,riforma cartografica; nuovo formato,CN1112.jpg,True,accertata
 11/12,Torino e dintorni,Torino 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,88,,febbraio 2012,,TO1213.jpg,True,accertata
-11/12,Asti,Asti 2012/2013,12/13,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
-11/12,Cuneo,Cuneo 2012/2013,12/13,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+11/12,Asti,Asti 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+11/12,Cuneo,Cuneo 2012/2013,12/13,Copertina 2012/2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 12/13,Torino e dintorni,Torino 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,96,,febbraio 2013,,TO1314.jpg,True,accertata
-12/13,Asti,Asti 2013/2014,13/14,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
-12/13,Cuneo,Cuneo 2013/2014,13/14,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+12/13,Asti,Asti 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+12/13,Cuneo,Cuneo 2013/2014,13/14,Copertina 2013/2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 13/14,Torino e dintorni,Torino 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,96,,febbraio 2014,,TO1415.jpg,True,accertata
-13/14,Asti,Asti 2014/2015,14/15,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
-13/14,Cuneo,Cuneo 2014/2015,14/15,,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Asti,Asti 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+13/14,Cuneo,Cuneo 2014/2015,14/15,Copertina 2014/2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 09/10,Torino edizione speciale Sindone,Torino 2010,10,Copertina 2010 bianca,140 x 212 mm,grossa,TuttoCittà anni dieci,104,,marzo 2010,edizione speciale ostensione della Sindone,TO10S.jpg,True,accertata
