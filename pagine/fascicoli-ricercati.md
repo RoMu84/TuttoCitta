@@ -1,7 +1,7 @@
 # Fascicoli ricercati
 
 Questa pagina elenca i **674 fascicoli** che il censimento dà per pubblicati ma che non sono
-ancora in raccolta, divisi per regione e per raggruppamento provinciale, e i 21 fascicoli la cui
+ancora in raccolta, divisi per regione e per raggruppamento provinciale, e i 20 fascicoli la cui
 pubblicazione è probabile ma non confermata, segnati da un punto interrogativo. Per ciascuno sono indicati
 l'annata, il nome come compare in copertina e, nel quadratino, il colore della copertina, come nella
 [pagina Copertine](copertine.md), che aiuta a riconoscerlo a colpo d'occhio. Con la dicitura
@@ -35,13 +35,13 @@ Mancano 5 dei 17 fascicoli accertati · [pagina della raccolta](basilicata.md) �
 
 ## Calabria {#calabria}
 
-Mancano 15 dei 46 fascicoli accertati, più 2 probabili · [pagina della raccolta](calabria.md) · [tabella della raccolta](tabella-raccolta.md#calabria)
+Mancano 15 dei 46 fascicoli accertati, più 1 probabile · [pagina della raccolta](calabria.md) · [tabella della raccolta](tabella-raccolta.md#calabria)
 
 <div class="ricercati">
 <div class="provincia-ricercata"><p class="linea-ricercata">Catanzaro (Catanzaro - Crotone - Vibo Valentia dal 1996)</p>
 <ul class="ricercati"><li><span class="pastiglia" style="background:#FF0000"></span><b>85/86:</b> Catanzaro 86</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>95/96:</b> Catanzaro - Crotone - Vibo Valentia 96</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>96/97:</b> Catanzaro - Crotone - Vibo Valentia 97</li></ul></div>
 <div class="provincia-ricercata"><p class="linea-ricercata">Cosenza</p>
-<ul class="ricercati"><li><span class="pastiglia" style="background:#92D050"></span><b>84/85:</b> Cosenza 85</li><li><span class="pastiglia" style="background:#FF0000"></span><b>85/86:</b> Cosenza 86</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>94/95:</b> Cosenza 95</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>95/96:</b> Cosenza 96</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>96/97:</b> Cosenza 97</li><li class="forse" title="Pubblicazione probabile, non confermata"><span class="pastiglia"></span><b>98/99:</b> Cosenza (99) <i>?</i></li></ul></div>
+<ul class="ricercati"><li><span class="pastiglia" style="background:#92D050"></span><b>84/85:</b> Cosenza 85</li><li><span class="pastiglia" style="background:#FF0000"></span><b>85/86:</b> Cosenza 86</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>94/95:</b> Cosenza 95</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>95/96:</b> Cosenza 96</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>96/97:</b> Cosenza 97</li></ul></div>
 <div class="provincia-ricercata"><p class="linea-ricercata">Reggio Calabria</p>
 <ul class="ricercati"><li><span class="pastiglia" style="background:#92D050"></span><b>84/85:</b> Reggio Calabria 85</li><li><span class="pastiglia" style="background:#FF0000"></span><b>85/86:</b> Reggio Calabria 86</li><li><span class="pastiglia" style="background:#92D050"></span><b>87/88:</b> Reggio Calabria 88</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>94/95:</b> Reggio Calabria 95</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>95/96:</b> Reggio Calabria 96</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>96/97:</b> Reggio Calabria 97</li><li><span class="pastiglia" style="background:#999999"></span><b>97/98:</b> Reggio Calabria (98)</li><li class="forse" title="Pubblicazione probabile, non confermata"><span class="pastiglia"></span><b>98/99:</b> Reggio Calabria (99) <i>?</i></li></ul></div>
 </div>

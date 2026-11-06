@@ -75,9 +75,8 @@ Sono **67** celle: fascicolo la cui esistenza è accertata, ma di cui non è not
 
 ## Celle marcate come probabili non confermate
 
-Sono **21**:
+Sono **20**:
 
-- Calabria · Cosenza · annata 98/99
 - Calabria · Reggio Calabria · annata 98/99
 - Campania · Provincia di Napoli · annata 98/99
 - Campania · Provincia di Napoli · annata 99/00
