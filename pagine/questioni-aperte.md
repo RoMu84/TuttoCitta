@@ -22,20 +22,29 @@ dà quello dei volumi delle Pagine Gialle che ne presero il posto: «dal 1998» 
 provincia di Bologna, cinque per la provincia di Milano, uno per Cagliari e uno per Oristano, che fino al
 1997/1998 avevano un fascicolo in comune ([l'elenco, volume per volume](../dati/pagine_gialle_casa.csv)).
 Sommando i volumi delle aree che il censimento dà per non pubblicate nel 1998/1999 si ottengono
-**46**; con Oristano, che dal 1998/1999 non è più compreso nel fascicolo di Cagliari e ha le sue
-tavole nelle Pagine Gialle, i volumi con le mappe sono 47, due più di quelli dichiarati.
+**46**. A questi si aggiunge Oristano, che dal 1998/1999 non è più compreso nel fascicolo di
+Cagliari e ha la sua cartografia nelle Pagine Gialle: in tutto 47 volumi con le mappe, due più dei 45
+dichiarati. Il conto è cambiato quando è emerso che **Cosenza 1998/1999 non è mai uscito**: le Pagine Gialle
+Casa di Cosenza del 1999, «da utilizzare fino a marzo 2000», contengono la cartografia, e il fascicolo, che
+il censimento dava per probabile, è passato fra i non pubblicati.
 
-Il conto tornava alla lettera finché Cosenza era fra i fascicoli probabili: le aree non pubblicate davano
-esattamente 45 volumi, e se ne deduceva che i probabili fossero tutti usciti. Ma **Cosenza 1998/1999 non è
-mai uscito**: le Pagine Gialle Casa di Cosenza del 1999, «da utilizzare fino a marzo 2000», contengono la
-cartografia. La coincidenza era quindi fortuita, e il numero del prospetto va letto come approssimato,
-forse fermo all'inizio della transizione («dal 1998»). Il confronto dice comunque due cose. La prima: il
-confine fra fascicoli pubblicati e non pubblicati tracciato dal censimento è vicino a quello dell'editore,
-a due volumi di distanza. La seconda: un fascicolo probabile può non essere uscito, e Reggio Calabria, che
-nel 1998/1999 è nella stessa situazione di Cosenza, resta da verificare.
+Prendendo per buono il numero dell'editore, il conto torna se nelle aree date per non pubblicate uscirono
+fascicoli che il censimento non conosce ancora, nemmeno fra i probabili, per due volumi in tutto: un
+fascicolo di due province, come Arezzo - Siena o Chieti - Pescara, oppure due fascicoli di una provincia
+sola. È il pezzo mancante da cercare.
 
-I fascicoli dell'annata sono **circa 54**, cioè i 44 accertati più i dieci probabili, con un margine di
-uno in più o in meno: fra 53 e 55. L'incertezza, che andava da 44 a 70 fascicoli, si riduce a pochi casi.
+Il confronto dice dunque tre cose. La prima: il confine fra fascicoli pubblicati e non pubblicati tracciato
+dal censimento coincide con quello dell'editore, salvo i due volumi ancora da spiegare. La seconda: i dieci fascicoli che il
+censimento ritiene probabili erano con ogni verosimiglianza tutti pubblicati, perché se ne mancasse uno i
+volumi da compensare sarebbero tre; Reggio Calabria, nella stessa situazione in cui era Cosenza, è il primo
+da verificare. La terza: i fascicoli dell'annata sono **circa 55**, cioè i 44 accertati, i probabili e
+quello ancora da identificare, con un margine di uno in più o in meno: fra 54 e 56. L'incertezza, che
+andava da 44 a 70 fascicoli, si riduce a pochi casi.
+
+Il margine dipende da come si compensano i volumi. Con un fascicolo di due province i fascicoli sono
+55; con due fascicoli di una provincia sola, 56. Se invece uno dei probabili non uscì, come Cosenza, i
+volumi da compensare diventano tre, e un solo fascicolo di tre volumi, come la Provincia di Roma, porterebbe
+il totale a 54.
 
 ## I fascicoli non identificati dell'annata 1999/2000
 
@@ -61,21 +70,21 @@ torneranno, ma solo dall'annata 2010/2011: Asti, Cuneo e Mantova.
 I fascicoli accertati sono 1.990. Mettendo insieme quello che si è detto sopra si può stimare quanti
 fascicoli furono pubblicati in tutto: per le annate dal 1981/82 al 1997/98 e dal 2001/02 al 2014/15 si
 contano gli accertati, perché in quelle annate non ci sono fascicoli probabili; per il 1998/99 i 44
-accertati più i dieci probabili, con un margine di uno in più o in meno; per il 1999/2000 i 42
+accertati, i dieci probabili e uno ancora da identificare, con un margine di uno in più o in meno; per il 1999/2000 i 42
 dichiarati dall'editore o uno in più; per il 2000/01 i 35 accertati.
 
 | Annate | Fascicoli |
 |---|---|
 | dal 1981/82 al 1997/98 | 1.366 |
-| 1998/99 | 53–55 |
+| 1998/99 | 54–56 |
 | 1999/2000 | 42–43 |
 | 2000/01 | 35 |
 | dal 2001/02 al 2014/15 | 506 |
-| **Totale** | **2.002–2.005** |
+| **Totale** | **2.003–2.006** |
 
-Il totale stimato è dunque compreso **fra 2.002 e 2.005 fascicoli**: da 12 a 15 in più
-di quelli accertati, cioè i probabili del 1998/99 e i fascicoli del 1999/2000 che si sa esistiti ma non
-sono ancora stati identificati. Due avvertenze. Il 2000/01 e il 2001/02 sono contati con i loro
+Il totale stimato è dunque compreso **fra 2.003 e 2.006 fascicoli**: da 13 a 16 in più
+di quelli accertati, cioè i probabili del 1998/99 e i fascicoli del 1998/99 e del 1999/2000 che si sa
+esistiti ma non sono ancora stati identificati. Due avvertenze. Il 2000/01 e il 2001/02 sono contati con i loro
 accertati, ma per nessuno dei due c'è un numero dichiarato dall'editore. E il 2009/10 comprende
 l'edizione speciale per la Sindone: il totale delle sole edizioni ordinarie è inferiore di uno.
 

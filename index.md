@@ -5,7 +5,7 @@ delle edizioni locali del fascicolo cartografico **TuttoCittà**, il supplemento
 Gialle pubblicato da SEAT Pagine Gialle dal 1981 al 2014, e di indicizzarne le caratteristiche principali delle varie annate;
 tramite questo censimento sono stati individuati finora **1990 fascicoli accertati** su 34 annate, 20 regioni e
 115 raggruppamenti provinciali, mentre è stato possibile
-[stimare](pagine/questioni-aperte.md#una-stima-del-numero-complessivo-dei-fascicoli) un totale complessivo compreso **fra 2002 e 2005 fascicoli**.
+[stimare](pagine/questioni-aperte.md#una-stima-del-numero-complessivo-dei-fascicoli) un totale complessivo compreso **fra 2003 e 2006 fascicoli**.
 
 Il censimento non ha alcuno scopo di lucro, né diretto né indiretto, ed è mosso 
 esclusivamente da una passione personale.
