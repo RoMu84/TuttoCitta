@@ -445,6 +445,16 @@ annata,fascicolo,provincia,citta,indicizzata
 03/04,Catania,Catania,Riposto,sì
 03/04,Catania,Catania,Tremestieri Etneo,sì
 03/04,Catania,Catania,Zafferana Etnea,sì
+04/05,Catania,Catania,Catania,sì
+04/05,Catania,Catania,Acireale,sì
+04/05,Catania,Catania,Adrano,sì
+04/05,Catania,Catania,Caltagirone,sì
+04/05,Catania,Catania,Giarre,sì
+04/05,Catania,Catania,Misterbianco,sì
+04/05,Catania,Catania,Paternò,sì
+04/05,Catania,Catania,Riposto,sì
+04/05,Catania,Catania,Tremestieri Etneo,sì
+04/05,Catania,Catania,Zafferana Etnea,sì
 05/06,Catania,Catania,Catania,sì
 05/06,Catania,Catania,Acireale,sì
 05/06,Catania,Catania,Adrano,sì
@@ -475,6 +485,14 @@ annata,fascicolo,provincia,citta,indicizzata
 09/10,Catania,Catania,Riposto,sì
 09/10,Catania,Catania,Tremestieri Etneo,sì
 09/10,Catania,Catania,Zafferana Etnea,sì
+09/10,Palermo,Palermo,Palermo,sì
+09/10,Palermo,Palermo,Bagheria,sì
+09/10,Palermo,Palermo,Cefalù,sì
+09/10,Palermo,Palermo,Cinisi,sì
+09/10,Palermo,Palermo,Corleone,sì
+09/10,Palermo,Palermo,Isola delle Femmine,sì
+09/10,Palermo,Palermo,Partinico,sì
+09/10,Palermo,Palermo,Termini Imerese,sì
 10/11,Catania,Catania,Catania,sì
 10/11,Catania,Catania,Acireale,sì
 10/11,Catania,Catania,Adrano,sì
@@ -497,3 +515,4 @@ annata,fascicolo,provincia,citta,indicizzata
 13/14,Palermo,Palermo,Bagheria,sì
 14/15,Catania,Catania,Catania,sì
 14/15,Catania,Catania,Acireale,sì
+14/15,Palermo,Palermo,Palermo,sì

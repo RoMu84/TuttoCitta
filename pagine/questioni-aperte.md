@@ -113,7 +113,7 @@ l'edizione speciale per la Sindone: il totale delle sole edizioni ordinarie è i
 
 ## Fascicoli accertati di cui non è noto l'anno di copertina
 
-Sono 67 casi, elencati con `x` nelle tabelle regionali.
+Sono 66 casi, elencati con `x` nelle tabelle regionali.
 
 ## Il trentanovesimo fascicolo: risolta
 

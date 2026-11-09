@@ -120,7 +120,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 03/04,Palermo,Palermo 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
 03/04,Catania,Catania 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,55,novembre 2003,,CT04.jpg,True,accertata
 04/05,Palermo,Palermo 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-04/05,Catania,Catania 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+04/05,Catania,Catania 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,54,,ottobre 2004,,CT04b.jpg,True,accertata
 05/06,Palermo,Palermo 2005,05,Copertina 2005 arancione,226 x 274 mm,grossa,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
 05/06,Catania,Catania 2005,05,Copertina 2005 arancione,226 x 274 mm,grossa,TuttoCittà metà duemila,62,,novembre 2005,,CT05.jpg,True,accertata
 06/07,Palermo,Palermo 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
@@ -129,8 +129,8 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 07/08,Catania,Catania 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 08/09,Palermo,Palermo 2009,09,Copertina 2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
 08/09,Catania,Catania 2009,09,Copertina 2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Palermo,Palermo 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato; inserto Agenzia del Territorio,Ricercato2.jpg,False,accertata
-09/10,Catania,Catania 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,dicembre 2009,riforma cartografica; nuovo formato; inserto Agenzia del Territorio,CT0910.jpg,True,accertata
+09/10,Palermo,Palermo 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,80,,novembre 2009,riforma cartografica; nuovo formato,PA0910.jpg,True,accertata
+09/10,Catania,Catania 2009/2010,09/10,Copertina 2009/2010 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,dicembre 2009,riforma cartografica; nuovo formato,CT0910.jpg,True,accertata
 10/11,Palermo,Palermo 2011,11,Copertina 2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 10/11,Catania,Catania 2011,11,Copertina 2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,56,,dicembre 2010,inserto Agenzia del Territorio,CT11.jpg,True,accertata
 11/12,Palermo,Palermo 2012,12,Copertina 2012 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,novembre 2011,,PA12.jpg,True,accertata
@@ -139,5 +139,5 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 12/13,Catania,Catania 2013,13,Copertina 2013 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
 13/14,Palermo,Palermo 2014,14,Copertina 2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,64,,ottobre 2013,,PA14.jpg,True,accertata
 13/14,Catania,Catania 2014,14,Copertina 2014 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
-14/15,Palermo,Palermo 2015,15,Copertina 2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,,Ricercato2.jpg,False,accertata
+14/15,Palermo,Palermo 2015,15,Copertina 2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,56,,novembre 2014,,PA15.jpg,True,accertata
 14/15,Catania,Catania 2015,15,Copertina 2015 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,32,,novembre 2014,,CT15.jpg,True,accertata

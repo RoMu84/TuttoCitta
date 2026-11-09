@@ -1,6 +1,6 @@
 # La raccolta
 
-Questa pagina indicizza tutti i **1.316** fascicoli ad oggi in raccolta, suddivisi regione per regione, su cui
+Questa pagina indicizza tutti i **1.322** fascicoli ad oggi in raccolta, suddivisi regione per regione, su cui
 si basano i dati del presente censimento.
 
 Una visione d'insieme la si può avere consultando la tabella al link qui sotto, coi fascicoli ordinati
@@ -53,5 +53,5 @@ numero ne compare un altro fra parentesi, più alto, vuol dire che quelle pagine
 contenuto proprio del fascicolo — una mappa non indicizzata, la parte finale dell'elenco delle vie —
 e che quindi eccedono il conteggio regolare. Uno scarto di una pagina riguarda la sola terza di
 copertina; uno scarto di due dice che è impegnata anche la quarta, cosa che capita soltanto nei
-fascicoli con layout «TuttoCittà metà duemila», con la sola eccezione di Trento 84. Entrambi i numeri sono nei csv di ciascuna regione,
+fascicoli con layout «TuttoCittà metà duemila», con le sole eccezioni di Trento 84 e Genova 2004/2005. Entrambi i numeri sono nei csv di ciascuna regione,
 nelle colonne `pagine_totali` e `pagine_comprese_copertine`.
