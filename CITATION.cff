@@ -6,8 +6,8 @@ type: dataset
 authors:
   - family-names: Mura
     given-names: Roberto
-version: "1.7"
-date-released: "2026-10-27"
+version: "1.8"
+date-released: "2026-11-09"
 license: CC-BY-4.0
 doi: 10.5281/zenodo.21820762
 keywords:

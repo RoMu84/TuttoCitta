@@ -150,7 +150,7 @@ più riccamente cartografata della collana.
 
 Per ciascuna regione tre file registrano i fascicoli, con copertina, formato, layout, foliazione e mese
 di aggiornamento; le città cartografate, una riga per città e per fascicolo; i titoli degli articoli
-della rubrica dal 1990/91 al 1997/98. In tutto sono 2.011 fascicoli, 11.318 righe di cartografia e 5.789
+della rubrica dal 1990/91 al 1997/98. In tutto sono 2.010 fascicoli, 11.410 righe di cartografia e 5.801
 titoli; i titoli di Bolzano e di Aosta hanno una riga anche per la traduzione tedesca o francese, e il
 campo `lingua` le distingue. Le pagine delle regioni di cui la raccolta non possiede tutti i fascicoli lo dichiarano: le celle
 dei fascicoli mancanti sono segnate come lacune, non come assenze.
@@ -161,7 +161,7 @@ occorrenze di sezione riconducibili a 63 rubriche, i titoli di contenuto e le ri
 numero di tavole, pagine occupate e collocazione dell'elenco delle vie.
 
 Tre avvertenze per chi riusa questi file. La **foliazione** è scritta nella forma `24 (25)` quando la
-terza di copertina — nel layout *metà duemila* anche la quarta — porta contenuto proprio del fascicolo:
+terza di copertina — nel layout *metà duemila*, e in due eccezioni, anche la quarta — porta contenuto proprio del fascicolo:
 i due numeri stanno in `pagine_totali` e `pagine_comprese_copertine`, e la regola è spiegata
 nell'introduzione. Ogni comune ha nei file la **provincia della sua prima comparsa**, che per Crotone, Prato
 o Barletta è quella da cui la provincia nuova si è staccata. Nei file sardi, infine, il campo
@@ -179,7 +179,7 @@ invece di propagarsi nei dati.
 
 ## Citazione
 
-Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.7.
+Mura, Roberto (2026). *TuttoCittà: ricostruzione della storia editoriale (1981-2014)*, versione 1.8.
 Zenodo. DOI: [10.5281/zenodo.21820762](https://doi.org/10.5281/zenodo.21820762)
 
 ## Licenza

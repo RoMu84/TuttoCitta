@@ -1,5 +1,59 @@
 # Registro delle versioni
 
+## 1.8 — novembre 2026
+
+**La raccolta ha un sito suo.** Le pagine della raccolta hanno un'intestazione propria, a fascia oro, un
+menu proprio e un indice, «La raccolta», da cui si raggiungono le venti pagine regionali e tre pagine
+nuove o rifatte. La **tabella della raccolta** non incorpora più il foglio di lavoro: si genera dai dati,
+una tabella per regione con le righe della matrice del censimento, e su tablet e telefono diventa un
+elenco di schede. **Fascicoli ricercati** elenca, regione per regione e provincia per provincia, i 668
+fascicoli pubblicati che mancano alla raccolta, i 20 probabili e l'unico esemplare incompleto (Milano
+87). **Cerca nella raccolta** porta dalla regione, dalla provincia e dall'annata alla scheda del
+fascicolo: copertina, dati, comuni cartografati e articoli di tutte le rubriche, con le province di oggi.
+Dieci fascicoli entrano in raccolta — Parma 96 e 97, Pisa 2007, Brescia 2013/2014, Alessandria 2000,
+Genova 2004/2005, Genova 2006, Catania 2004 dell'annata 2004/05, Palermo 2009/2010 e Palermo 2015 — e i
+fascicoli in raccolta salgono da 1.312 a 1.322.
+
+**L'annata 1998/1999.** Un confronto nuovo stima i fascicoli dell'annata più incerta: i 115 volumi delle
+Pagine Gialle Casa del 1998/99 e del 1999/2000, ricostruiti uno per uno (`pagine_gialle_casa.csv`),
+messi accanto alle 45 edizioni con cartografia che il prospetto di quotazione delle azioni Seat del 1999
+dichiara. *Cosenza 1998/1999*, che il censimento dava per probabile, non è mai uscito: le Pagine Gialle
+Casa di Cosenza del 1999 contengono la cartografia. I probabili scendono da 21 a 20, e la stima
+dell'annata è di circa 55 fascicoli, fra 54 e 56, con uno ancora da identificare. «Questioni aperte»
+ha una sezione nuova con la stima del numero complessivo dei fascicoli, **fra 2.003 e 2.006**.
+
+**Anni di copertina.** Palermo e Catania hanno ora tutti gli anni di copertina dal 1999/2000, e li hanno
+Genova nel 2001/02, nel 2003/04 e nel 2004/05, Lodi - Provincia di Milano Sud dal 2000/01 al 2004/05, Torino e dintorni
+2001/02 e 2002/03, Asti e Cuneo negli anni dieci, che come Torino e Bari anticipano di un anno la
+numerazione. I fascicoli accertati di cui non si conosce l'anno in copertina scendono da 85 a 66.
+
+**Layout, sezioni, foliazione.** Due layout nuovi, «Stradario SEAT a cornici grigie» e la sua variante
+senza foto, usati raramente fra il 1981/82 e il 1984/85: i layout sono sedici. La pagina sulle sezioni
+descrive anche la serie degli anni novanta riformata (1997 – 1998/99), e quella sullo Stradario SEAT lo
+mette a confronto con un TuttoCittà. La foliazione ha una seconda eccezione alla regola dello scarto di
+due pagine, *Genova 2004/2005*, di layout «nuovo millennio ter», dopo *Trento 84*.
+
+**Nomi e grafie.** Una revisione dei titoli degli articoli ha corretto 102 titoli: refusi di battitura,
+formule di rubrica rese uniformi («Anno 1900», «Itinerari per il week-end», «Miti, leggende», «Dialetto
+e nomi»), iniziali maiuscole, e un titolo diviso in due righe riunito («Il mistero di Cielo d'Alcamo,
+poeta cortese»). Le forme dialettali sono rimaste come sono. Una revisione delle località ha unito le voci
+doppie dello stesso fascicolo — i capoluoghi scritti in maiuscolo e in minuscolo, i luoghi scritti in
+forma breve e lunga (Garbagnate e Garbagnate Milanese, Gemona e Gemona del Friuli…) — e corretto i
+refusi: Bovolone, Lurago d'Erba, Lambrugo, Castel Goffredo, Abano Terme, Monsummano Terme, Lido di
+Camaiore, Casalpusterlengo. `comuni_per_fascicolo.csv` scende da 1.495 a 1.448 righe e le località
+distinte sono 1.000; il numero della pagina «Cerca una località», scritto a mano e rimasto a 1.061, ora
+si conta dai dati. Due note nuove segnalano le copertine di *Padova 96* e *Cagliari 1999/2000*, che
+portano «e dintorni» per errore.
+
+**Tablet e telefono.** Nessuna pagina richiede più lo scorrimento laterale: le tabelle del censimento,
+quella di Roma e quella dei layout diventano schede, la griglia delle città e quella delle rubriche sarde
+si stringono fino a stare nello schermo, con una chiave dei colori, la ricerca di un comune e il
+dettaglio al tocco. Le pagine hanno titoli e descrizioni scritti per i motori di ricerca, e la sitemap
+date che cambiano solo quando cambia la pagina.
+
+Il censimento di dettaglio conta 2.010 fascicoli, 11.410 righe di cartografia e 5.801 titoli (5.862
+righe con le traduzioni). Il censimento dei fascicoli conta 1.990 fascicoli accertati e 20 probabili.
+
 ## 1.7 — ottobre 2026
 
 **Una variante che non esiste.** La 1.6 attribuiva al fascicolo *Lodi - Provincia di Milano* del 1998/99 due
