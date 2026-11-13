@@ -33,7 +33,12 @@ rimandano al fascicolo in cui erano i suoi comuni.
     if (!P.value || !D) return;
     var lista = D.P[P.value] || [];
     if (!lista.length) { E.innerHTML = '<p class="cr-nota">Nessun fascicolo per questa provincia.</p>'; return; }
-    E.innerHTML = '<div class="cp-copertine">' + lista.map(function(i){
+    // Dove ci sono anche i fascicoli «Provincia di», due filoni: prima tutti quelli del capoluogo,
+    // poi, staccati da un filetto dorato, quelli della provincia (Roberto, 13 novembre 2026).
+    var capo = lista.filter(function(i){ return !D.F[i].pv; }),
+        prov = lista.filter(function(i){ return D.F[i].pv; });
+    var filoni = capo.length && prov.length ? [capo, prov] : [lista];
+    E.innerHTML = filoni.map(function(l){ return '<div class="cp-copertine">' + l.map(function(i){
       var f = D.F[i], cl = f.rid ? ' class="ridotta"' : '', img, alt;
       if (f.s === 'r' || f.s === 'i') {
         alt = 'Copertina del fascicolo ' + f.t;
@@ -46,7 +51,7 @@ rimandano al fascicolo in cui erano i suoi comuni.
       }
       return '<figure class="' + (f.s === 'r' || f.s === 'i' ? '' : 'cp-manca') + (f.rid ? ' cp-ridotta' : '')
         + '">' + img + '<figcaption>' + esc(f.t) + '</figcaption></figure>';
-    }).join('') + '</div>'
+    }).join('') + '</div>'; }).join('<hr class="cp-separa">')
       + '<p class="cr-rimando">Tutti i fascicoli della regione: <a href="' + D.slug + '.html">'
       + esc(D.regione) + '</a></p>';
   });

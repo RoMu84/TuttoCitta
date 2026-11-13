@@ -780,6 +780,8 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cp-copertine img { display:block; width:100%; height:auto; border:1px solid var(--bordo);
   box-shadow:0 2px 7px rgba(20,40,70,.13); }
 .cp-copertine a { display:block; }
+/* Fra il filone del capoluogo e quello «Provincia di» un filetto dorato, come nella pagina «La raccolta». */
+hr.cp-separa { border:0; border-top:2px solid var(--oro); margin:6px 0 30px; }
 .cp-copertine figure.cp-manca img { opacity:.85; }
 .cp-copertine figcaption { font-size:13px; line-height:1.4; margin-top:9px; font-weight:600; color:var(--scuro);
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; overflow-wrap:anywhere; }
