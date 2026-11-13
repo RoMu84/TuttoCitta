@@ -16,10 +16,10 @@ Nel link qui sotto si può invece consultare la lista dei fascicoli ancora manca
 
 <hr class="oro">
 
-Nella pagina consultabile al seguente link è possibile cercare uno a uno tutti i fascicoli in raccolta,
+Nelle pagine consultabili ai seguenti link è possibile cercare uno a uno tutti i fascicoli in raccolta,
 visualizzarne le copertine, la lista dei comuni cartografati e vari altri dati.
 
-[Cerca un fascicolo per provincia e annata](cerca-raccolta.md){: .marcato}
+<p class="due-link"><a class="marcato" href="cerca-raccolta.md">Cerca un fascicolo per provincia e annata</a><b class="perno" aria-hidden="true">&bull;</b><a class="marcato" href="cerca-province-raccolta.md">Cerca le copertine per provincia</a></p>
 
 <hr class="oro">
 

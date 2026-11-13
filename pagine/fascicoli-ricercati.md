@@ -13,6 +13,55 @@ censimento: [in questa pagina](come-contribuire.md) trovi come segnalarlo. Avere
 permette però di esaminarlo per intero, pagina per pagina: se non ti serve più, nella raccolta troverà
 posto.
 
+<div class="cerca-raccolta">
+<label>Regione <select id="rp-regione"><option value="">scegli…</option><option value="abruzzo">Abruzzo</option><option value="basilicata">Basilicata</option><option value="calabria">Calabria</option><option value="campania">Campania</option><option value="emilia-romagna">Emilia - Romagna</option><option value="friuli-venezia-giulia">Friuli - Venezia Giulia</option><option value="lazio">Lazio</option><option value="liguria">Liguria</option><option value="lombardia">Lombardia</option><option value="marche">Marche</option><option value="molise">Molise</option><option value="piemonte">Piemonte</option><option value="puglia">Puglia</option><option value="sardegna">Sardegna</option><option value="sicilia">Sicilia</option><option value="toscana">Toscana</option><option value="trentino-alto-adige">Trentino - Alto Adige</option><option value="umbria">Umbria</option><option value="valle-daosta">Valle d'Aosta</option><option value="veneto">Veneto</option></select></label>
+<label>Provincia <select id="rp-provincia" disabled><option value="">—</option></select></label>
+</div>
+<div id="rp-esito" aria-live="polite"></div>
+
+<script>
+(function(){
+  var R = document.getElementById('rp-regione'), P = document.getElementById('rp-provincia'),
+      E = document.getElementById('rp-esito'), D = null;
+  function esc(s){ return String(s == null ? '' : s).replace(/[&<>"]/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  R.addEventListener('change', function(){
+    P.innerHTML = '<option value="">—</option>'; P.disabled = true; E.innerHTML = ''; D = null;
+    if (!R.value) return;
+    P.innerHTML = '<option value="">caricamento…</option>';
+    fetch('../assets/province-raccolta/' + R.value + '.json').then(function(r){ return r.json(); })
+      .then(function(d){
+        D = d;
+        P.innerHTML = '<option value="">scegli…</option>' + d.province.map(function(p){
+          return '<option>' + esc(p) + '</option>'; }).join('');
+        P.disabled = false;
+      }).catch(function(){ P.innerHTML = '<option value="">dati non disponibili</option>'; });
+  });
+  function voce(f){
+    var p = '<span class="pastiglia"' + (f.c ? ' style="background:' + esc(f.c) + '"' : '') + '></span>',
+        a = '<b>' + esc(f.a) + ':</b> ';
+    if (f.s === 'i') return '<li class="incompleto" title="In raccolta, ma incompleto: ' + esc(f.dif) + '">'
+      + p + a + esc(f.n) + ' <i>incompleto</i></li>';
+    if (f.s === 'p') return '<li class="forse" title="Pubblicazione probabile, non confermata">'
+      + p + a + esc(f.n) + ' <i>?</i></li>';
+    return '<li>' + p + a + esc(f.n) + '</li>';
+  }
+  P.addEventListener('change', function(){
+    E.innerHTML = '';
+    if (!P.value || !D) return;
+    var mancano = (D.P[P.value] || []).map(function(i){ return D.F[i]; })
+      .filter(function(f){ return f.s !== 'r'; });
+    E.innerHTML = !mancano.length
+      ? '<p class="rp-completa">Nessun fascicolo ricercato: la raccolta per questa provincia è completa</p>'
+      : '<div class="ricercati"><div class="provincia-ricercata"><p class="linea-ricercata">' + esc(P.value)
+        + ' <span>· ' + mancano.length + (mancano.length === 1 ? ' fascicolo' : ' fascicoli') + '</span></p>'
+        + '<ul class="ricercati">' + mancano.map(voce).join('') + '</ul></div></div>';
+  });
+})();
+</script>
+
+Puoi anche consultare la lista dei fascicoli mancanti regione per regione.
+
 <p class="inriga"><a href="#abruzzo">Abruzzo</a> <b class="perno">&bull;</b> <a href="#basilicata">Basilicata</a> <b class="perno">&bull;</b> <a href="#calabria">Calabria</a> <b class="perno">&bull;</b> <a href="#campania">Campania</a> <b class="perno">&bull;</b> <a href="#emilia-romagna">Emilia - Romagna</a> <b class="perno">&bull;</b> <a href="#friuli-venezia-giulia">Friuli - Venezia Giulia</a> <b class="perno">&bull;</b> <a href="#lazio">Lazio</a> <b class="perno">&bull;</b> <a href="#liguria">Liguria</a> <b class="perno">&bull;</b> <a href="#lombardia">Lombardia</a> <b class="perno">&bull;</b> <a href="#marche">Marche</a> <b class="perno">&bull;</b> <a href="#molise">Molise</a> <b class="perno">&bull;</b> <a href="#piemonte">Piemonte</a> <b class="perno">&bull;</b> <a href="#puglia">Puglia</a> <b class="perno">&bull;</b> <a href="#sicilia">Sicilia</a> <b class="perno">&bull;</b> <a href="#toscana">Toscana</a> <b class="perno">&bull;</b> <a href="#trentino-alto-adige">Trentino - Alto Adige</a> <b class="perno">&bull;</b> <a href="#umbria">Umbria</a> <b class="perno">&bull;</b> <a href="#valle-daosta">Valle d'Aosta</a> <b class="perno">&bull;</b> <a href="#veneto">Veneto</a></p>
 
 ## Abruzzo {#abruzzo}

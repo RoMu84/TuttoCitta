@@ -769,6 +769,33 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cr-comuni .perno { color:var(--oro); font-weight:400; padding:0 2px; }
 .cr-nota { font-size:13px; color:var(--tenue); margin:6px 0; }
 .cr-anche, .cr-rimando { font-size:14px; }
+/* «Cerca le copertine per provincia» (13 novembre 2026): le copertine in fila, alla misura di quella
+   in cima alle pagine regionali (220 pixel, con la sua ombra: cinque per riga gia a 1280 pixel di
+   finestra, con la barra di scorrimento), quelle in
+   formato ridotto in proporzione (104 su 150, come sempre), e sotto ciascuna il solo titolo. Le righe
+   si accorciano con la finestra; sul telefono una copertina sotto l'altra. */
+.cp-copertine { display:flex; flex-wrap:wrap; gap:30px 24px; align-items:flex-start; margin:24px 0 26px; }
+.cp-copertine figure { margin:0; width:220px; }
+.cp-copertine figure.cp-ridotta { width:153px; }
+.cp-copertine img { display:block; width:100%; height:auto; border:1px solid var(--bordo);
+  box-shadow:0 2px 7px rgba(20,40,70,.13); }
+.cp-copertine a { display:block; }
+.cp-copertine figure.cp-manca img { opacity:.85; }
+.cp-copertine figcaption { font-size:13px; line-height:1.4; margin-top:9px; font-weight:600; color:var(--scuro);
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif; overflow-wrap:anywhere; }
+/* Nei fascicoli ricercati: il numero accanto alla provincia, e la raccolta completa. */
+p.linea-ricercata span { font-weight:400; color:var(--tenue); }
+p.rp-completa { margin:0 0 22px; padding:10px 14px; background:#eef7ee; border:1px solid #bcd9bc;
+  border-radius:8px; color:#2d5a2d; font-weight:600; }
+/* «La raccolta»: i due collegamenti alle ricerche sulla stessa riga, staccati dal punto dorato; sul
+   telefono uno sotto l'altro, senza punto. */
+p.due-link .perno { color:var(--oro); margin:0 12px; }
+@media (max-width:700px){
+  .cp-copertine { flex-direction:column; align-items:center; }
+  p.due-link .perno { display:none; }
+  p.due-link a { display:block; }
+  p.due-link a + .perno + a { margin-top:12px; }
+}
 @media (max-width:700px){
   .cerca-raccolta { flex-direction:column; }
   .cerca-raccolta label { flex:none; }

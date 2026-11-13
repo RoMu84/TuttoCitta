@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le copertine dei TuttoCittà provincia per provincia</title>
+<meta name="description" content="Scegli una regione e una provincia: compaiono allineate tutte le copertine della provincia selezionata. Le province sono quelle attuali: per una provincia…">
+<link rel="canonical" href="https://romu84.github.io/TuttoCitta/pagine/cerca-province-raccolta.html">
+<link rel="icon" type="image/png" sizes="32x32" href="../Favicon.png">
+<link rel="stylesheet" href="../assets/sito.css">
+
+</head>
+<body class="raccolta">
+<header class="testata raccolta">
+  <div class="fascia">
+    <a class="marchio" href="../pagine/raccolta.html">TuttoCittà<span>la raccolta in dettaglio</span></a>
+    <nav class="menu">
+      <div class="voce">
+        <a href="../index.html">Vai al censimento</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-4" aria-label="Mostra le pagine di Vai al censimento"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-4"><li><a href="../index.html">Pagina principale</a></li><li><a href="../pagine/index.html">Introduzione</a></li><li><a href="../pagine/evoluzione-fascicoli.html">Evoluzione dei fascicoli</a></li><li><a href="../pagine/copertine.html">Copertine</a></li><li><a href="../pagine/sezioni.html">Sezioni</a></li><li><a href="../pagine/tabella-layout.html">Tabella dei layout</a></li><li><a href="../pagine/note-editore.html">Note dell'editore</a></li><li><a href="../pagine/tavole.html">Evoluzione della cartografia</a></li><li><a href="../pagine/inserti.html">Inserti speciali</a></li><li><a href="../pagine/stradarioseat.html">Il precursore: lo stradario SEAT</a></li><li><a href="../pagine/edizioni-regione-per-regione.html">Edizioni regione per regione</a></li></ul>
+      </div>
+      <a href="../pagine/raccolta.html">Vai alla raccolta</a>
+      <a href="../pagine/cerca-raccolta.html">Cerca un fascicolo per provincia e annata</a>
+      <a href="../pagine/questioni-aperte.html">Questioni aperte</a>
+      <a href="../pagine/come-contribuire.html">Come contribuire</a>
+      <span class="stacco" aria-hidden="true"></span>
+      <a href="../pagine/licenza.html">Licenza</a>
+    </nav>
+  </div>
+</header>
+<main>
+<h1 id="cerca-le-copertine-per-provincia">Cerca le copertine per provincia</h1>
+<p>Scegli una regione e una provincia: compaiono allineate tutte le copertine della provincia selezionata.
+Le province sono quelle attuali: per una provincia nata più tardi, come Prato, le annate precedenti
+rimandano al fascicolo in cui erano i suoi comuni.</p>
+<div class="cerca-raccolta">
+<label>Regione <select id="cp-regione"><option value="">scegli…</option><option value="abruzzo">Abruzzo</option><option value="basilicata">Basilicata</option><option value="calabria">Calabria</option><option value="campania">Campania</option><option value="emilia-romagna">Emilia - Romagna</option><option value="friuli-venezia-giulia">Friuli - Venezia Giulia</option><option value="lazio">Lazio</option><option value="liguria">Liguria</option><option value="lombardia">Lombardia</option><option value="marche">Marche</option><option value="molise">Molise</option><option value="piemonte">Piemonte</option><option value="puglia">Puglia</option><option value="sardegna">Sardegna</option><option value="sicilia">Sicilia</option><option value="toscana">Toscana</option><option value="trentino-alto-adige">Trentino - Alto Adige</option><option value="umbria">Umbria</option><option value="valle-daosta">Valle d'Aosta</option><option value="veneto">Veneto</option></select></label>
+<label>Provincia <select id="cp-provincia" disabled><option value="">—</option></select></label>
+</div>
+<div id="cp-esito" aria-live="polite"></div>
+
+<script>
+(function(){
+  var R = document.getElementById('cp-regione'), P = document.getElementById('cp-provincia'),
+      E = document.getElementById('cp-esito'), D = null;
+  function esc(s){ return String(s == null ? '' : s).replace(/[&<>"]/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  R.addEventListener('change', function(){
+    P.innerHTML = '<option value="">—</option>'; P.disabled = true; E.innerHTML = ''; D = null;
+    if (!R.value) return;
+    P.innerHTML = '<option value="">caricamento…</option>';
+    fetch('../assets/province-raccolta/' + R.value + '.json').then(function(r){ return r.json(); })
+      .then(function(d){
+        D = d;
+        P.innerHTML = '<option value="">scegli…</option>' + d.province.map(function(p){
+          return '<option>' + esc(p) + '</option>'; }).join('');
+        P.disabled = false;
+      }).catch(function(){ P.innerHTML = '<option value="">dati non disponibili</option>'; });
+  });
+  P.addEventListener('change', function(){
+    E.innerHTML = '';
+    if (!P.value || !D) return;
+    var lista = D.P[P.value] || [];
+    if (!lista.length) { E.innerHTML = '<p class="cr-nota">Nessun fascicolo per questa provincia.</p>'; return; }
+    E.innerHTML = '<div class="cp-copertine">' + lista.map(function(i){
+      var f = D.F[i], cl = f.rid ? ' class="ridotta"' : '', img, alt;
+      if (f.s === 'r' || f.s === 'i') {
+        alt = 'Copertina del fascicolo ' + f.t;
+        img = '<a href="../immagini/' + esc(f.img) + '"><img' + cl + ' src="../immagini/' + esc(f.img)
+          + '" alt="' + esc(alt) + '" loading="lazy"></a>';
+      } else {
+        alt = (f.s === 'p' ? 'Segnaposto per il fascicolo ' + f.t + ', di pubblicazione probabile'
+                           : 'Copertina non reperita del fascicolo ' + f.t);
+        img = '<img' + cl + ' src="../immagini/' + esc(f.img) + '" alt="' + esc(alt) + '" loading="lazy">';
+      }
+      return '<figure class="' + (f.s === 'r' || f.s === 'i' ? '' : 'cp-manca') + (f.rid ? ' cp-ridotta' : '')
+        + '">' + img + '<figcaption>' + esc(f.t) + '</figcaption></figure>';
+    }).join('') + '</div>'
+      + '<p class="cr-rimando">Tutti i fascicoli della regione: <a href="' + D.slug + '.html">'
+      + esc(D.regione) + '</a></p>';
+  });
+})();
+</script>
+</main>
+<footer class="pie">
+<div class="fascia">
+Contatto: <span class="contatto" data-u="rigilkent84" data-d="hotmail.com"></span> ·
+Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
+</div>
+</footer>
+<script>
+/* Tendine dell'intestazione. Dove c'è un puntatore l'apertura al passaggio la fa il
+   foglio di stile; qui si aggiunge quel che il solo CSS non può: apertura al tocco,
+   chiusura toccando fuori o con Esc, stato annunciato con aria-expanded. Se questo
+   codice non venisse eseguito resterebbero i collegamenti delle pagine contenitore,
+   che elencano le stesse sottopagine. */
+(function(){
+  var voci = Array.prototype.slice.call(document.querySelectorAll('.menu .voce'));
+  if (!voci.length) return;
+  var conPuntatore = window.matchMedia && window.matchMedia('(hover:hover)').matches;
+
+  function stato(v, aperta){
+    v.classList.toggle('aperta', aperta);
+    var b = v.querySelector('.apri');
+    if (b) b.setAttribute('aria-expanded', aperta ? 'true' : 'false');
+  }
+  function chiudi(tranne){
+    voci.forEach(function(v){ if (v !== tranne) stato(v, false); });
+  }
+
+  voci.forEach(function(v){
+    var b = v.querySelector('.apri');
+    if (b) b.addEventListener('click', function(e){
+      e.preventDefault();
+      e.stopPropagation();           /* altrimenti chiude subito il gestore sul documento */
+      var apri = !v.classList.contains('aperta');
+      chiudi(v); stato(v, apri);
+    });
+    /* Tabulando dentro la voce l'elenco si apre da sé; sul pulsante no, perché lì
+       ad aprire è Invio, che arriva come clic. */
+    v.addEventListener('focusin', function(e){
+      if (e.target.classList.contains('apri')) return;
+      chiudi(v); stato(v, true);
+    });
+    v.addEventListener('focusout', function(e){
+      var dove = e.relatedTarget;
+      if (v.contains(dove)) return;
+      /* Se il fuoco sta passando a un'altra voce del menu, chiudere adesso sposterebbe
+         il pannello mentre il dito è ancora premuto, e il tocco andrebbe perso fra la
+         pressione e il rilascio: a chiudere ci pensa il gestore del clic, dopo. */
+      if (dove && dove.closest && dove.closest('.menu')) return;
+      stato(v, false);
+    });
+    /* Con il puntatore l'apertura al passaggio è del CSS: se un clic ha lasciato la
+       voce aperta, uscendo si richiude, senza restare appesa sopra il contenuto. */
+    if (conPuntatore) v.addEventListener('mouseleave', function(){ stato(v, false); });
+  });
+
+  document.addEventListener('click', function(e){
+    if (!(e.target instanceof Element) || !e.target.closest('.menu .voce')) chiudi(null);
+  });
+  document.addEventListener('keydown', function(e){
+    if (e.key !== 'Escape' && e.key !== 'Esc') return;
+    var aperta = null;
+    voci.forEach(function(v){ if (v.classList.contains('aperta')) aperta = v; });
+    if (!aperta) return;
+    stato(aperta, false);
+    var b = aperta.querySelector('.apri');   /* il fuoco torna dove si era */
+    if (b) b.focus();
+  });
+})();
+</script>
+<script>
+/* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
+   automatici, che leggono l'HTML statico senza eseguire codice, non lo trovano. */
+document.querySelectorAll('.contatto').forEach(function(e){
+  var a=document.createElement('a');
+  a.href='mail'+'to:'+e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  a.textContent=e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  e.appendChild(a);
+});
+</script>
+<script>
+/* Esclusione dal conteggio: aprendo una pagina con ?escludimi=1 il browser memorizza
+   il contrassegno che GoatCounter riconosce, e da quel momento non conta piu le visite
+   da questo dispositivo. Con ?contami=1 il contrassegno viene rimosso. */
+try {
+  var qs=location.search;
+  if (qs.indexOf('escludimi=1')>-1) localStorage.setItem('skipgc','t');
+  if (qs.indexOf('contami=1')>-1)   localStorage.removeItem('skipgc');
+} catch(e) {}
+</script>
+<script data-goatcounter="https://romu84.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
