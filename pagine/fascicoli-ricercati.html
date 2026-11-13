@@ -78,13 +78,22 @@ posto.</p>
   P.addEventListener('change', function(){
     E.innerHTML = '';
     if (!P.value || !D) return;
-    var mancano = (D.P[P.value] || []).map(function(i){ return D.F[i]; })
-      .filter(function(f){ return f.s !== 'r'; });
-    E.innerHTML = !mancano.length
-      ? '<p class="rp-completa">Nessun fascicolo ricercato: la raccolta per questa provincia è completa</p>'
-      : '<div class="ricercati"><div class="provincia-ricercata"><p class="linea-ricercata">' + esc(P.value)
-        + ' <span>· ' + mancano.length + (mancano.length === 1 ? ' fascicolo' : ' fascicoli') + '</span></p>'
-        + '<ul class="ricercati">' + mancano.map(voce).join('') + '</ul></div></div>';
+    var tutti = (D.P[P.value] || []).map(function(i){ return D.F[i]; }),
+        mancano = tutti.filter(function(f){ return f.s !== 'r'; });
+    if (!mancano.length) {
+      E.innerHTML = '<p class="rp-completa">Nessun fascicolo ricercato: la raccolta per questa provincia è completa</p>';
+      return;
+    }
+    // Come nella pagina delle copertine: dove ci sono anche i fascicoli «Provincia di», due gruppi,
+    // prima il capoluogo e poi la provincia; un gruppo senza mancanti non compare (13 novembre 2026).
+    var due = tutti.some(function(f){ return f.pv; }) && tutti.some(function(f){ return !f.pv; });
+    var gruppi = due ? [[P.value, mancano.filter(function(f){ return !f.pv; })],
+                        ['Provincia di ' + P.value, mancano.filter(function(f){ return f.pv; })]]
+                     : [[P.value, mancano]];
+    E.innerHTML = '<div class="ricercati">' + gruppi.filter(function(g){ return g[1].length; }).map(function(g){
+      return '<div class="provincia-ricercata"><p class="linea-ricercata">' + esc(g[0])
+        + ' <span>· ' + g[1].length + (g[1].length === 1 ? ' fascicolo' : ' fascicoli') + '</span></p>'
+        + '<ul class="ricercati">' + g[1].map(voce).join('') + '</ul></div>'; }).join('') + '</div>';
   });
 })();
 </script>
