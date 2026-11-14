@@ -43,6 +43,7 @@ censimento: <a href="come-contribuire.html">in questa pagina</a> trovi come segn
 permette però di esaminarlo per intero, pagina per pagina: se non ti serve più, nella raccolta troverà
 posto.</p>
 <div class="cerca-raccolta">
+<p class="cr-intro">Seleziona una provincia e vedi quali fascicoli della provincia selezionata mancano alla raccolta</p>
 <label>Regione <select id="rp-regione"><option value="">scegli…</option><option value="abruzzo">Abruzzo</option><option value="basilicata">Basilicata</option><option value="calabria">Calabria</option><option value="campania">Campania</option><option value="emilia-romagna">Emilia - Romagna</option><option value="friuli-venezia-giulia">Friuli - Venezia Giulia</option><option value="lazio">Lazio</option><option value="liguria">Liguria</option><option value="lombardia">Lombardia</option><option value="marche">Marche</option><option value="molise">Molise</option><option value="piemonte">Piemonte</option><option value="puglia">Puglia</option><option value="sardegna">Sardegna</option><option value="sicilia">Sicilia</option><option value="toscana">Toscana</option><option value="trentino-alto-adige">Trentino - Alto Adige</option><option value="umbria">Umbria</option><option value="valle-daosta">Valle d'Aosta</option><option value="veneto">Veneto</option></select></label>
 <label>Provincia <select id="rp-provincia" disabled><option value="">—</option></select></label>
 </div>
@@ -92,7 +93,7 @@ posto.</p>
                      : [[P.value, mancano]];
     E.innerHTML = '<div class="ricercati">' + gruppi.filter(function(g){ return g[1].length; }).map(function(g){
       return '<div class="provincia-ricercata"><p class="linea-ricercata">' + esc(g[0])
-        + ' <span>· ' + g[1].length + (g[1].length === 1 ? ' fascicolo' : ' fascicoli') + '</span></p>'
+        + ' <span>· ' + g[1].length + (g[1].length === 1 ? ' fascicolo ricercato' : ' fascicoli ricercati') + '</span></p>'
         + '<ul class="ricercati">' + g[1].map(voce).join('') + '</ul></div>'; }).join('') + '</div>';
   });
 })();

@@ -740,6 +740,8 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
   background:#d9e9f7; border:1px solid #a9c8e6; border-radius:8px;
   font-family:system-ui,-apple-system,"Segoe UI",sans-serif; font-size:13px; color:var(--scuro); }
 .cerca-raccolta label { display:flex; flex-direction:column; gap:4px; flex:1 1 180px; font-weight:600; }
+/* Una riga di spiegazione dentro la maschera, sopra le caselle (fascicoli ricercati, 14 novembre 2026). */
+.cerca-raccolta p.cr-intro { flex:1 1 100%; margin:0; font-size:15px; line-height:1.45; }
 .cerca-raccolta select { font-size:15px; padding:6px 8px; border:1px solid #a9c8e6; border-radius:5px;
   background:#fff; color:var(--scuro); font-family:inherit; font-weight:400; }
 .cerca-raccolta select:disabled { opacity:.55; }
