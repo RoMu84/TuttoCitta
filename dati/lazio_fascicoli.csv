@@ -67,14 +67,14 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 95/96,Latina,Latina 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 95/96,Rieti - Viterbo,Rieti - Viterbo 96,96,Copertina 96 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
 96/97,Roma,Roma e dintorni 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,198,,agosto 1996,Cambio formato,Roma9697.jpg,True,accertata
-96/97,Provincia di Roma,Provincia di Roma 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+96/97,Provincia di Roma,Provincia di Roma 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
 96/97,Frosinone,Frosinone 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,,ottobre 1996,Cambio formato,FR97.jpg,True,accertata
-96/97,Latina,Latina 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-96/97,Rieti - Viterbo,Rieti - Viterbo 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+96/97,Latina,Latina 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
+96/97,Rieti - Viterbo,Rieti - Viterbo 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
 97/98,Roma,Roma e dintorni (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,190,,agosto 1997,"""novembre 1997 - ottobre 1998""",Roma9798.jpg,True,accertata
 97/98,Provincia di Roma,Provincia di Roma (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,settembre 1997,"""novembre 1997 - ottobre 1998""",PROVROMA97b.jpg,True,accertata
 97/98,Frosinone,Frosinone (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,22,,novembre 1997,"""gennaio 1998 - dicembre 1998""",FR97b.jpg,True,accertata
-97/98,Latina,Latina (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1.jpg,False,accertata
+97/98,Latina,Latina (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1a.jpg,False,accertata
 97/98,Rieti - Viterbo,Rieti - Viterbo (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,38,,novembre 1997,"""gennaio 1998 - dicembre 1998""",RIVT97b.jpg,True,accertata
 98/99,Roma,Roma e dintorni (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,190,,agosto 1998,"""da utilizzare fino a Dicembre 1999""",Roma9899.jpg,True,accertata
 99/00,Roma,Roma e dintorni 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,182,,agosto 1999,,Roma9900.jpg,True,accertata

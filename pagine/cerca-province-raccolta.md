@@ -35,9 +35,12 @@ rimandano al fascicolo in cui erano i suoi comuni.
     if (!lista.length) { E.innerHTML = '<p class="cr-nota">Nessun fascicolo per questa provincia.</p>'; return; }
     // Dove ci sono anche i fascicoli «Provincia di», due filoni: prima tutti quelli del capoluogo,
     // poi, staccati da un filetto dorato, quelli della provincia (Roberto, 13 novembre 2026).
-    var capo = lista.filter(function(i){ return !D.F[i].pv; }),
-        prov = lista.filter(function(i){ return D.F[i].pv; });
-    var filoni = capo.length && prov.length ? [capo, prov] : [lista];
+    // Dal 14 novembre anche «Provincia di Milano Nord» e «Sud» fanno filone a se, staccati fra loro e
+    // dai «Provincia di Milano» fino al 1998: capoluogo, provincia, Nord, Sud, in quest'ordine.
+    var chiavi = ['', 'p', 'pNord', 'pSud'], gruppi = {};
+    lista.forEach(function(i){ var f = D.F[i], k = f.pv ? 'p' + (f.sub || '') : '';
+      (gruppi[k] = gruppi[k] || []).push(i); });
+    var filoni = chiavi.filter(function(k){ return gruppi[k]; }).map(function(k){ return gruppi[k]; });
     E.innerHTML = filoni.map(function(l){ return '<div class="cp-copertine">' + l.map(function(i){
       var f = D.F[i], cl = f.rid ? ' class="ridotta"' : '', img, alt;
       if (f.s === 'r' || f.s === 'i') {
@@ -50,6 +53,7 @@ rimandano al fascicolo in cui erano i suoi comuni.
         img = '<img' + cl + ' src="../immagini/' + esc(f.img) + '" alt="' + esc(alt) + '" loading="lazy">';
       }
       return '<figure class="' + (f.s === 'r' || f.s === 'i' ? '' : 'cp-manca') + (f.rid ? ' cp-ridotta' : '')
+        + (f.img === 'Ricercato1a.jpg' ? ' cp-97' : '')
         + '">' + img + '<figcaption>' + esc(f.t) + '</figcaption></figure>';
     }).join('') + '</div>'; }).join('<hr class="cp-separa">')
       + '<p class="cr-rimando">Tutti i fascicoli della regione: <a href="' + D.slug + '.html">'

@@ -108,60 +108,60 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 95/96,Pistoia,Pistoia 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,22,,maggio 1995,,PT95.jpg,True,accertata
 96/97,Firenze e dintorni,Firenze e dintorni 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,70,,marzo 1996,,FI96.jpg,True,accertata
 96/97,Prato - Provincia di Firenze,Prato - Provincia di Firenze 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,54,,marzo 1996,,PROVFI96.jpg,True,accertata
-96/97,Arezzo - Siena,Arezzo - Siena 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
-96/97,Grosseto,Grosseto 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+96/97,Arezzo - Siena,Arezzo - Siena 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1a.jpg,False,accertata
+96/97,Grosseto,Grosseto 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1a.jpg,False,accertata
 96/97,Livorno,Livorno 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,,aprile 1996,,LI96.jpg,True,accertata
 96/97,Pisa,Pisa 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,aprile 1996,,PI96.jpg,True,accertata
 96/97,Lucca - Massa - Carrara,Lucca - Massa - Carrara 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,,aprile 1996,,LUMS96.jpg,True,accertata
 96/97,Pistoia,Pistoia 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,,maggio 1996,,PT96.jpg,True,accertata
 97/98,Firenze e dintorni,Firenze e dintorni 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,70,,marzo 1997,Cambio formato,FI97.jpg,True,accertata
 97/98,Prato - Provincia di Firenze,Prato - Provincia di Firenze 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,,marzo 1997,Cambio formato,PROVFI97.jpg,True,accertata
-97/98,Arezzo - Siena,Arezzo - Siena 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-97/98,Grosseto,Grosseto 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-97/98,Livorno,Livorno 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-97/98,Pisa,Pisa 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-97/98,Lucca - Massa - Carrara,Lucca - Massa - Carrara 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+97/98,Arezzo - Siena,Arezzo - Siena 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
+97/98,Grosseto,Grosseto 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
+97/98,Livorno,Livorno 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
+97/98,Pisa,Pisa 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
+97/98,Lucca - Massa - Carrara,Lucca - Massa - Carrara 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
 97/98,Pistoia,Pistoia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,,maggio 1997,Cambio formato,PT97.jpg,True,accertata
 98/99,Firenze e dintorni,Firenze e dintorni (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,70,,marzo 1998,"""da utilizzare fino ad Agosto 1999""",FI98.jpg,True,accertata
 98/99,Prato - Provincia di Firenze,Prato - Provincia di Firenze (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,marzo 1998,"""da utilizzare fino a Giugno 1999""",PROVFI98.jpg,True,accertata
 98/99,Pisa,Pisa (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,30,,maggio 1998,"""da utilizzare fino ad Agosto 1999""",PI98.jpg,True,accertata
-98/99,Lucca - Massa - Carrara,Lucca - Massa - Carrara (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino ad Agosto 1999""",Ricercato1.jpg,False,accertata
+98/99,Lucca - Massa - Carrara,Lucca - Massa - Carrara (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,"""da utilizzare fino ad Agosto 1999""",Ricercato1a.jpg,False,accertata
 98/99,Pistoia,Pistoia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,22,,maggio 1998,"""da utilizzare fino ad Agosto 1999""",PT98.jpg,True,accertata
 99/00,Firenze e dintorni,Firenze e dintorni 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,70,,marzo 1999,,FI9900.jpg,True,accertata
 99/00,Prato - Provincia di Firenze,Prato - Provincia di Firenze 1999/2000,99/00,,,,,,,,,Dubbio1.jpg,False,dubbia
-99/00,Pisa,Pisa 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
-99/00,Lucca - Massa - Carrara,Lucca - Massa - Carrara 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
+99/00,Pisa,Pisa 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1a.jpg,False,accertata
+99/00,Lucca - Massa - Carrara,Lucca - Massa - Carrara 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1a.jpg,False,accertata
 99/00,Pistoia,Pistoia 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,22,,maggio 1999,,PT9900.jpg,True,accertata
 00/01,Firenze e dintorni,Firenze e dintorni 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,62,,marzo 2000,,FI0001.jpg,True,accertata
-00/01,Pisa,Pisa ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata
-00/01,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata
+00/01,Pisa,Pisa ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1a.jpg,False,accertata
+00/01,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1a.jpg,False,accertata
 01/02,Firenze e dintorni,Firenze e dintorni 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,55,marzo 2001,,FI0102.jpg,True,accertata
-01/02,Pisa,Pisa ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-01/02,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+01/02,Pisa,Pisa ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+01/02,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
 02/03,Firenze e dintorni,Firenze e dintorni 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,70,71,aprile 2002,,FI02.jpg,True,accertata
 02/03,Pisa,Pisa 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,30,,luglio 2002,,PI0203.jpg,True,accertata
-02/03,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+02/03,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
 03/04,Firenze e dintorni,Firenze e dintorni 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,70,,maggio 2003,,FI03.jpg,True,accertata
-03/04,Pisa,Pisa ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-03/04,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+03/04,Pisa,Pisa ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+03/04,Lucca - Massa - Carrara,Lucca - Massa - Carrara ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
 04/05,Firenze e dintorni,Firenze e dintorni 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,70,,aprile 2004,,FI04.jpg,True,accertata
-04/05,Pisa,Pisa 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-04/05,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-05/06,Firenze e dintorni,Firenze e dintorni 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-05/06,Pisa,Pisa 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-05/06,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
+04/05,Pisa,Pisa 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+04/05,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+05/06,Firenze e dintorni,Firenze e dintorni 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+05/06,Pisa,Pisa 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+05/06,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
 06/07,Firenze e dintorni,Firenze e dintorni 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,88,,maggio 2006,,FI06.jpg,True,accertata
-06/07,Pisa,Pisa 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-06/07,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+06/07,Pisa,Pisa 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+06/07,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
 07/08,Firenze e dintorni,Firenze e dintorni 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,72,,maggio 2007,,FI07.jpg,True,accertata
 07/08,Pisa,Pisa 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,24,,luglio 2007,,PI07.jpg,True,accertata
-07/08,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+07/08,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
 08/09,Firenze e dintorni,Firenze e dintorni 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,56,,maggio 2008,,FI0809.jpg,True,accertata
-08/09,Pisa,Pisa 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-08/09,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Firenze e dintorni,Firenze e dintorni 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Pisa,Pisa 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+08/09,Pisa,Pisa 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+08/09,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+09/10,Firenze e dintorni,Firenze e dintorni 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+09/10,Pisa,Pisa 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+09/10,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
 10/11,Firenze e dintorni,Firenze e dintorni 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
 10/11,Pisa,Pisa 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
 10/11,Lucca - Massa - Carrara,Lucca - Massa - Carrara 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata

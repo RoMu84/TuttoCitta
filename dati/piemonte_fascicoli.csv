@@ -105,31 +105,31 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 96/97,Provincia di Torino,Provincia di Torino 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,54,,gennaio 1997,cambio formato,PROVTO97.jpg,True,accertata
 96/97,Alessandria,Alessandria 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,,novembre 1996,cambio formato,AL97.jpg,True,accertata
 96/97,Asti,Asti 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,,novembre 1996,cambio formato,AT97.jpg,True,accertata
-96/97,Cuneo,Cuneo 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,cambio formato,Ricercato1.jpg,False,accertata
+96/97,Cuneo,Cuneo 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,cambio formato,Ricercato1a.jpg,False,accertata
 96/97,Novara - Verbano Cusio Ossola,Novara - Verbano Cusio Ossola 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,,novembre 1996,cambio formato,NO97.jpg,True,accertata
 96/97,Biella - Vercelli,Biella - Vercelli 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,30,,novembre 1996,cambio formato,VC97.jpg,True,accertata
 97/98,Torino e dintorni,Torino e dintorni (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,126,,gennaio 1998,"""marzo 1998 - febbraio 1999""",TO97b.jpg,True,accertata
 97/98,Provincia di Torino,Provincia di Torino (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,gennaio 1998,"""marzo 1998 - febbraio 1999""",PROVTO97b.jpg,True,accertata
 97/98,Alessandria,Alessandria (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,38,,novembre 1997,"""gennaio - dicembre 1998""",AL97b.jpg,True,accertata
-97/98,Asti,Asti (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1.jpg,False,accertata
+97/98,Asti,Asti (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1a.jpg,False,accertata
 97/98,Cuneo,Cuneo (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,novembre 1997,"""gennaio - dicembre 1998""",CN97b.jpg,True,accertata
 97/98,Novara - Verbano Cusio Ossola,Novara - Verbano Cusio Ossola (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,novembre 1997,"""gennaio - dicembre 1998""",NO97b.jpg,True,accertata
 97/98,Biella - Vercelli,Biella - Vercelli (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,30,,novembre 1997,"""gennaio - dicembre 1998""",VC97b.jpg,True,accertata
 98/99,Torino e dintorni,Torino e dintorni 1999,99,Copertina 1999 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,126,,gennaio 1999,,TO99.jpg,True,accertata
 98/99,Provincia di Torino,Provincia di Torino 1999,99,,,,,,,,,Dubbio1.jpg,False,dubbia
-98/99,Alessandria,Alessandria (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1.jpg,False,accertata
+98/99,Alessandria,Alessandria (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1a.jpg,False,accertata
 98/99,Asti,Asti (99),99,,,,,,,,,Dubbio1.jpg,False,dubbia
 98/99,Cuneo,Cuneo (99),99,,,,,,,,,Dubbio1.jpg,False,dubbia
 98/99,Novara - Verbano Cusio Ossola,Novara - Verbano Cusio Ossola (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,novembre 1998,"""da utilizzare fino a Gennaio 2000""",NO98.jpg,True,accertata
-98/99,Biella - Vercelli,Biella - Vercelli (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1.jpg,False,accertata
-99/00,Torino e dintorni,Torino e dintorni 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
+98/99,Biella - Vercelli,Biella - Vercelli (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,,,,,Ricercato1a.jpg,False,accertata
+99/00,Torino e dintorni,Torino e dintorni 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1a.jpg,False,accertata
 99/00,Provincia di Torino,Provincia di Torino 2000,00,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Alessandria,Alessandria 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,38,,novembre 1999,,AL00.jpg,True,accertata
 99/00,Asti,Asti 2000,00,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Cuneo,Cuneo 2000,00,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Novara - Verbano Cusio Ossola,Novara - Verbano Cusio Ossola 2000,00,Copertina 2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,46,,novembre 1999,,NO00.jpg,True,accertata
-00/01,Torino e dintorni,Torino ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-01/02,Torino e dintorni,Torino e dintorni 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+00/01,Torino e dintorni,Torino ?,,,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+01/02,Torino e dintorni,Torino e dintorni 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
 02/03,Torino e dintorni,Torino e dintorni 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,,febbraio 2003,,TO03.jpg,True,accertata
 03/04,Torino e dintorni,Torino e dintorni 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,86,87,febbraio 2004,,TO04.jpg,True,accertata
 04/05,Torino e dintorni,Torino e dintorni 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,86,88,marzo 2005,,TO05.jpg,True,accertata

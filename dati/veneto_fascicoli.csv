@@ -90,19 +90,19 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 95/96,Verona,Verona 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,54,,marzo 1995,,VR95.jpg,True,accertata
 95/96,Vicenza,Vicenza 95,95,Copertina 95 beige,246 x 280 mm,sottile,TuttoCittà '90 classico,46,,marzo 1995,,VI95.jpg,True,accertata
 96/97,Venezia,Venezia 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,47,aprile 1996,,VE96.jpg,True,accertata
-96/97,Belluno,Belluno 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+96/97,Belluno,Belluno 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1a.jpg,False,accertata
 96/97,Treviso,Treviso 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,,aprile 1996,,TV96.jpg,True,accertata
 96/97,Padova,Padova 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,54,,marzo 1996,"Padova ""e dintorni"" per errore nel titolo",PD96.jpg,True,accertata
-96/97,Rovigo,Rovigo 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1.jpg,False,accertata
+96/97,Rovigo,Rovigo 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,,Ricercato1a.jpg,False,accertata
 96/97,Verona,Verona 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,,marzo 1996,,VR96.jpg,True,accertata
 96/97,Vicenza,Vicenza 96,96,Copertina 96 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,38,,marzo 1996,,VI96.jpg,True,accertata
 97/98,Venezia,Venezia 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,46,47,aprile 1997,Cambio formato,VE97.jpg,True,accertata
-97/98,Belluno,Belluno 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-97/98,Treviso,Treviso 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+97/98,Belluno,Belluno 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
+97/98,Treviso,Treviso 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
 97/98,Padova,Padova 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,54,,marzo 1997,Cambio formato,PD97.jpg,True,accertata
 97/98,Rovigo,Rovigo 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,22,,marzo 1997,Cambio formato,RO97.jpg,True,accertata
-97/98,Verona,Verona 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
-97/98,Vicenza,Vicenza 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1.jpg,False,accertata
+97/98,Verona,Verona 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
+97/98,Vicenza,Vicenza 97,97,Copertina 97 beige,226 x 274 mm,sottile,TuttoCittà '90 classico,,,,Cambio formato,Ricercato1a.jpg,False,accertata
 98/99,Venezia,Venezia (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,aprile 1998,"""da utilizzare fino a Luglio 1999""",VE98.jpg,True,accertata
 98/99,Treviso,Treviso (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,aprile 1998,"""da utilizzare fino a Luglio 1999""",TV98.jpg,True,accertata
 98/99,Padova,Padova (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,marzo 1998,"""da utilizzare fino a Luglio 1999""",PD98.jpg,True,accertata
@@ -110,51 +110,51 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 98/99,Verona,Verona (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,54,,marzo 1998,"""da utilizzare fino a Giugno 1999""",VR98.jpg,True,accertata
 98/99,Vicenza,Vicenza (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,46,,marzo 1998,"""da utilizzare fino a Giugno 1999""",VI98.jpg,True,accertata
 99/00,Venezia,Venezia 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,54,,aprile 1999,,VE9900.jpg,True,accertata
-99/00,Treviso,Treviso 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
-99/00,Padova,Padova 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
+99/00,Treviso,Treviso 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1a.jpg,False,accertata
+99/00,Padova,Padova 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1a.jpg,False,accertata
 99/00,Rovigo,Rovigo 1999/2000,99/00,,,,,,,,,Dubbio1.jpg,False,dubbia
 99/00,Verona,Verona 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,46,,marzo 1999,,VR9900.jpg,True,accertata
-99/00,Vicenza,Vicenza 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1.jpg,False,accertata
+99/00,Vicenza,Vicenza 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio,,,,,Ricercato1a.jpg,False,accertata
 00/01,Venezia,Venezia 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,54,,aprile 2000,,VE0001.jpg,True,accertata
-00/01,Treviso,Treviso 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata
-00/01,Verona,Verona 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata
-00/01,Vicenza,Vicenza 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1.jpg,False,accertata
-01/02,Venezia,Venezia 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-01/02,Treviso,Treviso 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-01/02,Verona,Verona 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-01/02,Vicenza,Vicenza 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+00/01,Treviso,Treviso 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1a.jpg,False,accertata
+00/01,Verona,Verona 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1a.jpg,False,accertata
+00/01,Vicenza,Vicenza 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1a.jpg,False,accertata
+01/02,Venezia,Venezia 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+01/02,Treviso,Treviso 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+01/02,Verona,Verona 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+01/02,Vicenza,Vicenza 2001/2002,01/02,Copertina 2001/2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
 02/03,Venezia,Venezia 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,47,maggio 2002,,VE0203.jpg,True,accertata
-02/03,Treviso,Treviso 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-02/03,Verona,Verona 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-02/03,Vicenza,Vicenza 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
+02/03,Treviso,Treviso 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+02/03,Verona,Verona 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+02/03,Vicenza,Vicenza 2002/2003,02/03,Copertina 2002/2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
 03/04,Venezia,Venezia 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,46,,maggio 2003,,VE03.jpg,True,accertata
-03/04,Treviso,Treviso 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-03/04,Verona,Verona 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-03/04,Vicenza,Vicenza 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-04/05,Venezia,Venezia 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-04/05,Treviso,Treviso 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-04/05,Verona,Verona 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-04/05,Vicenza,Vicenza 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1.jpg,False,accertata
-05/06,Venezia,Venezia 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-05/06,Treviso,Treviso 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-05/06,Verona,Verona 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-05/06,Vicenza,Vicenza 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1.jpg,False,accertata
-06/07,Venezia,Venezia 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-06/07,Treviso,Treviso 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-06/07,Verona,Verona 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-06/07,Vicenza,Vicenza 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+03/04,Treviso,Treviso 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+03/04,Verona,Verona 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+03/04,Vicenza,Vicenza 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+04/05,Venezia,Venezia 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+04/05,Treviso,Treviso 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+04/05,Verona,Verona 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+04/05,Vicenza,Vicenza 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+05/06,Venezia,Venezia 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+05/06,Treviso,Treviso 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+05/06,Verona,Verona 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+05/06,Vicenza,Vicenza 2005,05,Copertina 2005 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
+06/07,Venezia,Venezia 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+06/07,Treviso,Treviso 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+06/07,Verona,Verona 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+06/07,Vicenza,Vicenza 2006,06,Copertina 2006 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
 07/08,Venezia,Venezia 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,40,,giugno 2007,,VE07.jpg,True,accertata
-07/08,Treviso,Treviso 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-07/08,Verona,Verona 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+07/08,Treviso,Treviso 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+07/08,Verona,Verona 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
 07/08,Vicenza,Vicenza 2007,07,Copertina 2007 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,40,,maggio 2007,,VI07.jpg,True,accertata
-08/09,Venezia,Venezia 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+08/09,Venezia,Venezia 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
 08/09,Treviso,Treviso 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,32,33,giugno 2008,,TV0809.jpg,True,accertata
-08/09,Verona,Verona 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-08/09,Vicenza,Vicenza 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Venezia,Venezia 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Treviso,Treviso 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Verona,Verona 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
-09/10,Vicenza,Vicenza 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1.jpg,False,accertata
+08/09,Verona,Verona 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+08/09,Vicenza,Vicenza 2008/2009,08/09,Copertina 2008/2009 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+09/10,Venezia,Venezia 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+09/10,Treviso,Treviso 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+09/10,Verona,Verona 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
+09/10,Vicenza,Vicenza 2009/2010,09/10,Copertina 2009/2010 arancione/bianca,226 x 274 mm,grossa,TuttoCittà fine duemila,,,,,Ricercato1a.jpg,False,accertata
 10/11,Venezia,Venezia 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
 10/11,Treviso,Treviso 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
 10/11,Verona,Verona 2010/2011,10/11,Copertina 2010/2011 arancione/bianca formato ridotto,140 x 212 mm,grossa,TuttoCittà anni dieci,,,,riforma cartografica; nuovo formato,Ricercato2.jpg,False,accertata
