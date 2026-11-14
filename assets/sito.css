@@ -184,7 +184,7 @@ details.scheda-provincia .conto { color:var(--tenue); font-size:13px; }
   column-gap:12px; align-items:start; }
 .fasc-scheda > a { grid-row:1 / span 2; }
 .fasc-scheda img.copertina { width:110px; margin:0; }
-.fasc-scheda img.copertina.ridotta { width:80px; }
+.fasc-scheda img.copertina.ridotta { width:72px; }
 .fasc-scheda p.nome { margin:0 0 5px; font-size:13.5px; line-height:1.3; font-weight:600;
   color:var(--scuro); font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
 .fasc-scheda ul.scheda { font-size:12.5px; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; }
@@ -457,9 +457,10 @@ table.roma-cartografia td.sf { white-space:nowrap; }
 table.roma-fascicoli td.img, table.roma-cartografia td.img { text-align:center; }
 img.copertina { width:150px; height:auto; display:block; margin:0 auto;
   border:1px solid var(--bordo); }
-/* Le sei copertine in formato ridotto sono piu alte che larghe: alla larghezza
-   delle altre sfonderebbero la riga, quindi restano a 104 pixel e centrate. */
-img.copertina.ridotta { width:104px; }
+/* Le copertine in formato ridotto (140 x 212) sono piu alte che larghe: alla larghezza
+   delle altre sfonderebbero la riga, quindi restano strette e centrate. Erano 104 pixel; dal
+   14 novembre 2026 il 10% in meno, 94 (Roberto: non in scala, sarebbero troppo piccole). */
+img.copertina.ridotta { width:94px; }
 table.roma-fascicoli td.img a, table.roma-cartografia td.img a { display:block; }
 img.quadro { margin:0 auto; }
 img.quadro { height:auto; display:block; border:1px solid var(--bordo); }
@@ -657,9 +658,9 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
   table.roma-fascicoli td.img { grid-area:img; }
   table.roma-fascicoli td.img img { width:118px; height:auto; margin:0; }
   /* Il formato ridotto (dal 2009/10) resta piu stretto, nella stessa proporzione delle
-     schede delle pagine regionali (80 su 110 pixel). */
-  table.roma-fascicoli td.img img.copertina.ridotta { width:86px; }
-  table.roma-fascicoli td.img img.copertina.f97 { width:112px; }
+     schede delle pagine regionali (72 su 110 pixel); il 226 x 274 in scala (101 su 110). */
+  table.roma-fascicoli td.img img.copertina.ridotta { width:77px; }
+  table.roma-fascicoli td.img img.copertina.f97 { width:108px; }
   table.roma-fascicoli td.ann { grid-area:ann; }
   table.roma-fascicoli td.anno { grid-area:anno; }
   table.roma-fascicoli td:nth-child(4) { grid-area:f; }
@@ -748,13 +749,14 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 /* La copertina con il titolo del fascicolo sotto, in maiuscolo, nella colonna di sinistra. */
 .cr-cop { flex:none; width:190px; text-align:center; }
 .cr-cop img.copertina { width:172px; margin:0 auto; }
-.cr-cop img.copertina.ridotta { width:119px; }
+.cr-cop img.copertina.ridotta { width:107px; }
 /* I fascicoli in formato 226 x 274, dal «97» in copertina al 2009/2010 prima del formato ridotto:
-   la miniatura e circa il 5% piu stretta, che sia la copertina vera o il segnaposto (Ricercato1a,
-   Dubbio). Classe f97, decisa dai generatori col formato (14 novembre 2026). */
-img.copertina.f97 { width:143px; }
-.fasc-scheda img.copertina.f97 { width:105px; }
-.cr-cop img.copertina.f97 { width:163px; }
+   la miniatura e in scala con i 246 x 280 degli anni prima (226/246, l'8% in meno), che sia la
+   copertina vera o il segnaposto (Ricercato1a, Dubbio). Classe f97, decisa dai generatori col
+   formato (Roberto, 14 novembre 2026). */
+img.copertina.f97 { width:138px; }
+.fasc-scheda img.copertina.f97 { width:101px; }
+.cr-cop img.copertina.f97 { width:158px; }
 .cr-cop h3 { margin:10px 0 0; font-size:15px; line-height:1.3; text-transform:uppercase; letter-spacing:.02em;
   overflow-wrap:anywhere; }
 .cr-dati { flex:1 1 auto; min-width:0; }
@@ -778,13 +780,13 @@ img.copertina.f97 { width:143px; }
 .cr-anche, .cr-rimando { font-size:14px; }
 /* «Cerca le copertine per provincia» (13 novembre 2026): le copertine in fila, alla misura di quella
    in cima alle pagine regionali (220 pixel, con la sua ombra: cinque per riga gia a 1280 pixel di
-   finestra, con la barra di scorrimento), quelle in
-   formato ridotto in proporzione (104 su 150, come sempre), e sotto ciascuna il solo titolo. Le righe
+   finestra, con la barra di scorrimento), quelle in formato 226 x 274 in scala (202), quelle in
+   formato ridotto come nelle tabelle (94 su 150: 138), e sotto ciascuna il solo titolo. Le righe
    si accorciano con la finestra; sul telefono una copertina sotto l'altra. */
 .cp-copertine { display:flex; flex-wrap:wrap; gap:30px 24px; align-items:flex-start; margin:24px 0 26px; }
 .cp-copertine figure { margin:0; width:220px; }
-.cp-copertine figure.cp-ridotta { width:153px; }
-.cp-copertine figure.cp-97 { width:209px; }   /* formato 226 x 274, il 5% in meno */
+.cp-copertine figure.cp-ridotta { width:138px; }
+.cp-copertine figure.cp-97 { width:202px; }   /* formato 226 x 274, in scala */
 .cp-copertine img { display:block; width:100%; height:auto; border:1px solid var(--bordo);
   box-shadow:0 2px 7px rgba(20,40,70,.13); }
 .cp-copertine a { display:block; }
