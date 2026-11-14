@@ -83,7 +83,7 @@ rimandano al fascicolo in cui erano i suoi comuni.</p>
         img = '<img' + cl + ' src="../immagini/' + esc(f.img) + '" alt="' + esc(alt) + '" loading="lazy">';
       }
       return '<figure class="' + (f.s === 'r' || f.s === 'i' ? '' : 'cp-manca') + (f.rid ? ' cp-ridotta' : '')
-        + (f.img === 'Ricercato1a.jpg' ? ' cp-97' : '')
+        + (f.f97 ? ' cp-97' : '')
         + '">' + img + '<figcaption>' + esc(f.t) + '</figcaption></figure>';
     }).join('') + '</div>'; }).join('<hr class="cp-separa">')
       + '<p class="cr-rimando">Tutti i fascicoli della regione: <a href="' + D.slug + '.html">'

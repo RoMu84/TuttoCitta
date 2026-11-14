@@ -659,6 +659,7 @@ table.cambiamenti tr.stacco th { border-top:2px solid var(--scuro); }
   /* Il formato ridotto (dal 2009/10) resta piu stretto, nella stessa proporzione delle
      schede delle pagine regionali (80 su 110 pixel). */
   table.roma-fascicoli td.img img.copertina.ridotta { width:86px; }
+  table.roma-fascicoli td.img img.copertina.f97 { width:112px; }
   table.roma-fascicoli td.ann { grid-area:ann; }
   table.roma-fascicoli td.anno { grid-area:anno; }
   table.roma-fascicoli td:nth-child(4) { grid-area:f; }
@@ -748,11 +749,12 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cr-cop { flex:none; width:190px; text-align:center; }
 .cr-cop img.copertina { width:172px; margin:0 auto; }
 .cr-cop img.copertina.ridotta { width:119px; }
-/* Il segnaposto del formato 226 x 274 (Ricercato1a.jpg, 14 novembre 2026), piu alto in proporzione
-   di quello dei 246 x 280: la miniatura e circa il 5% piu stretta, ovunque compaia. */
-img.copertina[src$="/Ricercato1a.jpg"] { width:143px; }
-.fasc-scheda img.copertina[src$="/Ricercato1a.jpg"] { width:105px; }
-.cr-cop img.copertina[src$="/Ricercato1a.jpg"] { width:163px; }
+/* I fascicoli in formato 226 x 274, dal «97» in copertina al 2009/2010 prima del formato ridotto:
+   la miniatura e circa il 5% piu stretta, che sia la copertina vera o il segnaposto (Ricercato1a,
+   Dubbio). Classe f97, decisa dai generatori col formato (14 novembre 2026). */
+img.copertina.f97 { width:143px; }
+.fasc-scheda img.copertina.f97 { width:105px; }
+.cr-cop img.copertina.f97 { width:163px; }
 .cr-cop h3 { margin:10px 0 0; font-size:15px; line-height:1.3; text-transform:uppercase; letter-spacing:.02em;
   overflow-wrap:anywhere; }
 .cr-dati { flex:1 1 auto; min-width:0; }
@@ -782,7 +784,7 @@ img.copertina[src$="/Ricercato1a.jpg"] { width:143px; }
 .cp-copertine { display:flex; flex-wrap:wrap; gap:30px 24px; align-items:flex-start; margin:24px 0 26px; }
 .cp-copertine figure { margin:0; width:220px; }
 .cp-copertine figure.cp-ridotta { width:153px; }
-.cp-copertine figure.cp-97 { width:209px; }   /* Ricercato1a.jpg, il 5% in meno */
+.cp-copertine figure.cp-97 { width:209px; }   /* formato 226 x 274, il 5% in meno */
 .cp-copertine img { display:block; width:100%; height:auto; border:1px solid var(--bordo);
   box-shadow:0 2px 7px rgba(20,40,70,.13); }
 .cp-copertine a { display:block; }

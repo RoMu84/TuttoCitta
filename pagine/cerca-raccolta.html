@@ -82,7 +82,7 @@ uscito.</p>
   function scheda(i, prov){
     var f = D.F[i];
     if (!f.r) return '<div class="cr-scheda cr-assente"><p><b>' + esc(f.t) + '</b>: non in raccolta.</p></div>';
-    var rid = f.dim.indexOf('140 x 212') >= 0 ? ' ridotta' : '';
+    var rid = (f.dim.indexOf('140 x 212') >= 0 ? ' ridotta' : '') + (f.f97 ? ' f97' : '');
     var h = '<div class="cr-scheda"><div class="cr-testa"><div class="cr-cop">'
       + '<a href="../immagini/' + esc(f.img) + '"><img class="copertina' + rid + '" src="../immagini/'
       + esc(f.img) + '" alt="Copertina del fascicolo ' + esc(f.t) + '"></a>'
