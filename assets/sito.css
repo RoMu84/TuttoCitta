@@ -46,6 +46,9 @@ body { margin:0; color:var(--testo); background:#fff; line-height:1.7;
 .tendina a { display:block; color:var(--testo); text-transform:none; letter-spacing:0;
   font-size:14px; padding:6px 18px; border-bottom:0; }
 .tendina a:hover { color:var(--scuro); background:var(--testa); border-bottom:0; }
+/* Sul computer ogni voce su una riga sola: «Cerca le copertine per provincia» andava a capo
+   (15 novembre 2026); la tendina si allarga quanto serve. */
+@media (min-width:701px){ .tendina a { white-space:nowrap; } }
 /* Pagine della raccolta: intestazione a colori invertiti, fascia oro e filetto
    blu. Testi in blu scuro, che sull'oro tengono un contrasto di 4,8 per il titolo
    e di 5,8 per le voci del menu; il segno dorato fra i gruppi diventa blu. */
@@ -83,6 +86,10 @@ button.torna-su:focus-visible { outline:2px solid var(--scuro); outline-offset:2
 @media (max-width:700px){ button.torna-su { right:14px; bottom:14px; width:38px; height:38px; } }
 /* Lo stesso per i collegamenti principali della pagina «La raccolta». */
 body.raccolta .marcato a, body.raccolta a.marcato { -webkit-text-stroke:.35px currentColor; }
+/* Dal 15 novembre 2026 anche in due pagine del censimento, le regioni di «Edizioni regione per
+   regione» e i tre rimandi di «Edizioni» (Roberto): la classe si chiama qui «grassetto-finto»,
+   cosi «marcato» resta legata alle pagine della raccolta. */
+.grassetto-finto a, a.grassetto-finto { -webkit-text-stroke:.35px currentColor; }
 /* Elenchi puntati con il segno dorato, usati nella tabella dei layout. */
 ul.punti { list-style:none; margin:0; padding:0; }
 ul.punti li { position:relative; padding-left:15px; margin:0 0 5px; }
