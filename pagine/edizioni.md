@@ -1,7 +1,8 @@
 # Edizioni
 
-Queste pagine guardano ai fascicoli dal punto di vista geografico: quali edizioni uscirono in ciascuna
-provincia, annata per annata, e com'era fatto ciascun fascicolo nelle zone esaminate più a fondo.
+Le pagine raggiungibili ai link qui sotto raggruppano i fascicoli dal punto di vista geografico: ogni
+pagina contiene una tabella che mostra quali edizioni uscirono in ciascuna provincia, annata per
+annata, e com'era fatto ciascun fascicolo nelle regioni la cui raccolta è completa.
 
 [Edizioni regione per regione](edizioni-regione-per-regione.md){: .grassetto-finto}<br>
 Tabelle regionali che mostrano quali fascicoli vennero pubblicati in ciascuna annata per ciascuna

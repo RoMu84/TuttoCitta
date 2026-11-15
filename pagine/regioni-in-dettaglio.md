@@ -8,8 +8,8 @@ completate.
 A queste si affianca una pagina speciale dedicata non a una regione ma a una singola città, Roma, i
 cui fascicoli sono i più ricchi di cartografia dell'intera serie.
 
-- [Sardegna](sardegna-completo.md)
-- [Speciale: Roma città](roma.md)
+- [Sardegna](sardegna-completo.md){: .grassetto-finto}
+- [Speciale: Roma città](roma.md){: .grassetto-finto}
 
 Le tabelle riassuntive per regione di tutti i fascicoli inclusi in raccolta sono invece raggiungibili
 [a questa pagina](raccolta.md); sono indicizzate tutte le foto di copertina, i dati di base dei fascicoli

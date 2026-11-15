@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le edizioni TuttoCittà annata per annata</title>
+<meta name="description" content="Scegli l'annata per generare una tabella che mostra quali fascicoli vennero pubblicati in quella determinata annata, l'anno di copertina e, quando il dato è…">
+<link rel="canonical" href="https://romu84.github.io/TuttoCitta/pagine/edizioni-annuali.html">
+<link rel="icon" type="image/png" sizes="32x32" href="../Favicon.png">
+<link rel="stylesheet" href="../assets/sito.css">
+
+</head>
+<body class="raccolta">
+<header class="testata raccolta">
+  <div class="fascia">
+    <a class="marchio" href="../pagine/raccolta.html">TuttoCittà<span>la raccolta in dettaglio</span></a>
+    <nav class="menu">
+      <div class="voce">
+        <a href="../index.html">Vai al censimento</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-3" aria-label="Mostra le pagine di Vai al censimento"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-3"><li><a href="../index.html">Pagina principale</a></li><li><a href="../pagine/index.html">Introduzione</a></li><li><a href="../pagine/evoluzione-fascicoli.html">Evoluzione dei fascicoli</a></li><li><a href="../pagine/copertine.html">Copertine</a></li><li><a href="../pagine/sezioni.html">Sezioni</a></li><li><a href="../pagine/tabella-layout.html">Tabella dei layout</a></li><li><a href="../pagine/note-editore.html">Note dell'editore</a></li><li><a href="../pagine/tavole.html">Evoluzione della cartografia</a></li><li><a href="../pagine/inserti.html">Inserti speciali</a></li><li><a href="../pagine/stradarioseat.html">Il precursore: lo stradario SEAT</a></li><li><a href="../pagine/edizioni-regione-per-regione.html">Edizioni regione per regione</a></li></ul>
+      </div>
+      <div class="voce">
+        <a href="../pagine/raccolta.html">La raccolta</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-4" aria-label="Mostra le pagine di La raccolta"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-4"><li><a href="../pagine/tabella-raccolta.html">Tabella della raccolta</a></li><li><a href="../pagine/fascicoli-ricercati.html">Fascicoli ricercati</a></li><li><a href="../pagine/cerca-raccolta.html">Cerca nella raccolta</a></li><li><a href="../pagine/cerca-province-raccolta.html">Cerca le copertine per provincia</a></li><li><a href="../pagine/edizioni-annuali.html">Edizioni annuali</a></li></ul>
+      </div>
+      <a href="../pagine/cerca-raccolta.html">Cerca un fascicolo per provincia e annata</a>
+      <a href="../pagine/questioni-aperte.html">Questioni aperte</a>
+      <a href="../pagine/come-contribuire.html">Come contribuire</a>
+      <span class="stacco" aria-hidden="true"></span>
+      <a href="../pagine/licenza.html">Licenza</a>
+    </nav>
+  </div>
+</header>
+<main>
+<h1 id="edizioni-annuali">Edizioni annuali</h1>
+<p>Scegli l'annata per generare una tabella che mostra quali fascicoli vennero pubblicati in quella
+determinata annata, l'anno di copertina e, quando il dato è disponibile, il mese di aggiornamento e il
+numero di pagine. Il colore di fondo della tabella riflette il colore della copertina in uso.</p>
+<div class="cerca-raccolta">
+<label>Seleziona l'annata <select id="ea-annata"><option value="">scegli…</option><option value="81-82">1981/82</option><option value="82-83">1982/83</option><option value="83-84">1983/84</option><option value="84-85">1984/85</option><option value="85-86">1985/86</option><option value="86-87">1986/87</option><option value="87-88">1987/88</option><option value="88-89">1988/89</option><option value="89-90">1989/90</option><option value="90-91">1990/91</option><option value="91-92">1991/92</option><option value="92-93">1992/93</option><option value="93-94">1993/94</option><option value="94-95">1994/95</option><option value="95-96">1995/96</option><option value="96-97">1996/97</option><option value="97-98">1997/98</option><option value="98-99">1998/99</option><option value="99-00">1999/00</option><option value="00-01">2000/01</option><option value="01-02">2001/02</option><option value="02-03">2002/03</option><option value="03-04">2003/04</option><option value="04-05">2004/05</option><option value="05-06">2005/06</option><option value="06-07">2006/07</option><option value="07-08">2007/08</option><option value="08-09">2008/09</option><option value="09-10">2009/10</option><option value="10-11">2010/11</option><option value="11-12">2011/12</option><option value="12-13">2012/13</option><option value="13-14">2013/14</option><option value="14-15">2014/15</option></select></label>
+</div>
+<div id="ea-esito" aria-live="polite"></div>
+
+<script>
+(function(){
+  var A = document.getElementById('ea-annata'), E = document.getElementById('ea-esito');
+  var SF = {'Arancione':'#F9D5AE', 'Grigio':'#DEDEDE', 'Grigio cromatico':'#D6DCE4', 'Rosa':'#F6D3DC'};
+  function esc(s){ return String(s == null ? '' : s).replace(/[&<>"]/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function pc(n, t){ return t ? (100 * n / t).toFixed(1).replace('.', ',') + '%' : '—'; }
+  A.addEventListener('change', function(){
+    E.innerHTML = '';
+    if (!A.value) return;
+    E.innerHTML = '<p class="cr-nota">caricamento…</p>';
+    fetch('../assets/edizioni-annuali/' + A.value + '.json').then(function(r){ return r.json(); })
+      .then(function(d){
+        var corpo = d.righe.map(function(x){
+          var st = x.c ? ' style="background:' + x.c + '"' : '',
+              cl = (x.r ? '' : ' class="ea-manca"'),
+              ti = x.r ? '' : (x.d ? ' title="Pubblicazione probabile, non confermata; non in raccolta"'
+                                   : ' title="Non in raccolta"');
+          return '<tr' + cl + ti + '>'
+            + '<td class="ea-t"' + st + '>' + esc(x.t) + (x.d ? ' <i>?</i>' : '') + '</td>'
+            + '<td' + st + '>' + esc(x.a) + '</td>'
+            + '<td' + st + '>' + esc(x.m) + '</td>'
+            + '<td class="ea-n"' + st + '>' + esc(x.p) + '</td>'
+            + '<td' + (SF[x.sf] ? ' style="background:' + SF[x.sf] + '"' : '') + '>' + esc(x.sf) + '</td></tr>';
+        }).join('');
+        E.innerHTML = '<p class="ea-conto">Fascicoli in raccolta: <b>' + d.in_raccolta + '</b> sul totale di <b>'
+          + d.totale + '</b> (' + pc(d.in_raccolta, d.totale) + ')</p>'
+          + '<p class="ea-legenda">Per ogni fascicolo: anno di copertina, mese di aggiornamento, pagine e sfondo della cartografia.</p>'
+          + '<div class="ea-scorri"><table class="ea-tabella"><thead><tr><th>Fascicolo</th><th>Anno di copertina</th>'
+          + '<th>Mese di aggiornamento</th><th>Pagine</th><th>Cartografia</th></tr></thead><tbody>'
+          + corpo + '</tbody></table></div>';
+      }).catch(function(){ E.innerHTML = '<p class="cr-nota">Dati non disponibili.</p>'; });
+  });
+})();
+</script>
+</main>
+<footer class="pie">
+<div class="fascia">
+Contatto: <span class="contatto" data-u="rigilkent84" data-d="hotmail.com"></span> ·
+Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
+</div>
+</footer>
+<script>
+/* Tendine dell'intestazione. Dove c'è un puntatore l'apertura al passaggio la fa il
+   foglio di stile; qui si aggiunge quel che il solo CSS non può: apertura al tocco,
+   chiusura toccando fuori o con Esc, stato annunciato con aria-expanded. Se questo
+   codice non venisse eseguito resterebbero i collegamenti delle pagine contenitore,
+   che elencano le stesse sottopagine. */
+(function(){
+  var voci = Array.prototype.slice.call(document.querySelectorAll('.menu .voce'));
+  if (!voci.length) return;
+  var conPuntatore = window.matchMedia && window.matchMedia('(hover:hover)').matches;
+
+  function stato(v, aperta){
+    v.classList.toggle('aperta', aperta);
+    var b = v.querySelector('.apri');
+    if (b) b.setAttribute('aria-expanded', aperta ? 'true' : 'false');
+  }
+  function chiudi(tranne){
+    voci.forEach(function(v){ if (v !== tranne) stato(v, false); });
+  }
+
+  voci.forEach(function(v){
+    var b = v.querySelector('.apri');
+    if (b) b.addEventListener('click', function(e){
+      e.preventDefault();
+      e.stopPropagation();           /* altrimenti chiude subito il gestore sul documento */
+      var apri = !v.classList.contains('aperta');
+      chiudi(v); stato(v, apri);
+    });
+    /* Tabulando dentro la voce l'elenco si apre da sé; sul pulsante no, perché lì
+       ad aprire è Invio, che arriva come clic. */
+    v.addEventListener('focusin', function(e){
+      if (e.target.classList.contains('apri')) return;
+      chiudi(v); stato(v, true);
+    });
+    v.addEventListener('focusout', function(e){
+      var dove = e.relatedTarget;
+      if (v.contains(dove)) return;
+      /* Se il fuoco sta passando a un'altra voce del menu, chiudere adesso sposterebbe
+         il pannello mentre il dito è ancora premuto, e il tocco andrebbe perso fra la
+         pressione e il rilascio: a chiudere ci pensa il gestore del clic, dopo. */
+      if (dove && dove.closest && dove.closest('.menu')) return;
+      stato(v, false);
+    });
+    /* Con il puntatore l'apertura al passaggio è del CSS: se un clic ha lasciato la
+       voce aperta, uscendo si richiude, senza restare appesa sopra il contenuto. */
+    if (conPuntatore) v.addEventListener('mouseleave', function(){ stato(v, false); });
+  });
+
+  document.addEventListener('click', function(e){
+    if (!(e.target instanceof Element) || !e.target.closest('.menu .voce')) chiudi(null);
+  });
+  document.addEventListener('keydown', function(e){
+    if (e.key !== 'Escape' && e.key !== 'Esc') return;
+    var aperta = null;
+    voci.forEach(function(v){ if (v.classList.contains('aperta')) aperta = v; });
+    if (!aperta) return;
+    stato(aperta, false);
+    var b = aperta.querySelector('.apri');   /* il fuoco torna dove si era */
+    if (b) b.focus();
+  });
+})();
+</script>
+<script>
+/* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
+   automatici, che leggono l'HTML statico senza eseguire codice, non lo trovano. */
+document.querySelectorAll('.contatto').forEach(function(e){
+  var a=document.createElement('a');
+  a.href='mail'+'to:'+e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  a.textContent=e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  e.appendChild(a);
+});
+</script>
+<script>
+/* Esclusione dal conteggio: aprendo una pagina con ?escludimi=1 il browser memorizza
+   il contrassegno che GoatCounter riconosce, e da quel momento non conta piu le visite
+   da questo dispositivo. Con ?contami=1 il contrassegno viene rimosso. */
+try {
+  var qs=location.search;
+  if (qs.indexOf('escludimi=1')>-1) localStorage.setItem('skipgc','t');
+  if (qs.indexOf('contami=1')>-1)   localStorage.removeItem('skipgc');
+} catch(e) {}
+</script>
+<script data-goatcounter="https://romu84.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

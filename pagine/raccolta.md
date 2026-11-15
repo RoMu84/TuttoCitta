@@ -38,6 +38,13 @@ sezioni aggiuntive per segnalare eventuali anomalie di produzione.
 
 Chiude la pagina una sezione coi dati aggregati in formato csv.
 
+<hr class="oro">
+
+Nel link qui sotto è infine possibile generare una tabella che include la lista di tutti i fascicoli
+pubblicati in una determinata annata selezionabile.
+
+[Edizioni annuali](edizioni-annuali.md){: .marcato}
+
 ## Due regole sul conto delle pagine
 
 Il conto delle pagine segue due regole, dettate entrambe da come il fascicolo è fatto. La prima
