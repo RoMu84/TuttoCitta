@@ -1,6 +1,6 @@
 # Fascicoli ricercati
 
-Questa pagina elenca i **668 fascicoli** che il censimento dà per pubblicati ma che non sono
+Questa pagina elenca i **669 fascicoli** che il censimento dà per pubblicati ma che non sono
 ancora in raccolta, divisi per regione e per raggruppamento provinciale, e i 20 fascicoli la cui
 pubblicazione è probabile ma non confermata, segnati da un punto interrogativo. Per ciascuno sono indicati
 l'annata, il nome come compare in copertina e, nel quadratino, il colore della copertina, come nella
@@ -227,7 +227,7 @@ Mancano 141 dei 324 fascicoli accertati, più 4 probabili e 1 in raccolta ma inc
 
 ## Marche {#marche}
 
-Mancano 27 dei 75 fascicoli accertati · [pagina della raccolta](marche.md) · [tabella della raccolta](tabella-raccolta.md#marche)
+Mancano 28 dei 76 fascicoli accertati · [pagina della raccolta](marche.md) · [tabella della raccolta](tabella-raccolta.md#marche)
 
 <div class="ricercati">
 <div class="provincia-ricercata"><p class="linea-ricercata">Ancona</p>
@@ -239,7 +239,7 @@ Mancano 27 dei 75 fascicoli accertati · [pagina della raccolta](marche.md) · [
 <div class="provincia-ricercata"><p class="linea-ricercata">Macerata</p>
 <ul class="ricercati"><li><span class="pastiglia" style="background:#C4BC96"></span><b>97/98:</b> Macerata 97</li></ul></div>
 <div class="provincia-ricercata"><p class="linea-ricercata">Pesaro - Urbino</p>
-<ul class="ricercati"><li><span class="pastiglia" style="background:#92D050"></span><b>84/85:</b> Pesaro - Urbino 84</li><li><span class="pastiglia" style="background:#92D050"></span><b>87/88:</b> Pesaro - Urbino 87</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>94/95:</b> Pesaro - Urbino 94</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>96/97:</b> Pesaro - Urbino 96</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>97/98:</b> Pesaro - Urbino 97</li></ul></div>
+<ul class="ricercati"><li><span class="pastiglia" style="background:#92D050"></span><b>84/85:</b> Pesaro - Urbino 84</li><li><span class="pastiglia" style="background:#92D050"></span><b>87/88:</b> Pesaro - Urbino 87</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>94/95:</b> Pesaro - Urbino 94</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>96/97:</b> Pesaro - Urbino 96</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>97/98:</b> Pesaro - Urbino 97</li><li><span class="pastiglia" style="background:#FFD966"></span><b>99/00:</b> Pesaro - Urbino 1999/2000</li></ul></div>
 </div>
 
 ## Molise {#molise}

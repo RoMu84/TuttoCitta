@@ -6,7 +6,7 @@ Generati automaticamente dal foglio di lavoro. Ogni scostamento è un punto da v
 
 | annata | totale dichiarato | accertati in matrice | scostamento | totale marcato incerto |
 |---|---|---|---|---|
-| 99/00 | 42 | 39 | -3 | no |
+| 99/00 | 42 | 40 | -2 | no |
 
 Annate con scostamento: **1** su 34.
 
@@ -17,7 +17,7 @@ Uno scostamento positivo significa che la matrice registra più fascicoli del to
 Il censimento identifica ogni fascicolo con un nome stabile lungo tutta la sua storia, perché un
 periodico che cambia titolo resta lo stesso periodico. Il campo `denominazione` del CSV lungo riporta
 invece **il titolo in vigore in quella singola annata**, e differisce dal nome di censimento in 258 celle
-su 1.990.
+su 1.991.
 
 Le variazioni sono di due tipi. Le **variazioni di raggruppamento** seguono le riforme amministrative:
 Como diventa Como-Lecco dall'annata 95/96, Cagliari acquisisce Carbonia-Iglesias e Medio Campidano dalla

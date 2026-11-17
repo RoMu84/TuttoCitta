@@ -4,7 +4,7 @@ Censimento delle edizioni locali del fascicolo cartografico **TuttoCittà**, sup
 Gialle pubblicato da SEAT Pagine Gialle S.p.A. dal 1981 al 2014, poi confluito nel volume unico
 *Pagine Bianche Pagine Gialle Tuttocittà*.
 
-**1.990 fascicoli accertati** — 1.989 edizioni ordinarie più 1 straordinaria — su 34 annate,
+**1.991 fascicoli accertati** — 1.990 edizioni ordinarie più 1 straordinaria — su 34 annate,
 20 regioni e 115 raggruppamenti provinciali.
 
 La stima complessiva, che include le edizioni del 1998/99 e del 1999/2000 non ancora identificate,
@@ -124,10 +124,12 @@ erano con ogni verosimiglianza tutti pubblicati. La stima è quindi 44 accertati
 identificare: circa 55, fra 54 e 56 secondo come si compensano i volumi. Vedi `pagine/questioni-aperte.md`.
 
 **Resta un solo scostamento su trentaquattro annate, e non è un errore.** Nel 1999/2000 la matrice
-identifica 39 fascicoli contro i 42 dichiarati dall'editore: i tre di differenza sono edizioni la cui
+identifica 40 fascicoli contro i 42 dichiarati dall'editore: i due di differenza sono edizioni la cui
 esistenza è certa e la cui identità non è nota. Lo scostamento misura dunque ciò che ancora manca, e va
-letto come un'informazione. Lo stesso confronto con le Pagine Gialle Casa indica dove cercare: con ogni
-probabilità sono tre delle quattro edizioni provinciali di Bologna, Firenze, Napoli e Torino.
+letto come un'informazione: era di tre fascicoli finché, nel novembre 2026, non è stata accertata
+l'esistenza di Pesaro - Urbino 1999/2000, che il censimento dava per non pubblicato. Lo stesso confronto
+con le Pagine Gialle Casa indica dove cercare: con ogni probabilità sono due delle quattro edizioni
+provinciali di Bologna, Firenze, Napoli e Torino.
 
 **L'incertezza residua è quasi tutta concentrata in due annate.** Delle 20 celle marcate come
 pubblicazione probabile non confermata, 10 stanno nell'annata 1998/1999 e 10 nella 1999/2000.
@@ -150,7 +152,7 @@ più riccamente cartografata della collana.
 
 Per ciascuna regione tre file registrano i fascicoli, con copertina, formato, layout, foliazione e mese
 di aggiornamento; le città cartografate, una riga per città e per fascicolo; i titoli degli articoli
-della rubrica dal 1990/91 al 1997/98. In tutto sono 2.010 fascicoli, 11.410 righe di cartografia e 5.801
+della rubrica dal 1990/91 al 1997/98. In tutto sono 2.011 fascicoli, 11.410 righe di cartografia e 5.801
 titoli; i titoli di Bolzano e di Aosta hanno una riga anche per la traduzione tedesca o francese, e il
 campo `lingua` le distingue. Le pagine delle regioni di cui la raccolta non possiede tutti i fascicoli lo dichiarano: le celle
 dei fascicoli mancanti sono segnate come lacune, non come assenze.

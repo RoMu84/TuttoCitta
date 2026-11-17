@@ -48,26 +48,29 @@ il totale a 54.
 
 ## I fascicoli non identificati dell'annata 1999/2000
 
-Nel 1999/2000 la matrice identifica 39 fascicoli contro i 42 dichiarati: restano da identificare tre
-fascicoli. Lo stesso confronto con le Pagine Gialle Casa, ancora 115 volumi, indica dove cercarli. Per
-arrivare insieme a 42 fascicoli e a 60 volumi con TuttoCittà all'interno, i fascicoli mancanti dovrebbero
-accompagnare dieci o undici volumi delle Pagine Gialle, ma nessuna area ne ha più di tre: le due cifre
-dell'editore non tornano alla lettera, forse perché il prospetto fu scritto all'inizio dell'annata. La
-combinazione più vicina è che i fascicoli mancanti siano tre delle quattro edizioni provinciali —
-**Provincia di Bologna, Provincia di Firenze, Provincia di Napoli e Provincia di Torino**, ciascuna
-distribuita con tre volumi delle Pagine Gialle — o tutte e quattro, per un totale di 43. Ne segue che i
-fascicoli probabili delle province minori — Asti, Cuneo, Mantova, Sondrio, Rovigo e Trento — nel
-1999/2000 con ogni probabilità non uscirono più.
+Nel 1999/2000 la matrice identifica 40 fascicoli contro i 42 dichiarati: restano da identificare due
+fascicoli. L'ultimo a essere identificato è **Pesaro - Urbino 1999/2000**, che il censimento dava per non
+pubblicato e la cui esistenza è stata accertata nel novembre 2026. Lo stesso confronto con le Pagine Gialle
+Casa, ancora 115 volumi, indica dove cercare gli altri. Per arrivare insieme a 42 fascicoli e a 60 volumi
+con TuttoCittà all'interno, i fascicoli mancanti dovrebbero accompagnare nove o dieci volumi delle
+Pagine Gialle, ma nessuna area ne ha più di tre, e due fascicoli ne accompagnano al massimo sei: le due
+cifre dell'editore non tornano alla lettera, forse perché il prospetto fu scritto all'inizio dell'annata.
+La combinazione più vicina al numero dei fascicoli è che i mancanti siano due delle quattro edizioni
+provinciali — **Provincia di Bologna, Provincia di Firenze, Provincia di Napoli e Provincia di Torino**,
+ciascuna distribuita con tre volumi delle Pagine Gialle; quella più vicina al numero dei volumi, che lo
+siano tre o tutte e quattro, per un totale di 43 o 44. Ne segue che fra i fascicoli probabili
+dell'annata più d'uno non uscì: con ogni probabilità quelli delle province minori — Asti, Cuneo, Mantova,
+Sondrio, Rovigo e Trento — nel 1999/2000 non uscirono più.
 
 Per l'annata 2000/2001 non c'è un numero dichiarato dall'editore: i 35 fascicoli sono quelli accertati.
 Nel 2000/2001 non compare nessuno dei fascicoli che nel 1999/2000 erano accertati per l'ultima volta
-(Alessandria, Novara, Padova e Pistoia) o soltanto probabili, e il bilancio 2000 della società indica una struttura
+(Alessandria, Novara, Padova, Pesaro - Urbino e Pistoia) o soltanto probabili, e il bilancio 2000 della società indica una struttura
 delle Pagine Gialle immutata rispetto al 1999 (115 edizioni Casa e 87 Lavoro). Tre di quelle linee
 torneranno, ma solo dall'annata 2010/2011: Asti, Cuneo e Mantova.
 
 ## Una stima del numero complessivo dei fascicoli
 
-I fascicoli accertati sono 1.990. Mettendo insieme quello che si è detto sopra si può stimare quanti
+I fascicoli accertati sono 1.991. Mettendo insieme quello che si è detto sopra si può stimare quanti
 fascicoli furono pubblicati in tutto: per le annate dal 1981/82 al 1997/98 e dal 2001/02 al 2014/15 si
 contano gli accertati, perché in quelle annate non ci sono fascicoli probabili; per il 1998/99 i 44
 accertati, i dieci probabili e uno ancora da identificare, con un margine di uno in più o in meno; per il 1999/2000 i 42
@@ -82,7 +85,7 @@ dichiarati dall'editore o uno in più; per il 2000/01 i 35 accertati.
 | dal 2001/02 al 2014/15 | 506 |
 | **Totale** | **2.003–2.006** |
 
-Il totale stimato è dunque compreso **fra 2.003 e 2.006 fascicoli**: da 13 a 16 in più
+Il totale stimato è dunque compreso **fra 2.003 e 2.006 fascicoli**: da 12 a 15 in più
 di quelli accertati, cioè i probabili del 1998/99 e i fascicoli del 1998/99 e del 1999/2000 che si sa
 esistiti ma non sono ancora stati identificati. Due avvertenze. Il 2000/01 e il 2001/02 sono contati con i loro
 accertati, ma per nessuno dei due c'è un numero dichiarato dall'editore. E il 2009/10 comprende
