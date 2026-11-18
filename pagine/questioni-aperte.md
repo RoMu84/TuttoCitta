@@ -46,6 +46,10 @@ Il margine dipende da come si compensano i volumi. Con un fascicolo di due provi
 volumi da compensare diventano tre, e un solo fascicolo di tre volumi, come la Provincia di Roma, porterebbe
 il totale a 54.
 
+Un dato da tenere presente, che per ora non cambia il conto: le **Pagine Gialle Lavoro della Provincia di
+Napoli del 1998/1999** contengono le tavole del TuttoCittà. Non dicono se le Pagine Gialle Casa della
+provincia fossero accompagnate dal fascicolo, che il censimento continua a dare per probabile.
+
 ## I fascicoli non identificati dell'annata 1999/2000
 
 Nel 1999/2000 la matrice identifica 40 fascicoli contro i 42 dichiarati: restano da identificare due

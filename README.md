@@ -121,7 +121,9 @@ probabili, è fra questi: le Pagine Gialle Casa di Cosenza del 1999 contengono l
 per buono il numero dell'editore, il conto torna se nelle aree date per non pubblicate uscirono fascicoli
 che il censimento non conosce ancora, per due volumi in tutto; i 10 fascicoli probabili di quell'annata
 erano con ogni verosimiglianza tutti pubblicati. La stima è quindi 44 accertati, 10 probabili e uno da
-identificare: circa 55, fra 54 e 56 secondo come si compensano i volumi. Vedi `pagine/questioni-aperte.md`.
+identificare: circa 55, fra 54 e 56 secondo come si compensano i volumi. Le Pagine Gialle Lavoro della
+Provincia di Napoli del 1998/1999 contengono le tavole del TuttoCittà: il dato per ora non cambia il conto,
+perché non dice se le Pagine Gialle Casa avessero il fascicolo. Vedi `pagine/questioni-aperte.md`.
 
 **Resta un solo scostamento su trentaquattro annate, e non è un errore.** Nel 1999/2000 la matrice
 identifica 40 fascicoli contro i 42 dichiarati dall'editore: i due di differenza sono edizioni la cui
