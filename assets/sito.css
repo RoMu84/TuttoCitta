@@ -992,7 +992,7 @@ p.due-link .perno { color:var(--oro); margin:0 12px; }
 [data-tema="scuro"] details.scheda-provincia > summary, [data-tema="scuro"] .totali-matrice p.titolo-totali,
 [data-tema="scuro"] .riquadro-ricerca, [data-tema="scuro"] details.cassetto.nota-pagina,
 [data-tema="scuro"] table.fascicoli-dettaglio tr.comandi th, [data-tema="scuro"] .casella.numero,
-[data-tema="scuro"] button.vista-intera, [data-tema="scuro"] .cr-dati, [data-tema="scuro"] .cerca-raccolta,
+[data-tema="scuro"] button.vista-intera, [data-tema="scuro"] .cerca-raccolta,
 [data-tema="scuro"] table.griglia.compatta tr.dettaglio-citta td
   { background:var(--info); border-color:var(--info-bordo); }
 [data-tema="scuro"] details.scheda-provincia, [data-tema="scuro"] .totali-matrice,
@@ -1041,6 +1041,9 @@ p.due-link .perno { color:var(--oro); margin:0 12px; }
 /* testo scuro sopra i colori dei dati; dove il dato chiede il bianco lo dice lo stile in linea, che vince */
 [data-tema="scuro"] td[style*="background"], [data-tema="scuro"] span.casella[style*="background"],
 [data-tema="scuro"] i[style*="background"] { color:#22272b; }
+/* I dati del fascicolo nella ricerca della raccolta: blu come il riquadro delle tendine,
+   un poco più scuro (Roberto, 18 novembre 2026). */
+[data-tema="scuro"] .cr-dati dl { background:#10202f; border-color:var(--info-bordo); }
 [data-tema="scuro"] div.provincia-ricercata + div.provincia-ricercata { border-top-color:var(--bordo); }
 [data-tema="scuro"] table.ea-tabella, [data-tema="scuro"] table.ea-tabella tr { border-color:var(--bordo); }
 [data-tema="scuro"] table.ea-tabella tbody tr:nth-child(even) { background:var(--sup); }
