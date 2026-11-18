@@ -2,7 +2,7 @@
 
 Generati automaticamente dal foglio di lavoro. Ogni scostamento è un punto da verificare, non necessariamente un errore.
 
-## Scostamenti fra il totale dichiarato nel foglio «Copertine» e i fascicoli accertati nella matrice
+## Scostamenti fra il totale dichiarato nelle tabelle delle copertine e i fascicoli accertati nella matrice
 
 | annata | totale dichiarato | accertati in matrice | scostamento | totale marcato incerto |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ partendo dalla sola fonte, senza interventi concordati fuori dai dati.
 ## Come è attribuita la copertina a ciascun fascicolo
 
 Il tipo di copertina non è scritto nella matrice: viene dedotto incrociando l'anno riportato in
-copertina, il colore-serie della cella e le tabelle del foglio «Copertine». I criteri si applicano in
+copertina, il colore-serie della cella e le tabelle delle copertine di ogni annata. I criteri si applicano in
 quest'ordine, e nessuno è cablato a mano:
 
 1. **corrispondenza esatta dell'etichetta d'anno.** Il foglio distingue deliberatamente `91` da `1991`, che sono copertine diverse: l'equivalenza fra le due forme è usata solo come ripiego.

@@ -916,3 +916,150 @@ p.due-link .perno { color:var(--oro); margin:0 12px; }
   tr.dettaglio-citta p.nome-citta { font-weight:600; }
   tr.dettaglio-citta p.nome-citta span { font-weight:400; color:var(--tenue); }
 }
+
+/* ===== Tema scuro (18 novembre 2026) =====
+   Si attiva con data-tema="scuro" sull'elemento html, che mette assets/tema.js: dalla
+   scelta fatta col pulsante, ricordata dal browser, o in mancanza dall'impostazione del
+   dispositivo. Senza JavaScript il sito resta chiaro. I colori dei dati (serie, tavole,
+   pastiglie, caselle) non cambiano: sono informazione, non arredo. Cambia tutto il resto. */
+:root[data-tema="scuro"] {
+  --fondo:#11171f; --sup:#18212b; --sup2:#1e2935; --bordo:#2f3c4b; --testa:#1f2b38;
+  --testo:#dde3ea; --tenue:#9ba9b8; --titoli:#b9d0ea; --link:#80b8f0; --oro:#d6a23c;
+  --info:#162638; --info-bordo:#2c4762; --info-segno:#7fa7d1;
+  --giallo:#2b2515; --giallo-testo:#e3c27a; --rosso:#361d1c; --rosso-testo:#f0a59a;
+  --verde:#183019; --verde-testo:#a5d6a5;
+  /* in chiaro --scuro è sia il blu della testata sia il colore dei titoli e dei nomi:
+     in scuro diventa il colore chiaro dei testi, e le poche superfici blu lo fissano a mano */
+  --scuro:#b9d0ea; --blu:#132a45;
+  color-scheme: dark;
+}
+[data-tema="scuro"] body { background:var(--fondo); color:var(--testo); }
+/* testata: il blu resta, è il marchio; si scurisce appena per staccarsi meno dal fondo */
+[data-tema="scuro"] .testata { background:var(--blu); }
+[data-tema="scuro"] .testata.raccolta .marchio, [data-tema="scuro"] .testata.raccolta .marchio span,
+[data-tema="scuro"] .testata.raccolta .menu .apri { color:#0b1622; }
+[data-tema="scuro"] .testata.raccolta .menu .stacco::before { background:#0b1622; }
+[data-tema="scuro"] .testata.raccolta .tendina { border-top-color:#0b1622; }
+[data-tema="scuro"] button.torna-su { border-color:#0b1622; color:#0b1622; }
+[data-tema="scuro"] .tendina { background:var(--sup); box-shadow:0 10px 26px rgba(0,0,0,.5); }
+[data-tema="scuro"] .tendina a:hover { color:#fff; background:var(--sup2); }
+[data-tema="scuro"] .testata.raccolta { background:#b8862a; border-bottom-color:#0b1622; }
+@media (max-width:1000px){ [data-tema="scuro"] .tendina { background:none; } }
+
+/* testi che in chiaro usano il blu della testata */
+[data-tema="scuro"] h1, [data-tema="scuro"] h2, [data-tema="scuro"] h3, [data-tema="scuro"] h4,
+[data-tema="scuro"] .toc b, [data-tema="scuro"] table.layout td.nome,
+[data-tema="scuro"] table.fascicoli-dettaglio td.ann, [data-tema="scuro"] details.scheda-provincia .sigla,
+[data-tema="scuro"] .ann-scheda, [data-tema="scuro"] ul.scheda b, [data-tema="scuro"] .altre-regioni b,
+[data-tema="scuro"] table.roma-fascicoli td.ann, [data-tema="scuro"] table.roma-cartografia td.ann,
+[data-tema="scuro"] dl.articoli dt, [data-tema="scuro"] details.cassetto > summary,
+[data-tema="scuro"] p.linea-ricercata, [data-tema="scuro"] ul.ricercati li b,
+[data-tema="scuro"] .cr-scheda h4, [data-tema="scuro"] .cp-copertine figcaption,
+[data-tema="scuro"] .esito-comuni .titolo-esito, [data-tema="scuro"] .totali-matrice p.titolo-totali,
+[data-tema="scuro"] .casella.numero, [data-tema="scuro"] button.comprimi, [data-tema="scuro"] button.vista-intera,
+[data-tema="scuro"] .cerca-raccolta, [data-tema="scuro"] .cerca-raccolta select,
+[data-tema="scuro"] tr.dettaglio-citta, [data-tema="scuro"] table.griglia.compatta tr.aperta th[scope=row]
+  { color:var(--titoli); }
+[data-tema="scuro"] a { color:var(--link); }
+[data-tema="scuro"] .menu a, [data-tema="scuro"] .marchio { color:#cbd9e8; }
+[data-tema="scuro"] .marchio { color:#fff; }
+[data-tema="scuro"] .testata.raccolta .marchio, [data-tema="scuro"] .testata.raccolta .menu a { color:#0b1622; }
+[data-tema="scuro"] .tendina a { color:var(--testo); }
+[data-tema="scuro"] .testata.raccolta .tendina a { color:var(--testo); }
+@media (max-width:1000px){ [data-tema="scuro"] .testata.raccolta .tendina a { color:#0b1622; } }
+[data-tema="scuro"] blockquote, [data-tema="scuro"] .citazione { color:var(--testo); }
+[data-tema="scuro"] code { background:var(--sup2); }
+
+/* superfici chiare: bianco → superficie, grigini → superficie 2 */
+[data-tema="scuro"] details.scheda-provincia, [data-tema="scuro"] .totali-matrice,
+[data-tema="scuro"] .riquadro-ricerca .esito-comuni, [data-tema="scuro"] .cr-scheda,
+[data-tema="scuro"] ul.ricercati li, [data-tema="scuro"] input, [data-tema="scuro"] select,
+[data-tema="scuro"] table.matrice td.nome, [data-tema="scuro"] .griglia-scorri, [data-tema="scuro"] .scorri
+  { background-color:var(--sup); color:inherit; }
+[data-tema="scuro"] .esito-comuni, [data-tema="scuro"] table.dati tbody tr:nth-child(even),
+[data-tema="scuro"] .cr-scheda.cr-assente, [data-tema="scuro"] table.fascicoli-dettaglio td.fasc.stretta,
+[data-tema="scuro"] table.ea-tabella tbody tr:nth-child(even) td, [data-tema="scuro"] div.ricercati,
+[data-tema="scuro"] .cr-riquadro, [data-tema="scuro"] .comuni-fascicolo select:disabled
+  { background:var(--sup); }
+[data-tema="scuro"] thead th, [data-tema="scuro"] .toc, [data-tema="scuro"] table.dati th,
+[data-tema="scuro"] table.matrice thead th:first-child { background:var(--testa); }
+[data-tema="scuro"] table.ea-tabella td { color:var(--testo); border-color:var(--bordo); }
+[data-tema="scuro"] table.ea-tabella tr.ea-manca td { color:var(--tenue); }
+[data-tema="scuro"] table.ea-tabella th { background:var(--blu); color:#fff; }
+[data-tema="scuro"] table, [data-tema="scuro"] th, [data-tema="scuro"] td { border-color:var(--bordo); }
+
+/* riquadri azzurri informativi */
+[data-tema="scuro"] details.scheda-provincia > summary, [data-tema="scuro"] .totali-matrice p.titolo-totali,
+[data-tema="scuro"] .riquadro-ricerca, [data-tema="scuro"] details.cassetto.nota-pagina,
+[data-tema="scuro"] table.fascicoli-dettaglio tr.comandi th, [data-tema="scuro"] .casella.numero,
+[data-tema="scuro"] button.vista-intera, [data-tema="scuro"] .cr-dati, [data-tema="scuro"] .cerca-raccolta,
+[data-tema="scuro"] table.griglia.compatta tr.dettaglio-citta td
+  { background:var(--info); border-color:var(--info-bordo); }
+[data-tema="scuro"] details.scheda-provincia, [data-tema="scuro"] .totali-matrice,
+[data-tema="scuro"] details.scheda-provincia[open] > summary, [data-tema="scuro"] .cerca-griglia input
+  { border-color:var(--info-bordo); }
+[data-tema="scuro"] button.comprimi { background:var(--sup); border-color:var(--info-bordo); }
+[data-tema="scuro"] button.comprimi::before, [data-tema="scuro"] button.comprimi[aria-expanded="false"]::after,
+[data-tema="scuro"] button.vista-intera::before { color:var(--info-segno); }
+
+/* giallo, rosso, verde */
+[data-tema="scuro"] .fasc-scheda.sospesa, [data-tema="scuro"] table.fascicoli-dettaglio td.fasc.sospesa,
+[data-tema="scuro"] details.cassetto, [data-tema="scuro"] ul.ricercati li.incompleto i
+  { background:var(--giallo); border-color:#5a4a26; }
+[data-tema="scuro"] details.cassetto[open] { background:none; }
+[data-tema="scuro"] details.cassetto.nota-pagina, [data-tema="scuro"] details.cassetto.nota-pagina[open]
+  { background:var(--info); border-color:var(--info-bordo); }
+[data-tema="scuro"] ul.ricercati li.incompleto i { color:var(--giallo-testo); }
+[data-tema="scuro"] .fasc-scheda.dubbia, [data-tema="scuro"] table.fascicoli-dettaglio td.fasc.dubbia,
+[data-tema="scuro"] .dubbio { background:var(--rosso); color:var(--rosso-testo); }
+[data-tema="scuro"] p.rp-completa { background:var(--verde); border-color:#2f5a31; color:var(--verde-testo); }
+
+/* caselle vuote e mancanti della matrice e della griglia */
+[data-tema="scuro"] .striscia-scheda i.manca, [data-tema="scuro"] .casella.manca,
+[data-tema="scuro"] table.matrice.possesso td.manca, [data-tema="scuro"] p.legenda-possesso i.campione.manca,
+[data-tema="scuro"] .casella.forse, [data-tema="scuro"] p.legenda-possesso i.campione.forse
+  { background:var(--fondo); }
+[data-tema="scuro"] table.matrice.possesso td.np, [data-tema="scuro"] p.legenda-possesso i.campione.np
+  { background:#2a333d; }
+[data-tema="scuro"] table.griglia td.no, [data-tema="scuro"] .chiave-griglia i.no { background:#222c37; }
+[data-tema="scuro"] table.griglia td.si, [data-tema="scuro"] .chiave-griglia i.si,
+[data-tema="scuro"] tr.dettaglio-citta i.si, [data-tema="scuro"] .barre .pag { background:#7fa7d1; }
+[data-tema="scuro"] table.griglia.compatta thead { background:var(--fondo); }
+[data-tema="scuro"] .striscia-scheda i.forse
+  { background:repeating-linear-gradient(135deg,#9aa5b1 0 1.5px,var(--fondo) 1.5px 4px); }
+
+/* immagini: la cornice chiara diventa scura */
+[data-tema="scuro"] img { border-color:var(--bordo) !important; }
+
+[data-tema="scuro"] .voce-chiave .casella { background:var(--sup2); }
+[data-tema="scuro"] p.legenda-possesso i.campione[style] { color:#1b2733; }
+[data-tema="scuro"] span.sospeso { background:var(--giallo); color:var(--giallo-testo); border-color:#8a6d1f; }
+/* matrice della raccolta: le caselle «manca» prendono un filo chiaro, così non si
+   confondono col blu notte delle serie 89/90-91/92 */
+[data-tema="scuro"] table.matrice.possesso td.manca { box-shadow:inset 0 0 0 1px #4a5868; }
+[data-tema="scuro"] table.matrice.possesso td.np { background:#252e38; }
+/* testo scuro sopra i colori dei dati; dove il dato chiede il bianco lo dice lo stile in linea, che vince */
+[data-tema="scuro"] td[style*="background"], [data-tema="scuro"] span.casella[style*="background"],
+[data-tema="scuro"] i[style*="background"] { color:#22272b; }
+[data-tema="scuro"] div.provincia-ricercata + div.provincia-ricercata { border-top-color:var(--bordo); }
+[data-tema="scuro"] table.ea-tabella, [data-tema="scuro"] table.ea-tabella tr { border-color:var(--bordo); }
+[data-tema="scuro"] table.ea-tabella tbody tr:nth-child(even) { background:var(--sup); }
+
+/* Pulsante del tema, in alto a destra nella testata. Ha due etichette e il foglio di stile
+   mostra quella giusta, così non c'è un istante con la scritta sbagliata. Senza JavaScript
+   (nessun data-tema sull'html) il pulsante non servirebbe e resta nascosto. */
+.testata .fascia { position:relative; }
+button.tema { display:none; position:absolute; top:12px; right:28px; align-items:center; gap:6px;
+  background:none; border:1px solid rgba(203,217,232,.45); border-radius:14px; padding:3px 10px 3px 8px;
+  color:#cbd9e8; font:12px system-ui,-apple-system,"Segoe UI",sans-serif; letter-spacing:.04em;
+  text-transform:uppercase; cursor:pointer; }
+[data-tema] button.tema { display:flex; }
+button.tema span { display:flex; align-items:center; gap:6px; }
+button.tema svg { width:14px; height:14px; flex:none; }
+[data-tema="scuro"] button.tema .a-scuro, :root:not([data-tema="scuro"]) button.tema .a-chiaro { display:none; }
+button.tema:hover { color:#fff; border-color:var(--oro); }
+button.tema:focus-visible { outline:2px solid var(--oro); outline-offset:2px; }
+.testata.raccolta button.tema { color:#0f2238; border-color:rgba(15,34,56,.45); }
+.testata.raccolta button.tema:hover { color:#000; border-color:var(--scuro); }
+[data-tema="scuro"] .testata.raccolta button.tema { color:#0b1622; border-color:rgba(11,22,34,.5); }
+@media (max-width:700px){ button.tema { right:16px; top:14px; } }
