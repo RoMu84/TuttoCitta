@@ -331,6 +331,10 @@ table.cop { font-size:14px; }
 .galleria.quadri figure { width:auto; }
 .galleria.quadri img { height:420px; width:auto; }
 .galleria.quadri figcaption { max-width:340px; }
+/* Quadri d'unione orizzontali (1500 x 855), uno sotto l'altro: larghi quanto un quadro
+   alto 420px, e stretti col telefono. */
+.galleria.quadri.impilati { flex-direction:column; flex-wrap:nowrap; }
+.galleria.quadri.impilati img { width:737px; max-width:100%; height:auto; }
 .documento { display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start; margin:24px 0 34px; }
 .documento figure { margin:0; width:300px; flex:0 0 auto; }
 .documento img { width:100%; height:auto; border:1px solid var(--bordo); box-shadow:0 2px 7px rgba(20,40,70,.13); }

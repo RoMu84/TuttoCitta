@@ -45,9 +45,9 @@ delle tavole segue l'andamento **da nordovest a sudest**, e le scale si riducono
 di norma da due a quattro per l'intera città. Il quadro d'unione, cioè lo schema che mostra come le
 tavole si dispongono sul territorio, rende la differenza evidente a colpo d'occhio.
 
-<div class="galleria quadri">
-  <figure><img src="../immagini/FI85.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze prima della riforma, fascicolo del 1985" loading="lazy"><figcaption><b>Prima della riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 85<br>annata 1985/86</span></figcaption></figure>
-  <figure><img src="../immagini/FI86.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze dopo la riforma, fascicolo del 1986" loading="lazy"><figcaption><b>Dopo la riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 86<br>annata 1986/87</span></figcaption></figure>
+<div class="galleria quadri impilati">
+  <figure><img src="../immagini/FI85Quadro.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze prima della riforma, fascicolo del 1985" loading="lazy"><figcaption><b>Prima della riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 85<br>annata 1985/86</span></figcaption></figure>
+  <figure><img src="../immagini/FI86Quadro.jpg" alt="Quadro d'unione delle tavole topografiche di Firenze dopo la riforma, fascicolo del 1986" loading="lazy"><figcaption><b>Dopo la riforma</b><br>Quadro d'unione di Firenze<br><span class="dim">tratto dal fascicolo Firenze 86<br>annata 1986/87</span></figcaption></figure>
 </div>
 
 La riforma riguardò le sole dieci città maggiori, che per quattro o cinque annate (a seconda dell'appartenenza rispettivamente alla serie *iniziale* o alla serie *tardiva*) ebbero anche una copertina distinta
