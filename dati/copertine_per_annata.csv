@@ -49,54 +49,54 @@ annata,copertina,etichetta_anno,numero_stimato,colore_tavole
 97/98,Copertina 98 beige,98,5,Grigio
 97/98,Copertina grigia,,33,Grigio
 97/98,Copertina grigia,,2,Grigio
-98/99,Copertina grigia,,?,Grigio
-98/99,Copertina 1999 gialla,1999,?,Grigio
-99/00,Copertina 1999/2000 gialla,1999/2000,?,Grigio
-99/00,Copertina 2000 gialla,2000,?,Grigio
+98/99,Copertina grigia,,43,Grigio
+98/99,Copertina 1999 gialla,1999,1,Grigio
+99/00,Copertina 1999/2000 gialla,1999/2000,34,Grigio
+99/00,Copertina 2000 gialla,2000,5,Grigio
 00/01,Copertina 2000 gialla,2000,1,Grigio
 00/01,Copertina 2000/2001 gialla,2000/2001,?,Grigio
 00/01,Copertina 2000/2001 gialla,2000/2001,?,Grigio cromatico
-00/01,Copertina 2001 gialla,2001,?,Grigio cromatico
+00/01,Copertina 2001 gialla,2001,2,Grigio cromatico
 01/02,Copertina 2001 gialla,2001,1,Grigio cromatico
-01/02,Copertina 2001/2002 gialla,2001/2002,?,Grigio cromatico
-01/02,Copertina 2002 gialla,2002,?,Grigio cromatico
-02/03,Copertina 2002 gialla,2002,?,Grigio cromatico
-02/03,Copertina 2002/2003 gialla,2002/2003,?,Grigio cromatico
-02/03,Copertina 2003 gialla,2003,?,Grigio cromatico
-03/04,Copertina 2003 gialla,2003,?,Grigio cromatico
-03/04,Copertina 2003/2004 gialla,2003/2004,?,Grigio cromatico
-03/04,Copertina 2004 gialla,2004,?,Grigio cromatico
-04/05,Copertina 2004 gialla,2004,?,Grigio cromatico
-04/05,Copertina 2004/2005 gialla,2004/2005,?,Grigio cromatico
+01/02,Copertina 2001/2002 gialla,2001/2002,16,Grigio cromatico
+01/02,Copertina 2002 gialla,2002,10,Grigio cromatico
+02/03,Copertina 2002 gialla,2002,4,Grigio cromatico
+02/03,Copertina 2002/2003 gialla,2002/2003,13,Grigio cromatico
+02/03,Copertina 2003 gialla,2003,8,Grigio cromatico
+03/04,Copertina 2003 gialla,2003,8,Grigio cromatico
+03/04,Copertina 2003/2004 gialla,2003/2004,9,Grigio cromatico
+03/04,Copertina 2004 gialla,2004,10,Grigio cromatico
+04/05,Copertina 2004 gialla,2004,9,Grigio cromatico
+04/05,Copertina 2004/2005 gialla,2004/2005,4,Grigio cromatico
 04/05,Copertina 2004 arancione,2004,15,Grigio cromatico
 04/05,Copertina 2005 arancione,2005,7,Grigio cromatico
 05/06,Copertina 2005 arancione,2005,28,Grigio cromatico
 05/06,Copertina 2006 arancione,2006,4,Grigio cromatico
 05/06,Copertina 2005 arancione/bianca,2005,3,Grigio cromatico
-06/07,Copertina 2006 arancione/bianca,2006,?,Grigio cromatico
-06/07,Copertina 2007 arancione/bianca,2007,?,Grigio cromatico
-07/08,Copertina 2007 arancione/bianca,2007,?,Grigio cromatico
-07/08,Copertina 2008 arancione/bianca,2008,?,Grigio cromatico
-07/08,Copertina 2008/2009 arancione/bianca,2008/2009,?,Grigio cromatico
-08/09,Copertina 2008/2009 arancione/bianca,2008/2009,?,Grigio cromatico
-08/09,Copertina 2009 arancione/bianca,2009,?,Grigio cromatico
-08/09,Copertina 2009/2010 arancione/bianca,2009/2010,?,Grigio cromatico
-09/10,Copertina 2009/2010 arancione/bianca,2009/2010,?,Grigio cromatico
-09/10,Copertina 2009/2010 arancione/bianca formato ridotto,2009/2010,?,Rosa
-09/10,Copertina 2010 arancione/bianca formato ridotto,2010,?,Rosa
-09/10,Copertina 2010/2011 arancione/bianca formato ridotto,2010/2011,?,Rosa
+06/07,Copertina 2006 arancione/bianca,2006,28,Grigio cromatico
+06/07,Copertina 2007 arancione/bianca,2007,7,Grigio cromatico
+07/08,Copertina 2007 arancione/bianca,2007,28,Grigio cromatico
+07/08,Copertina 2008 arancione/bianca,2008,4,Grigio cromatico
+07/08,Copertina 2008/2009 arancione/bianca,2008/2009,3,Grigio cromatico
+08/09,Copertina 2008/2009 arancione/bianca,2008/2009,26,Grigio cromatico
+08/09,Copertina 2009 arancione/bianca,2009,6,Grigio cromatico
+08/09,Copertina 2009/2010 arancione/bianca,2009/2010,3,Grigio cromatico
+09/10,Copertina 2009/2010 arancione/bianca,2009/2010,14,Grigio cromatico
+09/10,Copertina 2009/2010 arancione/bianca formato ridotto,2009/2010,14,Rosa
+09/10,Copertina 2010 arancione/bianca formato ridotto,2010,4,Rosa
+09/10,Copertina 2010/2011 arancione/bianca formato ridotto,2010/2011,3,Rosa
 09/10,Copertina 2010 bianca,2010,1,Rosa
-10/11,Copertina 2010/2011 arancione/bianca formato ridotto,2010/2011,?,Rosa
-10/11,Copertina 2011 arancione/bianca formato ridotto,2011,?,Rosa
-10/11,Copertina 2011/2012 arancione/bianca formato ridotto,2011/2012,?,Rosa
-11/12,Copertina 2011/2012 arancione/bianca formato ridotto,2011/2012,?,Rosa
-11/12,Copertina 2012 arancione/bianca formato ridotto,2012,?,Rosa
-11/12,Copertina 2012/2013 arancione/bianca formato ridotto,2012/2013,?,Rosa
-12/13,Copertina 2012/2013 arancione/bianca formato ridotto,2012/2013,?,Rosa
-12/13,Copertina 2013 arancione/bianca formato ridotto,2013,?,Rosa
-12/13,Copertina 2013/2014 arancione/bianca formato ridotto,2013/2014,?,Rosa
-13/14,Copertina 2013/2014 arancione/bianca formato ridotto,2013/2014,?,Rosa
-13/14,Copertina 2014 arancione/bianca formato ridotto,2014,?,Rosa
-13/14,Copertina 2014/2015 arancione/bianca formato ridotto,2014/2015,?,Rosa
-14/15,Copertina 2014/2015 arancione/bianca formato ridotto,2014/2015,?,Rosa
-14/15,Copertina 2015 arancione/bianca formato ridotto,2015,?,Rosa
+10/11,Copertina 2010/2011 arancione/bianca formato ridotto,2010/2011,28,Rosa
+10/11,Copertina 2011 arancione/bianca formato ridotto,2011,6,Rosa
+10/11,Copertina 2011/2012 arancione/bianca formato ridotto,2011/2012,5,Rosa
+11/12,Copertina 2011/2012 arancione/bianca formato ridotto,2011/2012,28,Rosa
+11/12,Copertina 2012 arancione/bianca formato ridotto,2012,6,Rosa
+11/12,Copertina 2012/2013 arancione/bianca formato ridotto,2012/2013,5,Rosa
+12/13,Copertina 2012/2013 arancione/bianca formato ridotto,2012/2013,28,Rosa
+12/13,Copertina 2013 arancione/bianca formato ridotto,2013,6,Rosa
+12/13,Copertina 2013/2014 arancione/bianca formato ridotto,2013/2014,5,Rosa
+13/14,Copertina 2013/2014 arancione/bianca formato ridotto,2013/2014,28,Rosa
+13/14,Copertina 2014 arancione/bianca formato ridotto,2014,6,Rosa
+13/14,Copertina 2014/2015 arancione/bianca formato ridotto,2014/2015,5,Rosa
+14/15,Copertina 2014/2015 arancione/bianca formato ridotto,2014/2015,28,Rosa
+14/15,Copertina 2015 arancione/bianca formato ridotto,2015,6,Rosa
