@@ -32,6 +32,7 @@ esclusivamente da una passione personale.
 <hr>
 <li><strong><a href="pagine/edizioni-regione-per-regione.md">Le edizioni regione per regione</a></strong> — tabelle regionali che mostrano quali fascicoli vennero pubblicati in ciascuna annata per ciascuna provincia</li>
 <li><strong><a href="pagine/regioni-in-dettaglio.md">Le regioni in dettaglio</a></strong> — per ciascuna regione sono mostrate le copertine di tutte le province annata per annata, la tabella dei comuni cartografati e altre informazioni</li>
+<li><strong><a href="pagine/cerca-province.md">Cerca una provincia</a></strong> — cerca e visualizza quali fascicoli vennero pubblicati per ciascuna provincia</li>
 <hr>
 <li><strong><a href="pagine/questioni-aperte.md">Questioni aperte</a></strong> — ciò che ancora non sappiamo e come segnalarlo</li>
 <li><strong><a href="pagine/come-contribuire.md">Come contribuire</a></strong> — segnalare un fascicolo che possiedi, cedere o donare fascicoli</li>

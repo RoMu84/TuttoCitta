@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le edizioni TuttoCittà provincia per provincia</title>
+<meta name="description" content="Scegli una regione e una provincia: compare una tabella con tutti i fascicoli pubblicati per la provincia selezionata. Le province sono quelle attuali: per…">
+<link rel="canonical" href="https://romu84.github.io/TuttoCitta/pagine/cerca-province.html">
+<link rel="icon" type="image/png" sizes="32x32" href="../Favicon.png">
+<link rel="stylesheet" href="../assets/sito.css">
+<script src="../assets/tema.js"></script>
+
+</head>
+<body>
+<header class="testata">
+  <div class="fascia">
+    <a class="marchio" href="../index.html">TuttoCittà<span>ricostruzione della storia editoriale · 1981-2014</span></a>
+    <button class="tema" type="button"><span class="a-scuro" title="Passa al tema scuro"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg> Scuro</span><span class="a-chiaro" title="Passa al tema chiaro"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5" fill="currentColor"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 1.5v2.5M12 20v2.5M1.5 12H4M20 12h2.5M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8"/></g></svg> Chiaro</span></button>
+    <nav class="menu">
+      <a href="../pagine/index.html">Introduzione</a>
+      <div class="voce">
+        <a href="../pagine/evoluzione-fascicoli.html">Evoluzione dei fascicoli</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-1" aria-label="Mostra le pagine di Evoluzione dei fascicoli"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-1"><li><a href="../pagine/copertine.html">Copertine</a></li><li><a href="../pagine/sezioni.html">Sezioni</a></li><li><a href="../pagine/tabella-layout.html">Tabella dei layout</a></li><li><a href="../pagine/note-editore.html">Note dell'editore</a></li><li><a href="../pagine/tavole.html">Evoluzione della cartografia</a></li><li><a href="../pagine/inserti.html">Inserti speciali</a></li><li><a href="../pagine/stradarioseat.html">Il precursore: lo stradario SEAT</a></li></ul>
+      </div>
+      <div class="voce">
+        <a href="../pagine/edizioni.html">Edizioni</a>
+        <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-2" aria-label="Mostra le pagine di Edizioni"><i class="freccia"></i></button>
+        <ul class="tendina" id="tendina-2"><li><a href="../pagine/edizioni-regione-per-regione.html">Edizioni regione per regione</a></li><li><a href="../pagine/regioni-in-dettaglio.html">Le regioni in dettaglio</a></li><li><a href="../pagine/cerca-province.html">Cerca una provincia</a></li><li><a href="../pagine/roma.html">Speciale: Roma città</a></li></ul>
+      </div>
+      <a href="../pagine/raccolta.html">Esplora la raccolta</a>
+      <a href="../pagine/questioni-aperte.html">Questioni aperte</a>
+      <a href="../pagine/come-contribuire.html">Come contribuire</a>
+      <span class="stacco" aria-hidden="true"></span>
+      <a href="../pagine/cerca-fascicoli.html">Cerca nei dati</a>
+      <span class="stacco" aria-hidden="true"></span>
+      <a href="../pagine/licenza.html">Licenza</a>
+      <a href="../CONTROLLI.html">Integrità</a>
+      <a href="../CHANGELOG.html">Changelog</a>
+    </nav>
+  </div>
+</header>
+<main>
+<h1 id="cerca-una-provincia">Cerca una provincia</h1>
+<p>Scegli una regione e una provincia: compare una tabella con tutti i fascicoli pubblicati per la
+provincia selezionata. Le province sono quelle attuali: per una provincia nata più tardi, come Prato,
+le annate precedenti rimandano al fascicolo in cui erano i suoi comuni.</p>
+<p>Il colore della cella indica il tipo di copertina; tutte le tipologie di copertina sono visualizzabili
+nella <a href="copertine.html">pagina Copertine</a>.</p>
+<p>Per ciascuna casella rappresentante un fascicolo è riportato l'anno di copertina quando questo è noto.<br />
+x indica che sebbene sia accertata l'esistenza del fascicolo, l'anno di copertina non è noto con precisione.<br />
+? indica che la pubblicazione è probabile ma non è confermata.<br />
+Le celle vuote indicano che il fascicolo non è pubblicato.</p>
+<div class="cerca-raccolta">
+<label>Regione <select id="pc-regione"><option value="">scegli…</option><option value="abruzzo">Abruzzo</option><option value="basilicata">Basilicata</option><option value="calabria">Calabria</option><option value="campania">Campania</option><option value="emilia-romagna">Emilia - Romagna</option><option value="friuli-venezia-giulia">Friuli - Venezia Giulia</option><option value="lazio">Lazio</option><option value="liguria">Liguria</option><option value="lombardia">Lombardia</option><option value="marche">Marche</option><option value="molise">Molise</option><option value="piemonte">Piemonte</option><option value="puglia">Puglia</option><option value="sardegna">Sardegna</option><option value="sicilia">Sicilia</option><option value="toscana">Toscana</option><option value="trentino-alto-adige">Trentino - Alto Adige</option><option value="umbria">Umbria</option><option value="valle-daosta">Valle d'Aosta</option><option value="veneto">Veneto</option></select></label>
+<label>Provincia <select id="pc-provincia" disabled><option value="">—</option></select></label>
+</div>
+<div id="pc-esito" aria-live="polite"></div>
+
+<script>
+(function(){
+  var R = document.getElementById('pc-regione'), P = document.getElementById('pc-provincia'),
+      E = document.getElementById('pc-esito'), D = null;
+  function esc(s){ return String(s == null ? '' : s).replace(/[&<>"]/g, function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  R.addEventListener('change', function(){
+    P.innerHTML = '<option value="">—</option>'; P.disabled = true; E.innerHTML = ''; D = null;
+    if (!R.value) return;
+    P.innerHTML = '<option value="">caricamento…</option>';
+    fetch('../assets/province-censimento/' + R.value + '.json').then(function(r){ return r.json(); })
+      .then(function(d){
+        D = d;
+        P.innerHTML = '<option value="">scegli…</option>' + d.province.map(function(p){
+          return '<option>' + esc(p) + '</option>'; }).join('');
+        P.disabled = false;
+      }).catch(function(){ P.innerHTML = '<option value="">dati non disponibili</option>'; });
+  });
+  P.addEventListener('change', function(){
+    E.innerHTML = '';
+    if (!P.value || !D) return;
+    var celle = D.P[P.value] || [];
+    if (!celle.length) { E.innerHTML = '<p class="cr-nota">Nessun fascicolo per questa provincia.</p>'; return; }
+    var per = {}, ordine = [], accertati = 0;
+    celle.forEach(function(c){
+      if (!per[c[0]]) { per[c[0]] = {}; ordine.push(c[0]); }
+      per[c[0]][c[1]] = c;
+      if (c[2] !== '?') accertati++;
+    });
+    ordine.sort(function(a, b){ return a - b; });
+    var h = '<div class="scorri"><table class="' + 'matrice a-schede"><thead><tr><th>fascicolo</th>'
+      + D.annate.map(function(a){ return '<th>' + esc(a) + '</th>'; }).join('') + '</tr></thead><tbody>';
+    ordine.forEach(function(ri){
+      h += '<tr><td class="nome">' + esc(D.righe[ri]) + '</td>';
+      D.annate.forEach(function(a, ai){
+        var c = per[ri][ai];
+        if (!c) h += '<td></td>';
+        else if (!c[3]) h += '<td>' + esc(c[2]) + '</td>';
+        else h += '<td style="background:' + c[3] + (c[4] ? ';color:#fff' : '') + '">' + esc(c[2]) + '</td>';
+      });
+      h += '</tr>';
+    });
+    h += '</tbody></' + 'table></div>'
+      + '<p><strong>Numero totale dei fascicoli accertati: ' + accertati + '</strong></p>'
+      + '<p class="cr-rimando">Tutti i fascicoli della regione: <a href="regioni/' + D.slug + '.html">'
+      + esc(D.regione) + '</a></p>';
+    E.innerHTML = h;
+    if (window.schedeMatrice) window.schedeMatrice(E.querySelector('table'));
+  });
+})();
+</script>
+</main>
+<footer class="pie">
+<div class="fascia">
+Contatto: <span class="contatto" data-u="rigilkent84" data-d="hotmail.com"></span> ·
+Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
+</div>
+</footer>
+<script>
+/* Tendine dell'intestazione. Dove c'è un puntatore l'apertura al passaggio la fa il
+   foglio di stile; qui si aggiunge quel che il solo CSS non può: apertura al tocco,
+   chiusura toccando fuori o con Esc, stato annunciato con aria-expanded. Se questo
+   codice non venisse eseguito resterebbero i collegamenti delle pagine contenitore,
+   che elencano le stesse sottopagine. */
+(function(){
+  var voci = Array.prototype.slice.call(document.querySelectorAll('.menu .voce'));
+  if (!voci.length) return;
+  var conPuntatore = window.matchMedia && window.matchMedia('(hover:hover)').matches;
+
+  function stato(v, aperta){
+    v.classList.toggle('aperta', aperta);
+    var b = v.querySelector('.apri');
+    if (b) b.setAttribute('aria-expanded', aperta ? 'true' : 'false');
+  }
+  function chiudi(tranne){
+    voci.forEach(function(v){ if (v !== tranne) stato(v, false); });
+  }
+
+  voci.forEach(function(v){
+    var b = v.querySelector('.apri');
+    if (b) b.addEventListener('click', function(e){
+      e.preventDefault();
+      e.stopPropagation();           /* altrimenti chiude subito il gestore sul documento */
+      var apri = !v.classList.contains('aperta');
+      chiudi(v); stato(v, apri);
+    });
+    /* Tabulando dentro la voce l'elenco si apre da sé; sul pulsante no, perché lì
+       ad aprire è Invio, che arriva come clic. */
+    v.addEventListener('focusin', function(e){
+      if (e.target.classList.contains('apri')) return;
+      chiudi(v); stato(v, true);
+    });
+    v.addEventListener('focusout', function(e){
+      var dove = e.relatedTarget;
+      if (v.contains(dove)) return;
+      /* Se il fuoco sta passando a un'altra voce del menu, chiudere adesso sposterebbe
+         il pannello mentre il dito è ancora premuto, e il tocco andrebbe perso fra la
+         pressione e il rilascio: a chiudere ci pensa il gestore del clic, dopo. */
+      if (dove && dove.closest && dove.closest('.menu')) return;
+      stato(v, false);
+    });
+    /* Con il puntatore l'apertura al passaggio è del CSS: se un clic ha lasciato la
+       voce aperta, uscendo si richiude, senza restare appesa sopra il contenuto. */
+    if (conPuntatore) v.addEventListener('mouseleave', function(){ stato(v, false); });
+  });
+
+  document.addEventListener('click', function(e){
+    if (!(e.target instanceof Element) || !e.target.closest('.menu .voce')) chiudi(null);
+  });
+  document.addEventListener('keydown', function(e){
+    if (e.key !== 'Escape' && e.key !== 'Esc') return;
+    var aperta = null;
+    voci.forEach(function(v){ if (v.classList.contains('aperta')) aperta = v; });
+    if (!aperta) return;
+    stato(aperta, false);
+    var b = aperta.querySelector('.apri');   /* il fuoco torna dove si era */
+    if (b) b.focus();
+  });
+})();
+
+/* Trascinare col mouse le tabelle più larghe della pagina. Un clic senza movimento
+   resta un clic, quindi i collegamenti nelle celle funzionano come prima; il tocco
+   non è toccato, perché col dito lo scorrimento laterale c'è già. */
+(function(){
+  if (!window.PointerEvent) return;
+  var SOGLIA = 5;   /* pixel di movimento prima che una pressione diventi trascinamento */
+  var scatole = Array.prototype.slice.call(document.querySelectorAll('.scorri'));
+  function misura(s){ s.classList.toggle('trascinabile', s.scrollWidth > s.clientWidth + 1); }
+  function misuraTutte(){ scatole.forEach(misura); }
+  misuraTutte();
+  window.addEventListener('resize', misuraTutte);
+  window.addEventListener('load', misuraTutte);   /* le copertine cambiano la larghezza */
+
+  scatole.forEach(function(s){
+    var x0 = 0, sx0 = 0, premuto = false, trascinato = false, id = null;
+    /* la tabella della ricerca si riempie dopo il caricamento: si rimisura al passaggio */
+    s.addEventListener('mouseenter', function(){ misura(s); });
+    s.addEventListener('pointerdown', function(e){
+      if (e.pointerType !== 'mouse' || e.button !== 0) return;
+      misura(s);
+      if (!s.classList.contains('trascinabile')) return;
+      premuto = true; trascinato = false; id = e.pointerId;
+      x0 = e.clientX; sx0 = s.scrollLeft;
+    });
+    s.addEventListener('pointermove', function(e){
+      if (!premuto || e.pointerId !== id) return;
+      var dx = e.clientX - x0;
+      if (!trascinato) {
+        if (Math.abs(dx) < SOGLIA) return;
+        trascinato = true;
+        s.classList.add('trascinando');
+        if (window.getSelection) window.getSelection().removeAllRanges();
+        try { s.setPointerCapture(id); } catch (err) {}
+      }
+      s.scrollLeft = sx0 - dx;
+      e.preventDefault();
+    });
+    function fine(e){
+      if (!premuto || e.pointerId !== id) return;
+      premuto = false;
+      s.classList.remove('trascinando');
+      try { s.releasePointerCapture(id); } catch (err) {}
+      if (!trascinato) return;
+      /* il rilascio dopo un trascinamento non deve aprire il collegamento sotto il mouse */
+      function blocca(ev){ ev.preventDefault(); ev.stopPropagation(); }
+      s.addEventListener('click', blocca, true);
+      setTimeout(function(){ s.removeEventListener('click', blocca, true); }, 0);
+    }
+    s.addEventListener('pointerup', fine);
+    s.addEventListener('pointercancel', fine);
+    /* le immagini delle copertine, altrimenti, si trascinerebbero via come file */
+    s.addEventListener('dragstart', function(e){
+      if (s.classList.contains('trascinabile')) e.preventDefault();
+    });
+  });
+})();
+
+
+/* Censimento per regione, su tablet e telefono: ogni riga della matrice diventa una
+   scheda chiusa, con il nome del raggruppamento, il numero di fascicoli e l'intervallo
+   di annate, e sotto una striscia sottile di un segmento per annata, col colore della
+   copertina. Aperta, la scheda mostra le caselle complete con la loro annata. La riga
+   «Totale accertati» diventa in fondo «Fascicoli accertati per annata». Tutto si
+   costruisce qui dalla tabella, che resta nella pagina: senza JavaScript, o sopra i
+   1000 pixel, si vede la tabella; sotto, le schede. */
+(function(){
+  /* La tabella della raccolta (classe «possesso») ha uno stato in piu: fascicolo pubblicato ma
+     non in raccolta, casella bianca con la classe «manca». La chiave sta solo sopra la prima
+     tabella della pagina, che di tabelle regionali ne ha venti. */
+  var chiaveFatta = false;
+  function casella(c, testo, manca){
+    var k = document.createElement('span');
+    k.className = 'casella' + (testo === '?' ? ' forse' : '') + (manca ? ' manca' : '');
+    k.textContent = testo;
+    if (c) { k.style.background = c.style.background; k.style.color = c.style.color; }
+    return k;
+  }
+  function voce(k, annata){
+    var v = document.createElement('div'); v.className = 'voce-matrice';
+    var e = document.createElement('span'); e.className = 'annata'; e.textContent = annata;
+    v.appendChild(k); v.appendChild(e);
+    return v;
+  }
+  function schede(tab){
+    var annate = Array.prototype.map.call(tab.tHead.rows[0].cells, function(c){
+      return c.textContent.trim(); }).slice(1);
+    var righe = Array.prototype.slice.call(tab.tBodies[0].rows);
+    var poss = tab.classList.contains('possesso');
+    var totale = null;
+    if (righe.length && /^Totale/.test(righe[righe.length - 1].cells[0].textContent.trim()))
+      totale = righe.pop();
+    var elenco = document.createElement('div');
+    elenco.className = 'schede-matrice';
+    var chiave = document.createElement('p'); chiave.className = 'chiave-matrice';
+    (poss ? [['94', 'in raccolta'], ['manca', 'non in raccolta'], ['?', 'probabile'], ['', 'non pubblicato']]
+          : [['94', 'anno di copertina'], ['x', 'anno non noto'], ['?', 'probabile'], ['', 'non pubblicato']])
+      .forEach(function(p){
+        var g = document.createElement('span'); g.className = 'voce-chiave';
+        var k;
+        if (p[0] === 'manca') k = casella(null, '', true);
+        else if (p[0]) k = casella(null, p[0]);
+        else {   /* gli anni senza fascicolo si vedono solo nella striscia: un filo */
+          k = document.createElement('span'); k.className = 'striscia-scheda';
+          k.appendChild(document.createElement('i')).className = 'vuoto';
+        }
+        g.appendChild(k); g.appendChild(document.createTextNode(p[1]));
+        chiave.appendChild(g);
+      });
+    if (!chiaveFatta) elenco.appendChild(chiave);
+    chiaveFatta = true;
+    righe.forEach(function(r){
+      var accertati = 0, probabili = 0, mancanti = 0, primo = -1, ultimo = -1;
+      var striscia = document.createElement('span'); striscia.className = 'striscia-scheda';
+      striscia.setAttribute('aria-hidden', 'true');
+      var griglia = document.createElement('div'); griglia.className = 'griglia-matrice';
+      Array.prototype.forEach.call(r.cells, function(c, i){
+        if (i === 0) return;
+        var t = c.textContent.trim(), seg = document.createElement('i');
+        if (c.classList.contains('manca')) {
+          accertati++; mancanti++; seg.className = 'manca';
+          if (primo < 0) primo = i - 1;
+          ultimo = i - 1;
+          griglia.appendChild(voce(casella(null, '', true), annate[i - 1]));
+        }
+        else if (!t) seg.className = 'vuoto';
+        else {
+          if (t === '?') { probabili++; seg.className = 'forse'; }
+          else { accertati++; seg.style.background = c.style.background; }
+          if (primo < 0) primo = i - 1;
+          ultimo = i - 1;
+          griglia.appendChild(voce(casella(c, t), annate[i - 1]));
+        }
+        striscia.appendChild(seg);
+      });
+      var d = document.createElement('details');
+      d.className = 'scheda-provincia scheda-matrice';
+      var s = document.createElement('summary');
+      var nome = document.createElement('span'); nome.className = 'sigla';
+      nome.innerHTML = r.cells[0].innerHTML;
+      var n = document.createElement('span'); n.className = 'conto';
+      var parti = [poss ? (accertati - mancanti) + ' in raccolta su ' + accertati
+                        : (accertati === 1 ? '1 fascicolo' : accertati + ' fascicoli')];
+      if (probabili) parti.push(probabili === 1 ? '1 probabile' : probabili + ' probabili');
+      if (primo >= 0) parti.push(primo === ultimo ? annate[primo] : annate[primo] + ' \u2013 ' + annate[ultimo]);
+      n.textContent = parti.join(' \u00b7 ');
+      s.appendChild(nome); s.appendChild(n); s.appendChild(striscia);
+      d.appendChild(s); d.appendChild(griglia);
+      elenco.appendChild(d);
+    });
+    /* con un solo raggruppamento i totali ripeterebbero la sua scheda */
+    if (totale && righe.length > 1) {
+      var b = document.createElement('div'); b.className = 'totali-matrice';
+      var h = document.createElement('p'); h.className = 'titolo-totali';
+      h.textContent = poss ? 'Fascicoli in raccolta per annata' : 'Fascicoli accertati per annata';
+      var g = document.createElement('div'); g.className = 'griglia-matrice';
+      Array.prototype.forEach.call(totale.cells, function(c, i){
+        var t = c.textContent.trim();
+        if (i === 0 || !t) return;
+        var k = casella(null, t); k.className += ' numero';
+        g.appendChild(voce(k, annate[i - 1]));
+      });
+      b.appendChild(h); b.appendChild(g);
+      elenco.appendChild(b);
+    }
+    var scatola = tab.closest('.scorri') || tab;
+    scatola.classList.add('ha-schede');
+    scatola.parentNode.insertBefore(elenco, scatola);
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('table.matrice.a-schede'), schede);
+  /* Per le tabelle costruite dopo il caricamento, come quella di «Cerca una provincia»
+     (19 novembre 2026): ognuna ha la sua chiave. */
+  window.schedeMatrice = function(tab){ chiaveFatta = false; schede(tab); };
+})();
+
+</script>
+<script>
+/* L'indirizzo non compare nel sorgente: viene composto qui, così i raccoglitori
+   automatici, che leggono l'HTML statico senza eseguire codice, non lo trovano. */
+document.querySelectorAll('.contatto').forEach(function(e){
+  var a=document.createElement('a');
+  a.href='mail'+'to:'+e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  a.textContent=e.dataset.u+String.fromCharCode(64)+e.dataset.d;
+  e.appendChild(a);
+});
+</script>
+<script>
+/* Esclusione dal conteggio: aprendo una pagina con ?escludimi=1 il browser memorizza
+   il contrassegno che GoatCounter riconosce, e da quel momento non conta piu le visite
+   da questo dispositivo. Con ?contami=1 il contrassegno viene rimosso. */
+try {
+  var qs=location.search;
+  if (qs.indexOf('escludimi=1')>-1) localStorage.setItem('skipgc','t');
+  if (qs.indexOf('contami=1')>-1)   localStorage.removeItem('skipgc');
+} catch(e) {}
+</script>
+<script data-goatcounter="https://romu84.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

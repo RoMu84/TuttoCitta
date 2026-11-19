@@ -26,7 +26,7 @@
       <div class="voce">
         <a href="../../pagine/edizioni.html">Edizioni</a>
         <button class="apri" type="button" aria-expanded="false" aria-controls="tendina-2" aria-label="Mostra le pagine di Edizioni"><i class="freccia"></i></button>
-        <ul class="tendina" id="tendina-2"><li><a href="../../pagine/edizioni-regione-per-regione.html">Edizioni regione per regione</a></li><li><a href="../../pagine/regioni-in-dettaglio.html">Le regioni in dettaglio</a></li><li><a href="../../pagine/roma.html">Speciale: Roma città</a></li></ul>
+        <ul class="tendina" id="tendina-2"><li><a href="../../pagine/edizioni-regione-per-regione.html">Edizioni regione per regione</a></li><li><a href="../../pagine/regioni-in-dettaglio.html">Le regioni in dettaglio</a></li><li><a href="../../pagine/cerca-province.html">Cerca una provincia</a></li><li><a href="../../pagine/roma.html">Speciale: Roma città</a></li></ul>
       </div>
       <a href="../../pagine/raccolta.html">Esplora la raccolta</a>
       <a href="../../pagine/questioni-aperte.html">Questioni aperte</a>
@@ -197,7 +197,6 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
    costruisce qui dalla tabella, che resta nella pagina: senza JavaScript, o sopra i
    1000 pixel, si vede la tabella; sotto, le schede. */
 (function(){
-  var tabelle = document.querySelectorAll('table.matrice.a-schede');
   /* La tabella della raccolta (classe «possesso») ha uno stato in piu: fascicolo pubblicato ma
      non in raccolta, casella bianca con la classe «manca». La chiave sta solo sopra la prima
      tabella della pagina, che di tabelle regionali ne ha venti. */
@@ -215,7 +214,7 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     v.appendChild(k); v.appendChild(e);
     return v;
   }
-  Array.prototype.forEach.call(tabelle, function(tab){
+  function schede(tab){
     var annate = Array.prototype.map.call(tab.tHead.rows[0].cells, function(c){
       return c.textContent.trim(); }).slice(1);
     var righe = Array.prototype.slice.call(tab.tBodies[0].rows);
@@ -299,7 +298,11 @@ Segnalazioni sul <a href="https://github.com/romu84/TuttoCitta">repository</a>
     var scatola = tab.closest('.scorri') || tab;
     scatola.classList.add('ha-schede');
     scatola.parentNode.insertBefore(elenco, scatola);
-  });
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('table.matrice.a-schede'), schede);
+  /* Per le tabelle costruite dopo il caricamento, come quella di «Cerca una provincia»
+     (19 novembre 2026): ognuna ha la sua chiave. */
+  window.schedeMatrice = function(tab){ chiaveFatta = false; schede(tab); };
 })();
 
 </script>
