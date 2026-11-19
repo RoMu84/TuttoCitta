@@ -80,13 +80,16 @@ Le celle vuote indicano che il fascicolo non è pubblicato.</p>
     if (!P.value || !D) return;
     var celle = D.P[P.value] || [];
     if (!celle.length) { E.innerHTML = '<p class="cr-nota">Nessun fascicolo per questa provincia.</p>'; return; }
-    var per = {}, ordine = [], accertati = 0;
+    var per = {}, ordine = [], primo = {}, accertati = 0;
     celle.forEach(function(c){
-      if (!per[c[0]]) { per[c[0]] = {}; ordine.push(c[0]); }
+      if (!per[c[0]]) { per[c[0]] = {}; ordine.push(c[0]); primo[c[0]] = c[1]; }
       per[c[0]][c[1]] = c;
+      if (c[1] < primo[c[0]]) primo[c[0]] = c[1];
       if (c[2] !== '?') accertati++;
     });
-    ordine.sort(function(a, b){ return a - b; });
+    // prima le righe coi fascicoli piu vecchi (Enna: «Enna - Ragusa - Siracusa», dal 1982, prima di
+    // «Caltanissetta - Enna», dal 1990; Roberto, 19 novembre 2026); a parita, l'ordine del censimento
+    ordine.sort(function(a, b){ return (primo[a] - primo[b]) || (a - b); });
     var h = '<div class="scorri"><table class="' + 'matrice a-schede"><thead><tr><th>fascicolo</th>'
       + D.annate.map(function(a){ return '<th>' + esc(a) + '</th>'; }).join('') + '</tr></thead><tbody>';
     ordine.forEach(function(ri){
