@@ -309,11 +309,83 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd>Sassari, la "fabbrica" di scienziati e presidenti <b class="perno">&bull;</b> Libri e antichi manoscritti, paradiso dei lettori <b class="perno">&bull;</b> La casa delle streghe e le porte dell'Aldilà <b class="perno">&bull;</b> Da Villanova a Pozzomaggiore, nuraghi e pascoli</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd>Weekend fuori città. Cucina "terragna" in riva al mare"</dd>
+  <dt>Carbonia - Iglesias</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Villacidro - Sanluri</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Carbonia - Iglesias</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Villacidro - Sanluri</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Carbonia - Iglesias</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Villacidro - Sanluri</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd>Itinerario natura. A piedi o in bici nel parco a due passi da casa</dd>
+  <dt>Carbonia - Iglesias</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Villacidro - Sanluri</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd>Bike sharing e Wi-Fi. La mappa della memoria. A piedi o in bici, tra le reti di navigazione on line tracce millenarie nel tessuto urbano di Cagliari</dd>
+  <dt>Carbonia - Iglesias</dt>
+  <dd>Itinerario urbano. Storie e architetture del carbone</dd>
+  <dt>Villacidro - Sanluri</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Cagliari</dt>
+  <dd>La città che cambia. Cagliari investe sul proprio futuro con centosessanta interventi in vista del 2019</dd>
+  <dt>Carbonia - Iglesias e Villacidro - Sanluri</dt>
+  <dd>La città che cambia. Carbonia, Villacidro e Sanluri puntano su ambiente, giovani e nuove tecnologie</dd>
+</dl>
+
 ## I dati
 
 - [`sardegna-raccolta_fascicoli.csv`](../dati/sardegna-raccolta_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`sardegna-raccolta_cartografia.csv`](../dati/sardegna-raccolta_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`sardegna-raccolta_articoli.csv`](../dati/sardegna-raccolta_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`sardegna-raccolta_articoli.csv`](../dati/sardegna-raccolta_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 <div class="altre-regioni" markdown="1">
 <b>Le altre regioni</b>

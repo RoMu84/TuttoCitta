@@ -293,11 +293,66 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd>Gli inviti speciali del "Piccolo Corriere" <b class="perno">&bull;</b> Nel regno dei lettori, tra fisica e spartiti musicali <b class="perno">&bull;</b> Imprenditori, applausi e desideri per la città <b class="perno">&bull;</b> Le leggende di villa Margone <b class="perno">&bull;</b> Le navi del cielo nel Museo Caproni <b class="perno">&bull;</b> Isera, cartoline d'amore e di guerra <b class="perno">&bull;</b> Segherie e fucine nei boschi di Cavalese <b class="perno">&bull;</b> Mozart a Rovereto una notte di Natale <b class="perno">&bull;</b> La provincia verde. Marmitte e doline disegnate dall'acqua <b class="perno">&bull;</b> Il ginkgo dei dinosauri <b class="perno">&bull;</b> Vacanze in baita tra poeti e frutteti</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-05-06">Annata 05/06</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 05 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 06 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 07 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 08/09 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 09/10 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 10/11 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 11/12 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 12/13 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 13/14 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Bolzano</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bolzano 14/15 non è in raccolta</dd>
+</dl>
+
 ## I dati
 
 - [`trentino-alto-adige_fascicoli.csv`](../dati/trentino-alto-adige_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`trentino-alto-adige_cartografia.csv`](../dati/trentino-alto-adige_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`trentino-alto-adige_articoli.csv`](../dati/trentino-alto-adige_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`trentino-alto-adige_articoli.csv`](../dati/trentino-alto-adige_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#trentino-alto-adige). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
 

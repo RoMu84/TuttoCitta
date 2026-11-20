@@ -384,6 +384,82 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd>Il valoroso San Cataldo che giunse dall'Irlanda <b class="perno">&bull;</b> Itinerari per il week-end. Gravine e tesori d'arte da Grottaglie a Manduria <b class="perno">&bull;</b> La provincia verde. In bici nelle Murge fra boschi e masserie <b class="perno">&bull;</b> Il magico biancospino per gli spiriti e le fate <b class="perno">&bull;</b> San Pasquale, un tesoro nato tra le polemiche <b class="perno">&bull;</b> Tra i libri</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-05-06">Annata 05/06</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bari 06 non è in raccolta</dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 06 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd>Weekend fuori città. L'enigma di castel del Monte <b class="perno">&bull;</b> Weekend fuori città. Arte e cibo nella quiete della Valle d'Italia</dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 07 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bari 08/09 non è in raccolta</dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 08/09 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd>Weekend fuori città. Castel del Monte, patrimonio dell'umanità</dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 09/10 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Barletta - Andria - Trani</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 10/11 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Barletta - Andria - Trani</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 11/12 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd>I mercati rionali. Quattordici santi e un marchio per i mercati rionali di Bari</dd>
+  <dt>Barletta - Andria - Trani</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 12/13 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd>Itinerario in bici. I tesori della "nuova" Bari Vecchia. Una pedalata tra i monumenti, le curiosità e la movida. Con il bike sharing comunale 21 postazioni in città</dd>
+  <dt>Barletta - Andria - Trani</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 13/14 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Bari</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bari - Barletta Andria Trani 14/15 non è in raccolta</dd>
+  <dt>Lecce</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lecce 14/15 non è in raccolta</dd>
+</dl>
+
 ## Un esemplare fuori serie: Bari 1996 con layout '90 riformato
 
 Alla raccolta appartiene un fascicolo barese che non corrisponde a nessuna edizione distribuita. Ha la veste grafica del layout *TuttoCittà '90 riformato* e la finestra d'uso febbraio 1998 - gennaio 1999, la stessa del fascicolo regolare dell'annata 1997/98, ma il colophon lo intitola *TuttoCittà 1997* e ne data l'aggiornamento a dicembre 1996. In copertina, dove le edizioni regolari non riportano nulla, compare un sommario in forma molto ridotta.
@@ -416,7 +492,7 @@ Questo è il solo esemplare del genere finora noto, ma la sua rarità apparente 
 
 - [`puglia_fascicoli.csv`](../dati/puglia_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`puglia_cartografia.csv`](../dati/puglia_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`puglia_articoli.csv`](../dati/puglia_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`puglia_articoli.csv`](../dati/puglia_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#puglia). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
 

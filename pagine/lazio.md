@@ -373,11 +373,61 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd><span class="sospeso">in sospeso</span> il fascicolo Rieti - Viterbo 97 non è in raccolta</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd>Weekend fuori città. Tuscolo, prima di Roma <b class="perno">&bull;</b> Weekend fuori città. L'ulivo più grande del mondo</dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd>Itinerario natura. Sorprese nel verde. Cinque sguardi su Roma tra i profumi di parchi e giardini</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd>Itinerario urbano. La città delle donne. Dal mito alla Storia, piccole e grandi protagoniste da scoprire lungo le strade o nella rete wi-fi</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Roma</dt>
+  <dd>La città che cambia. Il tridente pedonale, le bici sui bus, musei navigabili e un giardino sull'ex tangenziale</dd>
+</dl>
+
 ## I dati
 
 - [`lazio_fascicoli.csv`](../dati/lazio_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`lazio_cartografia.csv`](../dati/lazio_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`lazio_articoli.csv`](../dati/lazio_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`lazio_articoli.csv`](../dati/lazio_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#lazio). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
 

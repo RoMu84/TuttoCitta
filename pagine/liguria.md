@@ -333,11 +333,71 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd>Nel regno dei bambini <b class="perno">&bull;</b> Tra libri, incunaboli e antichi codici <b class="perno">&bull;</b> Viaggiatori antichi. De Brosses in feluca da Albenga a Savona <b class="perno">&bull;</b> Hitchcock ad Alassio primo film ma d'amore <b class="perno">&bull;</b> La provincia verde. Le dafne sulle rocce del Beigua <b class="perno">&bull;</b> Le dolci more e Satanasso <b class="perno">&bull;</b> Castelvecchio e la disputa dei fichi <b class="perno">&bull;</b> Nei monasteri, rifugio dei moderni viandanti <b class="perno">&bull;</b> Libri in tavola. Basilico, l'erba regale che incantò i poeti <b class="perno">&bull;</b> Al porto, navigando su Internet</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd>Weekend fuori città. Le valli del latte <b class="perno">&bull;</b> Weekend fuori città. Le vigne, gli olivi e Napoleone</dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>La Spezia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo La Spezia 10/11 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>La Spezia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo La Spezia 11/12 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd>Itinerario verde. Giro dei Forti di Genova. A piedi e con il trenino tra storia e natura</dd>
+  <dt>La Spezia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo La Spezia 12/13 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd>Bike sharing e Wi-Fi. Il violino di Niccolò tra bicicletta e wi-fi. Dai carrugi del porto ai concerti in giro per il mondo. I luoghi di Paganini e la chitarra di Mazzini</dd>
+  <dt>La Spezia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo La Spezia 13/14 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Genova</dt>
+  <dd>La città che cambia. Energie alternative e mobilità sostenibile, le azioni concrete di Genova Smart City <b class="perno">&bull;</b> La città che cambia. Pagare l'auto solo quando serve: con il car sharing è possibile e conviene</dd>
+  <dt>La Spezia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo La Spezia 14/15 non è in raccolta</dd>
+</dl>
+
 ## I dati
 
 - [`liguria_fascicoli.csv`](../dati/liguria_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`liguria_cartografia.csv`](../dati/liguria_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`liguria_articoli.csv`](../dati/liguria_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`liguria_articoli.csv`](../dati/liguria_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#liguria). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
 

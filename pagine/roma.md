@@ -158,6 +158,29 @@ diritti appartengono all'editore.
 <h3 id="articoli-96-97">Annata 96/97</h3>
 <div class="articoli"><p>Tempo libero. I templi della notte quartiere per quartiere <b class="perno">&bull;</b> Paolo Bonolis una star del sorriso <b class="perno">&bull;</b> Nasce il primo museo dei bambini <b class="perno">&bull;</b> Una donna del Settecento che diventò maestra di cappella <b class="perno">&bull;</b> La provincia verde. Macchiagrande, le testuggini fra le orchidee <b class="perno">&bull;</b> Una mappa per i turisti fra le suggestioni della capitale <b class="perno">&bull;</b> Dagli alberghi ai conventi: le cifre dell'ospitalità</p></div>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<div class="articoli"><p><em>Nessun articolo</em></p></div>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<div class="articoli"><p><em>Nessun articolo</em></p></div>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<div class="articoli"><p>Weekend fuori città. Tuscolo, prima di Roma <b class="perno">&bull;</b> Weekend fuori città. L'ulivo più grande del mondo</p></div>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<div class="articoli"><p><em>Nessun articolo</em></p></div>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<div class="articoli"><p><em>Nessun articolo</em></p></div>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<div class="articoli"><p><em>Nessun articolo</em></p></div>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<div class="articoli"><p>Itinerario natura. Sorprese nel verde. Cinque sguardi su Roma tra i profumi di parchi e giardini</p></div>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<div class="articoli"><p>Itinerario urbano. La città delle donne. Dal mito alla Storia, piccole e grandi protagoniste da scoprire lungo le strade o nella rete wi-fi</p></div>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<div class="articoli"><p>La città che cambia. Il tridente pedonale, le bici sui bus, musei navigabili e un giardino sull'ex tangenziale</p></div>
+
 ## Pagine e tavole
 
 Le barre scure sono le pagine dei fascicoli, quelle chiare sono invece le tavole topografiche.
@@ -205,7 +228,7 @@ Le barre scure sono le pagine dei fascicoli, quelle chiare sono invece le tavole
 
 - [`roma_fascicoli.csv`](../dati/roma_fascicoli.csv) — un fascicolo per riga: anno di copertina, formato, layout, foliazione
 - [`roma_cartografia.csv`](../dati/roma_cartografia.csv) — un fascicolo per riga: numero di tavole, sfondo, modifiche cartografiche
-- [`roma_articoli.csv`](../dati/roma_articoli.csv) — un titolo per riga: l'indice della rubrica, annata per annata
+- [`roma_articoli.csv`](../dati/roma_articoli.csv) — un titolo per riga: l'indice delle due rubriche, annata per annata (colonna «rubrica»; una riga senza titolo segna un fascicolo senza articoli)
 
 Sono depositati con lo stesso dataset e la stessa licenza del censimento. Chi possiede fascicoli di
 altre regioni e vuole vederli trattati così troverà nelle [questioni

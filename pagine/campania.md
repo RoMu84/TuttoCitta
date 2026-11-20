@@ -375,11 +375,61 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd>I ragazzi di Salerno in consiglio comunale <b class="perno">&bull;</b> Il regno dei lettori <b class="perno">&bull;</b> Sarno, le industrie dell'800 sono diventate palazzi di sogno <b class="perno">&bull;</b> I musei dei mestieri contadini</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd>Weekend fuori città. Il volo degli angeli</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd>Weekend fuori città. La villa dei Misteri</dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd>Itinerario verde. Il grande parco che abbraccia Napoli</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd>Itinerario urbano. Le vie del canto</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Napoli</dt>
+  <dd>La città che cambia. La nuova Città della Scienza e i giovano del Lanificio 25. Al via il Bike Plan, mentre procede il cantiere della Metro 1</dd>
+</dl>
+
 ## I dati
 
 - [`campania_fascicoli.csv`](../dati/campania_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`campania_cartografia.csv`](../dati/campania_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`campania_articoli.csv`](../dati/campania_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`campania_articoli.csv`](../dati/campania_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#campania). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
 

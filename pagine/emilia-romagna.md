@@ -501,11 +501,151 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd><em>nessuna rubrica di articoli (layout anni '90 riformato)</em></dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd>Weekend fuori citta. Fra Modena e Bologna, la crescentina <b class="perno">&bull;</b> Weekend fuori citta. Cimone, il circo bianco</dd>
+  <dt>Ferrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ferrara 06 non è in raccolta</dd>
+  <dt>Modena</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Parma</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Parma 07 non è in raccolta</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 07 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Reggio Emilia 07 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd>Weekend fuori citta. Cucina e natura tra il Reno e il Panaro <b class="perno">&bull;</b> Weekend fuori città. Sul Monte Cimone, paradiso dello sci</dd>
+  <dt>Ferrara</dt>
+  <dd>Weekend fuori città. Nel delta del Po, tra leccornie e castelli <b class="perno">&bull;</b> Weekend fuori città. Lungo la strada del Sangiovese</dd>
+  <dt>Modena</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Parma</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 08 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd>Weekend fuori città. Cimone, il circo bianco</dd>
+  <dt>Ferrara</dt>
+  <dd>Weekend fuori città. Arte e cucina nel Delta del Po <b class="perno">&bull;</b> Weekend fuori città. Colline di Faenza, una strada di sapori</dd>
+  <dt>Modena</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Modena 09 non è in raccolta</dd>
+  <dt>Parma</dt>
+  <dd>Weekend fuori città. Tesori gastronomici fra Verdi e Guareschi <b class="perno">&bull;</b> Weekend fuori città. Percorsi tra arte e gusto</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 09 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Ferrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ferrara 09/10 non è in raccolta</dd>
+  <dt>Modena</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Modena 10 non è in raccolta</dd>
+  <dt>Parma</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Parma 10 non è in raccolta</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 10 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bologna e dintorni 10/11 non è in raccolta</dd>
+  <dt>Ferrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ferrara 10/11 non è in raccolta</dd>
+  <dt>Modena</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Modena 11 non è in raccolta</dd>
+  <dt>Parma</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Parma 11 non è in raccolta</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 11 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Reggio Emilia 11 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Bologna e dintorni 11/12 non è in raccolta</dd>
+  <dt>Ferrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ferrara 11/12 non è in raccolta</dd>
+  <dt>Modena</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Modena 12 non è in raccolta</dd>
+  <dt>Parma</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Parma 12 non è in raccolta</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 12 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Reggio Emilia 12 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd>Itinerario urbano. A Bologna con Lucio. Seguendo Dalla, da via d'Azeglio alla vera piazza Grande</dd>
+  <dt>Ferrara</dt>
+  <dd>Itinerari in bici. Dalle Mura di Ferrara fino al Po. Il fascino degli antichi baluardi e l'Oasi Isola Bianca</dd>
+  <dt>Modena</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Modena 13 non è in raccolta</dd>
+  <dt>Parma</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Parma 13 non è in raccolta</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 13 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Reggio Emilia 13 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd>Bike sharing e Wi-Fi. Ciak, si gira! In bici e in rete. Da quasi cent'anni Bologna è un set cinematografico a cielo aperto, molto amato dai registi italiani</dd>
+  <dt>Ferrara</dt>
+  <dd>Bike sharing e Wi-Fi. Il bici e in rete nei luoghi del giardino. Un itinerario nella Ferrara del celebre romanzo di Giorgio Bassani, portato sullo schermo da De Sica</dd>
+  <dt>Modena</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Modena 14 non è in raccolta</dd>
+  <dt>Parma</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Parma 14 non è in raccolta</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 14 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Reggio Emilia 14 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Bologna</dt>
+  <dd>La città che cambia. Bologna: tre nuove piazze pedonali, isole ecologiche a San Vitale e orti comunali</dd>
+  <dt>Ferrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ferrara 14/15 non è in raccolta</dd>
+  <dt>Modena</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Modena 15 non è in raccolta</dd>
+  <dt>Parma</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Parma 15 non è in raccolta</dd>
+  <dt>Piacenza</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Piacenza 15 non è in raccolta</dd>
+  <dt>Reggio Emilia</dt>
+  <dd>La città che cambia. Innovazione, conoscenza e creatività: un parco per Reggio Emilia</dd>
+</dl>
+
 ## I dati
 
 - [`emilia-romagna_fascicoli.csv`](../dati/emilia-romagna_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`emilia-romagna_cartografia.csv`](../dati/emilia-romagna_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`emilia-romagna_articoli.csv`](../dati/emilia-romagna_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`emilia-romagna_articoli.csv`](../dati/emilia-romagna_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#emilia-romagna). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
 

@@ -329,11 +329,97 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd>Favole, film e sport per i bambini di Udine <b class="perno">&bull;</b> Tra libri e antichi manoscritti <b class="perno">&bull;</b> Nel museo di Zuglio le origini della Carnia <b class="perno">&bull;</b> Il rifugio Pellarini finestra sulle Alpi <b class="perno">&bull;</b> Da Palmanova, città fortezza, ad Aquileia, capolavoro romano <b class="perno">&bull;</b> A Forni di Sopra avventure su due ruote</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 06 non è in raccolta</dd>
+  <dt>Trieste</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 06 non è in raccolta</dd>
+  <dt>Udine</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Udine 06 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 07 non è in raccolta</dd>
+  <dt>Trieste</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 07 non è in raccolta</dd>
+  <dt>Udine</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Udine 07 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Trieste</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Udine</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Trieste</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Udine</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Udine 09/10 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Trieste</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Udine</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Trieste</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Udine</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Udine 11/12 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 12/13 non è in raccolta</dd>
+  <dt>Trieste</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 12/13 non è in raccolta</dd>
+  <dt>Udine</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Udine 12/13 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 13/14 non è in raccolta</dd>
+  <dt>Trieste</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Gorizia - Trieste 13/14 non è in raccolta</dd>
+  <dt>Udine</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Udine 13/14 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Gorizia</dt>
+  <dd>La città che cambia. Riciclo, cultura, giovani e moda. Gorizia si veste di "nuovo"</dd>
+  <dt>Trieste</dt>
+  <dd>La città che cambia. Trieste: con Urbi et Horti semina e raccolto diventano social</dd>
+  <dt>Udine</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Udine 14/15 non è in raccolta</dd>
+</dl>
+
 ## I dati
 
 - [`friuli-venezia-giulia_fascicoli.csv`](../dati/friuli-venezia-giulia_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`friuli-venezia-giulia_cartografia.csv`](../dati/friuli-venezia-giulia_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`friuli-venezia-giulia_articoli.csv`](../dati/friuli-venezia-giulia_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`friuli-venezia-giulia_articoli.csv`](../dati/friuli-venezia-giulia_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#friuli-venezia-giulia). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
 

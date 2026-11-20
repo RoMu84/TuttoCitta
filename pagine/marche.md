@@ -324,11 +324,61 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd><span class="sospeso">in sospeso</span> il fascicolo Pesaro - Urbino 97 non è in raccolta</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ancona 06 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd>Weekend fuori città. Le grotte dell'ittiosauro <b class="perno">&bull;</b> Weekend fuori città. Rosso Conero, il vino degli Etruschi e di Leopardi</dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ancona 10/11 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ancona 12/13 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ancona 13/14 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Ancona</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Ancona 14/15 non è in raccolta</dd>
+</dl>
+
 ## I dati
 
 - [`marche_fascicoli.csv`](../dati/marche_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`marche_cartografia.csv`](../dati/marche_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`marche_articoli.csv`](../dati/marche_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`marche_articoli.csv`](../dati/marche_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#marche). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire.
 

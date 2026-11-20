@@ -461,11 +461,82 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd>Tempo libero. Con "Arturo" a spasso per Vercelli <b class="perno">&bull;</b> Le virtù diplomatiche della beata Bicchieri <b class="perno">&bull;</b> Le quaglie di Babette e le capre dei signori Golovlëv</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-05-06">Annata 05/06</h3>
+<dl class="articoli">
+  <dt>Torino</dt>
+  <dd>Weekend fuori città. La leggenda del mun ferrato</dd>
+</dl>
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Torino</dt>
+  <dd>Weekend fuori città. Tra Langhe e Roero il vino è storia <b class="perno">&bull;</b> Weekend fuori città. Di guardia sulle valli olimpiche</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Torino</dt>
+  <dd>Weekend fuori città. Ad Aosta, con le antiche carovane</dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Torino</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Torino</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Asti</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Asti 11/12 non è in raccolta</dd>
+  <dt>Cuneo</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Torino</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Asti</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Asti 12/13 non è in raccolta</dd>
+  <dt>Cuneo</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Cuneo 12/13 non è in raccolta</dd>
+  <dt>Torino</dt>
+  <dd>Itinerari. L'Anello Verde a due passi dal centro</dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Asti</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Asti 13/14 non è in raccolta</dd>
+  <dt>Cuneo</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Cuneo 13/14 non è in raccolta</dd>
+  <dt>Torino</dt>
+  <dd>Bike sharing e Wi-Fi. In bici, in rete, in giro per la città. Cortili nascosti, case liberty e simboli esoterici tra una pedalata bike sharing e una sosta wi-fi</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Asti</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Asti 14/15 non è in raccolta</dd>
+  <dt>Cuneo</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Cuneo 14/15 non è in raccolta</dd>
+  <dt>Torino</dt>
+  <dd>La città che cambia. Università, ricerca, cultura e tempo libero: le strade dell'eccellenza portano a Torino. Le aree wi-fi e il servizio di car sharing</dd>
+</dl>
+<h3 id="articoli-sindone-2010">Edizione speciale Sindone 2010</h3>
+<dl class="articoli">
+  <dt>Torino</dt>
+  <dd>La prima ostensione del nuovo secolo <b class="perno">&bull;</b> Gli appuntamenti con la cultura <b class="perno">&bull;</b> Il percorso dei pellegrini <b class="perno">&bull;</b> Torino da vedere <b class="perno">&bull;</b> Il Museo della Sindone <b class="perno">&bull;</b> Gesù, il corpo, il volto nell'arte <b class="perno">&bull;</b> Un cuore sacro elegante e maestoso <b class="perno">&bull;</b> Arte e fede nel Quadrilatero Romano <b class="perno">&bull;</b> Da via Po al belvedere dei Cappuccini <b class="perno">&bull;</b> Un evento a impatto zero sull'ambiente</dd>
+</dl>
+
 ## I dati
 
 - [`piemonte_fascicoli.csv`](../dati/piemonte_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`piemonte_cartografia.csv`](../dati/piemonte_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`piemonte_articoli.csv`](../dati/piemonte_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`piemonte_articoli.csv`](../dati/piemonte_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#piemonte). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
 

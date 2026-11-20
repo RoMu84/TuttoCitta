@@ -503,11 +503,115 @@ I titoli sono trascritti come compaiono nel fascicolo. Il testo degli articoli n
   <dd><span class="sospeso">in sospeso</span> il fascicolo Arezzo - Siena 97 non è in raccolta</dd>
 </dl>
 
+## L'indice degli articoli, fine anni duemila - inizio anni dieci
+
+Dalla seconda metà degli anni Duemila fino alla cessazione del prodotto editoriale era presente una piccola rubrica di articoli su ambiente e cultura locale; questa consisteva solitamente di appena uno o due articoli per provincia (molto raramente di più) e si presentava in modo fortemente discontinuo, con diverse annate in cui è assente.
+
+<h3 id="articoli-06-07">Annata 06/07</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd>Weekend fuori città. Da Arezzo nel mondo, la pasta italiana <b class="perno">&bull;</b> Weekend fuori città. Colli senesi, l'arte del mangiar bene</dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 06 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 06 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 06 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-07-08">Annata 07/08</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd>Weekend fuori città. Sulle colline del Chianti, tentazioni di gola <b class="perno">&bull;</b> Weekend fuori città. Sansepolcro, arte in tavola con la pasta <b class="perno">&bull;</b> Weekend fuori città. Mangiar bene tra Firenze e il Falterona</dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 07 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 07 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><em>Nessun articolo</em></dd>
+</dl>
+<h3 id="articoli-08-09">Annata 08/09</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 08/09 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 08/09 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 08/09 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-09-10">Annata 09/10</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Firenze e dintorni 09/10 non è in raccolta</dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 09/10 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 09/10 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 09/10 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-10-11">Annata 10/11</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Firenze e dintorni 10/11 non è in raccolta</dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 10/11 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 10/11 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 10/11 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-11-12">Annata 11/12</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd><em>Nessun articolo</em></dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 11/12 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 11/12 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 11/12 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-12-13">Annata 12/13</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd>Itinerari nel verde. I fiori segreti di Firenze. Giardino delle Rose, Palazzo Corsini e Villa Bardini</dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 12/13 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 12/13 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 12/13 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-13-14">Annata 13/14</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Firenze e dintorni 13/14 non è in raccolta</dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 13/14 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 13/14 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 13/14 non è in raccolta</dd>
+</dl>
+<h3 id="articoli-14-15">Annata 14/15</h3>
+<dl class="articoli">
+  <dt>Firenze</dt>
+  <dd>La città che cambia. Firenze si fa "smart" con nuovi servizi, recupero urbano e mobilità intelligente</dd>
+  <dt>Lucca</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 14/15 non è in raccolta</dd>
+  <dt>Massa - Carrara</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Lucca - Massa - Carrara 14/15 non è in raccolta</dd>
+  <dt>Pisa</dt>
+  <dd><span class="sospeso">in sospeso</span> il fascicolo Pisa 14/15 non è in raccolta</dd>
+</dl>
+
 ## I dati
 
 - [`toscana_fascicoli.csv`](../dati/toscana_fascicoli.csv) — un fascicolo per riga: foliazione, layout, formato, copertina, presenza in raccolta e certezza dell'esistenza
 - [`toscana_cartografia.csv`](../dati/toscana_cartografia.csv) — un comune per riga e per annata, con la provincia e se compariva nell'elenco delle vie
-- [`toscana_articoli.csv`](../dati/toscana_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali
+- [`toscana_articoli.csv`](../dati/toscana_articoli.csv) — un titolo per riga: l'indice delle rubriche provinciali degli anni novanta e di fine anni duemila (colonna «rubrica»); una riga senza titolo segna un fascicolo senza articoli
 
 I fascicoli che mancano sono elencati, con il colore della copertina, fra i [fascicoli ricercati](fascicoli-ricercati.md#toscana). Chi possiede i fascicoli mancanti e vuole vedere questa pagina completata troverà in [questa pagina](come-contribuire.md) come contribuire. Chi possiede uno dei fascicoli di esistenza dubbia, o ne ricorda la distribuzione, aiuterebbe a chiudere una questione diversa e più difficile: se quei fascicoli siano mai stati pubblicati.
 
