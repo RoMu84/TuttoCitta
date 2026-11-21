@@ -125,8 +125,7 @@ uscito.</p>
     (f.art || []).forEach(function(r){
       h += '<h4>Articoli <b class="perno">&bull;</b> Rubrica ' + (/^Provincia di /.test(r[0]) ? 'della ' : 'di ')
         + esc(r[0]) + '</h4>'
-        + (r[1].length ? '<div class="cr-riquadro"><ul class="punti">' + r[1].map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>'
-                       : '<div class="cr-riquadro"><p><em>Nessun articolo</em></p></div>');
+        + '<div class="cr-riquadro"><ul class="punti">' + r[1].map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul></div>';
     });
     return h + '</div>';
   }
