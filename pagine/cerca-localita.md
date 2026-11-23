@@ -6,10 +6,10 @@ esemplari della raccolta.
 
 [Cerca invece fra i fascicoli →](cerca-fascicoli.md)
 
-<div class="cerca">
-  <input type="search" id="q" placeholder="Scrivi un nome, per esempio Cadoneghe" autocomplete="off">
-  <select id="dec"></select>
-  <label class="chk"><input type="checkbox" id="cap"> solo capoluoghi</label>
+<div class="cerca-raccolta">
+<label class="largo">Località <input type="search" id="q" placeholder="Scrivi un nome, per esempio Cadoneghe" autocomplete="off"></label>
+<label>Decennio <select id="dec"></select></label>
+<label class="chk"><input type="checkbox" id="cap"> solo capoluoghi</label>
 </div>
 <p id="stato" class="stato-ricerca">Caricamento dei dati…</p>
 <div class="scorri"><table id="ris" class="dati"></table></div>

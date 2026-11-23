@@ -756,6 +756,13 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cerca-raccolta select { font-size:15px; padding:6px 8px; border:1px solid #a9c8e6; border-radius:5px;
   background:#fff; color:var(--scuro); font-family:inherit; font-weight:400; }
 .cerca-raccolta select:disabled { opacity:.55; }
+/* Anche con una casella di testo e una spunta: cerca-localita e cerca-fascicoli (23 novembre 2026). */
+.cerca-raccolta input[type=search] { font-size:15px; padding:6px 8px; border:1px solid #a9c8e6; border-radius:5px;
+  background:#fff; color:var(--scuro); font-family:inherit; font-weight:400; }
+.cerca-raccolta input[type=search]:focus { outline:2px solid var(--oro); outline-offset:1px; }
+.cerca-raccolta label.largo { flex:2 1 300px; }
+.cerca-raccolta label.chk { flex:0 0 auto; flex-direction:row; align-items:center; align-self:flex-end;
+  gap:6px; font-size:15px; font-weight:400; padding-bottom:7px; }
 .cr-scheda { border:1px solid var(--bordo); border-radius:8px; padding:16px 18px; margin:0 0 16px; background:#fff; }
 .cr-scheda.cr-assente { background:#f7f9fb; color:var(--tenue); }
 .cr-testa { display:flex; gap:20px; align-items:flex-start; }
@@ -868,6 +875,8 @@ p.due-link .perno { color:var(--oro); margin:0 12px; }
 @media (max-width:700px){
   .cerca-raccolta { flex-direction:column; }
   .cerca-raccolta label { flex:none; }
+  .cerca-raccolta label.largo, .cerca-raccolta label.chk { flex:none; }
+  .cerca-raccolta label.chk { align-self:flex-start; padding-bottom:0; }
   .cr-scheda { padding:14px; }
   .cr-testa { flex-direction:column; align-items:stretch; gap:14px; }
   .cr-cop { width:auto; }
@@ -1043,6 +1052,7 @@ p.due-link .perno { color:var(--oro); margin:0 12px; }
 [data-tema="scuro"] i[style*="background"] { color:#22272b; }
 /* I dati del fascicolo nella ricerca della raccolta: blu come il riquadro delle tendine,
    un poco più scuro (Roberto, 18 novembre 2026). */
+[data-tema="scuro"] .cerca-raccolta input[type=search] { background:var(--sup); color:var(--testo); border-color:var(--info-bordo); }
 [data-tema="scuro"] .cr-dati dl { background:#10202f; border-color:var(--info-bordo); }
 [data-tema="scuro"] div.provincia-ricercata + div.provincia-ricercata { border-top-color:var(--bordo); }
 [data-tema="scuro"] table.ea-tabella, [data-tema="scuro"] table.ea-tabella tr { border-color:var(--bordo); }

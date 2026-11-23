@@ -47,11 +47,10 @@ pubblicazione, l'anno riportato in copertina e il tipo di copertina. Il nome mos
 <strong>denominazione in vigore in quell'annata</strong>; dove differisce, sotto compare il nome con cui il fascicolo
 è censito nella sua continuità.</p>
 <p><a href="cerca-localita.html">Cerca invece una località →</a></p>
-<div class="cerca">
-  <input type="search" id="q" placeholder="Fascicolo o tipo di copertina" autocomplete="off">
-  <select id="reg"></select>
-  <select id="ann"></select>
-  <select id="sta"></select>
+<div class="cerca-raccolta">
+<label>Regione <select id="reg"></select></label>
+<label>Annata <select id="ann"></select></label>
+<label>Stato <select id="sta"></select></label>
 </div>
 <p id="stato" class="stato-ricerca">Caricamento dei dati…</p>
 <div class="scorri"><table id="ris" class="dati"></table></div>
@@ -83,7 +82,7 @@ function opzioni(sel, valori, etichetta){
     + valori.map(function(v){return '<option>'+v+'</option>';}).join('');
 }
 
-var dati=[], q=document.getElementById('q'), reg=document.getElementById('reg'),
+var dati=[], reg=document.getElementById('reg'),
     ann=document.getElementById('ann'), sta=document.getElementById('sta'),
     stato=document.getElementById('stato'), ris=document.getElementById('ris');
 function unici(k){ var s={}; dati.forEach(function(d){ if(d[k]) s[d[k]]=1; }); return Object.keys(s).sort(); }
@@ -93,22 +92,19 @@ function ordinaAnnate(a){ return a.sort(function(x,y){
   return (fx>=80?0:1)-(fy>=80?0:1) || fx-fy; }); }
 fetch('../dati/fascicoli_lungo.csv').then(function(r){return r.text();}).then(function(t){
   dati=parseCSV(t);
-  dati.forEach(function(d){ d._n=norm((d.denominazione||'')+' '+d.fascicolo+' '+d.tipo_copertina); });
-  opzioni(reg, unici('regione'), 'seleziona regione');
+  opzioni(reg, unici('regione'), 'scegli…');
   opzioni(ann, ordinaAnnate(unici('annata')), 'tutte le annate');
   opzioni(sta, unici('stato'), 'tutti gli stati');
   sta.value='pubblicato'; mostra();
 }).catch(function(){ stato.textContent='Impossibile caricare i dati.'; });
 
 function mostra(){
-  var s=norm(q.value);
   if(!reg.value){
     ris.innerHTML='';
     stato.textContent='Seleziona una regione per vedere i fascicoli.';
     return;
   }
   var out=dati.filter(function(x){
-    if(s.length>=2 && x._n.indexOf(s)<0) return false;
     if(reg.value && x.regione!==reg.value) return false;
     if(ann.value && x.annata!==ann.value) return false;
     if(sta.value && x.stato!==sta.value) return false;
@@ -129,7 +125,7 @@ function mostra(){
       }).join('') + '</tbody>';
   if(out.length>350) stato.textContent += ' (ne sono mostrati i primi 350)';
 }
-[q,reg,ann,sta].forEach(function(e){ e.addEventListener('input',mostra); });
+[reg,ann,sta].forEach(function(e){ e.addEventListener('input',mostra); });
 </script>
 
 <p><strong>Come leggere i risultati.</strong> Lo stato <em>pubblicato</em> indica un fascicolo accertato; <em>probabile non
