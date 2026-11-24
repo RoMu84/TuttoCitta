@@ -52,7 +52,7 @@ esemplari della raccolta.</p>
 <label class="chk"><input type="checkbox" id="cap"> solo capoluoghi</label>
 </div>
 <p id="stato" class="stato-ricerca">Caricamento dei dati…</p>
-<div class="scorri"><table id="ris" class="dati"></table></div>
+<div class="scorri"><table id="ris" class="dati cl"></table></div>
 
 <script>
 
@@ -81,6 +81,7 @@ function opzioni(sel, valori, etichetta){
     + valori.map(function(v){return '<option>'+v+'</option>';}).join('');
 }
 
+function maiuscola(t){ return t.charAt(0).toUpperCase()+t.slice(1); }
 var DEC=['anni ottanta','anni novanta','anni duemila','anni duemiladieci'];
 var dati=[], q=document.getElementById('q'), dec=document.getElementById('dec'),
     cap=document.getElementById('cap'), stato=document.getElementById('stato'),
@@ -105,11 +106,17 @@ function mostra(){
   });
   stato.textContent = out.length ? out.length+' risultati' : 'Nessun risultato.';
   var max=out.slice(0,350);
-  ris.innerHTML='<thead><tr><th>località</th><th>fascicolo</th><th>capoluogo</th><th>indicizzata</th>'
-    + DEC.map(function(x){return '<th>'+x+'</th>';}).join('') + '</tr></thead><tbody>'
+  /* Sul telefono ogni località è una scheda: nome e fascicolo, capoluogo e indicizzata, e i decenni
+     scritti per esteso al posto dei pallini (l'ultima cella, nascosta su computer). */
+  ris.innerHTML='<thead><tr><th>Località</th><th>Fascicolo</th><th>Capoluogo</th><th>Indicizzata</th>'
+    + DEC.map(function(x){return '<th>'+maiuscola(x)+'</th>';}).join('') + '</tr></thead><tbody>'
     + max.map(function(x){
-        return '<tr><td><b>'+x.localita+'</b></td><td>'+x.fascicolo+'</td><td>'+x.capoluogo+'</td><td>'
-          + x.indicizzata+'</td>'+DEC.map(function(k){return '<td>'+(x[k]==='sì'?'●':'')+'</td>';}).join('')+'</tr>';
+        var dd=DEC.filter(function(k){return x[k]==='sì';})
+                  .map(function(k,i){return i ? k.replace('anni ','') : k;});
+        return '<tr><td class="cl-l"><b>'+x.localita+'</b></td><td class="cl-f">'+x.fascicolo+'</td>'
+          + '<td class="cl-c">'+x.capoluogo+'</td><td class="cl-i">'+x.indicizzata+'</td>'
+          + DEC.map(function(k){return '<td class="cl-d">'+(x[k]==='sì'?'●':'')+'</td>';}).join('')
+          + '<td class="cl-m">'+(dd.length ? 'Mappata negli '+dd.join(', ').replace(/, ([^,]*)$/,' e $1') : '')+'</td></tr>';
       }).join('') + '</tbody>';
   if(out.length>350) stato.textContent += ' (ne sono mostrati i primi 350)';
 }

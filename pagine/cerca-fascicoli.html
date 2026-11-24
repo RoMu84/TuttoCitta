@@ -53,7 +53,7 @@ pubblicazione, l'anno riportato in copertina e il tipo di copertina. Il nome mos
 <label>Stato <select id="sta"></select></label>
 </div>
 <p id="stato" class="stato-ricerca">Caricamento dei dati…</p>
-<div class="scorri"><table id="ris" class="dati"></table></div>
+<div class="scorri"><table id="ris" class="dati cf"></table></div>
 
 <script>
 
@@ -112,16 +112,20 @@ function mostra(){
   });
   stato.textContent = out.length ? out.length+' risultati' : 'Nessun risultato.';
   var max=out.slice(0,350);
-  ris.innerHTML='<thead><tr><th>regione</th><th>fascicolo</th><th>annata</th><th>stato</th>'
-    + '<th>anno di copertina</th><th>tipo di copertina</th></tr></thead><tbody>'
+  /* 24 novembre 2026: intestazioni con la maiuscola, il colore della serie in un quadratino accanto
+     al tipo di copertina (non più nel filo a sinistra del nome), lo stato in fondo; sul telefono
+     ogni fascicolo è una scheda. */
+  ris.innerHTML='<thead><tr><th>Regione</th><th>Fascicolo</th><th>Annata</th>'
+    + '<th>Anno di copertina</th><th>Tipo di copertina</th><th>Stato</th></tr></thead><tbody>'
     + max.map(function(x){
-        var col=x.colore_esadecimale ? ' style="border-left:6px solid '+x.colore_esadecimale+'"' : '';
         var nome=x.denominazione||x.fascicolo;
         var extra=(x.denominazione && x.denominazione!==x.fascicolo)
           ? '<br><span class="dim">censito come: '+x.fascicolo+'</span>' : '';
-        return '<tr><td>'+x.regione+'</td><td'+col+'><b>'+nome+'</b>'+extra+'</td><td>'+x.annata+'</td><td>'
-          + x.stato.replace(/_/g,' ')+'</td><td>'+(x.anno_copertina||'—')+'</td><td>'
-          + (x.tipo_copertina||'—')+'</td></tr>';
+        var quad=x.colore_esadecimale ? '<span class="pastiglia" style="background:'+x.colore_esadecimale+'"></span> ' : '';
+        return '<tr><td class="cf-r">'+x.regione+'</td><td class="cf-f"><b>'+nome+'</b>'+extra+'</td>'
+          + '<td class="cf-a">'+x.annata+'</td><td class="cf-c">'+(x.anno_copertina||'—')+'</td>'
+          + '<td class="cf-t">'+(x.tipo_copertina ? quad+x.tipo_copertina : '—')+'</td>'
+          + '<td class="cf-s">'+x.stato.replace(/_/g,' ')+'</td></tr>';
       }).join('') + '</tbody>';
   if(out.length>350) stato.textContent += ' (ne sono mostrati i primi 350)';
 }
@@ -131,7 +135,7 @@ function mostra(){
 <p><strong>Come leggere i risultati.</strong> Lo stato <em>pubblicato</em> indica un fascicolo accertato; <em>probabile non
 confermato</em> una pubblicazione ritenuta probabile ma non verificata; <em>non pubblicato</em> un fascicolo che non
 uscì, perché le province erano raggruppate diversamente oppure perché la cartografia era confluita nelle
-Pagine Gialle. Il filo colorato a sinistra del nome riprende il colore della serie di copertina.</p>
+Pagine Gialle. Il quadratino accanto al tipo di copertina riprende il colore della serie.</p>
 <p>I dati provengono da <a href="../dati/fascicoli_lungo.csv"><code>fascicoli_lungo.csv</code></a>.</p>
 </main>
 <footer class="pie">
