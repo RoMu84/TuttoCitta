@@ -73,7 +73,7 @@ CONTROLLI.md                   rapporto di integrità generato dai dati
 | `annata` | annata editoriale per anno di copertina, da `81/82` a `14/15` |
 | `stato` | `pubblicato`, `probabile_non_confermato`, `non_pubblicato` |
 | `anno_copertina` | anno riportato in copertina; vuoto se il fascicolo è accertato ma il dato è ignoto |
-| `tipo_copertina` | tipo di copertina, ricavato dall'incrocio fra annata e anno di copertina |
+| `tipo_copertina` | tipo di copertina, ricavato dall'incrocio fra annata e anno di copertina; dove l'anno non è noto, dal colore della casella e senza anno («Copertina gialla») |
 | `tipo_edizione` | `ordinaria` oppure `straordinaria` per le edizioni commemorative fuori perimetro |
 | `colore_esadecimale` | colore con cui la cella è codificata nel foglio originale |
 | `ambito` | `intero`, `dintorni` o `provincia`: se il fascicolo copriva la provincia intera, i soli dintorni del capoluogo o la sola provincia senza il capoluogo; non dipende dal titolo |
