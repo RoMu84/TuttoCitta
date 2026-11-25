@@ -31,6 +31,10 @@ annata,fascicolo,provincia,citta,indicizzata
 83/84,Messina,Messina,Barcellona Pozzo di Gotto,sì
 83/84,Messina,Messina,Milazzo,sì
 83/84,Messina,Messina,Taormina,sì
+83/84,Palermo,Palermo,Palermo,sì
+83/84,Palermo,Palermo,Bagheria,sì
+83/84,Palermo,Palermo,Cefalù,sì
+83/84,Palermo,Palermo,Termini Imerese,sì
 84/85,Enna - Ragusa - Siracusa,Enna,Enna,sì
 84/85,Enna - Ragusa - Siracusa,Ragusa,Ragusa,sì
 84/85,Enna - Ragusa - Siracusa,Siracusa,Siracusa,sì
@@ -417,6 +421,22 @@ annata,fascicolo,provincia,citta,indicizzata
 98/99,Palermo,Palermo,Monreale,sì
 98/99,Palermo,Palermo,Partinico,sì
 98/99,Palermo,Palermo,Termini Imerese,sì
+99/00,Palermo,Palermo,Palermo,sì
+99/00,Palermo,Palermo,Bagheria,sì
+99/00,Palermo,Palermo,Carini,sì
+99/00,Palermo,Palermo,Cefalù,sì
+99/00,Palermo,Palermo,Corleone,sì
+99/00,Palermo,Palermo,Monreale,sì
+99/00,Palermo,Palermo,Partinico,sì
+99/00,Palermo,Palermo,Termini Imerese,sì
+00/01,Palermo,Palermo,Palermo,sì
+00/01,Palermo,Palermo,Bagheria,sì
+00/01,Palermo,Palermo,Carini,sì
+00/01,Palermo,Palermo,Cefalù,sì
+00/01,Palermo,Palermo,Corleone,sì
+00/01,Palermo,Palermo,Monreale,sì
+00/01,Palermo,Palermo,Partinico,sì
+00/01,Palermo,Palermo,Termini Imerese,sì
 01/02,Palermo,Palermo,Palermo,sì
 01/02,Palermo,Palermo,Bagheria,sì
 01/02,Palermo,Palermo,Carini,sì
@@ -435,6 +455,14 @@ annata,fascicolo,provincia,citta,indicizzata
 02/03,Catania,Catania,Riposto,sì
 02/03,Catania,Catania,Tremestieri Etneo,sì
 02/03,Catania,Catania,Zafferana Etnea,sì
+02/03,Palermo,Palermo,Palermo,sì
+02/03,Palermo,Palermo,Bagheria,sì
+02/03,Palermo,Palermo,Carini,sì
+02/03,Palermo,Palermo,Cefalù,sì
+02/03,Palermo,Palermo,Corleone,sì
+02/03,Palermo,Palermo,Monreale,sì
+02/03,Palermo,Palermo,Partinico,sì
+02/03,Palermo,Palermo,Termini Imerese,sì
 03/04,Catania,Catania,Catania,sì
 03/04,Catania,Catania,Acireale,sì
 03/04,Catania,Catania,Adrano,sì
@@ -445,6 +473,14 @@ annata,fascicolo,provincia,citta,indicizzata
 03/04,Catania,Catania,Riposto,sì
 03/04,Catania,Catania,Tremestieri Etneo,sì
 03/04,Catania,Catania,Zafferana Etnea,sì
+03/04,Palermo,Palermo,Palermo,sì
+03/04,Palermo,Palermo,Bagheria,sì
+03/04,Palermo,Palermo,Carini,sì
+03/04,Palermo,Palermo,Cefalù,sì
+03/04,Palermo,Palermo,Corleone,sì
+03/04,Palermo,Palermo,Monreale,sì
+03/04,Palermo,Palermo,Partinico,sì
+03/04,Palermo,Palermo,Termini Imerese,sì
 04/05,Catania,Catania,Catania,sì
 04/05,Catania,Catania,Acireale,sì
 04/05,Catania,Catania,Adrano,sì

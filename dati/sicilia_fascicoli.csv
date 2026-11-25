@@ -9,7 +9,7 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 82/83,Agrigento - Caltanissetta - Trapani,Agrigento - Caltanissetta - Trapani 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1982,,AGCLTP83.jpg,True,accertata
 82/83,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1982,,ENRGSR83.jpg,True,accertata
 82/83,Messina,Messina 83,83,Copertina 83 rossa,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
-83/84,Palermo,Palermo 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
+83/84,Palermo,Palermo 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,Stradario SEAT a cornici grigie senza foto,80,,settembre 1983,,PA84.jpg,True,accertata
 83/84,Catania,Catania 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,,,,,,Ricercato1.jpg,False,accertata
 83/84,Agrigento - Caltanissetta - Trapani,Agrigento - Caltanissetta - Trapani 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,,,,,Ricercato1.jpg,False,accertata
 83/84,Enna - Ragusa - Siracusa,Enna - Ragusa - Siracusa 84,84,Copertina 84 azzurra,246 x 280 mm,grossa,TuttoCittà '80 classico,32,,settembre 1983,,ENRGSR84.jpg,True,accertata
@@ -109,15 +109,15 @@ annata,fascicolo,nome_in_copertina,anno_copertina,tipo_copertina,dimensioni,cope
 97/98,Messina,Messina (98),98,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,38,,ottobre 1997,"""dicembre 1997 - novembre 1998""",ME97b.jpg,True,accertata
 98/99,Palermo,Palermo (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,78,,ottobre 1998,"""da utilizzare fino a Gennaio 2000""",PA98.jpg,True,accertata
 98/99,Catania,Catania (99),99,Copertina grigia,226 x 274 mm,sottile,TuttoCittà '90 riformato,62,,ottobre 1998,"""da utilizzare fino a Gennaio 2000""",CT98.jpg,True,accertata
-99/00,Palermo,Palermo 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1a.jpg,False,accertata
+99/00,Palermo,Palermo 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,78,,ottobre 1999,,PA9900.jpg,True,accertata
 99/00,Catania,Catania 1999/2000,99/00,Copertina 1999/2000 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio bis,,,,,Ricercato1a.jpg,False,accertata
-00/01,Palermo,Palermo 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+00/01,Palermo,Palermo 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,78,,ottobre 2000,,PA0001.jpg,True,accertata
 00/01,Catania,Catania 2000/2001,00/01,Copertina 2000/2001 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
 01/02,Palermo,Palermo 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,70,71,luglio 2001,,PA02.jpg,True,accertata
 01/02,Catania,Catania 2002,02,Copertina 2002 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
-02/03,Palermo,Palermo 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+02/03,Palermo,Palermo 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,62,63,novembre 2002,,PA03.jpg,True,accertata
 02/03,Catania,Catania 2003,03,Copertina 2003 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,,novembre 2002,,CT03.jpg,True,accertata
-03/04,Palermo,Palermo 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,,,,,Ricercato1a.jpg,False,accertata
+03/04,Palermo,Palermo 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,62,,novembre 2003,,PA04.jpg,True,accertata
 03/04,Catania,Catania 2004,04,Copertina 2004 gialla,226 x 274 mm,sottile,TuttoCittà nuovo millennio ter,54,55,novembre 2003,,CT04.jpg,True,accertata
 04/05,Palermo,Palermo 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,,,,,Ricercato1a.jpg,False,accertata
 04/05,Catania,Catania 2004,04,Copertina 2004 arancione,226 x 274 mm,sottile,TuttoCittà metà duemila,54,,ottobre 2004,,CT04b.jpg,True,accertata

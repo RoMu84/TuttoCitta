@@ -1,6 +1,6 @@
 # Fascicoli ricercati
 
-Questa pagina elenca i **665 fascicoli** che il censimento dà per pubblicati ma che non sono
+Questa pagina elenca i **660 fascicoli** che il censimento dà per pubblicati ma che non sono
 ancora in raccolta, divisi per regione e per raggruppamento provinciale, e i 20 fascicoli la cui
 pubblicazione è probabile ma non confermata, segnati da un punto interrogativo. Per ciascuno sono indicati
 l'annata, il nome come compare in copertina e, nel quadratino, il colore della copertina, come nella
@@ -293,7 +293,7 @@ Mancano 47 dei 110 fascicoli accertati · [pagina della raccolta](puglia.md) · 
 
 ## Sicilia {#sicilia}
 
-Mancano 36 dei 142 fascicoli accertati · [pagina della raccolta](sicilia.md) · [tabella della raccolta](tabella-raccolta.md#sicilia)
+Mancano 31 dei 142 fascicoli accertati · [pagina della raccolta](sicilia.md) · [tabella della raccolta](tabella-raccolta.md#sicilia)
 
 <div class="ricercati">
 <div class="provincia-ricercata"><p class="linea-ricercata">Agrigento - Caltanissetta - Trapani</p>
@@ -309,7 +309,7 @@ Mancano 36 dei 142 fascicoli accertati · [pagina della raccolta](sicilia.md) ·
 <div class="provincia-ricercata"><p class="linea-ricercata">Messina</p>
 <ul class="ricercati"><li><span class="pastiglia" style="background:#FF0000"></span><b>82/83:</b> Messina 83</li><li><span class="pastiglia" style="background:#92D050"></span><b>84/85:</b> Messina 85</li></ul></div>
 <div class="provincia-ricercata"><p class="linea-ricercata">Palermo</p>
-<ul class="ricercati"><li><span class="pastiglia" style="background:#00B0F0"></span><b>83/84:</b> Palermo 84</li><li><span class="pastiglia" style="background:#FFD966"></span><b>99/00:</b> Palermo 1999/2000</li><li><span class="pastiglia" style="background:#FFD966"></span><b>00/01:</b> Palermo 2000/2001</li><li><span class="pastiglia" style="background:#FFD966"></span><b>02/03:</b> Palermo 2003</li><li><span class="pastiglia" style="background:#FFD966"></span><b>03/04:</b> Palermo 2004</li><li><span class="pastiglia" style="background:#E69138"></span><b>04/05:</b> Palermo 2004</li><li><span class="pastiglia" style="background:#E69138"></span><b>05/06:</b> Palermo 2005</li><li><span class="pastiglia" style="background:#F6B26B"></span><b>06/07:</b> Palermo 2006</li><li><span class="pastiglia" style="background:#F6B26B"></span><b>08/09:</b> Palermo 2009</li><li><span class="pastiglia" style="background:#F9CB9C"></span><b>10/11:</b> Palermo 2011</li></ul></div>
+<ul class="ricercati"><li><span class="pastiglia" style="background:#E69138"></span><b>04/05:</b> Palermo 2004</li><li><span class="pastiglia" style="background:#E69138"></span><b>05/06:</b> Palermo 2005</li><li><span class="pastiglia" style="background:#F6B26B"></span><b>06/07:</b> Palermo 2006</li><li><span class="pastiglia" style="background:#F6B26B"></span><b>08/09:</b> Palermo 2009</li><li><span class="pastiglia" style="background:#F9CB9C"></span><b>10/11:</b> Palermo 2011</li></ul></div>
 <div class="provincia-ricercata"><p class="linea-ricercata">Trapani</p>
 <ul class="ricercati"><li><span class="pastiglia" style="background:#92D050"></span><b>84/85:</b> Trapani 85</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>93/94:</b> Trapani 94</li><li><span class="pastiglia" style="background:#C4BC96"></span><b>96/97:</b> Trapani 97</li></ul></div>
 </div>
