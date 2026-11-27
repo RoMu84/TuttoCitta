@@ -379,50 +379,50 @@ Como,Oggiono,no,sì,,,sì,,
 Como,Olgiate Comasco,no,sì,,sì,sì,,
 Como,Valmadrera,no,sì,,sì,sì,,
 Como,Valsassina-Valvarrone,no,sì,,sì,,,
-Como - Lecco,Abbadia Lariana,no,sì,,,sì,sì,
-Como - Lecco,Albavilla,no,sì,,,,sì,
+Como - Lecco,Abbadia Lariana,no,sì,,,sì,sì,sì
+Como - Lecco,Albavilla,no,sì,,,,sì,sì
 Como - Lecco,Albese con Cassano,no,sì,,,,sì,sì
-Como - Lecco,Appiano Gentile,no,sì,,,,sì,
+Como - Lecco,Appiano Gentile,no,sì,,,,sì,sì
 Como - Lecco,Arosio,no,sì,,,sì,sì,sì
-Como - Lecco,Barzanò,no,sì,,,sì,sì,
-Como - Lecco,Bellano,no,sì,,,sì,sì,
-Como - Lecco,Brivio,no,sì,,,sì,sì,
+Como - Lecco,Barzanò,no,sì,,,sì,sì,sì
+Como - Lecco,Bellano,no,sì,,,sì,sì,sì
+Como - Lecco,Brivio,no,sì,,,sì,sì,sì
 Como - Lecco,COMO,sì,sì,,,sì,sì,sì
-Como - Lecco,Cabiate,no,sì,,,,sì,
-Como - Lecco,Cadorago,no,sì,,,,sì,
+Como - Lecco,Cabiate,no,sì,,,,sì,sì
+Como - Lecco,Cadorago,no,sì,,,,sì,sì
 Como - Lecco,Calolziocorte,no,sì,,,sì,sì,sì
 Como - Lecco,Cantù,no,sì,,,sì,sì,sì
 Como - Lecco,Carugo,no,sì,,,sì,sì,sì
-Como - Lecco,Casatenovo,no,sì,,,sì,sì,
-Como - Lecco,Cermenate,no,sì,,,sì,sì,
+Como - Lecco,Casatenovo,no,sì,,,sì,sì,sì
+Como - Lecco,Cermenate,no,sì,,,sì,sì,sì
 Como - Lecco,Cernobbio,no,sì,,,sì,sì,sì
 Como - Lecco,Colico,no,sì,,,sì,,
-Como - Lecco,Costa Masnaga,no,sì,,,sì,sì,
-Como - Lecco,Dervio,no,sì,,,sì,sì,
+Como - Lecco,Costa Masnaga,no,sì,,,sì,sì,sì
+Como - Lecco,Dervio,no,sì,,,sì,sì,sì
 Como - Lecco,Dolzago,no,sì,,,sì,sì,
 Como - Lecco,Erba,no,sì,,,sì,sì,sì
 Como - Lecco,Fino Mornasco,no,sì,,,sì,sì,sì
 Como - Lecco,Grandate,no,sì,,,sì,,
-Como - Lecco,Guanzate,no,sì,,,,sì,
+Como - Lecco,Guanzate,no,sì,,,,sì,sì
 Como - Lecco,Inverigo,no,sì,,,sì,sì,sì
 Como - Lecco,LECCO,sì,sì,,,sì,sì,sì
-Como - Lecco,Lambrugo,no,sì,,,sì,sì,
-Como - Lecco,Lierna,no,sì,,,sì,sì,
+Como - Lecco,Lambrugo,no,sì,,,sì,sì,sì
+Como - Lecco,Lierna,no,sì,,,sì,sì,sì
 Como - Lecco,Lurago d'Erba,no,sì,,,sì,sì,sì
 Como - Lecco,Lurate Caccivio,no,sì,,,sì,sì,sì
 Como - Lecco,Mandello del Lario,no,sì,,,sì,sì,
 Como - Lecco,Mariano Comense,no,sì,,,sì,sì,sì
 Como - Lecco,Menaggio,no,sì,,,sì,sì,sì
 Como - Lecco,Merate,no,sì,,,sì,sì,sì
-Como - Lecco,Missaglia,no,sì,,,sì,sì,
+Como - Lecco,Missaglia,no,sì,,,sì,sì,sì
 Como - Lecco,Oggiono,no,sì,,,sì,sì,sì
 Como - Lecco,Olgiate Comasco,no,sì,,,sì,sì,sì
 Como - Lecco,Olgiate Molgora,no,sì,,,sì,sì,sì
-Como - Lecco,Olginate,no,sì,,,sì,sì,
-Como - Lecco,Orsenigo,no,sì,,,,sì,
+Como - Lecco,Olginate,no,sì,,,sì,sì,sì
+Como - Lecco,Orsenigo,no,sì,,,,sì,sì
 Como - Lecco,Porlezza,no,sì,,,sì,sì,sì
-Como - Lecco,Valmadrera,no,sì,,,sì,sì,
-Como - Lecco,Villa Guardia,no,sì,,,,sì,
+Como - Lecco,Valmadrera,no,sì,,,sì,sì,sì
+Como - Lecco,Villa Guardia,no,sì,,,,sì,sì
 Cosenza,Amantea,no,sì,,,sì,,
 Cosenza,COSENZA,sì,sì,,sì,sì,,
 Cosenza,Castrovillari,no,sì,,sì,sì,,
@@ -735,6 +735,7 @@ Lucca - Massa - Carrara,Marina di Massa,no,in parte,MS,sì,sì,sì,
 Lucca - Massa - Carrara,Marina di Pietrasanta,no,sì,,,sì,sì,
 Lucca - Massa - Carrara,Montignoso (Località Cinquale),no,sì,,,sì,sì,
 Lucca - Massa - Carrara,Pietrasanta,no,sì,,,sì,sì,
+Lucca - Massa - Carrara,Querceta,no,no,LU,,sì,,
 Lucca - Massa - Carrara,Viareggio,no,sì,,sì,sì,sì,
 Macerata,Civitanova Marche,no,sì,,sì,sì,,
 Macerata,MACERATA,sì,sì,,sì,sì,,
