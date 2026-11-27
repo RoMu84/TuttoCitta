@@ -760,6 +760,23 @@ ul.ricercati li.incompleto i { font-style:normal; font-size:11.5px; letter-spaci
 .cerca-raccolta input[type=search] { font-size:15px; padding:6px 8px; border:1px solid #a9c8e6; border-radius:5px;
   background:#fff; color:var(--scuro); font-family:inherit; font-weight:400; }
 .cerca-raccolta input[type=search]:focus { outline:2px solid var(--oro); outline-offset:1px; }
+/* La tabella di «Cerca i dati editoriali disponibili» (.de, 27 novembre 2026): su computer una
+   tabella, sul telefono una scheda per fascicolo, col titolo in cima e le etichette davanti ai dati. */
+table.de td .sospeso { font-size:10.5px; }
+table.de td.de-0 { min-width:140px; }
+table.de td.de-1, table.de td.de-2, table.de td.de-3 { white-space:nowrap; }
+table.de td.de-5, table.de td.de-8 { min-width:170px; }
+@media (max-width:700px){
+  table.de, table.de tbody { display:block; width:100%; }
+  table.de thead { display:none; }
+  table.de tr { display:block; padding:8px 10px 9px; border:1px solid var(--bordo); border-top:0; font-size:13.5px; }
+  table.de tr:first-child { border-top:1px solid var(--bordo); }
+  table.de td { display:block; border:0; padding:2px 0; min-width:0; }
+  table.de td::before { content:attr(data-l) ":\00a0"; color:var(--tenue); }
+  table.de td.de-0 { font-size:15px; padding-bottom:4px; }
+  table.de td.de-0::before, table.de td.de-vuota { display:none; }
+  table.de td.de-0::before { content:none; }
+}
 /* Le tabelle di cerca-fascicoli (.cf) e cerca-localita (.cl): su computer tabelle; sul telefono una
    scheda per riga, senza intestazioni e senza scorrimento laterale (24 novembre 2026). */
 table.cf td.cf-t .pastiglia { margin-right:2px; }
