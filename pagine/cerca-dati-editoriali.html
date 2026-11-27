@@ -81,8 +81,17 @@ al fatto che quel fascicolo non è presente nella raccolta.</p>
     if (!P.value || !D) return;
     var righe = (D.P[P.value] || []).map(function(j){ return D.F[j]; });
     if (!righe.length) { E.innerHTML = '<p class="cr-nota">Nessun fascicolo pubblicato per questa provincia.</p>'; return; }
-    var h = '<p class="dim">' + righe.length + (righe.length === 1 ? ' fascicolo' : ' fascicoli') + '</p>'
-      + '<div class="scorri"><table class="dati de"><thead><tr>'
+    // Dove la provincia ha anche i fascicoli «Provincia di», una tabella per filone, una sotto
+    // l'altra: capoluogo, provincia, poi Nord e Sud di Milano (come in cerca-province-raccolta).
+    var gruppi = {}, chiavi = ['', 'p', 'pNord', 'pSud'];
+    righe.forEach(function(f){ (gruppi[f[10]] = gruppi[f[10]] || []).push(f); });
+    var h = '<p class="dim">' + righe.length + (righe.length === 1 ? ' fascicolo' : ' fascicoli') + '</p>';
+    h += chiavi.filter(function(k){ return gruppi[k]; }).map(function(k){ return tabella(gruppi[k]); })
+      .join('<hr class="cp-separa">');
+    E.innerHTML = h;
+  });
+  function tabella(righe){
+    var h = '<div class="scorri"><table class="dati de"><thead><tr>'
       + COL.map(function(c){ return '<th>' + c + '</th>'; }).join('') + '</tr></thead><tbody>';
     righe.forEach(function(f){
       h += '<tr' + (f[9] ? '' : ' class="de-fuori"') + '>';
@@ -94,8 +103,8 @@ al fatto che quel fascicolo non è presente nella raccolta.</p>
       }
       h += '</tr>';
     });
-    E.innerHTML = h + '</tbody></table></div>';
-  });
+    return h + '</tbody></table></div>';
+  }
 })();
 </script>
 </main>
